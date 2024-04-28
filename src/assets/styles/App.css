@@ -1,1 +1,13 @@
 /*HOMEPAGE STYLE*/
+header nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1920px;
+    padding: 0 28px;
+}
+
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 14px;
+}
