@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react';
+import HomeComponent from '../components/HomeComponents/HomeComponent';
 
 const HomePage = () => {
   return (
@@ -6,6 +7,7 @@ const HomePage = () => {
         <h1>HomePage Azumi PTY</h1>
         <p>This is a example for azumi</p>
         <small>a small text for azumi</small>
+        <HomeComponent />
     </section>
   )
 }
