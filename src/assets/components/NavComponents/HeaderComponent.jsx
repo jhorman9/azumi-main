@@ -7,14 +7,14 @@ const HeaderComponent = () => {
     <header>
         <div className='header-info'>
         <LocationSVG />
-        <p>Calle 72 Plaza 72 Local 3 - San Francisco - Panamá</p>
+        <a target='_blank' href='https://maps.app.goo.gl/xDAGmWJ54sSaSfoH9'>Calle 72 Plaza 72 Local 3 - San Francisco - Panamá</a>
         </div>
         <div className='header-info'>
         <PhoneSVG />
-        <p>390-4072</p>
+        <a href="tel:3904072">+507 390-4072</a>
         </div>
     </header>
   )
 }
 
-export default HeaderComponent
+export default HeaderComponent;

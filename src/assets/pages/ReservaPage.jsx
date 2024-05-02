@@ -2,7 +2,7 @@ import React from 'react'
 
 const Reserva = () => {
   return (
-    <div>Reserva</div>
+    <h1>Reserva</h1>
   )
 }
 
