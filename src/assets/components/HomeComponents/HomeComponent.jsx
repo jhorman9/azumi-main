@@ -2,6 +2,7 @@ import React from 'react'
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 import imagePNG from "/src/assets/images/image.jpeg"
+import imageJPG from "/src/assets/images/azumi.jpg"
 
 // Import Swiper styles
 import 'swiper/css';
@@ -22,13 +23,13 @@ const HomeComponent = () => {
           <Swiper
             pagination={pagination}
             autoplay={{
-              delay: 2500,
+              // delay: 2500,
               disableOnInteraction: false,
             }}
             modules={[Pagination, Autoplay]}
             className="mySwiper"
           >
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
             <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
             <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
             <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
