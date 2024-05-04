@@ -23,20 +23,20 @@ const HomeComponent = () => {
           <Swiper
             pagination={pagination}
             autoplay={{
-              // delay: 2500,
+              delay: 2500,
               disableOnInteraction: false,
             }}
             modules={[Pagination, Autoplay]}
             className="mySwiper"
           >
             <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
             <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
           </Swiper>
         </>
