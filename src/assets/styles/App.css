@@ -30,6 +30,7 @@ nav{
     position: sticky;
     top: 0;
     z-index: 9;
+    flex-wrap: wrap;
 }
 
 nav ul {
@@ -37,6 +38,7 @@ nav ul {
     display: flex;
     gap: 14px;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 

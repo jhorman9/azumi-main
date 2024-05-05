@@ -3,6 +3,7 @@ import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import imagePNG from "/src/assets/images/image.jpeg"
 import imageJPG from "/src/assets/images/azumi.jpg"
+import imageJPGMobile from "/src/assets/images/azumimobile.jpg";
 
 // Import Swiper styles
 import 'swiper/css';
@@ -29,15 +30,48 @@ const HomeComponent = () => {
             modules={[Pagination, Autoplay]}
             className="mySwiper"
           >
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imageJPG} alt='Image' className='first_image'/></SwiperSlide>
-            <SwiperSlide><img src={imagePNG} alt='Image' className='first_image'/></SwiperSlide>
+            <SwiperSlide>
+              <picture>
+                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <img src={imageJPG} alt='Image' className='first_image'/>
+              </picture>
+            </SwiperSlide>
+            <SwiperSlide>
+              <picture>
+                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <img src={imageJPG} alt='Image' className='first_image'/>
+              </picture>
+            </SwiperSlide>
+            <SwiperSlide>
+              <picture>
+                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <img src={imageJPG} alt='Image' className='first_image'/>
+              </picture>
+            </SwiperSlide>
+            <SwiperSlide>
+              <picture>
+                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <img src={imageJPG} alt='Image' className='first_image'/>
+              </picture>
+            </SwiperSlide>
+            <SwiperSlide>
+              <picture>
+                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <img src={imageJPG} alt='Image' className='first_image'/>
+              </picture>
+            </SwiperSlide>
+            <SwiperSlide>
+              <picture>
+                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <img src={imageJPG} alt='Image' className='first_image'/>
+              </picture>
+            </SwiperSlide>
+            <SwiperSlide>
+              <picture>
+                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <img src={imageJPG} alt='Image' className='first_image'/>
+              </picture>
+            </SwiperSlide>
           </Swiper>
         </>
       );
