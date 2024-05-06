@@ -1,11 +1,12 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom';
+import LOGOPNG from '../../images/icons/logo.png';
 
 const NavComponent = () => {
   return (
     <nav>
         <div className='header_icon'>
-            icono
+            <img src={LOGOPNG} alt="" />
         </div>
         <ul className='header_list'>
             <li>

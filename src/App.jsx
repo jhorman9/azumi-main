@@ -8,21 +8,26 @@ import Reserva from './assets/pages/ReservaPage';
 import MainPage from './assets/pages/MainPage';
 import CartMain from './assets/pages/CartMain';
 import Contacts from './assets/pages/ContactsPage';
+import ProtectedRoutes from './assets/components/ProtectedRoutes/ProtectedRoutes';
+import FooterComponent from './assets/components/FooterComponents/FooterComponent';
 
 function App() {
 
   return (
     <>
       <NavBar />
-      <Routes>
-        <Route path='/' element={<HomePage />}/>
-        <Route path='/about' element={<AboutPage />}/>
-        <Route path='/products' element={<Products />}/>
-        <Route path='/reserva' element={<Reserva />}/>
-        <Route path='/main' element={<MainPage />}/>
-        <Route path='/cart' element={<CartMain />}/>
-        <Route path='/contacts' element={<Contacts />}/>
-      </Routes>
+        <main>
+          <Routes element={<ProtectedRoutes />}>
+              <Route path='/' element={<HomePage />}/>
+              <Route path='/about' element={<AboutPage />}/>
+              <Route path='/products' element={<Products />}/>
+              <Route path='/reserva' element={<Reserva />}/>
+              <Route path='/main' element={<MainPage />}/>
+              <Route path='/cart' element={<CartMain />}/>
+              <Route path='/contacts' element={<Contacts />}/>
+          </Routes>
+        </main>
+      <FooterComponent />
     </>
   )
 }

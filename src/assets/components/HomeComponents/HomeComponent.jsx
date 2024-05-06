@@ -8,6 +8,7 @@ import imageJPGMobile from "/src/assets/images/azumimobile.jpg";
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
+import '../../styles/swiper.css';
 
 // import required modules
 import { Autoplay, Pagination } from 'swiper/modules';
@@ -32,7 +33,7 @@ const HomeComponent = () => {
           >
             <SwiperSlide>
               <picture>
-                <source srcset={imageJPGMobile} media="(max-width: 575px)" />
+                <source srcSet={imageJPGMobile} media="(max-width: 575px)" />
                 <img src={imageJPG} alt='Image' className='first_image'/>
               </picture>
             </SwiperSlide>
