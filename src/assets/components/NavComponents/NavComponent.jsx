@@ -6,7 +6,7 @@ const NavComponent = () => {
   return (
     <nav>
         <div className='header_icon'>
-            <img src={LOGOPNG} alt="" />
+            <img src={LOGOPNG} alt="Logo de azumi" width={100} height={100} title='Logo de azumi' loading='lazy' />
         </div>
         <ul className='header_list'>
             <li>
