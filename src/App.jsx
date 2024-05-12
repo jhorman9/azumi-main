@@ -10,8 +10,18 @@ import CartMain from './assets/pages/CartMain';
 import Contacts from './assets/pages/ContactsPage';
 import ProtectedRoutes from './assets/components/ProtectedRoutes/ProtectedRoutes';
 import FooterComponent from './assets/components/FooterComponents/FooterComponent';
+import { setHandleClick } from './store/slice/handleClickSideBar';
+import { useDispatch, useSelector } from 'react-redux';
 
 function App() {
+
+  const dispatch = useDispatch();
+
+  const handleClickSideBar = useSelector((state) => state.handleClickSideBar);
+
+  const handleClick = () => {
+    dispatch(setHandleClick(false));
+  }
 
   return (
     <>
@@ -28,6 +38,13 @@ function App() {
           </Routes>
         </main>
       <FooterComponent />
+      <div
+        className="shadow"
+        onClick={handleClick}
+        style={{
+          display: handleClickSideBar ? 'block' : 'none',
+        }}
+      ></div>
     </>
   )
 }
