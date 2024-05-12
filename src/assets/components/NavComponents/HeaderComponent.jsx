@@ -7,7 +7,7 @@ const HeaderComponent = () => {
     <header>
         <div className='header-info'>
         <LocationSVG />
-        <a target='_blank' href='https://maps.app.goo.gl/xDAGmWJ54sSaSfoH9'><span className='desktop-view'>Calle 72 Plaza 72 Local 3 -</span> San Francisco - Panamá</a>
+        <a target='_blank' href='https://maps.app.goo.gl/xDAGmWJ54sSaSfoH9'><span className='desktop-view'>Calle 72 Plaza 72 Local 3 -</span> San Francisco</a>
         </div>
         <div className='header-info'>
         <PhoneSVG />
