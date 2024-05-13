@@ -12,6 +12,7 @@ import Contacts from './pages/ContactsPage';
 import NavBar from './components/NavComponents/NavBar';
 import ProtectedRoutes from './components/ProtectedRoutes/ProtectedRoutes';
 import FooterComponent from './components/FooterComponents/FooterComponent';
+import data from './data/entrees.json';
 
 function App() {
 
@@ -22,6 +23,8 @@ function App() {
   const handleClick = () => {
     dispatch(setHandleClick(false));
   }
+
+  console.log(data)
 
   return (
     <>
