@@ -1,14 +1,14 @@
 import React from 'react'
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
-import imagePNG from "/src/assets/images/image.jpeg"
-import imageJPG from "/src/assets/images/azumi.jpg"
-import imageJPGMobile from "/src/assets/images/azumimobile.jpg";
+import imagePNG from "../../assets/images/image.jpeg"
+import imageJPG from "../../assets/images/azumi.jpg"
+import imageJPGMobile from "../../assets/images/azumimobile.jpg";
 
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
-import '../../styles/swiper.css';
+import '../../assets/styles/swiper.css';
 
 // import required modules
 import { Autoplay, Pagination } from 'swiper/modules';

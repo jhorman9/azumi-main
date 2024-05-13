@@ -1,0 +1,140 @@
+{
+    "mainDishes": {
+        "japanese": [
+            {
+                "id": 1,
+                "name": "Teppan de pollo",
+                "description": "Pollo a la plancha en salsa teriyaki, acompañado con arroz yakimeshi, yasai o",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "name": "Teppan de res",
+                "description": "Carne de res a la plancha, en salsa teriyaki, acompañado con arroz yakimeshi o yakisoba",
+                "price": 17.50            
+            }
+        ],
+        "peruvian": [
+            {
+                "id": 1,
+                "name": "Teppan de salmon",
+                "description": "Salmon",
+                "price": 18.00
+            },
+            {
+                "id": 2,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 3,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 1,
+                "name": "",
+                "description": "",
+                "price": ""
+            }
+        ]
+    }
+}

@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
 import { NavLink } from 'react-router-dom';
-import LOGOPNG from '../../images/icons/logo.png';
-import BurgerSVG from '../../images/icons/burguer.svg';
+import LOGOPNG from '../../assets/images/icons/logo.png';
+import BurgerSVG from '../../assets/images/icons/burguer.svg';
 import { useDispatch, useSelector } from 'react-redux';
-import { setHandleClick } from '../../../store/slice/handleClickSideBar';
+import { setHandleClick } from '../../store/slice/handleClickSideBar';
 
 const NavComponent = () => {
 

@@ -1,0 +1,154 @@
+{
+    "entrees": {
+        "japanese": [
+            {
+                "id": 1,
+                "name": "Ebi spicy",
+                "description": "Camarones apanados, bañados con nuestra salsa dragon y un toque de miel",
+                "price": 18.00
+            },
+            {
+                "id": 2,
+                "name": "Ebi fray",
+                "description": "Camarones apanados",
+                "price": "18.00"
+            },
+            {
+                "id": 3,
+                "name": "Tempura azumi",
+                "description": "Vegetales y langostinos",
+                "price": ""
+            },
+            {
+                "id": 4,
+                "name": "Brochetas de pollo",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 5,
+                "name": "Brochetas de camaron",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 6,
+                "name": "Brochetas de salmon",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 7,
+                "name": "Fish nuggets",
+                "description": "",
+                "price": 11.50
+            },
+            {
+                "id": 8,
+                "name": "Tori tasuta",
+                "description": "Dedos de pollo apanados, acompañados con salsa tartara",
+                "price": 10.50
+            },
+            {
+                "id": 9,
+                "name": "Brochetas de queso",
+                "description": "",
+                "price": ""
+            },
+            {
+                "id": 10,
+                "name": "Croquetas de salmon",
+                "description": "",
+                "price": 11.50
+            },
+            {
+                "id": 11,
+                "name": "Croquetas de cangrejo",
+                "description": "acompañado con salsa tartara",
+                "price": 10.50
+            },
+            {
+                "id": 12,
+                "name": "Croquetas de queso cabra",
+                "description": "Croquetas rellenas de queso cabra",
+                "price": 10.50
+            },
+            {
+                "id": 13,
+                "name": "Giosas de camaron",
+                "description": "Empanaditas asiaticas rellenas de camaron",
+                "price": ""
+            },
+            {
+                "id": 14,
+                "name": "Giosas de puerco",
+                "description": "Empanaditas asiaticas rellenas de puerco",
+                "price": ""
+            },
+            {
+                "id": 15,
+                "name": "Giosas de pollo",
+                "description": "Empanaditas asiaticas rellenas de pollo",
+                "price": ""
+            },
+            {
+                "id": 16,
+                "name": "Siu mai",
+                "description": "Bocadillos de pasta de wanton",
+                "price": ""
+            },
+            {
+                "id": 17,
+                "name": "Ham pao de puerco",
+                "description": "Bollos de pan relleno con puerco asado",
+                "price": ""
+            },
+            {
+                "id": 18,
+                "name": "Yichi kao",
+                "description": "Empanaditas de pasta de wanton relleno con puerco y vegetales",
+                "price": ""
+            },
+            {
+                "id": 19,
+                "name": "Jao Kao",
+                "description": "Empanaditas clavorada con masa de arroz rellena con camaron",
+                "price": ""
+            }
+        ],
+        "thai": [
+            {
+                "id": 1,
+                "name": "Ebi thai",
+                "description": "",
+                "price": ""
+            }
+        ],
+        "chinese": [
+            {
+                "id": 1,
+                "name": "Sprim roll",
+                "description": "Rollitos egg roll con pollo",
+                "price": ""
+            },
+            {
+                "id": 2,
+                "name": "Sprim roll de puerco",
+                "description": "Rollitos egg roll con puerco",
+                "price": ""
+            },
+            {
+                "id": 3,
+                "name": "Sprim roll de camaron",
+                "description": "Rollitos egg roll con camaron",
+                "price": ""
+            },
+            {
+                "id": 4,
+                "name": "Sprim roll de vegetales",
+                "description": "Rollitos egg roll con vegetales",
+                "price": ""
+            }
+        ]
+    }
+}

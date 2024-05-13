@@ -1,6 +1,6 @@
 import React from 'react';
-import LocationSVG from '../../images/icons/LocationSVG';
-import PhoneSVG from '../../images/icons/PhoneSVG';
+import LocationSVG from '../../assets/images/icons/LocationSVG';
+import PhoneSVG from '../../assets/images/icons/PhoneSVG';
 
 const HeaderComponent = () => {
   return (

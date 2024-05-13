@@ -1,17 +1,17 @@
 import { HashRouter, Route, Routes } from 'react-router-dom';
-import HomePage from './assets/pages/HomePage';
-import NavBar from './assets/components/NavComponents/NavBar';
 import "./assets/styles/App.css";
-import AboutPage from './assets/pages/AboutPage';
-import Products from './assets/pages/ProductsPage';
-import Reserva from './assets/pages/ReservaPage';
-import MainPage from './assets/pages/MainPage';
-import CartMain from './assets/pages/CartMain';
-import Contacts from './assets/pages/ContactsPage';
-import ProtectedRoutes from './assets/components/ProtectedRoutes/ProtectedRoutes';
-import FooterComponent from './assets/components/FooterComponents/FooterComponent';
 import { setHandleClick } from './store/slice/handleClickSideBar';
 import { useDispatch, useSelector } from 'react-redux';
+import HomePage from './pages/HomePage';
+import AboutPage from './pages/AboutPage';
+import Products from './pages/ProductsPage';
+import Reserva from './pages/ReservaPage';
+import MainPage from './pages/MainPage';
+import CartMain from './pages/CartMain';
+import Contacts from './pages/ContactsPage';
+import NavBar from './components/NavComponents/NavBar';
+import ProtectedRoutes from './components/ProtectedRoutes/ProtectedRoutes';
+import FooterComponent from './components/FooterComponents/FooterComponent';
 
 function App() {
 
