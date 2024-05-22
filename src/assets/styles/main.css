@@ -44,10 +44,12 @@ section .main_entrees .content__card{
 
 section .main_entrees.soups .content__card{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, max(321.5px));
     gap: 14px;
     justify-content: center;
     align-items: center;
+    margin: auto;
+    align-content: center;
 }
 
 @media (max-width: 575px) {
