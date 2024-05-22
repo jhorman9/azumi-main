@@ -44,7 +44,7 @@ section .main_entrees .content__card{
 
 section .main_entrees.soups .content__card{
     display: grid;
-    grid-template-columns: repeat(3, max(321.5px));
+    grid-template-columns: repeat(3, minmax(0, 321px));
     gap: 14px;
     justify-content: center;
     align-items: center;
