@@ -4,7 +4,7 @@ header{
     max-width: 1920px;
     padding: 14px 28px;
     background-color: var(--red);
-    color: #000;
+    color: var(--white-dark);
     font-weight: 600;
 }
 
@@ -56,7 +56,7 @@ nav{
     z-index: 9;
     flex-wrap: wrap;
     background-color: rgb(0, 0, 0);
-    border-bottom: 1px solid #2e0102;
+    border-bottom: 1px solid var(--white-transparent);
 }
 
 nav .header_icon img{
@@ -78,6 +78,7 @@ nav ul {
 }
 
 nav ul li a{
+    color: var(--white-intense);
     transition: .2s ease-in;
 }
 

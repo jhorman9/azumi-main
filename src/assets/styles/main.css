@@ -1,8 +1,8 @@
 .main .title_main{
-    color: var(--red);
+    color: var(--white-dark);
     font-size: 32px;
     font-weight: 700;
-    border-bottom: 1px solid var(--red);
+    border-bottom: 1px solid var(--white-dark);
     width: fit-content;
     margin: 0 auto 24px;
     padding: 0 7px;
@@ -16,11 +16,11 @@
 
 .main .sub-title_main{
     font-size: 28px;
+    color: var(--white-dark);
 }
 
 @media (max-width: 768px) {
     .main .sub-title_main{
-        color: var(--red);
         font-size: 20px;
     }
 }
@@ -60,7 +60,7 @@ section .main_entrees.soups .content__card{
 
 section .section__card{
     position: relative;
-    border: 2px solid #f7050830;
+    border: 2px solid var(--white-transparent);
     border-radius: 14px;
     overflow: hidden;
     cursor: pointer;
@@ -82,7 +82,7 @@ section .section__card .card__text{
     align-items: center;
     background-color: #000000de;
     font-size: 28px;
-    transition: all .3s;
+    transition: all .5s;
 
 }
 

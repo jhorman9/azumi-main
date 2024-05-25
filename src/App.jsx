@@ -40,6 +40,8 @@ function App() {
               <Route path='/products' element={<Products />}/>
               <Route path='/reserva' element={<Reserva />}/>
               <Route path='/main' element={<MainPage />}/>
+              <Route path='/main/:category' element={<MainPage />} />
+              <Route path='/main/:category/:dishes' element={<MainPage />} />
               <Route path='/cart' element={<CartMain />}/>
               <Route path='/contacts' element={<Contacts />}/>
           </Routes>

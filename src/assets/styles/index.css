@@ -1,3 +1,13 @@
+
+
+:root{
+    --red: #f70508;
+    --black: #000;
+    --white-intense: #fff;
+    --white-dark: #dbdbdb;
+    --white-transparent: #ffffff42;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -17,18 +27,11 @@
     border: 2px solid #000;
 }
 
-:root{
-    --red: #f70508;
-    --black: #000;
-    --white: #fff;
-}
-
-
 body{
     font-family: "Julee", cursive;
     min-height: 100vh;
     background-color: rgb(0, 0, 0);
-    color: var(--white);
+    color: var(--white-intense);
 }
 
 section{
