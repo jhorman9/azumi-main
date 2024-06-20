@@ -1,5 +1,7 @@
 # AZUMI PTY RESTAURANT
 
+##ENTRADAS
+
 Carpaccio de salmon - Japones / 15.99
 Delicadas láminas de salmón fresco marinadas en aceite de oliva virgen extra y jugo de limón, 
 acompañadas de alcaparras, eneldo fresco y finas rodajas de cebolla roja. 
@@ -90,7 +92,7 @@ Yee Chi Kao - Japones / 6.99
 Hakao - Japones / 6.99
 Delicados bocados de camarón envueltos en masa translúcida al vapor. Un festín de mariscos en cada bocado.
 
-Sopa -----------------------------------------------------------------------------------------
+##SOPAS
 
 Sopa de wanton - Chino / 10.99
 Sopa caliente y reconfortante con wantones rellenos de cerdo o camarón, servidos en un caldo sabroso y aromático. 
@@ -146,7 +148,7 @@ Chupe de mariscos - Peruano / 14.50
 Sopa cremosa de mariscos con camarones, calamares, mejillones y una variedad de verduras. Un plato reconfortante y lleno de sabor, 
 perfecto para disfrutar de una experiencia culinaria marina.
 
-------------------------PLATOS FUERTES------------------------------
+##PLATOS FUERTES
 
 Pollo al grill - Especialidades de la casa / 14.90
 Jugoso pollo asado a la parrilla, acompañado de una colorida variedad de vegetales frescos. Un plato saludable y lleno de sabor, 
@@ -275,7 +277,7 @@ Medallones de Lomito en Salsa Miso - Especialidades de la casa / 20.99
 Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. 
 Un plato que combina sabores intensos y texturas delicadas
 
------------------------- VEGETALES ------------------------------
+##VEGETALES
 
 Kinoha de vegetales - Japonesa / 10.99
 Plato japonés que consiste en una mezcla de quinoa y vegetales salteados, como zanahorias, pimientos, cebolla y espinacas, sazonados con salsa de soya y jengibre. 
