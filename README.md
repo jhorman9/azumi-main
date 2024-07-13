@@ -92,6 +92,66 @@ Yee Chi Kao - Japones / 6.99
 Hakao - Japones / 6.99
 Delicados bocados de camarón envueltos en masa translúcida al vapor. Un festín de mariscos en cada bocado.
 
+Ceviche Limeño - Peruano / 14.90
+Ceviche tradicional peruano preparado con pescado fresco marinado en jugo de limón, acompañado de cebolla roja, ají limo y cilantro. 
+Un plato refrescante y lleno de sabores cítricos, típico de la gastronomía peruana.	
+
+Ceviche camarones - Peruano / 14.90
+Camarones frescos marinados en jugo de limón con cebolla roja, cilantro, ají limo y un toque de ajo. Un plato refrescante y lleno de sabor, ideal para los amantes de los mariscos.
+
+Ceviche de pulpo - Peruano / 14.90
+delicados trozos de pulpo marinado en jugo de limón, combinados con cebolla morada finamente picada, cilantro fresco, tomate en cubos y un toque de ají, creando una armonía perfecta de sabores y texturas.
+
+Ceviche Aji amarillo - Peruano / 14.90
+Ceviche preparado con pescado o mariscos marinados en jugo de limón y ají amarillo peruano, acompañado de cebolla roja, cilantro y maíz cancha. 
+Un plato vibrante y lleno de sabores picantes y cítricos, típico de la gastronomía peruana.
+
+Ceviche de mariscos - Peruano / 15.90
+Clasico ceviche mixto de pulpo, camarones y calamares con leche de tigre cremosa y ajies, cilantro y jugo de limon acompanado de maiz peruano y chips de tuberculos.
+
+Ceviche tropical - Peruano / 14.90
+Preparado con pescado fresco marinado en jugo de limón y mezclado con frutas tropicales como mango, piña o maracuyá. Acompañado de cebolla roja, cilantro y un toque de ají limo.
+
+Ceviche Clásico - Peruano / 14.90
+El ceviche peruano tradicional se prepara con pescado fresco marinado en jugo de limón, sazonado con ají limo, cilantro, cebolla roja y acompañado con camote y maíz cancha. 
+Es un plato refrescante, lleno de sabores cítricos y picantes
+
+Ceviche frito - Peruano / 14.70
+Mariscos o pescado marinados en limón y especias, rebozados y fritos para obtener una textura crujiente por fuera y suave por dentro, con cilantro añadido para un toque fresco.
+Acompañados típicamente de salsa criolla y camote frito.
+
+Causa de camarones - Peruano / 12.50
+Delicada capa de puré de papa amarilla sazonada con ají amarillo y limón, rellena de camarones frescos y mayonesa. Acompañada de aguacate y huevo cocido. 
+Un plato típico peruano que combina sabores cremosos y frescos.
+
+Causa de pulpo - Peruano / 12.90
+Puré de papa amarilla sazonado con ají amarillo y limón, relleno de pulpo tierno y mayonesa. Acompañado de aguacate y huevo cocido. 
+Un plato tradicional peruano que destaca por su combinación de sabores suaves y frescos.
+
+Tiraditos de salmon - Peruano / 14.90
+Finas láminas de salmón fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.
+
+Tiraditos de atun - Peruano / 14.90
+Finas láminas de atún fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.
+
+Tiraditos de pescado blanco - Peruano / 14.90
+Láminas finas de pescado blanco fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, resaltando la frescura y el sabor del mar..
+
+Trilogía de Tiraditos Marinos - Peruano / 14.90
+Finas láminas de pescado blanco, atún y salmón frescos, marinados en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, ofreciendo una experiencia única de sabores marinos.
+
+Tiraditos mixto - Peruano / 14.90
+láminas de salmón fresco y pescado blanco o atun y salmon. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.
+
+Ebi Thai - Thailandese / 14.90
+Camarones o langostinos apanados con coco rallado y panko, fritos hasta quedar crujientes. Sazonados con especias tailandesas como cilantro, lima y ajo, servidos con salsa dulce.
+
+Tartar de atún - Japones / 14.90
+Preparación de atún fresco cortado en cubos finos y sazonado con ingredientes como aguacate, cebolla roja, cilantro y salsa de soya. Se sirve con hilo de arroz frito crujiente encima para añadir textura y sabor adicional.
+
+Chicharron de arañita - Peruano / 13.99
+Tentáculos de calamar frito hasta obtener una textura crujiente y dorada, acompañados de una salsa casera especial. Un platillo que combina la suavidad del calamar con una explosión de sabores en cada bocado.
+
 ## SOPAS
 
 Sopa de wanton - Chino / 10.99
@@ -190,7 +250,7 @@ Salmón en Salsa de Maracuyá - Especialidades de la casa / 20.99
 Filete de salmón bañado en una suculenta salsa de maracuyá, que combina dulzura y un toque cítrico. 
 Un plato exquisito que resalta la frescura del salmón con el contraste de sabores tropicales.
 
-Salmon en salsa Saimoy - Especialidades de la casa / 22.99
+Salmon en salsa Saimoy - Thailandes / 22.99
 Filete de salmón fresco cubierto con una rica salsa saimoy, que equilibra perfectamente notas dulces y saladas. Un plato elegante y sabroso que deleita los sentidos.
 
 Teppan de pollo - Japones / 15.99
@@ -203,39 +263,6 @@ Carne de res a la plancha, en salsa teriyaki, acompanada con arroz yakimeshi o y
 Teppan de salmon - Japones / 18.00
 Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. 
 Un plato delicado y lleno de sabores marinos, ideal para los amantes del salmón.
-
-Ceviche Limeño - Peruano / 14.90
-Ceviche tradicional peruano preparado con pescado fresco marinado en jugo de limón, acompañado de cebolla roja, ají limo y cilantro. 
-Un plato refrescante y lleno de sabores cítricos, típico de la gastronomía peruana.	
-
-Ceviche camarones - Peruano / 14.90
-Camarones frescos marinados en jugo de limón con cebolla roja, cilantro, ají limo y un toque de ajo. Un plato refrescante y lleno de sabor, ideal para los amantes de los mariscos.
-
-Ceviche Aji amarillo - Peruano / 14.90
-Ceviche preparado con pescado o mariscos marinados en jugo de limón y ají amarillo peruano, acompañado de cebolla roja, cilantro y maíz cancha. 
-Un plato vibrante y lleno de sabores picantes y cítricos, típico de la gastronomía peruana.
-
-Ceviche de mariscos - Peruano / 15.90
-Clasico ceviche mixto de pulpo, camarones y calamares con leche de tigre cremosa y ajies, cilantro y jugo de limon acompanado de maiz peruano y chips de tuberculos.
-
-Ceviche tropical - Peruano / 14.90
-Preparado con pescado fresco marinado en jugo de limón y mezclado con frutas tropicales como mango, piña o maracuyá. Acompañado de cebolla roja, cilantro y un toque de ají limo.
-
-Ceviche Clásico - Peruano / 14.90
-El ceviche peruano tradicional se prepara con pescado fresco marinado en jugo de limón, sazonado con ají limo, cilantro, cebolla roja y acompañado con camote y maíz cancha. 
-Es un plato refrescante, lleno de sabores cítricos y picantes
-
-Ceviche frito - Peruano / 14.70
-Mariscos o pescado marinados en limón y especias, rebozados y fritos para obtener una textura crujiente por fuera y suave por dentro, con cilantro añadido para un toque fresco.
-Acompañados típicamente de salsa criolla y camote frito.
-
-Causa de camarones - Peruano / 12.50
-Delicada capa de puré de papa amarilla sazonada con ají amarillo y limón, rellena de camarones frescos y mayonesa. Acompañada de aguacate y huevo cocido. 
-Un plato típico peruano que combina sabores cremosos y frescos.
-
-Causa de pulpo - Peruano / 12.90
-Puré de papa amarilla sazonado con ají amarillo y limón, relleno de pulpo tierno y mayonesa. Acompañado de aguacate y huevo cocido. 
-Un plato tradicional peruano que destaca por su combinación de sabores suaves y frescos.
 
 Arroz Chaufa de Pollo - Peruano / 15.90
 Clásico arroz chaufa peruano, salteado con trozos de pollo, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, 
