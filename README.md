@@ -273,7 +273,7 @@ Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos, hu
 ofreciendo una deliciosa fusión de sabores peruanos y chinos.
 
 Jalea de mariscos - Peruano / 15.90
-Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acompañados de salsa tártara y servidos con palitos de yuca. 
+Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acompañados de salsa criolla y servidos con palitos de yuca. 
 Una opción deliciosa y sabrosa para los amantes de los mariscos.
 
 Arroz thai pollo - Thailandesa / 13.99
