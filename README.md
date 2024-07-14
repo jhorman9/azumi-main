@@ -155,6 +155,9 @@ Tentáculos de calamar frito hasta obtener una textura crujiente y dorada, acomp
 Atún abrazado - Japones / 13.99
 Filete de atún sellado en una mezcla de pimienta y semillas de ajonjolí, acompañado de chutney de piña y mayocurry.
 
+Maguro tataki - Japones / 13.99
+Atún sellado, acompañado de una delicada salsa Arague, jengibre fresco y cebollina.
+
 ## SOPAS
 
 Sopa de wanton - Chino / 10.99
