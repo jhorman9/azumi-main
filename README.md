@@ -216,8 +216,8 @@ perfecto para disfrutar de una experiencia culinaria marina.
 
 ## PLATOS FUERTES
 
-Lomo salteados - Peruano / 14.99
-Tiernos trozos de lomo de res salteados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco
+Lomo saltados - Peruano / 14.99
+Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco
 
 Pollo al grill - Especialidades de la casa / 14.90
 Jugoso pollo asado a la parrilla, acompañado de una colorida variedad de vegetales frescos. Un plato saludable y lleno de sabor, 
