@@ -321,6 +321,9 @@ Fettuccini al dente en una cremosa salsa huancaína, acompañados de una selecci
 Fettuccini a la Huancaína con Lomo Saltado - Peruano / 15.99
 Fettuccini al dente en una deliciosa salsa huancaína, acompañados de tiernos trozos de lomo de res salteados con cebolla, tomate y cilantro, sazonados con salsa de soya y especias.
 
+Arroz de mariscos - Peruano / 12.99
+Arroz preparado con una variedad de mariscos frescos, cocinado en un caldo sabroso con aji amarillo, cilantro y especias peruanas, ofreciendo una explosión de sabores del mar.
+
 ## VEGETALES
 
 Kinoha de vegetales - Japonesa / 10.99
