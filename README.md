@@ -313,6 +313,9 @@ Medallones de Lomito en Salsa Miso - Especialidades de la casa / 20.99
 Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. 
 Un plato que combina sabores intensos y texturas delicadas
 
+Fettuccini a la Huancaína con Mariscos - Peruano / 15.99
+Fettuccini al dente en una cremosa salsa huancaína, acompañados de una selección de mariscos frescos.
+
 ## VEGETALES
 
 Kinoha de vegetales - Japonesa / 10.99
