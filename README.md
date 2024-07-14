@@ -158,6 +158,9 @@ Filete de atún sellado en una mezcla de pimienta y semillas de ajonjolí, acomp
 Maguro tataki - Japones / 13.99
 Atún sellado, acompañado de una delicada salsa Arague, jengibre fresco y cebollina.
 
+Papa a la Huancaína - Peruano / 9.99
+Papas cocidas y cortadas en cuadros, cubiertas con una cremosa salsa huancaína y decoradas con brotes frescos de cilantro.
+
 ## SOPAS
 
 Sopa de wanton - Chino / 10.99
