@@ -152,6 +152,9 @@ Preparación de atún fresco cortado en cubos finos y sazonado con ingredientes 
 Chicharron de arañita - Peruano / 13.99
 Tentáculos de calamar frito hasta obtener una textura crujiente y dorada, acompañados de una salsa casera especial. Un platillo que combina la suavidad del calamar con una explosión de sabores en cada bocado.
 
+Atún abrazado - Japones / 13.99
+Filete de atún sellado en una mezcla de pimienta y semillas de ajonjolí, acompañado de chutney de piña y mayocurry.
+
 ## SOPAS
 
 Sopa de wanton - Chino / 10.99
