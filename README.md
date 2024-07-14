@@ -281,8 +281,7 @@ Clásico arroz chaufa peruano, salteado con trozos de pollo, huevo, cebolla chin
 creando una deliciosa fusión de sabores peruanos y chinos.
 
 Arroz Chaufa de Mariscos - Peruano / 16.90
-Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, 
-ofreciendo una deliciosa fusión de sabores peruanos y chinos.
+lásico arroz chaufa peruano salteado con una variedad de mariscos frescos, chicharrón de pescado, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, ofreciendo una deliciosa fusión de sabores peruanos y chinos.
 
 Jalea de mariscos - Peruano / 15.90
 Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acompañados de salsa criolla y servidos con palitos de yuca. 
