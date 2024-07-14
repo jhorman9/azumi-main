@@ -316,6 +316,9 @@ Un plato que combina sabores intensos y texturas delicadas
 Fettuccini a la Huancaína con Mariscos - Peruano / 15.99
 Fettuccini al dente en una cremosa salsa huancaína, acompañados de una selección de mariscos frescos.
 
+Fettuccini a la Huancaína con Lomo Saltado - Peruano / 15.99
+Fettuccini al dente en una deliciosa salsa huancaína, acompañados de tiernos trozos de lomo de res salteados con cebolla, tomate y cilantro, sazonados con salsa de soya y especias.
+
 ## VEGETALES
 
 Kinoha de vegetales - Japonesa / 10.99
