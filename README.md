@@ -297,16 +297,16 @@ Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acom
 Una opción deliciosa y sabrosa para los amantes de los mariscos.
 
 Arroz thai pollo - Thailandesa / 13.99
-Arroz salteado al estilo tailandés con trozos de pollo, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
+Arroz salteado al estilo tailandés con trozos de pollo, vegetales frescos y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
 
 Arroz thai de res - Thailandesa / 14.99
-Arroz salteado al estilo tailandés con trozos de res, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
+Arroz salteado al estilo tailandés con trozos de res, vegetales frescos y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
 
 Arroz thai de camaron con calamar - thailandesa / 15.99
-Arroz salteado al estilo tailandés con camarones y calamares frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, ofreciendo un plato exótico y lleno de sabor marino.
+Arroz salteado al estilo tailandés con camarones y calamares frescos, vegetales y especias aromáticas. Sazonado con salsa de soya y jengibre, ofreciendo un plato exótico y lleno de sabor marino.
 
 Arroz thai de camaron - thailandesa / 15.99
-Arroz salteado al estilo tailandés con camarones frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
+Arroz salteado al estilo tailandés con camarones frescos, vegetales y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
 
 Arroz thai de vegetales - Thailandesa / 12.90
 Arroz salteado al estilo tailandés con una variedad de vegetales frescos, como pimientos, zanahorias, cebolla y brotes de soya. Sazonado con salsa de soya y jengibre, 
