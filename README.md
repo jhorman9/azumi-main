@@ -275,8 +275,8 @@ Teppan de pollo - Japones / 15.99
 Pollo a la plancha en salsa teriyaki, acompañado de arroz yakimeshi. Un plato delicioso y equilibrado, 
 que combina sabores tradicionales japoneses con ingredientes frescos y de alta calidad.
 
-Teppan de res - Japones / 17.50
-Carne de res a la plancha, en salsa teriyaki, acompanada con arroz yakimeshi o yakisoba
+Teppan de filete de res - Japones / 17.50
+Filete de res o lomito a la plancha, en salsa teriyaki, acompanada con algunas de las siguientes opciones: arroz yakimeshi, yakisoba o yasai.
 
 Teppan de salmon - Japones / 18.00
 Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. 
