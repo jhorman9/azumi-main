@@ -219,6 +219,9 @@ perfecto para disfrutar de una experiencia culinaria marina.
 
 ## PLATOS FUERTES
 
+Pescado en Salsa Sogayaky - japonesa / 19.99
+Filete de pescado fresco en salsa japonesa Sogayaky con un toque de sake y mirin, realzando el sabor natural del pescado. Con un equilibrio dulce y salado. Acompañado de vegetales al vapor y arroz blanco.
+
 Sudado de pescado y mariscos - Peruano / 19.99
 Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime.
 
