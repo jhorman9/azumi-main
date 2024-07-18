@@ -219,6 +219,12 @@ perfecto para disfrutar de una experiencia culinaria marina.
 
 ## PLATOS FUERTES
 
+Ají de gallina - Peruano / 9.99
+Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.
+
+Ají de gallina - Peruano / 9.99
+Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.
+
 Lomo saltados - Peruano / 14.99
 Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco
 
