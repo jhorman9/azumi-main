@@ -310,12 +310,15 @@ Arroz salteado al estilo tailandés con una variedad de vegetales frescos, como 
 ofreciendo un plato vegetariano exótico y lleno de sabor.
 
 Pad Thai de Pollo - Thailendesa / 14.99
-Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, tofu, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, 
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, 
 azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
 
 Pad thai de camaron - Thailandesa / 15.99
-Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, tofu, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. 
+Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. 
 Servido con lima y cilantro fresco para un toque cítrico y herbal.
+
+Pad Thai de Filete de Res - Tailandesa / 14.99
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, filete de res tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
 
 Medallones de Lomito en Salsa Miso - Especialidades de la casa / 20.99
 Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. 
