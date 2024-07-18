@@ -271,8 +271,8 @@ Salmón en Salsa de Maracuyá - Especialidades de la casa / 20.99
 Filete de salmón bañado en una suculenta salsa de maracuyá, que combina dulzura y un toque cítrico. 
 Un plato exquisito que resalta la frescura del salmón con el contraste de sabores tropicales.
 
-Salmon en salsa Saimoy - Thailandes / 22.99
-Filete de salmón fresco cubierto con una rica salsa saimoy, que equilibra perfectamente notas dulces y saladas. Un plato elegante y sabroso que deleita los sentidos.
+Filete de Salmón Thai - thailandes / 22.99
+Filete de salmón fresco a la parrilla con salsa tailandesa de leche de coco y curry rojo, sobre una cama de vegetales y acompañado de arroz jazmín. Coronado con calamares crujientes.
 
 Teppan de pollo - Japones / 15.99
 Pollo a la plancha en salsa teriyaki, acompañado de arroz yakimeshi. Un plato delicioso y equilibrado, 
