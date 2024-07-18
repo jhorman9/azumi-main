@@ -12,9 +12,6 @@ import Contacts from './pages/ContactsPage';
 import NavBar from './components/NavComponents/NavBar';
 import ProtectedRoutes from './components/ProtectedRoutes/ProtectedRoutes';
 import FooterComponent from './components/FooterComponents/FooterComponent';
-import data from './data/entrees.json';
-import data2 from './data/main-dishes.json';
-import data3 from './data/soup.json';
 
 function App() {
 
@@ -25,10 +22,6 @@ function App() {
   const handleClick = () => {
     dispatch(setHandleClick(false));
   }
-
-  console.log('entradas: ',data);
-  console.log('Platos fuertes: ', data2);
-  console.log('soup: ', data3);
   
   return (
     <>

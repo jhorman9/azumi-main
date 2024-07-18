@@ -27,6 +27,16 @@ const MainPage = () => {
         <link rel='canonical' href={routeActually} />
         <title>Azumi - Men&#250; digital</title>
       </Helmet>
+      <div className='main_see-all'>
+        <div className='main_see-all-banner'>
+          <div className='section__card' onClick={()=> changeRoute('all')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>VER TODOS</h3>
+            </div>
+          </div>
+        </div>
+      </div>
       <div className='main_entrees'>
         <h2 className='title_main'>ENTRADAS</h2>
         <div className='content__card'>

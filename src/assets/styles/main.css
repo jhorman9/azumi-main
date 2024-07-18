@@ -1,3 +1,13 @@
+.main .main_see-all .main_see-all-banner .section__card{
+    height: 100%;
+    max-height: 200px;
+    margin: 0 auto 24px;
+}
+
+.main .main_see-all .main_see-all-banner .section__card img{
+    width: revert-layer;
+}
+
 .main .title_main{
     color: var(--white-dark);
     font-size: 30px;
