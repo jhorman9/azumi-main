@@ -219,6 +219,9 @@ perfecto para disfrutar de una experiencia culinaria marina.
 
 ## PLATOS FUERTES
 
+Sudado de pescado y mariscos - Peruano / 19.99
+Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime.
+
 Ají de gallina - Peruano / 9.99
 Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.
 
