@@ -219,6 +219,18 @@ perfecto para disfrutar de una experiencia culinaria marina.
 
 ## PLATOS FUERTES
 
+Pescado en Salsa Sogayaky - japonesa / 19.99
+Filete de pescado fresco en salsa japonesa Sogayaky con un toque de sake y mirin, realzando el sabor natural del pescado. Con un equilibrio dulce y salado. Acompañado de vegetales al vapor y arroz blanco.
+
+Sudado de pescado y mariscos - Peruano / 19.99
+Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime.
+
+Ají de gallina - Peruano / 9.99
+Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.
+
+Ají de gallina - Peruano / 9.99
+Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.
+
 Lomo saltados - Peruano / 14.99
 Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco
 
@@ -262,15 +274,15 @@ Salmón en Salsa de Maracuyá - Especialidades de la casa / 20.99
 Filete de salmón bañado en una suculenta salsa de maracuyá, que combina dulzura y un toque cítrico. 
 Un plato exquisito que resalta la frescura del salmón con el contraste de sabores tropicales.
 
-Salmon en salsa Saimoy - Thailandes / 22.99
-Filete de salmón fresco cubierto con una rica salsa saimoy, que equilibra perfectamente notas dulces y saladas. Un plato elegante y sabroso que deleita los sentidos.
+Filete de Salmón Thai - thailandes / 22.99
+Filete de salmón fresco a la parrilla con salsa tailandesa de leche de coco y curry rojo, sobre una cama de vegetales y acompañado de arroz jazmín. Coronado con calamares crujientes.
 
 Teppan de pollo - Japones / 15.99
 Pollo a la plancha en salsa teriyaki, acompañado de arroz yakimeshi. Un plato delicioso y equilibrado, 
 que combina sabores tradicionales japoneses con ingredientes frescos y de alta calidad.
 
-Teppan de res - Japones / 17.50
-Carne de res a la plancha, en salsa teriyaki, acompanada con arroz yakimeshi o yakisoba
+Teppan de filete de res - Japones / 17.50
+Filete de res o lomito a la plancha, en salsa teriyaki, acompanada con algunas de las siguientes opciones: arroz yakimeshi, yakisoba o yasai.
 
 Teppan de salmon - Japones / 18.00
 Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. 
@@ -288,28 +300,36 @@ Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acom
 Una opción deliciosa y sabrosa para los amantes de los mariscos.
 
 Arroz thai pollo - Thailandesa / 13.99
-Arroz salteado al estilo tailandés con trozos de pollo, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
+Arroz jazmín salteado al estilo tailandés con trozos de pollo, vegetales frescos y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
 
 Arroz thai de res - Thailandesa / 14.99
-Arroz salteado al estilo tailandés con trozos de res, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
+Arroz jazmín salteado al estilo tailandés con trozos de res, vegetales frescos y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
 
 Arroz thai de camaron con calamar - thailandesa / 15.99
-Arroz salteado al estilo tailandés con camarones y calamares frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, ofreciendo un plato exótico y lleno de sabor marino.
+Arroz jazmín salteado al estilo tailandés con camarones y calamares frescos, vegetales y especias aromáticas. Sazonado con salsa de soya y jengibre, ofreciendo un plato exótico y lleno de sabor marino.
 
 Arroz thai de camaron - thailandesa / 15.99
-Arroz salteado al estilo tailandés con camarones frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
+Arroz jazmín salteado al estilo tailandés con camarones frescos, vegetales y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.
 
-Arroz thai de vegetales - Thailandesa / 12.90
-Arroz salteado al estilo tailandés con una variedad de vegetales frescos, como pimientos, zanahorias, cebolla y brotes de soya. Sazonado con salsa de soya y jengibre, 
-ofreciendo un plato vegetariano exótico y lleno de sabor.
+Arroz Thai de Vegetales - Tailandesa / 12.90
+Arroz jazmín salteado al estilo tailandés con una variedad de vegetales frescos como pimientos, zanahorias, cebolla y brotes de soya. Sazonado con salsa de soya, jengibre y otros aromáticos, ofreciendo un plato vegetariano exótico y lleno de sabor.
 
 Pad Thai de Pollo - Thailendesa / 14.99
-Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, tofu, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, 
-azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, 
+azúcar de palma y chiles secos. Servido con lima, maní y cilantro fresco.
 
 Pad thai de camaron - Thailandesa / 15.99
-Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, tofu, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. 
-Servido con lima y cilantro fresco para un toque cítrico y herbal.
+Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. 
+Servido con lima, maní y cilantro fresco para un toque cítrico y herbal.
+
+Pad Thai de Filete de Res - Tailandesa / 14.99
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, filete de res tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima, maní y cilantro fresco.
+
+Pad Thai Mixto - Tailandesa / 14.99
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, filete de res, camarones, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima, maní y cilantro fresco.
+
+Pad Thai de Vegetales - Tailandesa / 14.99
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, huevo y una mezcla de vegetales frescos como zanahorias, pimientos, cebolla morada, brocoli, zukini, tofu y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
 
 Medallones de Lomito en Salsa Miso - Especialidades de la casa / 20.99
 Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. 
