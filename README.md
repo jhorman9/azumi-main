@@ -311,20 +311,17 @@ ofreciendo un plato vegetariano exótico y lleno de sabor.
 
 Pad Thai de Pollo - Thailendesa / 14.99
 Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, 
-azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
+azúcar de palma y chiles secos. Servido con lima, maní y cilantro fresco.
 
 Pad thai de camaron - Thailandesa / 15.99
 Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. 
-Servido con lima y cilantro fresco para un toque cítrico y herbal.
+Servido con lima, maní y cilantro fresco para un toque cítrico y herbal.
 
 Pad Thai de Filete de Res - Tailandesa / 14.99
-Clásico plato tailandés preparado con fideos de arroz salteados al wok, filete de res tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, filete de res tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima, maní y cilantro fresco.
 
 Pad Thai Mixto - Tailandesa / 14.99
-Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, filete de res, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
-
-Pad Thai de Carne - Tailandesa / 14.99
-Clásico plato tailandés preparado con fideos de arroz salteados al wok, filete de res tierno, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
+Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, filete de res, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima, maní y cilantro fresco.
 
 Pad Thai de Vegetales - Tailandesa / 14.99
 Clásico plato tailandés preparado con fideos de arroz salteados al wok, huevo y una mezcla de vegetales frescos como zanahorias, pimientos y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
