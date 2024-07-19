@@ -210,7 +210,7 @@ Sopa aromática de leche de coco con sabores tailandeses auténticos, como limon
 acompañada de camarones frescos, setas y verduras. Una experiencia culinaria exótica y deliciosa.
 
 Chupe de pollo - Peruano / 12.99
-Sopa cremosa de pollo con maíz, papas, huevos y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar en cualquier ocasión.
+Sopa cremosa de pollo con maíz, papas, dados de queso blanco, cilantro fresco y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar en cualquier ocasión.
 
 Chupe de camarones - Peruano / 13.99
 Sopa cremosa de camarones con maíz, papas y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.
