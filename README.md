@@ -195,9 +195,8 @@ Ramen de carne - Japones / 15.99
 Caldo aromático con fideos ramen, trozos tiernos de carne, huevo cocido, y vegetales frescos. 
 Una experiencia reconfortante llena de sabores profundos.
 
-Ramen de pollo - Japones / 14.99
-Caldo reconfortante con fideos ramen, trozos suculentos de pollo, huevo cocido y verduras frescas. 
-Una opción reconfortante y llena de sabor.
+Ramen de Pollo - Japones / $14.99. 
+Delicioso caldo japonés con fideos ramen, tiernos trozos de pollo, huevo cocido y verduras frescas. Una opción reconfortante y llena de sabor.
 
 Ramen mixto - Japones / 15.99
 Caldo fragante con fideos ramen, una combinación de carne de cerdo, pollo, camarones, huevo cocido y verduras frescas. 
