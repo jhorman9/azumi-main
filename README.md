@@ -221,6 +221,9 @@ perfecto para disfrutar de una experiencia culinaria marina.
 
 ## PLATOS FUERTES
 
+Pescado a la Mostaza - peruano / $14.99
+Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de maíz y acompañados de yuca frita. Incluye pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.
+
 Pescado en Salsa Sogayaky - japonesa / 19.99
 Filete de pescado fresco en salsa japonesa Sogayaky con un toque de sake y mirin, realzando el sabor natural del pescado. Con un equilibrio dulce y salado. Acompañado de vegetales al vapor y arroz blanco.
 
