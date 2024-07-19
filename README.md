@@ -221,6 +221,9 @@ perfecto para disfrutar de una experiencia culinaria marina.
 
 ## PLATOS FUERTES
 
+Tentáculos de Pulpo a la Brasa - $16.99
+Tentáculos de pulpo a la brasa, servidos con la guarnición de tu elección. Un plato sabroso con un toque ahumado.
+
 Pescado a la Mostaza - peruano / $14.99
 Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de maíz y acompañados de yuca frita. Incluye pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.
 
@@ -292,6 +295,9 @@ Filete de res o lomito a la plancha, en salsa teriyaki, acompanada con algunas d
 Teppan de salmon - Japones / 18.00
 Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. 
 Un plato delicado y lleno de sabores marinos, ideal para los amantes del salmón.
+
+Teppan de Salmón Mixto - Japones / $18.00
+Salmón, camarón y calamar cocinados al estilo teppanyaki en salsa teriyaki, acompañados de algunos de los siguientes acompañamientos: arroz yakimeshi, yakisoba o yasai. Un plato marino y sabroso.
 
 Arroz Chaufa de Pollo - Peruano / 15.90
 Clásico arroz chaufa peruano, salteado con trozos de pollo, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, 
