@@ -330,9 +330,8 @@ Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo 
 Pad Thai de Vegetales - Tailandesa / 14.99
 Clásico plato tailandés preparado con fideos de arroz salteados al wok, huevo y una mezcla de vegetales frescos como zanahorias, pimientos, cebolla morada, brocoli, zukini, tofu y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.
 
-Medallones de Lomito en Salsa Miso - Especialidades de la casa / 20.99
-Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. 
-Un plato que combina sabores intensos y texturas delicadas
+Medallones de Lomito en Salsa Miso - Especialidades de la Casa / $20.99. 
+Lomo a la parrilla en salsa miso, sobre vegetales salteados al estilo oriental y arroz jazmín, coronado con hilo de arroz crocante.
 
 Fettuccini a la Huancaína con Mariscos - Peruano / 15.99
 Fettuccini al dente en una cremosa salsa huancaína, acompañados de una selección de mariscos frescos.
