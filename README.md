@@ -348,7 +348,7 @@ Corvina con Chimichurri y Camarones - Especialidades de la casa / 19.99
 Filete de corvina a la parrilla, cubierto con chimichurri y camarones salteados, servido sobre una cama de vegetales frescos y acompañado de arroz.
 
 Filete de corvina al pacific - Especialidades de la casa / 19.99
-Filete de corvina a la parrilla, cubierto con chimichurri y calamares tempura, servido sobre una cama de vegetales frescos y acompañado de arroz.
+Filete de corvina a la parrilla con toque mediterráneo, acompañado de calamares tempura, servido sobre una cama de vegetales frescos y acompañado de arroz
 
 ## VEGETALES
 
