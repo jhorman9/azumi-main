@@ -292,11 +292,14 @@ que combina sabores tradicionales japoneses con ingredientes frescos y de alta c
 Teppan de filete de res - Japones / 17.50
 Filete de res o lomito a la plancha, en salsa teriyaki, acompanada con algunas de las siguientes opciones: arroz yakimeshi, yakisoba o yasai.
 
-Teppan de salmon - Japones / 18.00
-Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. 
+Teppan de salmón - Japones / 18.00
+Filete de salmón cocinado al estilo teppanyaki, en salsa teriyaki, con una cocción perfecta que realza su sabor natural. acompañados de algunos de los siguientes acompañamientos: arroz yakimeshi, yakisoba o yasai.
 Un plato delicado y lleno de sabores marinos, ideal para los amantes del salmón.
 
 Teppan de Salmón Mixto - Japones / $18.00
+Pollo, carne y camarón cocinados al estilo teppanyaki en salsa teriyaki, acompañados de algunos de los siguientes acompañamientos: arroz yakimeshi, yakisoba o yasai Un plato sabroso y lleno de sabor.
+
+Teppan de Salmón Especial - Japones / $18.00
 Salmón, camarón y calamar cocinados al estilo teppanyaki en salsa teriyaki, acompañados de algunos de los siguientes acompañamientos: arroz yakimeshi, yakisoba o yasai. Un plato marino y sabroso.
 
 Arroz Chaufa de Pollo - Peruano / 15.90
