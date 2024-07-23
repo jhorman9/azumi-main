@@ -99,3 +99,17 @@ section .section__card .card__text{
 section .section__card:hover .card__text{
     top: -100%;
 }
+
+.main-category{
+    margin: auto;
+}
+
+.main-category .card .card-body{
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .main-category .card .card-body h2{
+        font-size: 18px;
+    }   
+}

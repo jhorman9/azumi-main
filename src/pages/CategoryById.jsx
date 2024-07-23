@@ -24,7 +24,7 @@ export const CategoryById = () => {
     const sortedMain = menuJson.sort((a,b) => a.nombre.localeCompare(b.nombre));
 
   return (
-    <div>
+    <section className="main-category">
         <div className="card">
             {
                 category == 'all' 
@@ -44,6 +44,6 @@ export const CategoryById = () => {
                 ))
             }
         </div>
-    </div>
+    </section>
   )
 }
