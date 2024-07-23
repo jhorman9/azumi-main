@@ -104,31 +104,31 @@ const MainPage = () => {
         <h2 className='title_main'>PLATOS FUERTES</h2>
         <div className='content__card'>
 
-        <div className='section__card' onClick={()=> changeRoute('main-dishes/japanese')}>
+        <div className='section__card' onClick={()=> changeRoute('dishes/japanese')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
               <h3 className='sub-title_main'>Japonesa</h3>
             </div>
           </div>
 
-          <div className='section__card' onClick={()=> changeRoute('main-dishes/chinese')}>
+          <div className='section__card' onClick={()=> changeRoute('dishes/chinese')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
               <h3 className='sub-title_main'>China</h3>
             </div>
           </div>
 
-          <div className='section__card' onClick={()=> changeRoute('main-dishes/peruvian')}>
+          <div className='section__card' onClick={()=> changeRoute('dishes/peruvian')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
               <h3 className='sub-title_main'>Peruana</h3>
             </div>
           </div>
 
-          <div className='section__card' onClick={()=> changeRoute('main-dishes/italian')}>
+          <div className='section__card' onClick={()=> changeRoute('dishes/thai')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
-              <h3 className='sub-title_main'>Italiana</h3>
+              <h3 className='sub-title_main'>Tailandesa</h3>
             </div>
           </div>
 

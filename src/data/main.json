@@ -35,7 +35,7 @@
         "id": 5,
         "nombre": "Brochetas de pollo",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 12.99,
         "descripcion": "Jugosos trozos de pollo marinados y asados a la parrilla, ensartados con pimientos y cebolla. Un clásico delicioso y lleno de sabor."
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "nombre": "Brochetas mixtas",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Una combinación exquisita de jugosos trozos de pollo y carne de res, marinados y asados a la parrilla, ensartados con pimientos y cebolla. Una opción variada y llena de sabor para los amantes de la parrilla."
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "nombre": "Brochetas de camaron",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 12.99,
         "descripcion": "Camarones frescos y tiernos, sazonados con especias selectas y asados a la parrilla, ensartados en brochetas. Una deliciosa opción marina, perfecta para los amantes de los mariscos."
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "nombre": "Brochetas de salmon",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Trozos frescos de salmón marinados en hierbas y especias, cuidadosamente ensartados en brochetas y asados a la parrilla. Una opción sabrosa y saludable, ideal para los amantes del pescado."
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "nombre": "Brochetas de queso",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 8.99,
         "descripcion": "Cubos de queso fresco asados a la parrilla en brochetas. Un bocado cremoso y sabroso para disfrutar en cada mordisco."
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "nombre": "Fish nuggets",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 11.50,
         "descripcion": "6 Deditos de pescado blanco, empanizados con una cobertura crujiente y dorada. Acompañados de una salsa tártara casera para sumergir, son una opción deliciosa y satisfactoria para satisfacer los antojos de mariscos."
     },
@@ -83,7 +83,7 @@
         "id": 11,
         "nombre": "Tori tatsuta",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 10.50,
         "descripcion": "Tiras de pollo marinadas en una mezcla de salsa de soya, jengibre y ajo, recubiertas con almidón de maíz y fritas hasta alcanzar una textura crujiente. Servidas con una salsa de sésamo para sumergir, estas tiras de pollo son una delicia sabrosa y adictiva de la cocina japonesa."
     },
@@ -91,7 +91,7 @@
         "id": 12,
         "nombre": "Croquetas de salmon",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 11.50,
         "descripcion": "4 Suaves croquetas de salmón, crujientes por fuera y cremosas por dentro. Un bocado irresistible de sabor marino."
     },
@@ -99,7 +99,7 @@
         "id": 13,
         "nombre": "Croquetas de cangrejo",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 10.50,
         "descripcion": "4 Bocados crujientes de cangrejo, suaves por dentro y llenos de sabor."
     },
@@ -107,7 +107,7 @@
         "id": 14,
         "nombre": "Croquetas de queso de cabra",
         "categoria": "Japones",
-        "subcategoria": "Platos Principales",
+        "subcategoria": "Entradas",
         "precio": 10.50,
         "descripcion": "4 Deliciosas croquetas con un corazón de queso de cabra cremoso y un exterior crujiente. Un placer indulgente para los amantes del queso."
     },

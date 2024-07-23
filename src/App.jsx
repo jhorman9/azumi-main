@@ -12,6 +12,8 @@ import Contacts from './pages/ContactsPage';
 import NavBar from './components/NavComponents/NavBar';
 import ProtectedRoutes from './components/ProtectedRoutes/ProtectedRoutes';
 import FooterComponent from './components/FooterComponents/FooterComponent';
+import { CategoryPage } from './pages/CategoryPage';
+import { CategoryById } from './pages/CategoryById';
 
 function App() {
 
@@ -33,8 +35,8 @@ function App() {
               <Route path='/products' element={<Products />}/>
               <Route path='/reserva' element={<Reserva />}/>
               <Route path='/main' element={<MainPage />}/>
-              <Route path='/main/:category' element={<MainPage />} />
-              <Route path='/main/:category/:dishes' element={<MainPage />} />
+              <Route path='/main/:category' element={<CategoryById />} />
+              <Route path='/main/:category/:dishes' element={<CategoryById />} />
               <Route path='/cart' element={<CartMain />}/>
               <Route path='/contacts' element={<Contacts />}/>
           </Routes>
