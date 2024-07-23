@@ -12,15 +12,12 @@ import Contacts from './pages/ContactsPage';
 import NavBar from './components/NavComponents/NavBar';
 import ProtectedRoutes from './components/ProtectedRoutes/ProtectedRoutes';
 import FooterComponent from './components/FooterComponents/FooterComponent';
-import { CategoryPage } from './pages/CategoryPage';
 import { CategoryById } from './pages/CategoryById';
 
 function App() {
 
   const dispatch = useDispatch();
-
   const handleClickSideBar = useSelector((state) => state.handleClickSideBar);
-
   const handleClick = () => {
     dispatch(setHandleClick(false));
   }
@@ -53,4 +50,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
