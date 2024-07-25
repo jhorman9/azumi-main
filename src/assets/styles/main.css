@@ -106,10 +106,25 @@ section .section__card:hover .card__text{
 
 .main-category .card .card-body{
     margin-bottom: 20px;
+    border-bottom: 1px solid var(--white-transparent);
+    padding-bottom: 7px;
 }
 
 @media (max-width: 768px) {
     .main-category .card .card-body h2{
         font-size: 18px;
     }   
+}
+
+.main-category .card .card-body .card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 14px;
+}
+
+.big-price{
+    font-size: 20px;
+    color: var(--red);
+    font-weight: 700;
 }

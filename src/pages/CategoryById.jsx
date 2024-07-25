@@ -30,16 +30,20 @@ export const CategoryById = () => {
                 category == 'all' 
                 ?sortedMain.map((data) => (
                     <div className="card-body" key={data.id}>
-                        <h2>{data.nombre}</h2>
-                        <small>{data.descripcion}</small>
-                        <h4>{data.precio}</h4>
+                        <div className="card-header">
+                            <h2>{data.nombre}</h2>
+                            <span className="big-price"> ${data.precio}</span>
+                        </div>
+                        <p>{data.descripcion}</p>
                     </div>
-                )):
+                )): 
                 orderedData.map((data) => (
                     <div className="card-body" key={data.id}>
-                        <h2>{data.nombre}</h2>
-                        <small>{data.descripcion}</small>
-                        <h4>{data.precio}</h4>
+                        <div className="card-header">
+                            <h2>{data.nombre}</h2>
+                            <span className="big-price">${data.precio}</span>
+                        </div>
+                        <p>{data.descripcion}</p>
                     </div>
                 ))
             }
