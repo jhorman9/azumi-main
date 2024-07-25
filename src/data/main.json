@@ -329,11 +329,43 @@
     },
     {
         "id": 42,
-        "nombre": "Tartar de atun",
+        "nombre": "Tartar de atún",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Preparación de atún fresco cortado en cubos finos y sazonado con ingredientes como aguacate, cebolla roja, cilantro y salsa de soya. Se sirve con hilo de arroz frito crujiente encima para añadir textura y sabor adicional."
+    },
+    {
+        "id": 91,
+        "nombre": "Chicharron de arañita",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 13.99,
+        "descripcion": "Tentáculos de calamar frito hasta obtener una textura crujiente y dorada, acompañados de una salsa casera especial. Un platillo que combina la suavidad del calamar con una explosión de sabores en cada bocado."
+    },
+    {
+        "id": 92,
+        "nombre": "Atún abrazado",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 13.99,
+        "descripcion": "Filete de atún sellado en una mezcla de pimienta y semillas de ajonjolí, acompañado de chutney de piña y mayocurry."
+    },
+    {
+        "id": 93,
+        "nombre": "Maguro tataki",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 13.99,
+        "descripcion": "Atún sellado, acompañado de una delicada salsa Arague, jengibre fresco y cebollina."
+    },
+    {
+        "id": 94,
+        "nombre": "Papa a la Huancaína",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 9.99,
+        "descripcion": "Papas cocidas y cortadas en cuadros, cubiertas con una cremosa salsa huancaína y decoradas con brotes frescos de cilantro."
     },
     {
         "id": 43,
@@ -424,6 +456,14 @@
         "descripcion": "Caldo fragante con fideos ramen, una combinación de carne de cerdo, pollo, camarones, huevo cocido y verduras frescas. Una explosión de sabores en cada cucharada."
     },
     {
+        "id": 95,
+        "nombre": "Ramen de Pescado",
+        "categoria": "Japones",
+        "subcategoria": "Sopas",
+        "precio": 14.99,
+        "descripcion": "Exquisito caldo japonés con fideos ramen, suculentos trozos de pescado fresco, huevo cocido, y una selección de verduras frescas. Un plato reconfortante y sabroso, ideal para los amantes del pescado."
+    },
+    {
         "id": 54,
         "nombre": "Sopa de coco thay",
         "categoria": "Thailandes",
@@ -462,6 +502,54 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.90,
         "descripcion": "Jugoso pollo asado a la parrilla, acompañado de una colorida variedad de vegetales frescos. Un plato saludable y lleno de sabor, perfecto para una experiencia culinaria equilibrada."
+    },
+    {
+        "id": 96,
+        "nombre": "Tentáculos de Pulpo a la Brasa",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.99,
+        "descripcion": "Tentáculos de pulpo a la brasa, servidos con la guarnición de tu elección. Un plato sabroso con un toque ahumado."
+    },
+    {
+        "id": 97,
+        "nombre": "Pescado a la Mostaza",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de maíz y acompañados de yuca frita. Incluye pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos."
+    },
+    {
+        "id": 98,
+        "nombre": "Pescado en Salsa Sogayaky",
+        "categoria": "Japonesa",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Filete de pescado fresco en salsa japonesa Sogayaky con un toque de sake y mirin, realzando el sabor natural del pescado. Con un equilibrio dulce y salado. Acompañado de vegetales al vapor y arroz blanco."
+    },
+    {
+        "id": 99,
+        "nombre": "Sudado de pescado y mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime."
+    },
+    {
+        "id": 100,
+        "nombre": "Ají de gallina",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 9.99,
+        "descripcion": "Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro."
+    },
+    {
+        "id": 101,
+        "nombre": "Lomo saltados",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco."
     },
     {
         "id": 59,
