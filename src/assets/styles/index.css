@@ -28,10 +28,10 @@
 }
 
 body{
-    font-family: "Julee", cursive;
     min-height: 100vh;
     background-color: rgb(0, 0, 0);
     color: var(--white-intense);
+    font-family: "Poppins", sans-serif;
 }
 
 section{
@@ -50,6 +50,7 @@ section{
 
 h1, h2, h3, h4, h5, h6{
     color: var(--red);
+    font-family: "Julee", cursive;
 }
 
 .shadow{
