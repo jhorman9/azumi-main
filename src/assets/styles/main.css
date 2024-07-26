@@ -103,17 +103,11 @@ section .section__card:hover .card__text{
 .main-category{
     margin: auto;
 }
-
+    
 .main-category .card .card-body{
     margin-bottom: 20px;
     border-bottom: 1px solid var(--white-transparent);
     padding-bottom: 7px;
-}
-
-@media (max-width: 768px) {
-    .main-category .card .card-body h2{
-        font-size: 18px;
-    }   
 }
 
 .main-category .card .card-body .card-header{
@@ -121,6 +115,12 @@ section .section__card:hover .card__text{
     justify-content: space-between;
     align-items: center;
     gap: 14px;
+}
+
+@media (max-width: 768px) {
+    .main-category .card .card-body .card-description{
+        font-size: 14px;
+    }
 }
 
 .big-price{

@@ -34,7 +34,7 @@ export const CategoryById = () => {
                             <h2>{data.nombre}</h2>
                             <span className="big-price"> ${data.precio}</span>
                         </div>
-                        <p className="font-normal">{data.descripcion}</p>
+                        <p className="card-description">{data.descripcion}</p>
                     </div>
                 )): 
                 orderedData.map((data) => (
@@ -43,7 +43,7 @@ export const CategoryById = () => {
                             <h2>{data.nombre}</h2>
                             <span className="big-price">${data.precio}</span>
                         </div>
-                        <p className="font-normal">{data.descripcion}</p>
+                        <p className="card-description">{data.descripcion}</p>
                     </div>
                 ))
             }
