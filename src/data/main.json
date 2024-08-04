@@ -806,5 +806,13 @@
         "subcategoria": "Vegetales",
         "precio": 12.99,
         "descripcion": "La ensalada Cleopatra es una mezcla fresca de lechuga, tomates cherry, pepino, aceitunas negras y queso feta, aliñada con aceite de oliva, limón y hierbas mediterráneas. Es una opción ligera y sabrosa."
-    }
+    },
+    {
+        "id": 102,
+        "nombre": "Mix de tempura",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 14.99,
+        "descripcion": "Delicada selección de vegetales frescos, incluyendo zanahoria, cebolla, pimentón rojo, zukini y berenjena, fritos en tempura crujiente y acompañados de una exquisita salsa arage."
+    },
 ]
