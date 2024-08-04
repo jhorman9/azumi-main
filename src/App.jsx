@@ -13,6 +13,8 @@ import NavBar from './components/NavComponents/NavBar';
 import ProtectedRoutes from './components/ProtectedRoutes/ProtectedRoutes';
 import FooterComponent from './components/FooterComponents/FooterComponent';
 import { CategoryById } from './pages/CategoryById';
+import { useEffect, useState } from 'react';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
 
@@ -22,9 +24,14 @@ function App() {
     dispatch(setHandleClick(false));
   }
   
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <>
       <NavBar />
+      <ScrollToTop />
         <main>
           <Routes element={<ProtectedRoutes />}>
               <Route path='/' element={<MainPage />}/>
