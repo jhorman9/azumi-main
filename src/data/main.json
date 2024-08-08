@@ -505,7 +505,7 @@
     },
     {
         "id": 96,
-        "nombre": "Tentáculos de Pulpo a la Brasa",
+        "nombre": "Tentáculos de Pulpo a la parrilla",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
         "precio": 16.99,
@@ -846,5 +846,13 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Tallarines al dente cubiertos con una cremosa salsa huancaína, acompañados de jugosos trozos de lomo saltado al estilo peruano. Un plato que fusiona dos clásicos de la gastronomía peruana en una combinación irresistible de sabores y texturas."
+    },
+    {
+        "id": 107,
+        "nombre": "Parrilla mar y tierra",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Una exquisita combinación de cortes selectos de carne a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete."
     }
 ]
