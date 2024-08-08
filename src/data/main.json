@@ -822,5 +822,13 @@
         "subcategoria": "Entradas",
         "precio": 11.99,
         "descripcion": "Ensalada fresca de algas marinas wakame, combinada con salmón, kani y aderezada con mayonesa japonesa. Una mezcla deliciosa de sabores del mar con un toque cremoso que deleitará tu paladar."
+    },
+    {
+        "id": 104,
+        "nombre": "Corvina con Chimichurri y Camarones",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Entradas",
+        "precio": 19.99,
+        "descripcion": "Filete de corvina a la parrilla, cubierto con chimichurri y camarones salteados, servido sobre una cama de vegetales frescos y acompañado de arroz."
     }
 ]
