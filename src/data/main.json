@@ -830,5 +830,21 @@
         "subcategoria": "Entradas",
         "precio": 19.99,
         "descripcion": "Filete de corvina a la parrilla, cubierto con chimichurri y camarones salteados, servido sobre una cama de vegetales frescos y acompañado de arroz."
+    },
+    {
+        "id": 105,
+        "nombre": "Tallarines en salsa huancaina con mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Tallarines al dente servidos con una cremosa salsa huancaína, acompañados de una variedad de mariscos frescos. Un plato que fusiona la rica tradición peruana con los sabores del mar, ofreciendo una experiencia única y deliciosa."
+    },
+    {
+        "id": 106,
+        "nombre": "Tallarines en salsa huancaina con lomo saltado",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Tallarines al dente cubiertos con una cremosa salsa huancaína, acompañados de jugosos trozos de lomo saltado al estilo peruano. Un plato que fusiona dos clásicos de la gastronomía peruana en una combinación irresistible de sabores y texturas."
     }
 ]
