@@ -1,6 +1,7 @@
 import { useNavigate, useParams } from "react-router-dom";
 import menuJson from '../data/main.json';
 import examplePhoto from '../assets/images/testweb.jpg';
+import examplePhoto2 from '../assets/images/testweb2.jpg';
 import { Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
@@ -52,7 +53,7 @@ export const CategoryById = () => {
                             }}              
                             modules={[Pagination, Autoplay]} className="mySwiper">
                             <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                            <SwiperSlide><img src={examplePhoto2} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                         </Swiper>                   </div>
                         <div className="card-body_container">
                             <div className="card-header">
@@ -73,7 +74,7 @@ export const CategoryById = () => {
                             }}              
                             modules={[Autoplay, Pagination]} className="mySwiper">
                             <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                            <SwiperSlide><img src={examplePhoto2} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                         </Swiper>
                         </div>
                         <div className="card-body_container">
