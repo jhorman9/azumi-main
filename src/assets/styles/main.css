@@ -234,5 +234,5 @@ section .section__card:hover .card__text{
 }
 
 .card .swiper-wrapper {
-    max-width: 250px;
+    max-width: 0px;
 }
