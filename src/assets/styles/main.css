@@ -221,7 +221,7 @@ section .section__card:hover .card__text{
 @media (max-width: 768px) {
     .main-category .card .card-image img{
         object-fit: cover;
-        max-width: 300px;
+        max-width: 600px;
         width: 100%;
         height: auto;
     }
