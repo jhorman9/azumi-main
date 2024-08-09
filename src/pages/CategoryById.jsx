@@ -11,7 +11,7 @@ export const CategoryById = () => {
     const navigate = useNavigate();
 
     const toBack = () => {
-        navigate('/');
+        navigate('/main');
     }
 
     const statusCategory = {
@@ -34,6 +34,8 @@ export const CategoryById = () => {
     const orderedData = filterData.sort((a, b) => a.nombre.localeCompare(b.nombre));
     const sortedMain = menuJson.sort((a,b) => a.nombre.localeCompare(b.nombre));
 
+    const baseDelay = 3000;
+
   return (
     <section className="main-category">
         <div className="main-back_page-container">
@@ -48,7 +50,7 @@ export const CategoryById = () => {
                     <div className="card-body" key={data.id}>
                         <div className="card-image">
                         <Swiper autoplay={{
-                            delay: 3000,
+                            delay: baseDelay,
                             disableOnInteraction: false,
                             }}              
                             modules={[Pagination, Autoplay]} className="mySwiper">
@@ -75,7 +77,7 @@ export const CategoryById = () => {
                             modules={[Autoplay, Pagination]} className="mySwiper">
                             <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                             <SwiperSlide><img src={examplePhoto2} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                        </Swiper>
+                        </Swiper>   
                         </div>
                         <div className="card-body_container">
                             <div className="card-header">
