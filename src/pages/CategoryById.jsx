@@ -3,6 +3,7 @@ import menuJson from '../data/main.json';
 import examplePhoto from '../assets/images/testweb.jpg';
 import { Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
+import { Autoplay, Pagination } from 'swiper/modules';
 
 export const CategoryById = () => {
 
@@ -45,10 +46,14 @@ export const CategoryById = () => {
                 ?sortedMain.map((data) => (
                     <div className="card-body" key={data.id}>
                         <div className="card-image">
-                        <Swiper navigation={true} className="mySwiper">
+                        <Swiper autoplay={{
+                            delay: 3000,
+                            disableOnInteraction: false,
+                            }}              
+                            modules={[Pagination, Autoplay]} className="mySwiper">
                             <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                             <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                        </Swiper>                        </div>
+                        </Swiper>                   </div>
                         <div className="card-body_container">
                             <div className="card-header">
                                 <h2>{data.nombre}</h2>
@@ -62,7 +67,11 @@ export const CategoryById = () => {
                 orderedData.map((data) => (
                     <div className="card-body" key={data.id}>
                         <div className="card-image">
-                        <Swiper navigation={true} className="mySwiper">
+                        <Swiper autoplay={{
+                            delay: 2500,
+                            disableOnInteraction: false,
+                            }}              
+                            modules={[Autoplay, Pagination]} className="mySwiper">
                             <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                             <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                         </Swiper>
