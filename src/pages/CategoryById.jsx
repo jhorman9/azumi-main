@@ -1,6 +1,8 @@
 import { useNavigate, useParams } from "react-router-dom";
 import menuJson from '../data/main.json';
-import examplePhoto from '../assets/images/azumi.jpg';
+import examplePhoto from '../assets/images/testweb.jpg';
+import { Navigation } from 'swiper/modules';
+import { Swiper, SwiperSlide } from 'swiper/react';
 
 export const CategoryById = () => {
 
@@ -43,8 +45,10 @@ export const CategoryById = () => {
                 ?sortedMain.map((data) => (
                     <div className="card-body" key={data.id}>
                         <div className="card-image">
-                            <img src={examplePhoto} alt="foto de azumi" width={30} height={30}/>
-                        </div>
+                        <Swiper navigation={true} className="mySwiper">
+                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                        </Swiper>                        </div>
                         <div className="card-body_container">
                             <div className="card-header">
                                 <h2>{data.nombre}</h2>
@@ -58,7 +62,10 @@ export const CategoryById = () => {
                 orderedData.map((data) => (
                     <div className="card-body" key={data.id}>
                         <div className="card-image">
-                            <img src={examplePhoto} alt="foto de azumi" width={30} height={30}/>
+                        <Swiper navigation={true} className="mySwiper">
+                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                        </Swiper>
                         </div>
                         <div className="card-body_container">
                             <div className="card-header">

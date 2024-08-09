@@ -8,10 +8,11 @@
 .main-category .main-back_page-container{
     background: #000;
     padding: 14px 0;
-    top: 96px;
+    top: 97px;
     width: 100%;
     position: sticky;
     margin-bottom: 20px;
+    z-index: 9;
 }
 
 .main-category .main-back_page i{
@@ -212,6 +213,8 @@ section .section__card:hover .card__text{
         align-items: center;
         flex-shrink: 1;
         margin-bottom: 3px;
+        height: 100%;
+        width: 100%;
     }
 }
 
@@ -228,4 +231,8 @@ section .section__card:hover .card__text{
     font-size: 20px;
     color: var(--red);
     font-weight: 700;
+}
+
+.card .swiper-wrapper {
+    max-width: 250px;
 }
