@@ -65,7 +65,7 @@ const MainPage = () => {
           <div className='section__card' onClick={()=> changeRoute('entrees/thai')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
-              <h3 className='sub-title_main'>Thai</h3>
+              <h3 className='sub-title_main'>Tailandesa</h3>
             </div>
           </div>
 

@@ -7,7 +7,7 @@ import { useState } from "react";
 
 export const CategoryById = () => {
     const navigate = useNavigate();
-    const [newData, setNewData] = useState([]);
+    const [newDataSushi, setNewDataSushi] = useState([]);
     const { category, dishes } = useParams(); 
 
     const toBack = () => {
@@ -39,40 +39,36 @@ export const CategoryById = () => {
     const baseDelay = 3000;
 
     const convertSushi = () => {
-        setNewData(orderedData.filter(data => data.isRoll));
+        setNewDataSushi(orderedData.filter(data => data.isRoll));
     }
 
     const convertAll = () => {
-        setNewData([]);
+        setNewDataSushi([]);
     }
-
-    const renderSwiper = (data) => (
-        <Swiper
-            autoplay={{
-                delay: baseDelay,
-                disableOnInteraction: false,
-            }}
-            modules={[Pagination, Autoplay]}
-            className="mySwiper"
-        >
-            {data.images.length > 0 ? (
-                data.images.map((pic) => (
-                    <SwiperSlide key={pic}>
-                        <img src={pic} alt={data.nombre} width={30} height={30} />
-                    </SwiperSlide>
-                ))
-            ) : (
-                <SwiperSlide>
-                    <img src={examplePhoto} alt="default" width={30} height={30} />
-                </SwiperSlide>
-            )}
-        </Swiper>
-    );
 
     const renderCardBody = (data) => (
         <div className="card-body" key={data.id}>
             <div className="card-image">
-                {renderSwiper(data)}
+                <Swiper
+                    autoplay={{
+                        delay: baseDelay,
+                        disableOnInteraction: false,
+                    }}
+                    modules={[Pagination, Autoplay]}
+                    className="mySwiper"
+                    >
+                    {data.images.length > 0 ? (
+                        data.images.map((pic) => (
+                            <SwiperSlide key={pic}>
+                                <img src={pic} alt={data.nombre} width={30} height={30} />
+                            </SwiperSlide>
+                        ))
+                    ) : (
+                        <SwiperSlide>
+                            <img src={examplePhoto} alt="default" width={30} height={30} />
+                        </SwiperSlide>
+                    )}
+                </Swiper>
             </div>
             <div className="card-body_container">
                 <div className="card-header"> 
@@ -92,8 +88,8 @@ export const CategoryById = () => {
                 </div>
                 {window.location.hash === '#/main/dishes/japanese' && (
                     <div className="sushi-category">
-                        <span onClick={newData.length > 0 ? convertAll : convertSushi}>
-                            {newData.length > 0 ? 'Ver todo' : 'Sushi'}
+                        <span onClick={newDataSushi.length > 0 ? convertAll : convertSushi}>
+                            {newDataSushi.length > 0 ? 'Ver todo' : 'Sushi'}
                         </span>
                     </div>
                 )}
@@ -102,7 +98,7 @@ export const CategoryById = () => {
                 {category === 'all' ? (
                     sortedMain.map((data) => renderCardBody(data))
                 ) : (
-                    (newData.length > 0 ? newData : orderedData).map((data) => renderCardBody(data))
+                    (newDataSushi.length > 0 ? newDataSushi : orderedData).map((data) => renderCardBody(data))
                 )}
             </div>
         </section>
