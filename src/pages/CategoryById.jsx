@@ -1,8 +1,6 @@
 import { useNavigate, useParams } from "react-router-dom";
 import menuJson from '../data/main.json';
-import examplePhoto from '../assets/images/testweb.jpg';
-import examplePhoto2 from '../assets/images/testweb2.jpg';
-import { Navigation } from 'swiper/modules';
+import examplePhoto from '../assets/images/image-category.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
 
@@ -46,7 +44,7 @@ export const CategoryById = () => {
         <div className="card">
             {
                 category == 'all' 
-                ?sortedMain.map((data) => (
+                ? sortedMain.map((data) => (
                     <div className="card-body" key={data.id}>
                         <div className="card-image">
                         <Swiper autoplay={{
@@ -54,9 +52,16 @@ export const CategoryById = () => {
                             disableOnInteraction: false,
                             }}              
                             modules={[Pagination, Autoplay]} className="mySwiper">
-                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                            <SwiperSlide><img src={examplePhoto2} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                        </Swiper>                   </div>
+                                {
+                                data.images.length > 0 ?
+                                data.images?.map((pic, i) => (
+                                    <SwiperSlide key={pic}><img src={`./src/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                                ))
+                                :
+                                <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                            }
+                        </Swiper>                   
+                        </div>
                         <div className="card-body_container">
                             <div className="card-header">
                                 <h2>{data.nombre}</h2>
@@ -71,12 +76,18 @@ export const CategoryById = () => {
                     <div className="card-body" key={data.id}>
                         <div className="card-image">
                         <Swiper autoplay={{
-                            delay: 2500,
+                            delay: baseDelay,
                             disableOnInteraction: false,
                             }}              
-                            modules={[Autoplay, Pagination]} className="mySwiper">
-                            <SwiperSlide><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                            <SwiperSlide><img src={examplePhoto2} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                            modules={[Pagination, Autoplay]} className="mySwiper">
+                                {
+                                data.images.length > 0 ?
+                                data.images?.map((pic, i) => (
+                                    <SwiperSlide key={pic}><img src={`./src/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                                ))
+                                :
+                                <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                            }
                         </Swiper>   
                         </div>
                         <div className="card-body_container">
