@@ -15,7 +15,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Finísimas rodajas de pulpo cocido, marinadas con aceite de oliva virgen extra y un toque de limón. Servido con alcaparras, pimentón ahumado y hierbas frescas, creando una experiencia de sabor única y sofisticada.",
-        "images": ["carpaccio de pulpo.jpg"]
+        "images": ["./fotos-menu/carpaccio-de-pulpo.jpg"]
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Finas láminas de filete de res de alta calidad, aderezadas con aceite de oliva virgen extra. Acompañado de rúcula fresca y lascas de queso parmesano, ofreciendo una combinación sublime de sabores y texturas.",
-        "images": ["carpaccio de carne.jpg"]
+        "images": ["./fotos-menu/carpaccio-de-carne.jpg"]
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "subcategoria": "Entradas",
         "precio": 14.99,
         "descripcion": "Langostinos frescos y jugosos, acompañados de una selección de vegetales y cangrejo, todos cubiertos con una ligera y crujiente masa de tempura, fritos a la perfección. Servidos con una salsa de soya y jengibre para una experiencia de sabor auténticamente japonesa.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura-azumi.jpg", "./fotos-menu/Tempura-azumi2.jpg"]
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "subcategoria": "Entradas",
         "precio": 12.99,
         "descripcion": "Jugosos trozos de pollo marinados y asados a la parrilla, ensartados con pimientos y cebolla. Un clásico delicioso y lleno de sabor.",
-        "images": ["Brocheta de pollo.jpg", "Brocheta de pollo2.jpg"]
+        "images": ["./fotos-menu/Brocheta-de-pollo.jpg", "./fotos-menu/Brocheta-de-pollo2.jpg"]
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Una combinación exquisita de jugosos trozos de pollo y carne de res, marinados y asados a la parrilla, ensartados con pimientos y cebolla. Una opción variada y llena de sabor para los amantes de la parrilla.",
-        "images": ["Brocheta mixta.jpg", "Brocheta mixta1.jpg"]
+        "images": ["./fotos-menu/Brocheta-mixta.jpg", "./fotos-menu/Brocheta-mixta1.jpg"]
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "subcategoria": "Entradas",
         "precio": 12.99,
         "descripcion": "Camarones frescos y tiernos, sazonados con especias selectas y asados a la parrilla, ensartados en brochetas. Una deliciosa opción marina, perfecta para los amantes de los mariscos.",
-        "images": ["Brocheta de camarones.jpg", "Brocheta de camarones1.jpg"]
+        "images": ["./fotos-menu/Brocheta-de-camarones.jpg", "./fotos-menu/Brocheta-de-camarones1.jpg"]
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Trozos frescos de salmón marinados en hierbas y especias, cuidadosamente ensartados en brochetas y asados a la parrilla. Una opción sabrosa y saludable, ideal para los amantes del pescado.",
-        "images": ["Brocheta de salmon.jpg", "Brocheta de salmon2.jpg"]
+        "images": ["./fotos-menu/Brocheta-de-salmon.jpg", "./fotos-menu/Brocheta-de-salmon2.jpg"]
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "subcategoria": "Entradas",
         "precio": 8.99,
         "descripcion": "Cubos de queso fresco asados a la parrilla en brochetas. Un bocado cremoso y sabroso para disfrutar en cada mordisco.",
-        "images": ["Brocheta de queso.jpg"]
+        "images": ["./fotos-menu/Brocheta-de-queso.jpg"]
     },
     {
         "id": 10,
@@ -105,7 +105,7 @@
         "subcategoria": "Entradas",
         "precio": 11.50,
         "descripcion": "4 Suaves croquetas de salmón, crujientes por fuera y cremosas por dentro. Un bocado irresistible de sabor marino.",
-        "images": ["Croqueta de salmon.jpg", "Croqueta de salmon2.jpg"]
+        "images": ["./fotos-menu/Croqueta-de-salmon.jpg", "./fotos-menu/Croqueta-de-salmon2.jpg"]
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "subcategoria": "Entradas",
         "precio": 10.50,
         "descripcion": "4 Bocados crujientes de cangrejo, suaves por dentro y llenos de sabor.",
-        "images": ["Croqueta de cangrejo.jpg", "Croqueta de cangrejo2.jpg"]
+        "images": ["./fotos-menu/Croqueta-de-cangrejo.jpg", "./fotos-menu/Croqueta-de-cangrejo2.jpg"]
     },
     {
         "id": 14,
@@ -132,7 +132,7 @@
         "subcategoria": "Entradas",
         "precio": 7.99,
         "descripcion": "5 Delicadas empanadillas rellenas de camarones frescos y sazonados, doradas a la plancha para obtener una textura crujiente por fuera y jugosa por dentro. Un manjar marino irresistible.",
-        "images": ["Gyozas de camaron.jpg"]
+        "images": ["./fotos-menu/Gyozas de camaron.jpg"]
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "subcategoria": "Entradas",
         "precio": 7.99,
         "descripcion": "5 Deliciosas empanadillas rellenas de cerdo, doradas a la perfección. Un sabor asiático auténtico en cada bocado.",
-        "images": ["Gyozas de puerco.jpg"]
+        "images": ["./fotos-menu/Gyozas de puerco.jpg"]
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "subcategoria": "Entradas",
         "precio": 7.99,
         "descripcion": "5 Deliciosas empanadillas rellenas de pollo, perfectamente doradas. Un placer asiático en cada bocado.",
-        "images": ["Gyozas de pollo.jpg"]
+        "images": ["./fotos-menu/Gyozas de pollo.jpg"]
     },
     {
         "id": 18,
@@ -231,7 +231,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Ceviche tradicional peruano preparado con pescado fresco marinado en jugo de limón, acompañado de cebolla roja, ají limo y cilantro. Un plato refrescante y lleno de sabores cítricos, típico de la gastronomía peruana.",
-        "images": ["Ceviche limeno2.jpg", "Ceviche limeno4.jpg"]
+        "images": ["./fotos-menu/Ceviche limeno2.jpg", "Ceviche limeno4.jpg"]
     },
     {
         "id": 27,
@@ -249,7 +249,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Delicados trozos de pulpo marinado en jugo de limón, combinados con cebolla morada finamente picada, cilantro fresco, tomate en cubos y un toque de ají, creando una armonía perfecta de sabores y texturas.",
-        "images": ["Ceviche de pulpo3.jpg", "Ceviche de pulpo5.jpg"]
+        "images": ["./fotos-menu/Ceviche de pulpo3.jpg", "Ceviche de pulpo5.jpg"]
     },
     {
         "id": 29,
@@ -258,7 +258,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Ceviche preparado con pescado o mariscos marinados en jugo de limón y ají amarillo peruano, acompañado de cebolla roja, cilantro y maíz cancha. Un plato vibrante y lleno de sabores picantes y cítricos, típico de la gastronomía peruana.",
-        "images": ["Ceviche Aji amarillo2.jpg", "Ceviche Aji amarillo5.jpg"]
+        "images": ["./fotos-menu/Ceviche Aji amarillo2.jpg", "Ceviche Aji amarillo5.jpg"]
     },
     {
         "id": 30,
@@ -267,7 +267,7 @@
         "subcategoria": "Entradas",
         "precio": 15.90,
         "descripcion": "Clásico ceviche mixto de pulpo, camarones y calamares con leche de tigre cremosa y ajies, cilantro y jugo de limon acompanado de maiz peruano y chips de tuberculos.",
-        "images": ["Ceviche de mariscos2.jpg", "Ceviche de mariscos3.jpg"]
+        "images": ["./fotos-menu/Ceviche de mariscos2.jpg", "Ceviche de mariscos3.jpg"]
     },
     {
         "id": 31,
@@ -276,7 +276,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Preparado con pescado fresco marinado en jugo de limón y mezclado con frutas tropicales como mango, piña o maracuyá. Acompañado de cebolla roja, cilantro y un toque de ají limo.",
-        "images": ["Ceviche tropical2.jpg", "Ceviche tropical4.jpg"]
+        "images": ["./fotos-menu/Ceviche tropical2.jpg", "Ceviche tropical4.jpg"]
     },
     {
         "id": 32,
@@ -294,7 +294,7 @@
         "subcategoria": "Entradas",
         "precio": 14.70,
         "descripcion": "Mariscos o pescado marinados en limón y especias, rebozados y fritos para obtener una textura crujiente por fuera y suave por dentro, con cilantro añadido para un toque fresco. Acompañados típicamente de salsa criolla y camote frito.",
-        "images": ["Ceviche frito.jpg", "ceviche frito2.jpg"]
+        "images": ["./fotos-menu/Ceviche frito.jpg", "ceviche frito2.jpg"]
     },
     {
         "id": 34,
@@ -303,7 +303,7 @@
         "subcategoria": "Entradas",
         "precio": 12.50,
         "descripcion": "Delicada capa de puré de papa amarilla sazonada con ají amarillo y limón, rellena de camarones frescos y mayonesa. Acompañada de aguacate y huevo cocido. Un plato típico peruano que combina sabores cremosos y frescos.",
-        "images": ["Causa de camaron.jpg", "Causa de camaron2.jpg"]
+        "images": ["./fotos-menu/Causa de camaron.jpg", "Causa de camaron2.jpg"]
     },
     {
         "id": 35,
@@ -321,7 +321,7 @@
         "subcategoria": "Entradas",
         "precio": 12.90,
         "descripcion": "Poner",
-        "images": ["Causa de pollo2.jpg", "Causa de pollo4.jpg"]
+        "images": ["./fotos-menu/Causa de pollo2.jpg", "Causa de pollo4.jpg"]
     },
     {
         "id": 36,
@@ -330,7 +330,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Finas láminas de salmón fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.",
-        "images": ["Tiraditos de salmon3.jpg", "Tiraditos de salmon4.jpg"]
+        "images": ["./fotos-menu/Tiraditos de salmon3.jpg", "Tiraditos de salmon4.jpg"]
     },
     {
         "id": 37,
@@ -348,7 +348,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Láminas finas de pescado blanco fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, resaltando la frescura y el sabor del mar.",
-        "images": ["Tiraditos de pescado blanco (2).jpg", "Tiraditos de pescado blanco2 (2).jpg"]
+        "images": ["./fotos-menu/Tiraditos de pescado blanco (2).jpg", "Tiraditos de pescado blanco2 (2).jpg"]
     },
     {
         "id": 39,
@@ -357,7 +357,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Finas láminas de pescado blanco, atún y salmón frescos, marinados en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, ofreciendo una experiencia única de sabores marinos.",
-        "images": ["Trilogía de Tiraditos Marinos3.jpg", "Trilogía de Tiraditos Marinos5.jpg"]
+        "images": ["./fotos-menu/Trilogía de Tiraditos Marinos3.jpg", "Trilogía de Tiraditos Marinos5.jpg"]
     },
     {
         "id": 40,
@@ -375,7 +375,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Camarones o langostinos apanados con coco rallado y panko, fritos hasta quedar crujientes. Sazonados con especias tailandesas como cilantro, lima y ajo, servidos con salsa dulce.",
-        "images": ["ebi thai.jpg", "ebi thai2.jpg"]
+        "images": ["./fotos-menu/ebi thai.jpg", "ebi thai2.jpg"]
     },
     {
         "id": 42,
@@ -384,7 +384,7 @@
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Preparación de atún fresco cortado en cubos finos y sazonado con ingredientes como aguacate, cebolla roja, cilantro y salsa de soya. Se sirve con hilo de arroz frito crujiente encima para añadir textura y sabor adicional.",
-        "images": ["Tartar de atun.jpg", "tartar de atun4.jpg"]
+        "images": ["./fotos-menu/Tartar de atun.jpg", "tartar de atun4.jpg"]
     },
     {
         "id": 91,
@@ -393,7 +393,7 @@
         "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Tentáculos de calamar frito hasta obtener una textura crujiente y dorada, acompañados de una salsa casera especial. Un platillo que combina la suavidad del calamar con una explosión de sabores en cada bocado.",
-        "images": ["chicharron aranita.jpg", "chicharron aranita3.jpg"]
+        "images": ["./fotos-menu/chicharron aranita.jpg", "chicharron aranita3.jpg"]
     },
     {
         "id": 92,
@@ -402,7 +402,7 @@
         "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Filete de atún sellado en una mezcla de pimienta y semillas de ajonjolí, acompañado de chutney de piña y mayocurry.",
-        "images": ["atun abrazado2.jpg", "atun abrazado3 (2).jpg"]
+        "images": ["./fotos-menu/atun abrazado2.jpg", "atun abrazado3 (2).jpg"]
     },
     {
         "id": 93,
@@ -411,7 +411,7 @@
         "subcategoria": "Entradas",
         "precio": 13.99,
         "descripcion": "Atún sellado, acompañado de una delicada salsa Arague, jengibre fresco y cebollina.",
-        "images": ["maguro tataki1.jpg", "maguro tataki3.jpg"]
+        "images": ["./fotos-menu/maguro tataki1.jpg", "maguro tataki3.jpg"]
     },
     {
         "id": 94,
@@ -420,7 +420,7 @@
         "subcategoria": "Entradas",
         "precio": 9.99,
         "descripcion": "Papas cocidas y cortadas en cuadros, cubiertas con una cremosa salsa huancaína y decoradas con brotes frescos de cilantro.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 43,
@@ -429,7 +429,7 @@
         "subcategoria": "Sopas",
         "precio": 10.99,
         "descripcion": "Sopa caliente y reconfortante con wantones rellenos de cerdo o camarón, servidos en un caldo sabroso y aromático. Un clásico de la cocina asiática.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 44,
@@ -438,7 +438,7 @@
         "subcategoria": "Sopas",
         "precio": 10.99,
         "descripcion": "Caldo de puerco clarificado con tallarines, relleno de camarones, lonjas de puerco y tiras de pollo. Un clásico asiático con una deliciosa combinación de sabores y texturas.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 45,
@@ -447,7 +447,7 @@
         "subcategoria": "Sopas",
         "precio": 11.99,
         "descripcion": "Caldo de cerdo con trozos de puerco y una variedad de vegetales. Un plato reconfortante y lleno de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 46,
@@ -456,7 +456,7 @@
         "subcategoria": "Sopas",
         "precio": 14.99,
         "descripcion": "Caldo de mariscos con camarones frescos, almejas en su concha, calamares, cebolla, pimienta y sal a gusto. Un festín marino lleno de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 47,
@@ -465,7 +465,7 @@
         "subcategoria": "Sopas",
         "precio": 10.99,
         "descripcion": "Caldo de pollo con una variedad de vegetales frescos. Un plato ligero y nutritivo.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 48,
@@ -474,7 +474,7 @@
         "subcategoria": "Entradas",
         "precio": 7.99,
         "descripcion": "Vainas de soja al vapor, sazonadas con sal. Un aperitivo saludable y delicioso.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 49,
@@ -483,7 +483,7 @@
         "subcategoria": "Sopas",
         "precio": 7.99,
         "descripcion": "Suave y cremosa sopa de maíz, rica en sabor y perfecta para cualquier ocasión.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 50,
@@ -492,7 +492,7 @@
         "subcategoria": "Sopas",
         "precio": 14.99,
         "descripcion": "Caldo rico y sabroso con fideos ramen, lonjas de cerdo, huevo, y verduras frescas. Un clásico japonés lleno de umami.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 51,
@@ -501,7 +501,7 @@
         "subcategoria": "Sopas",
         "precio": 15.99,
         "descripcion": "Caldo aromático con fideos ramen, trozos tiernos de carne, huevo cocido, y vegetales frescos. Una experiencia reconfortante llena de sabores profundos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 52,
@@ -510,7 +510,7 @@
         "subcategoria": "Sopas",
         "precio": 14.99,
         "descripcion": "Caldo reconfortante con fideos ramen, trozos suculentos de pollo, huevo cocido y verduras frescas. Una opción reconfortante y llena de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 53,
@@ -519,7 +519,7 @@
         "subcategoria": "Sopas",
         "precio": 15.99,
         "descripcion": "Caldo fragante con fideos ramen, una combinación de carne de cerdo, pollo, camarones, huevo cocido y verduras frescas. Una explosión de sabores en cada cucharada.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 95,
@@ -528,7 +528,7 @@
         "subcategoria": "Sopas",
         "precio": 14.99,
         "descripcion": "Exquisito caldo japonés con fideos ramen, suculentos trozos de pescado fresco, huevo cocido, y una selección de verduras frescas. Un plato reconfortante y sabroso, ideal para los amantes del pescado.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 54,
@@ -537,7 +537,7 @@
         "subcategoria": "Sopas",
         "precio": 13.99,
         "descripcion": "Sopa aromática de leche de coco con sabores tailandeses auténticos, como limoncillo y jengibre, acompañada de camarones frescos, setas y verduras. Una experiencia culinaria exótica y deliciosa.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 55,
@@ -546,7 +546,7 @@
         "subcategoria": "Sopas",
         "precio": 12.99,
         "descripcion": "Sopa cremosa de pollo con maíz, papas, huevos y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar en cualquier ocasión.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 56,
@@ -555,7 +555,7 @@
         "subcategoria": "Sopas",
         "precio": 13.99,
         "descripcion": "Sopa cremosa de camarones con maíz, papas y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 57,
@@ -564,7 +564,7 @@
         "subcategoria": "Sopas",
         "precio": 14.5,
         "descripcion": "Sopa cremosa de mariscos con camarones, calamares, mejillones y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar de una experiencia culinaria marina.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 58,
@@ -573,7 +573,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.90,
         "descripcion": "Jugoso pollo asado a la parrilla, acompañado de una colorida variedad de vegetales frescos. Un plato saludable y lleno de sabor, perfecto para una experiencia culinaria equilibrada.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 96,
@@ -582,7 +582,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 16.99,
         "descripcion": "Tentáculos de pulpo a la brasa, servidos con la guarnición de tu elección. Un plato sabroso con un toque ahumado.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 97,
@@ -591,7 +591,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
         "descripcion": "Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de maíz y acompañados de yuca frita. Incluye pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 98,
@@ -600,7 +600,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Filete de pescado fresco en salsa japonesa Sogayaky con un toque de sake y mirin, realzando el sabor natural del pescado. Con un equilibrio dulce y salado. Acompañado de vegetales al vapor y arroz blanco.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 99,
@@ -609,7 +609,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 100,
@@ -618,7 +618,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 9.99,
         "descripcion": "Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 101,
@@ -627,7 +627,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
         "descripcion": "Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 59,
@@ -636,7 +636,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.90,
         "descripcion": "Dados de pollo tiernos cocinados en una rica y aromática salsa de curry, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y especias.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 60,
@@ -645,7 +645,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.90,
         "descripcion": "Dados de cerdo tiernos cocinados en una rica salsa de curry con crema de leche y coco, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y cremosidad, perfecto para disfrutar en cualquier ocasión.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 61,
@@ -654,7 +654,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Jugosos camarones cocinados en una rica salsa de curry con crema de leche y coco, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y cremosidad.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 62,
@@ -663,7 +663,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Delicada corvina servida con una robusta salsa a base de tomate, ají picante y una selección de mariscos, acompañado con .",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 63,
@@ -672,7 +672,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Corvina acompañada de una suave salsa blanca y camarones o mariscos. Un plato elegante y sabroso, ideal para disfrutar de una experiencia culinaria delicada.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 64,
@@ -681,7 +681,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Corvina fresca cocinada al vapor con una mezcla de mariscos frescos, como camarones, calamares y almejas, en un caldo sabroso y aromático. Un plato marino exquisito que combina la frescura del pescado con la riqueza de los mariscos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 65,
@@ -690,7 +690,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Filete de corvina marinado en una mezcla de vinagre, aceite de oliva, especias y verduras aromáticas como cebolla y pimiento. Un plato refrescante y lleno de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 66,
@@ -699,7 +699,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Filete de corvina a la parrilla acompañado de anillos de calamar fritos estilo romano. Una combinación exquisita de sabores marinos y texturas crujientes.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 67,
@@ -708,7 +708,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Filete de corvina sazonado con jengibre fresco y cebollín, servido sobre una cama de vegetales salteados y arroz jazmin.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 68,
@@ -717,7 +717,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
         "descripcion": "Filete de salmón bañado en una suculenta salsa de maracuyá, que combina dulzura y un toque cítrico. Un plato exquisito que resalta la frescura del salmón con el contraste de sabores tropicales.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 69,
@@ -726,7 +726,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 22.99,
         "descripcion": "Filete de salmón fresco cubierto con una rica salsa saimoy, que equilibra perfectamente notas dulces y saladas. Un plato elegante y sabroso que deleita los sentidos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 70,
@@ -735,7 +735,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Pollo a la plancha en salsa teriyaki, acompañado de arroz yakimeshi. Un plato delicioso y equilibrado, que combina sabores tradicionales japoneses con ingredientes frescos y de alta calidad.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 71,
@@ -744,7 +744,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 17.50,
         "descripcion": "Carne de res a la plancha, en salsa teriyaki, acompañada con arroz yakimeshi o yakisoba.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 72,
@@ -753,7 +753,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 18.00,
         "descripcion": "Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. Un plato delicado y lleno de sabores marinos, ideal para los amantes del salmón.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 73,
@@ -762,7 +762,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.90,
         "descripcion": "Clásico arroz chaufa peruano, salteado con trozos de pollo, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, creando una deliciosa fusión de sabores peruanos y chinos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 74,
@@ -771,7 +771,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 16.90,
         "descripcion": "Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, ofreciendo una deliciosa fusión de sabores peruanos y chinos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 75,
@@ -780,7 +780,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.90,
         "descripcion": "Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acompañados de salsa tártara y servidos con palitos de yuca. Una opción deliciosa y sabrosa para los amantes de los mariscos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 76,
@@ -789,7 +789,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
         "descripcion": "Arroz salteado al estilo tailandés con trozos de pollo, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 77,
@@ -798,7 +798,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
         "descripcion": "Arroz salteado al estilo tailandés con trozos de res, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 78,
@@ -807,7 +807,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Arroz salteado al estilo tailandés con camarones y calamares frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, ofreciendo un plato exótico y lleno de sabor marino.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 79,
@@ -816,7 +816,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Arroz salteado al estilo tailandés con camarones frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 80,
@@ -825,7 +825,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.90,
         "descripcion": "Arroz salteado al estilo tailandés con una variedad de vegetales frescos, como pimientos, zanahorias, cebolla y brotes de soya. Sazonado con salsa de soya y jengibre, ofreciendo un plato vegetariano exótico y lleno de sabor.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 81,
@@ -834,7 +834,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
         "descripcion": "Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, tofu, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 82,
@@ -843,7 +843,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, tofu, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco para un toque cítrico y herbal.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 83,
@@ -852,7 +852,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
         "descripcion": "Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. Un plato que combina sabores intensos y texturas delicadas.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 84,
@@ -861,7 +861,7 @@
         "subcategoria": "Vegetales",
         "precio": 10.99,
         "descripcion": "Plato japonés que consiste en una mezcla de quinoa y vegetales salteados, como zanahorias, pimientos, cebolla y espinacas, sazonados con salsa de soya y jengibre. Una opción saludable y sabrosa, perfecta para los amantes de la cocina oriental y los ingredientes frescos.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 85,
@@ -870,7 +870,7 @@
         "subcategoria": "Vegetales",
         "precio": 13.99,
         "descripcion": "Plato japonés que combina quinoa con trozos tiernos de pollo salteados junto a vegetales como zanahorias, pimientos, cebolla y espinacas. Sazonado con salsa de soya y jengibre para un toque oriental y sabroso.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 86,
@@ -879,7 +879,7 @@
         "subcategoria": "Vegetales",
         "precio": 16.99,
         "descripcion": "Plato japonés que presenta una mezcla de quinoa acompañada de filete de salmón a la parrilla, junto con vegetales salteados como zanahorias, pimientos, cebolla y espinacas. Todo ello sazonado con salsa de soya y jengibre, ofreciendo un equilibrio perfecto de sabores y una opción saludable y deliciosa.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 87,
@@ -888,7 +888,7 @@
         "subcategoria": "Vegetales",
         "precio": 10.99,
         "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso. Una combinación perfecta de sabores y texturas que resulta en un plato fresco y satisfactorio.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 88,
@@ -897,7 +897,7 @@
         "subcategoria": "Vegetales",
         "precio": 12.99,
         "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso, acompañada de tiras de pollo a la parrilla. Una combinación deliciosa y satisfactoria que combina sabores frescos con proteínas.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 89,
@@ -906,7 +906,7 @@
         "subcategoria": "Vegetales",
         "precio": 14.99,
         "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso, acompañada de camarones salteados. Una combinación deliciosa que combina sabores frescos con el sabor marino de los camarones.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 90,
@@ -915,7 +915,7 @@
         "subcategoria": "Vegetales",
         "precio": 12.99,
         "descripcion": "La ensalada Cleopatra es una mezcla fresca de lechuga, tomates cherry, pepino, aceitunas negras y queso feta, aliñada con aceite de oliva, limón y hierbas mediterráneas. Es una opción ligera y sabrosa.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 102,
@@ -924,7 +924,7 @@
         "subcategoria": "Entradas",
         "precio": 14.99,
         "descripcion": "Delicada selección de vegetales frescos, incluyendo zanahoria, cebolla, pimentón rojo, zukini y berenjena, fritos en tempura crujiente y acompañados de una exquisita salsa arage.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 103,
@@ -933,7 +933,7 @@
         "subcategoria": "Entradas",
         "precio": 11.99,
         "descripcion": "Ensalada fresca de algas marinas wakame, combinada con salmón, kani y aderezada con mayonesa japonesa. Una mezcla deliciosa de sabores del mar con un toque cremoso que deleitará tu paladar.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 104,
@@ -942,7 +942,7 @@
         "subcategoria": "Entradas",
         "precio": 19.99,
         "descripcion": "Filete de corvina a la parrilla, cubierto con chimichurri y camarones salteados, servido sobre una cama de vegetales frescos y acompañado de arroz.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 105,
@@ -951,7 +951,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Tallarines al dente servidos con una cremosa salsa huancaína, acompañados de una variedad de mariscos frescos. Un plato que fusiona la rica tradición peruana con los sabores del mar, ofreciendo una experiencia única y deliciosa.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 106,
@@ -960,7 +960,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Tallarines al dente cubiertos con una cremosa salsa huancaína, acompañados de jugosos trozos de lomo saltado al estilo peruano. Un plato que fusiona dos clásicos de la gastronomía peruana en una combinación irresistible de sabores y texturas.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     },
     {
         "id": 107,
@@ -969,6 +969,6 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Una exquisita combinación de cortes selectos de carne a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
-        "images": ["Tempura azumi.jpg", "Tempura azumi2.jpg"]
+        "images": ["./fotos-menu/Tempura azumi.jpg", "Tempura azumi2.jpg"]
     }
 ]
