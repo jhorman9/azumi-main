@@ -55,7 +55,7 @@ export const CategoryById = () => {
                                 {
                                 data.images.length > 0 ?
                                 data.images?.map((pic, i) => (
-                                    <SwiperSlide key={pic}><img src={`./src/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                                    <SwiperSlide key={pic}><img src={`/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                                 ))
                                 :
                                 <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
@@ -63,7 +63,7 @@ export const CategoryById = () => {
                         </Swiper>                   
                         </div>
                         <div className="card-body_container">
-                            <div className="card-header">
+                            <div className="card-header"> 
                                 <h2>{data.nombre}</h2>
                                 <span className="big-price"> ${data.precio}</span>
                             </div>
@@ -83,7 +83,7 @@ export const CategoryById = () => {
                                 {
                                 data.images.length > 0 ?
                                 data.images?.map((pic, i) => (
-                                    <SwiperSlide key={pic}><img src={`./src/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                                    <SwiperSlide key={pic}><img src={`/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                                 ))
                                 :
                                 <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
