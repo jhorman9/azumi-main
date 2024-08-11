@@ -55,7 +55,7 @@ export const CategoryById = () => {
                                 {
                                 data.images.length > 0 ?
                                 data.images?.map((pic, i) => (
-                                    <SwiperSlide key={pic}><img src={`/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                                    <SwiperSlide key={pic}><img src={pic} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                                 ))
                                 :
                                 <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
@@ -83,7 +83,7 @@ export const CategoryById = () => {
                                 {
                                 data.images.length > 0 ?
                                 data.images?.map((pic, i) => (
-                                    <SwiperSlide key={pic}><img src={`/assets/images/fotos-menu/${pic}`} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
+                                    <SwiperSlide key={pic}><img src={pic} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
                                 ))
                                 :
                                 <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
