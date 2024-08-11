@@ -15,6 +15,12 @@
     z-index: 9;
 }
 
+@media (max-width: 768px) {
+    .main-category .main-back_page-container{
+        top: 96px;
+    }
+}
+
 .main-category .main-back_page i{
     width: 35px;
     height: 35px;
