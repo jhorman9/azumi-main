@@ -6,7 +6,7 @@
         "subcategoria": "Entradas",
         "precio": 15.99,
         "descripcion": "Delicadas láminas de salmón fresco marinadas en aceite de oliva virgen extra y jugo de limón, acompañadas de alcaparras, eneldo fresco y finas rodajas de cebolla roja. Un plato exquisito que combina elegancia y sabor en cada bocado.",
-        "images": ["./src/assets/images/fotos-menu/carpaccio-de-salmon.jpg"]
+        "images": ["./fotos-menu/carpaccio-de-salmon.jpg"]
     },
     {
         "id": 2,
