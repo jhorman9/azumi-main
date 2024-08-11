@@ -12,7 +12,7 @@ const MainPage = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    setrouteActually(location)
+    setrouteActually(location);
   },[]);
 
   const changeRoute = (route) => {
@@ -41,17 +41,10 @@ const MainPage = () => {
         <h2 className='title_main'>ENTRADAS</h2>
         <div className='content__card'>
 
-          <div className='section__card' onClick={()=> changeRoute('entrees/sushi')}>
+          <div className='section__card' onClick={()=> changeRoute('entrees/peruvian')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
-              <h3 className='sub-title_main'>Sushi</h3>
-            </div>
-          </div>
-
-          <div className='section__card' onClick={()=> changeRoute('entrees/thai')}>
-            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
-            <div className='card__text'>
-              <h3 className='sub-title_main'>Tailandesa</h3>
+              <h3 className='sub-title_main'>Peruana</h3>
             </div>
           </div>
 
@@ -69,6 +62,13 @@ const MainPage = () => {
             </div>
           </div>
 
+          <div className='section__card' onClick={()=> changeRoute('entrees/thai')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>Thai</h3>
+            </div>
+          </div>
+
         </div>
       </div>
 
@@ -76,7 +76,14 @@ const MainPage = () => {
         <h2 className='title_main'>SOPAS</h2>
         <div className='content__card'>
 
-        <div className='section__card' onClick={()=> changeRoute('soups/japanese')}>
+          <div className='section__card' onClick={()=> changeRoute('soups/peruvian')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>Peruana</h3>
+            </div>
+          </div>
+
+          <div className='section__card' onClick={()=> changeRoute('soups/japanese')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
               <h3 className='sub-title_main'>Japonesa</h3>
@@ -90,13 +97,6 @@ const MainPage = () => {
             </div>
           </div>
 
-          <div className='section__card' onClick={()=> changeRoute('soups/peruvian')}>
-            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
-            <div className='card__text'>
-              <h3 className='sub-title_main'>Peruana</h3>
-            </div>
-          </div>
-
         </div>
       </div>
 
@@ -104,7 +104,14 @@ const MainPage = () => {
         <h2 className='title_main'>PLATOS FUERTES</h2>
         <div className='content__card'>
 
-        <div className='section__card' onClick={()=> changeRoute('dishes/japanese')}>
+          <div className='section__card' onClick={()=> changeRoute('dishes/peruvian')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>Peruana</h3>
+            </div>
+          </div>
+
+          <div className='section__card' onClick={()=> changeRoute('dishes/japanese')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
               <h3 className='sub-title_main'>Japonesa</h3>
@@ -115,13 +122,6 @@ const MainPage = () => {
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
               <h3 className='sub-title_main'>China</h3>
-            </div>
-          </div>
-
-          <div className='section__card' onClick={()=> changeRoute('dishes/peruvian')}>
-            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
-            <div className='card__text'>
-              <h3 className='sub-title_main'>Peruana</h3>
             </div>
           </div>
 

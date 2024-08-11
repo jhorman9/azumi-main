@@ -3,10 +3,12 @@ import menuJson from '../data/main.json';
 import examplePhoto from '../assets/images/image-category.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
+import { useState } from "react";
 
 export const CategoryById = () => {
-
     const navigate = useNavigate();
+    const [newData, setNewData] = useState([]);
+    const { category, dishes } = useParams(); 
 
     const toBack = () => {
         navigate('/main');
@@ -27,80 +29,82 @@ export const CategoryById = () => {
         'Vegetales': 'vegetables'
     };
 
-    const { category, dishes } = useParams();
-    const filterData = menuJson.filter(main => statusCategory[main.categoria] == dishes && statusSubCategory[main.subcategoria] == category );
+    const filterData = menuJson.filter(
+        main => statusCategory[main.categoria] === dishes && statusSubCategory[main.subcategoria] === category
+    );
+    
     const orderedData = filterData.sort((a, b) => a.nombre.localeCompare(b.nombre));
     const sortedMain = menuJson.sort((a,b) => a.nombre.localeCompare(b.nombre));
 
     const baseDelay = 3000;
 
-  return (
-    <section className="main-category">
-        <div className="main-back_page-container">
-            <div className="main-back_page" onClick={toBack}>
-                <i class="fa-solid fa-arrow-left"></i> <span>Regresar</span>
+    const convertSushi = () => {
+        setNewData(orderedData.filter(data => data.isRoll));
+    }
+
+    const convertAll = () => {
+        setNewData([]);
+    }
+
+    const renderSwiper = (data) => (
+        <Swiper
+            autoplay={{
+                delay: baseDelay,
+                disableOnInteraction: false,
+            }}
+            modules={[Pagination, Autoplay]}
+            className="mySwiper"
+        >
+            {data.images.length > 0 ? (
+                data.images.map((pic) => (
+                    <SwiperSlide key={pic}>
+                        <img src={pic} alt={data.nombre} width={30} height={30} />
+                    </SwiperSlide>
+                ))
+            ) : (
+                <SwiperSlide>
+                    <img src={examplePhoto} alt="default" width={30} height={30} />
+                </SwiperSlide>
+            )}
+        </Swiper>
+    );
+
+    const renderCardBody = (data) => (
+        <div className="card-body" key={data.id}>
+            <div className="card-image">
+                {renderSwiper(data)}
+            </div>
+            <div className="card-body_container">
+                <div className="card-header"> 
+                    <h2>{data.nombre}</h2>
+                    <span className="big-price"> ${data.precio}</span>
+                </div>
+                <p className="card-description">{data.descripcion}</p>
             </div>
         </div>
-        <div className="card">
-            {
-                category == 'all' 
-                ? sortedMain.map((data) => (
-                    <div className="card-body" key={data.id}>
-                        <div className="card-image">
-                        <Swiper autoplay={{
-                            delay: baseDelay,
-                            disableOnInteraction: false,
-                            }}              
-                            modules={[Pagination, Autoplay]} className="mySwiper">
-                                {
-                                data.images.length > 0 ?
-                                data.images?.map((pic, i) => (
-                                    <SwiperSlide key={pic}><img src={pic} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                                ))
-                                :
-                                <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                            }
-                        </Swiper>                   
-                        </div>
-                        <div className="card-body_container">
-                            <div className="card-header"> 
-                                <h2>{data.nombre}</h2>
-                                <span className="big-price"> ${data.precio}</span>
-                            </div>
-                            <p className="card-description">{data.descripcion}</p>
-                        </div>
-        
+    );
+
+    return (
+        <section className="main-category">
+            <div className="main-back_page-container">
+                <div className="main-back_page" onClick={toBack}>
+                    <i className="fa-solid fa-arrow-left"></i> <span>Regresar</span>
+                </div>
+                {window.location.hash === '#/main/dishes/japanese' && (
+                    <div className="sushi-category">
+                        <span onClick={newData.length > 0 ? convertAll : convertSushi}>
+                            {newData.length > 0 ? 'Ver todo' : 'Sushi'}
+                        </span>
                     </div>
-                )): 
-                orderedData.map((data) => (
-                    <div className="card-body" key={data.id}>
-                        <div className="card-image">
-                        <Swiper autoplay={{
-                            delay: baseDelay,
-                            disableOnInteraction: false,
-                            }}              
-                            modules={[Pagination, Autoplay]} className="mySwiper">
-                                {
-                                data.images.length > 0 ?
-                                data.images?.map((pic, i) => (
-                                    <SwiperSlide key={pic}><img src={pic} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                                ))
-                                :
-                                <SwiperSlide key={examplePhoto}><img src={examplePhoto} alt="foto de azumi" width={30} height={30}/></SwiperSlide>
-                            }
-                        </Swiper>   
-                        </div>
-                        <div className="card-body_container">
-                            <div className="card-header">
-                                <h2>{data.nombre}</h2>
-                                <span className="big-price"> ${data.precio}</span>
-                            </div>
-                            <p className="card-description">{data.descripcion}</p>
-                        </div>
-                    </div>
-                ))
-            }
-        </div>
-    </section>
-  )
+                )}
+            </div>
+            <div className="card">
+                {category === 'all' ? (
+                    sortedMain.map((data) => renderCardBody(data))
+                ) : (
+                    (newData.length > 0 ? newData : orderedData).map((data) => renderCardBody(data))
+                )}
+            </div>
+        </section>
+    )
 }
