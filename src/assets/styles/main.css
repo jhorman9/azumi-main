@@ -252,6 +252,10 @@ section .section__card:hover .card__text{
     }
 }
 
+.sushi-category{
+    margin-top: 5px;
+}
+
 .sushi-category span{
     background-color: #fff;
     padding: 7px 14px;
@@ -259,7 +263,12 @@ section .section__card:hover .card__text{
     cursor: pointer;
     font-weight: 500;
     color: #000;
-    font-size: 14PX;
+    font-size: 14px;
+}
+
+.sushi-category span:hover{
+    background-color: var(--red);
+    color: #fff;
 }
 
 .big-price{
