@@ -4,6 +4,7 @@ import examplePhoto from '../assets/images/image-category.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
 import { useState } from "react";
+import translateWords from "../utils/translateWords";
 
 export const CategoryById = () => {
     const navigate = useNavigate();
@@ -14,23 +15,10 @@ export const CategoryById = () => {
         navigate('/main');
     }
 
-    const statusCategory = {
-        'Japones': 'japanese',
-        'Chino': 'chinese',
-        'Peruano': 'peruvian',
-        'Thailandes': 'thai',
-        'Especialidades de la casa': 'home'
-    };
-
-    const statusSubCategory = {
-        'Platos fuertes': 'dishes',
-        'Entradas': 'entrees',
-        'Sopas': 'soups',
-        'Vegetales': 'vegetables'
-    };
-
     const filterData = menuJson.filter(
-        main => statusCategory[main.categoria] === dishes && statusSubCategory[main.subcategoria] === category
+        main => 
+        translateWords.statusCategory[main.categoria] === dishes && 
+        translateWords.statusSubCategory[main.subcategoria] === category
     );
     
     const orderedData = filterData.sort((a, b) => a.nombre.localeCompare(b.nombre));
