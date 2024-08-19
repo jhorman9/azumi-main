@@ -693,24 +693,6 @@
         "images": ["./fotos-menu/Corvina-sudada-con-mariscos3.jpg", "./fotos-menu/Corvina-sudada-con-mariscos4.jpg"]
     },
     {
-        "id": 65,
-        "nombre": "Corvina en escabeche",
-        "categoria": "Peruano",
-        "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Filete de corvina marinado en una mezcla de vinagre, aceite de oliva, especias y verduras aromáticas como cebolla y pimiento. Un plato refrescante y lleno de sabor.",
-        "images": ""
-    },
-    {
-        "id": 66,
-        "nombre": "Corvina",
-        "categoria": "Peruano",
-        "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Filete de corvina a la parrilla acompañado de anillos de calamar fritos estilo romano. Una combinación exquisita de sabores marinos y texturas crujientes.",
-        "images": ""
-    },
-    {
         "id": 67,
         "nombre": "Filete de corvina",
         "categoria": "Peruano",
@@ -1668,5 +1650,23 @@
         "precio": 19.99,
         "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
         "images": ""
+    },
+    {
+        "id": 180,
+        "nombre": "Teppan mixto",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Pollo, carne y camarón en salsa teriyaki, acompañados de tu elección entre yakimeshi, yakisoba o yasai. Un plato equilibrado que combina sabores intensos y texturas variadas, perfecto para disfrutar lo mejor de la cocina teppanyaki.",
+        "images": ["./fotos-menu/Teppan-Mixto-yakisoba.jpg", "./fotos-menu/teppan-mixto-yamikeshi.jpg", "./fotos-menu/teppan-mixto-yasai.jpg"]
+    },
+    {
+        "id": 181,
+        "nombre": "Teppan especial",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Salmón, calamar y camarón en salsa teriyaki, acompañados de tu elección entre yakimeshi, yakisoba o yasai. Un plato sofisticado que fusiona los sabores del mar con la intensidad de la cocina teppanyaki.",
+        "images": ["./fotos-menu/Teppan-de-Salmón-Especial-yasai.jpg", "./fotos-menu/Teppan-de-Salmón-Especial-yakisoba-(2).jpg", "./fotos-menu/Teppan-de-Salmón-Especial2.jpg"]
     }
 ]

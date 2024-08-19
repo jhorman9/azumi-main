@@ -1,4 +1,4 @@
-import { HashRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import "./assets/styles/App.css";
 import { setHandleClick } from './store/slice/handleClickSideBar';
 import { useDispatch, useSelector } from 'react-redux';
