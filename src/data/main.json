@@ -1182,7 +1182,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y salmón.",
-        "images": ["./fotos-menu/alaska-roll.jpg"],
+        "images": ["./fotos-menu/alaska-roll.jpg", "./fotos-menu/alaska-roll-2.jpg"],
         "isRoll": true
     },
     {
@@ -1202,7 +1202,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll relleno de salmón fresco, cangrejo, aguacate y queso crema. Con topping shuka ika, calamar, wakame y aguacate.",
-        "images": ["./fotos-menu/akame-roll.jpg"],
+        "images": ["./fotos-menu/akame-roll.jpg", "./fotos-menu/akame-roll-3.jpg"],
         "isRoll": true
     },
     {
@@ -2027,7 +2027,7 @@
         "images": ["./fotos-menu/vegetales-buda.jpg", "./fotos-menu/vegetales-buda2.jpg"]
     },
     {
-        "id": 220,
+        "id": 221,
         "nombre": "Eby roll tradicional",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
@@ -2035,5 +2035,41 @@
         "descripcion": "",
         "images": ["./fotos-menu/eby-roll-tradicional.jpg"],
         "isRoll": true
+    },
+    {
+        "id": 222,
+        "nombre": "Arroz frito de combinación",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/arroz-frito-de-combinacion.jpg", "./fotos-menu/arroz-frito-de-combinacion3.jpg"]
+    },
+    {
+        "id": 223,
+        "nombre": "Arroz frito de cerdo",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/arroz-frito-con-cerdo.jpg"]
+    },
+    {
+        "id": 222,
+        "nombre": "Arroz frito de pollo",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/arroz-frito-de-pollo.jpg", "./fotos-menu/arroz-frito-de-pollo2.jpg"]
+    },
+    {
+        "id": 222,
+        "nombre": "Arroz frito de camarón",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/arroz-frito-de-camaron.jpg", "./fotos-menu/arroz-frito-de-camaron2.jpg"]
     }
 ]
