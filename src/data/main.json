@@ -1809,7 +1809,7 @@
         "id": 197,
         "nombre": "Filete de res al Vino Porto",
         "categoria": "Japones",
-        "subcategoria": "Entradas",
+        "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/filete-de-res-en-salsa-de-vino-porto.jpg"]
@@ -1827,7 +1827,7 @@
         "id": 199,
         "nombre": "Hosomaki de atun",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-atun.jpg"],
@@ -1837,7 +1837,7 @@
         "id": 200,
         "nombre": "Hosomaki de kani",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-kani.jpg"],
@@ -1847,20 +1847,10 @@
         "id": 201,
         "nombre": "Hosomaki de salmon",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-salmon.jpg"],
-        "isRoll": true
-    },
-    {
-        "id": 202,
-        "nombre": "Kani ho",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
-        "images": ["./fotos-menu/kani-ho.jpg"],
         "isRoll": true
     },
     {
@@ -1876,7 +1866,7 @@
     {
         "id": 204,
         "nombre": "Mac and cheese",
-        "categoria": "",
+        "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1885,7 +1875,7 @@
     {
         "id": 205,
         "nombre": "Pasta de mariscos",
-        "categoria": "",
+        "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1903,7 +1893,7 @@
     {
         "id": 207,
         "nombre": "Pad thai de vegetales",
-        "categoria": "",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1912,7 +1902,7 @@
     {
         "id": 208,
         "nombre": "Pollo agridulce",
-        "categoria": "",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1921,7 +1911,7 @@
     {
         "id": 209,
         "nombre": "Pollo con hoja de mostaza",
-        "categoria": "",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1929,8 +1919,8 @@
     },
     {
         "id": 210,
-        "nombre": "Pollo con jojoticos y champinon",
-        "categoria": "",
+        "nombre": "Pollo con jojoticos y champiñón",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1938,8 +1928,8 @@
     },
     {
         "id": 211,
-        "nombre": "Pollo en salsa de ostion",
-        "categoria": "",
+        "nombre": "Pollo en salsa de ostión",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1947,8 +1937,8 @@
     },
     {
         "id": 212,
-        "nombre": "Pollo miel",
-        "categoria": "",
+        "nombre": "Pollo a la miel",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1956,8 +1946,8 @@
     },
     {
         "id": 213,
-        "nombre": "Racion de costilla",
-        "categoria": "",
+        "nombre": "Ración de costilla",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1965,8 +1955,8 @@
     },
     {
         "id": 214,
-        "nombre": "Salmon con risitto de lenteja",
-        "categoria": "",
+        "nombre": "Salmón con risitto de lenteja",
+        "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1974,8 +1964,8 @@
     },
     {
         "id": 215,
-        "nombre": "Salmon en salsa de maracuya",
-        "categoria": "",
+        "nombre": "Salmón en salsa de maracuya",
+        "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1984,7 +1974,7 @@
     {
         "id": 216,
         "nombre": "Shop suey de pollo",
-        "categoria": "",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -1993,7 +1983,7 @@
     {
         "id": 217,
         "nombre": "Sopa de carne",
-        "categoria": "",
+        "categoria": "Chino",
         "subcategoria": "Sopas",
         "precio": 19.99,
         "descripcion": "",
@@ -2002,7 +1992,7 @@
     {
         "id": 218,
         "nombre": "Sopa pacheng",
-        "categoria": "",
+        "categoria": "Chino",
         "subcategoria": "Sopas",
         "precio": 19.99,
         "descripcion": "",
@@ -2011,8 +2001,8 @@
     {
         "id": 219,
         "nombre": "Tallarines al oleo con mariscos",
-        "categoria": "",
-        "subcategoria": "Sopas",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/tallarines-al-oleo-con-mariscos2.jpg", "./fotos-menu/tallarines-al-oleo-con-mariscos4.jpg"]
@@ -2020,8 +2010,8 @@
     {
         "id": 220,
         "nombre": "Vegetales buda",
-        "categoria": "",
-        "subcategoria": "Sopas",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/vegetales-buda.jpg", "./fotos-menu/vegetales-buda2.jpg"]
@@ -2064,7 +2054,7 @@
         "images": ["./fotos-menu/arroz-frito-de-pollo.jpg", "./fotos-menu/arroz-frito-de-pollo2.jpg"]
     },
     {
-        "id": 222,
+        "id": 224,
         "nombre": "Arroz frito de camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
