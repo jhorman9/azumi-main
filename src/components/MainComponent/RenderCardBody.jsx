@@ -6,8 +6,6 @@ const RenderCardBody = (data) => {
 
     const baseDelay = 3000;
 
-    console.log(data)
-
   return (
         <div className="card-body" key={data.id}>
             <div className="card-image">

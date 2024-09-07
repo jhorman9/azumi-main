@@ -87,7 +87,7 @@
         "subcategoria": "Entradas",
         "precio": 11.50,
         "descripcion": "6 Deditos de pescado blanco, empanizados con una cobertura crujiente y dorada. Acompañados de una salsa tártara casera para sumergir, son una opción deliciosa y satisfactoria para satisfacer los antojos de mariscos.",
-        "images": ""
+        "images": ["./fotos-menu/fish-nuggets-3.jpg","./fotos-menu/fish-nuggets-5.jpg"]
     },
     {
         "id": 11,
@@ -123,7 +123,7 @@
         "subcategoria": "Entradas",
         "precio": 10.50,
         "descripcion": "4 Deliciosas croquetas con un corazón de queso de cabra cremoso y un exterior crujiente. Un placer indulgente para los amantes del queso.",
-        "images": ""
+        "images": ["./fotos-menu/croqueta-de-queso.jpg"]
     },
     {
         "id": 15,
@@ -303,7 +303,7 @@
         "subcategoria": "Entradas",
         "precio": 12.50,
         "descripcion": "Delicada capa de puré de papa amarilla sazonada con ají amarillo y limón, rellena de camarones frescos y mayonesa. Acompañada de aguacate y huevo cocido. Un plato típico peruano que combina sabores cremosos y frescos.",
-        "images": ["./fotos-menu/Causa-de-camaron.jpg", "./fotos-menu/Causa-de-camaron2.jpg"]
+        "images": ["./fotos-menu/causa-de-camaron.jpg", "./fotos-menu/causa-de-camaron-2.jpg"]
     },
     {
         "id": 35,
@@ -312,7 +312,7 @@
         "subcategoria": "Entradas",
         "precio": 12.90,
         "descripcion": "Puré de papa amarilla sazonado con ají amarillo y limón, relleno de pulpo tierno y mayonesa. Acompañado de aguacate y huevo cocido. Un plato tradicional peruano que destaca por su combinación de sabores suaves y frescos.",
-        "images": ""
+        "images": ["./fotos-menu/causa-de-pulpo.jpg", "./fotos-menu/causa-de-pulpo-2.jpg"]
     },
     {
         "id": 35,
@@ -456,7 +456,7 @@
         "subcategoria": "Sopas",
         "precio": 14.99,
         "descripcion": "Caldo de mariscos con camarones frescos, almejas en su concha, calamares, cebolla, pimienta y sal a gusto. Un festín marino lleno de sabor.",
-        "images": ["./fotos-menu/sopa-de-marisco-(2).jpg", "./fotos-menu/sopa-de-marisco2-(2).jpg"]
+        "images": ["./fotos-menu/sopa-de-mariscos2.jpg", "./fotos-menu/sopa-de-mariscos.jpg"]
     },
     {
         "id": 47,
@@ -582,7 +582,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.90,
         "descripcion": "Jugoso pollo asado a la parrilla, acompañado de una colorida variedad de vegetales frescos. Un plato saludable y lleno de sabor, perfecto para una experiencia culinaria equilibrada.",
-        "images": ""
+        "images": ["./fotos-menu/pollo-al-grill.jpg","./fotos-menu/pollo-al-grill4.jpg"]
     },
     {
         "id": 96,
@@ -776,7 +776,7 @@
     {
         "id": 76,
         "nombre": "Arroz thai pollo",
-        "categoria": "Thailandesa",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
         "descripcion": "Arroz salteado al estilo tailandés con trozos de pollo, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
@@ -785,7 +785,7 @@
     {
         "id": 77,
         "nombre": "Arroz thai de res",
-        "categoria": "Thailandesa",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
         "descripcion": "Arroz salteado al estilo tailandés con trozos de res, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
@@ -794,7 +794,7 @@
     {
         "id": 78,
         "nombre": "Arroz thai de camarón con calamar",
-        "categoria": "Thailandesa",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Arroz salteado al estilo tailandés con camarones y calamares frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, ofreciendo un plato exótico y lleno de sabor marino.",
@@ -803,7 +803,7 @@
     {
         "id": 79,
         "nombre": "Arroz thai de camarón",
-        "categoria": "Thailandesa",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Arroz salteado al estilo tailandés con camarones frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
@@ -812,7 +812,7 @@
     {
         "id": 80,
         "nombre": "Arroz thai de vegetales",
-        "categoria": "Thailandesa",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 12.90,
         "descripcion": "Arroz salteado al estilo tailandés con una variedad de vegetales frescos, como pimientos, zanahorias, cebolla y brotes de soya. Sazonado con salsa de soya y jengibre, ofreciendo un plato vegetariano exótico y lleno de sabor.",
@@ -821,7 +821,7 @@
     {
         "id": 81,
         "nombre": "Pad Thai de Pollo",
-        "categoria": "Thailandesa",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
         "descripcion": "Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, tofu, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.",
@@ -830,7 +830,7 @@
     {
         "id": 82,
         "nombre": "Pad thai de camarón",
-        "categoria": "Thailandesa",
+        "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, tofu, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco para un toque cítrico y herbal.",
@@ -1072,7 +1072,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Atún rojo con deliciosa mezcla de cangrej, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
-        "images": "",
+        "images": ["./fotos-menu/miyagi-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1092,7 +1092,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll cubierto de plátano y aguacate, relleno de queso crema, aguacate, salmón, atún y langostinos. Acompañado de salsa funji y anguila",
-        "images": "",
+        "images": ["./fotos-menu/fusion-roll.jpg"], 
         "isRoll": true
     },
     {
@@ -1102,7 +1102,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate, kani y pepino.",
-        "images": "",
+        "images": ["./fotos-menu/california-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1112,7 +1112,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Arroz japonés, sésamo y masago, relleno de ques crem, aguacate y deliciosa pasta dinamita.",
-        "images": "",
+        "images": ["./fotos-menu/dinamita-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1122,7 +1122,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y atún fresco.",
-        "images": "",
+        "images": ["./fotos-menu/tuna-roll.jpg", "./fotos-menu/tuna-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1142,7 +1142,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll cubierto de semillas de sésamo, relleno de queso crema, aguacate y pollo apanado con topping trocitos de pollo apanado bañado en salsa anguila.",
-        "images": "",
+        "images": ["./fotos-menu/chicken-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1152,7 +1152,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Cubierto de plátano, relleno de queso crema, aguacate y salmón tempurizado. Acompañado de salsa anguila y fuji.",
-        "images": "",
+        "images": ["./fotos-menu/banana-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1172,7 +1172,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Cubierto de aguacate, relleno de queso crema, aguacate y kani tempurizados. Acompañado de salsa anguila y fuji.",
-        "images": "",
+        "images": ["./fotos-menu/avocado-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1182,7 +1182,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y salmón.",
-        "images": "",
+        "images": ["./fotos-menu/alaska-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1192,7 +1192,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Relleno de queso crema, aguacate, salmón y kani. Acompañado de salsa fuji, anguila y soya. ",
-        "images": "",
+        "images": ["./fotos-menu/azumi-roll.jpg", "./fotos-menu/azumi-roll-2.jpg"],
         "isRoll": true
     },
     {
@@ -1202,7 +1202,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll relleno de salmón fresco, cangrejo, aguacate y queso crema. Con topping shuka ika, calamar, wakame y aguacate.",
-        "images": "",
+        "images": ["./fotos-menu/akame-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1222,7 +1222,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll tempurizado, relleno de pescado blanco apanado, queso crema y aguacate. Topping de dados de salmón ahumado crunch y salsa especial de la casa.",
-        "images": "",
+        "images": ["./fotos-menu/sensacion-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1242,7 +1242,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll relleno de cangrejo,camarón tempurizados y queso crema, cubierto de finas láminas de aguacate. Acompañado de tres topping, wakani en salsa fuji, atún en aceite trufa y picante en salsa hot picante.",
-        "images": "",
+        "images": ["./fotos-menu/todays-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1332,7 +1332,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll apanado relleno de queso crema, aguacate, cebollina, cangrejo y pescado blanc. con topping de salsa dinamita.",
-        "images": "",
+        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1352,7 +1352,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll relleno de queso crema, cebollina, pescado blanco y cangrejo apanado. Cubierto de plátano y queso gouda flambeado bañado en salsa funji.",
-        "images": "",
+        "images": ["./fotos-menu/prestigio-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1532,7 +1532,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
-        "images": ""
+        "images": ["./fotos-menu/temaki-de-salmon.jpg"]
     },
     {
         "id": 167,
@@ -1541,7 +1541,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
-        "images": ""
+        "images": ["./fotos-menu/temaki-de-atun.jpg"]
     },
     {
         "id": 168,
@@ -1550,7 +1550,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
-        "images": ""
+        "images": ["./fotos-menu/temaki-mixto.jpg"]
     },
     {
         "id": 169,
@@ -1668,5 +1668,372 @@
         "precio": 19.99,
         "descripcion": "Salmón, calamar y camarón en salsa teriyaki, acompañados de tu elección entre yakimeshi, yakisoba o yasai. Un plato sofisticado que fusiona los sabores del mar con la intensidad de la cocina teppanyaki.",
         "images": ["./fotos-menu/Teppan-de-Salmón-Especial-yasai.jpg", "./fotos-menu/Teppan-de-Salmón-Especial-yakisoba-(2).jpg", "./fotos-menu/Teppan-de-Salmón-Especial2.jpg"]
+    },
+    {
+        "id": 182,
+        "nombre": "Arroz frito con puerco y camarones",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/Arroz-frito-con-puerco-y-camarones.3.jpg", "./fotos-menu/Arroz-frito-con-puerco-y-camarones.jpg"]
+    },
+    {
+        "id": 183,
+        "nombre": "Atun ho",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/atun-ho.jpg"],
+        "isRoll": true
+    },
+    {
+        "id": 184,
+        "nombre": "Camarones al ajillo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/camarones-al-ajillo.jpg", "./fotos-menu/camarones-al-ajillo2.jpg"]    
+    },
+    {
+        "id": 185,
+        "nombre": "Camarones en salsa blanca",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/camarones-en-salsa-blanca3.jpg", "./fotos-menu/camarones-en-salsa-blanca2.jpg"]    
+    },
+    {
+        "id": 186,
+        "nombre": "Camarones en rebosados",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/camarones-rebosados.jpg", "./fotos-menu/camarones-rebosados2.jpg"]    
+    },
+    {
+        "id": 187,
+        "nombre": "Camarones con hoja mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/carne-con-hoja-mostaza.jpg"]    
+    },
+    {
+        "id": 188,
+        "nombre": "Carne con jojoticos y champinon",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/carne-con-jojotico-y-champinon.jpg"]    
+    },
+    {
+        "id": 189,
+        "nombre": "Cerdo a la miel",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/cerdo-a-la-miel.jpg", "./fotos-menu/cerdo-a-la-miel2.jpg"]    
+    },
+    {
+        "id": 190,
+        "nombre": "Cerdo agridulce",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/cerdo-agridulce2.jpg", "./fotos-menu/cerdo-agridulce3.jpg"]    
+    },
+    {
+        "id": 191,
+        "nombre": "Cerdo con champinon",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/cerdo-con-champinon.jpg", "./fotos-menu/cerdo-con-champinon3.jpg"]    
+    },
+    {
+        "id": 192,
+        "nombre": "Cerdo con hoja de mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/cerdo-con-hoja-de-mostaza.jpg", "./fotos-menu/cerdo-con-hoja-de-mostaza2.jpg"]
+    },
+    {
+        "id": 193,
+        "nombre": "Cerdo con jojoticos y champinon",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/cerdo-con-jojoticos-y-champinon.jpg", "./fotos-menu/cerdo-con-jojoticos-y-champinon4.jpg"]
+    },
+    {
+        "id": 194,
+        "nombre": "Cerdo en salsa ostion",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/cerdo-en-salsa-ostion2.jpg", "./fotos-menu/cerdo-en-salsa-ostion3.jpg"]
+    },
+    {
+        "id": 195,
+        "nombre": "Chuleta sal y pimienta",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chuleta-sal-y-pimienta.jpg"]
+    },
+    {
+        "id": 196,
+        "nombre": "Eby spaicy",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/eby-spaicy.jpg","./fotos-menu/eby-spaicy2.jpg"]
+    },
+    {
+        "id": 197,
+        "nombre": "Filete de res al Vino Porto",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/filete-de-res-en-salsa-de-vino-porto.jpg"]
+    },
+    {
+        "id": 198,
+        "nombre": "Hoja de mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/hoja-de-mostaza.jpg", "./fotos-menu/hoja-de-mostaza-3.jpg"]
+    },
+    {
+        "id": 199,
+        "nombre": "Hosomaki de atun",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/hosomaki-de-atun.jpg"],
+        "isRoll": true
+    },
+    {
+        "id": 200,
+        "nombre": "Hosomaki de kani",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/hosomaki-de-kani.jpg"],
+        "isRoll": true
+    },
+    {
+        "id": 201,
+        "nombre": "Hosomaki de salmon",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/hosomaki-de-salmon.jpg"],
+        "isRoll": true
+    },
+    {
+        "id": 202,
+        "nombre": "Kani ho",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/kani-ho.jpg"],
+        "isRoll": true
+    },
+    {
+        "id": 203,
+        "nombre": "Kyoto roll",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/kyoto-roll.jpg"],
+        "isRoll": true
+    },
+    {
+        "id": 204,
+        "nombre": "Mac and cheese",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/mac-and-cheese.jpg", "./fotos-menu/mac-and-cheese-3.jpg"]
+    },
+    {
+        "id": 205,
+        "nombre": "Pasta de mariscos",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pasta-de-mariscos.jpg", "./fotos-menu/pasta-de-mariscos-2.jpg"]
+    },
+    {
+        "id": 206,
+        "nombre": "Pad thai de carne",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pad-thai-carne2.jpg", "./fotos-menu/pad-thai-carne3.jpg"]
+    },
+    {
+        "id": 207,
+        "nombre": "Pad thai de vegetales",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pad-thai-vegetales.jpg"]
+    },
+    {
+        "id": 208,
+        "nombre": "Pollo agridulce",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pollo-agridulce.jpg"]
+    },
+    {
+        "id": 209,
+        "nombre": "Pollo con hoja de mostaza",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pollo-con-hoja-de-mostaza.jpg"]
+    },
+    {
+        "id": 210,
+        "nombre": "Pollo con jojoticos y champinon",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pollo-con-jojoticos-y-champinon.jpg"]
+    },
+    {
+        "id": 211,
+        "nombre": "Pollo en salsa de ostion",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pollo-en-salsa-de-ostion.jpg"]
+    },
+    {
+        "id": 212,
+        "nombre": "Pollo miel",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/pollo-miel.jpg", "./fotos-menu/pollo-miel2.jpg"]
+    },
+    {
+        "id": 213,
+        "nombre": "Racion de costilla",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/racion-de-costilla.jpg", "./fotos-menu/racion-de-costilla2.jpg"]
+    },
+    {
+        "id": 214,
+        "nombre": "Salmon con risitto de lenteja",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/salmon-con-risotto-de-lenteja.jpg","./fotos-menu/salmon-con-risotto-de-lenteja3.jpg"]
+    },
+    {
+        "id": 215,
+        "nombre": "Salmon en salsa de maracuya",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/salmon-en-salsa-de-maracuya.jpg", "./fotos-menu/salmon-en-salsa-de-maracuya2.jpg"]
+    },
+    {
+        "id": 216,
+        "nombre": "Shop suey de pollo",
+        "categoria": "",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/shop-shuey-pollo.jpg"]
+    },
+    {
+        "id": 217,
+        "nombre": "Sopa de carne",
+        "categoria": "",
+        "subcategoria": "Sopas",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/sopa-de-carne.jpg", "./fotos-menu/sopa-de-carne3.jpg"]
+    },
+    {
+        "id": 218,
+        "nombre": "Sopa pacheng",
+        "categoria": "",
+        "subcategoria": "Sopas",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/sopa-pacheng.jpg", "./fotos-menu/sopa-pacheng5.jpg"]
+    },
+    {
+        "id": 219,
+        "nombre": "Tallarines al oleo con mariscos",
+        "categoria": "",
+        "subcategoria": "Sopas",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/tallarines-al-oleo-con-mariscos2.jpg", "./fotos-menu/tallarines-al-oleo-con-mariscos4.jpg"]
+    },
+    {
+        "id": 220,
+        "nombre": "Vegetales buda",
+        "categoria": "",
+        "subcategoria": "Sopas",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/vegetales-buda.jpg", "./fotos-menu/vegetales-buda2.jpg"]
+    },
+    {
+        "id": 220,
+        "nombre": "Eby roll tradicional",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/eby-roll-tradicional.jpg"],
+        "isRoll": true
     }
 ]
