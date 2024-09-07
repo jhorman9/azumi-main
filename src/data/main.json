@@ -2039,7 +2039,7 @@
     {
         "id": 222,
         "nombre": "Arroz frito de combinación",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -2048,7 +2048,7 @@
     {
         "id": 223,
         "nombre": "Arroz frito de cerdo",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -2057,7 +2057,7 @@
     {
         "id": 222,
         "nombre": "Arroz frito de pollo",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
@@ -2066,7 +2066,7 @@
     {
         "id": 222,
         "nombre": "Arroz frito de camarón",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
