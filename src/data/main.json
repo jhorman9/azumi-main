@@ -279,15 +279,6 @@
         "images": ["./fotos-menu/Ceviche-tropical2.jpg", "./fotos-menu/Ceviche-tropical4.jpg"]
     },
     {
-        "id": 32,
-        "nombre": "Ceviche Clásico",
-        "categoria": "Peruano",
-        "subcategoria": "Entradas",
-        "precio": 14.90,
-        "descripcion": "El ceviche peruano tradicional se prepara con pescado fresco marinado en jugo de limón, sazonado con ají limo, cilantro, cebolla roja y acompañado con camote y maíz cancha. Es un plato refrescante, lleno de sabores cítricos y picantes.",
-        "images": ""
-    },
-    {
         "id": 33,
         "nombre": "Ceviche frito",
         "categoria": "Peruano",
@@ -442,12 +433,12 @@
     },
     {
         "id": 45,
-        "nombre": "Sopa pachang",
+        "nombre": "Sopa pacheng",
         "categoria": "Chino",
         "subcategoria": "Sopas",
         "precio": 11.99,
         "descripcion": "Caldo de cerdo con trozos de puerco y una variedad de vegetales. Un plato reconfortante y lleno de sabor.",
-        "images": ""
+        "images": ["./fotos-menu/sopa-pacheng.jpg", "./fotos-menu/sopa-pacheng5.jpg"]
     },
     {
         "id": 46,
@@ -792,15 +783,6 @@
         "images": ["./fotos-menu/Arroz-thai-de-res0.jpg", "./fotos-menu/Arroz-thai-de-res1.jpg"]
     },
     {
-        "id": 78,
-        "nombre": "Arroz thai de camarón con calamar",
-        "categoria": "Thailandes",
-        "subcategoria": "Platos fuertes",
-        "precio": 15.99,
-        "descripcion": "Arroz salteado al estilo tailandés con camarones y calamares frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, ofreciendo un plato exótico y lleno de sabor marino.",
-        "images": ""
-    },
-    {
         "id": 79,
         "nombre": "Arroz thai de camarón",
         "categoria": "Thailandes",
@@ -1102,7 +1084,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate, kani y pepino.",
-        "images": ["./fotos-menu/california-roll.jpg"],
+        "images": ["./fotos-menu/california-roll8.jpg", "./fotos-menu/california-roll11.jpg"],
         "isRoll": true
     },
     {
@@ -1142,7 +1124,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll cubierto de semillas de sésamo, relleno de queso crema, aguacate y pollo apanado con topping trocitos de pollo apanado bañado en salsa anguila.",
-        "images": ["./fotos-menu/chicken-roll.jpg"],
+        "images": ["./fotos-menu/chicken-roll-tradicional3.jpg", "./fotos-menu/chicken-roll-tradicional4.jpg"],
         "isRoll": true
     },
     {
@@ -1152,7 +1134,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Cubierto de plátano, relleno de queso crema, aguacate y salmón tempurizado. Acompañado de salsa anguila y fuji.",
-        "images": ["./fotos-menu/banana-roll.jpg"],
+        "images": ["./fotos-menu/banana-roll7.jpg", "./fotos-menu/banana-roll10.jpg"],
         "isRoll": true
     },
     {
@@ -1172,7 +1154,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Cubierto de aguacate, relleno de queso crema, aguacate y kani tempurizados. Acompañado de salsa anguila y fuji.",
-        "images": ["./fotos-menu/avocado-roll.jpg"],
+        "images": ["./fotos-menu/avocado-roll2.jpg", "./fotos-menu/avocado-roll7.jpg"],
         "isRoll": true
     },
     {
@@ -1990,15 +1972,6 @@
         "images": ["./fotos-menu/sopa-de-carne.jpg", "./fotos-menu/sopa-de-carne3.jpg"]
     },
     {
-        "id": 218,
-        "nombre": "Sopa pacheng",
-        "categoria": "Chino",
-        "subcategoria": "Sopas",
-        "precio": 19.99,
-        "descripcion": "",
-        "images": ["./fotos-menu/sopa-pacheng.jpg", "./fotos-menu/sopa-pacheng5.jpg"]
-    },
-    {
         "id": 219,
         "nombre": "Tallarines al oleo con mariscos",
         "categoria": "Peruano",
@@ -2061,5 +2034,14 @@
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/arroz-frito-de-camaron.jpg", "./fotos-menu/arroz-frito-de-camaron2.jpg"]
+    },
+    {
+        "id": 224,
+        "nombre": "Carne mongolia",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/carne-mongolia.jpg", "./fotos-menu/carne-mongolia-6.jpg"]
     }
 ]
