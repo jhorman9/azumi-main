@@ -1708,7 +1708,7 @@
     },
     {
         "id": 188,
-        "nombre": "Carne con jojoticos y champinon",
+        "nombre": "Carne con jojoticos y champiñon",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
@@ -1735,7 +1735,7 @@
     },
     {
         "id": 191,
-        "nombre": "Cerdo con champinon",
+        "nombre": "Cerdo con champiñon",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
@@ -1753,7 +1753,7 @@
     },
     {
         "id": 193,
-        "nombre": "Cerdo con jojoticos y champinon",
+        "nombre": "Cerdo con jojoticos y champiñon",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
