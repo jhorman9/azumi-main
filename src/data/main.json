@@ -1054,7 +1054,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Atún rojo con deliciosa mezcla de cangrej, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
-        "images": ["./fotos-menu/miyagi-roll.jpg"],
+        "images": ["./fotos-menu/miyagi-roll.jpg", "./fotos-menu/miyagi-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1074,7 +1074,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll cubierto de plátano y aguacate, relleno de queso crema, aguacate, salmón, atún y langostinos. Acompañado de salsa funji y anguila",
-        "images": ["./fotos-menu/fusion-roll.jpg"], 
+        "images": ["./fotos-menu/fusion-roll.jpg", "./fotos-menu/fusion-roll3.jpg"], 
         "isRoll": true
     },
     {
@@ -1094,7 +1094,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Arroz japonés, sésamo y masago, relleno de ques crem, aguacate y deliciosa pasta dinamita.",
-        "images": ["./fotos-menu/dinamita-roll.jpg"],
+        "images": ["./fotos-menu/dinamita-roll.jpg", "./fotos-menu/dinamita-roll6.jpg"],
         "isRoll": true
     },
     {
@@ -1204,7 +1204,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll tempurizado, relleno de pescado blanco apanado, queso crema y aguacate. Topping de dados de salmón ahumado crunch y salsa especial de la casa.",
-        "images": ["./fotos-menu/sensacion-roll.jpg"],
+        "images": ["./fotos-menu/sensacion-roll.jpg", "./fotos-menu/sensacion-roll4.jpg"],
         "isRoll": true
     },
     {
@@ -1314,7 +1314,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll apanado relleno de queso crema, aguacate, cebollina, cangrejo y pescado blanc. con topping de salsa dinamita.",
-        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll2.jpg"],
+        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll3.jpg"],
         "isRoll": true
     },
     {
@@ -1334,7 +1334,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll relleno de queso crema, cebollina, pescado blanco y cangrejo apanado. Cubierto de plátano y queso gouda flambeado bañado en salsa funji.",
-        "images": ["./fotos-menu/prestigio-roll.jpg"],
+        "images": ["./fotos-menu/prestigio-roll.jpg", "./fotos-menu/prestigio-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -2036,7 +2036,7 @@
         "images": ["./fotos-menu/arroz-frito-de-camaron.jpg", "./fotos-menu/arroz-frito-de-camaron2.jpg"]
     },
     {
-        "id": 224,
+        "id": 225,
         "nombre": "Carne mongolia",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
