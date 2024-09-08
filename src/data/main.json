@@ -87,7 +87,7 @@
         "subcategoria": "Entradas",
         "precio": 11.50,
         "descripcion": "6 Deditos de pescado blanco, empanizados con una cobertura crujiente y dorada. Acompañados de una salsa tártara casera para sumergir, son una opción deliciosa y satisfactoria para satisfacer los antojos de mariscos.",
-        "images": ["./fotos-menu/fish-nuggets-3.jpg","./fotos-menu/fish-nuggets-5.jpg"]
+        "images": ["./fotos-menu/fish-nuggets-3.jpg","./fotos-menu/fish-nuggets-2.jpg"]
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "subcategoria": "Entradas",
         "precio": 10.50,
         "descripcion": "Tiras de pollo marinadas en una mezcla de salsa de soya, jengibre y ajo, recubiertas con almidón de maíz y fritas hasta alcanzar una textura crujiente. Servidas con una salsa de sésamo para sumergir, estas tiras de pollo son una delicia sabrosa y adictiva de la cocina japonesa.",
-        "images": ""
+        "images": ["./fotos-menu/tori-tatsuta.jpg", "./fotos-menu/tori-tatsuta4.jpg"]
     },
     {
         "id": 12,
@@ -191,7 +191,7 @@
     {
         "id": 22,
         "nombre": "Siu Mai",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "5 Bocados de cerdo sazonado al vapor. Irresistibles.",
@@ -200,7 +200,7 @@
     {
         "id": 23,
         "nombre": "Ham Pao de Puerco",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "2 Bollos al vapor rellenos de cerdo sazonado. Un manjar asiático.",
@@ -209,7 +209,7 @@
     {
         "id": 24,
         "nombre": "Yee Chi Kao",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "4 Bollos al vapor rellenos de carne de cerdo y verduras. Deliciosos y reconfortantes.",
@@ -218,7 +218,7 @@
     {
         "id": 25,
         "nombre": "Hakao",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "Delicados bocados de camarón envueltos en masa translúcida al vapor. Un festín de mariscos en cada bocado.",
@@ -2043,5 +2043,14 @@
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/carne-mongolia.jpg", "./fotos-menu/carne-mongolia-6.jpg"]
+    },
+    {
+        "id": 225,
+        "nombre": "Chop sueys de camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chop-sueys-camaron.jpg", "./fotos-menu/chop-sueys-camaron2.jpg"]
     }
 ]
