@@ -2045,12 +2045,120 @@
         "images": ["./fotos-menu/carne-mongolia.jpg", "./fotos-menu/carne-mongolia-6.jpg"]
     },
     {
-        "id": 225,
+        "id": 226,
         "nombre": "Chop sueys de camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/chop-sueys-camaron.jpg", "./fotos-menu/chop-sueys-camaron2.jpg"]
+    },
+    {
+        "id": 227,
+        "nombre": "Chop sueys de carne",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chop-sueys-carne.jpg", "./fotos-menu/chop-sueys-carne2.jpg"]
+    },
+    {
+        "id": 228,
+        "nombre": "Chop sueys de cerdo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chop-sueys-cerdo.jpg", "./fotos-menu/chop-sueys-cerdo2.jpg"]
+    },
+    {
+        "id": 229,
+        "nombre": "Chop sueys de combinación con camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chop-sueys-combinacion-con-camaron.jpg", "./fotos-menu/chop-sueys-combinacion-con-camaron2.jpg"]
+    },
+    {
+        "id": 230,
+        "nombre": "Chop sueys de combinación sin camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chop-sueys-combinacion-sin-camaron.jpg", "./fotos-menu/chop-sueys-combinacion-sin-camaron2.jpg"]
+    },
+    {
+        "id": 231,
+        "nombre": "Chop sueys de pollo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chop-sueys-pollo.jpg", "./fotos-menu/chop-sueys-pollo2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chop sueys de vegetales",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/chop-sueys-vegetales.jpg", "./fotos-menu/chop-sueys-vegetales2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chow mein de camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/Chow-mein-camaron.jpg", "./fotos-menu/Chow-mein-camaron2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chow mein de carne",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/Chow-mein-carne.jpg", "./fotos-menu/Chow-mein-carne2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chow mein de cerdo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/Chow-mein-cerdo.jpg", "./fotos-menu/Chow-mein-cerdo2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chow mein de combinación",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/Chow-mein-combinacion.jpg", "./fotos-menu/Chow-mein-combinacion2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chow mein de pollo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/Chow-mein-pollo.jpg", "./fotos-menu/Chow-mein-pollo2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chow mein de vegetales",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/Chow-mein-vegetales.jpg", "./fotos-menu/Chow-mein-vegetales2.jpg"]
     }
 ]
