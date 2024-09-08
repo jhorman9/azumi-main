@@ -1954,15 +1954,6 @@
         "images": ["./fotos-menu/salmon-en-salsa-de-maracuya.jpg", "./fotos-menu/salmon-en-salsa-de-maracuya2.jpg"]
     },
     {
-        "id": 216,
-        "nombre": "Shop suey de pollo",
-        "categoria": "Chino",
-        "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
-        "images": ["./fotos-menu/shop-shuey-pollo.jpg"]
-    },
-    {
         "id": 217,
         "nombre": "Sopa de carne",
         "categoria": "Chino",
@@ -2105,7 +2096,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "",
-        "images": ["./fotos-menu/chop-sueys-vegetales.jpg", "./fotos-menu/chop-sueys-vegetales2.jpg"]
+        "images": ["./fotos-menu/chop-sueys-vegetales.jpg", "./fotos-menu/chop-sueys-vegetales-2.jpg"]
     },
     {
         "id": 232,
