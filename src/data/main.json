@@ -474,7 +474,7 @@
         "subcategoria": "Sopas",
         "precio": 7.99,
         "descripcion": "Suave y cremosa sopa de maíz, rica en sabor y perfecta para cualquier ocasión.",
-        "images": ""
+        "images": ["./fotos-menu/crema-de-maiz2.jpg","./fotos-menu/crema-de-maiz3.jpg"]
     },
     {
         "id": 50,
@@ -1374,7 +1374,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Roll relleno de queso crema, salmón y atún fresco, con topping de pescado blanco y cebolla morada.",
-        "images": "",
+        "images": ["./fotos-menu/yeyo-roll2.jpg", "./fotos-menu/yeyo-roll3.jpg"],
         "isRoll": true
     },
     {
