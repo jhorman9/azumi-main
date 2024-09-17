@@ -112,6 +112,7 @@
 .main .sub-title_main{
     font-size: 28px;
     color: var(--white-dark);
+    padding: 0 14px;
 }
 
 @media (max-width: 768px) {
@@ -131,7 +132,7 @@ section .main_entrees:last-child{
 
 section .main_entrees .content__card{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 14px;
     justify-content: center;
     align-items: center;
@@ -139,7 +140,7 @@ section .main_entrees .content__card{
 
 section .main_entrees.soups .content__card{
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 321px));
+    grid-template-columns: repeat(5, minmax(0, 321px));
     gap: 14px;
     justify-content: center;
     align-items: center;

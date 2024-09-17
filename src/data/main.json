@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "nombre": "Carpaccio de salmon",
+        "nombre": "Carpaccio de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 15.99,
+        "precio": 18.95,
         "descripcion": "Delicadas láminas de salmón fresco marinadas en aceite de oliva virgen extra y jugo de limón, acompañadas de alcaparras, eneldo fresco y finas rodajas de cebolla roja. Un plato exquisito que combina elegancia y sabor en cada bocado.",
         "images": ["./fotos-menu/carpaccio-de-salmon.jpg"]
     },
@@ -13,16 +13,16 @@
         "nombre": "Carpaccio de pulpo",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 14.90,
+        "precio": 19.00,
         "descripcion": "Finísimas rodajas de pulpo cocido, marinadas con aceite de oliva virgen extra y un toque de limón. Servido con alcaparras, pimentón ahumado y hierbas frescas, creando una experiencia de sabor única y sofisticada.",
         "images": ["./fotos-menu/carpaccio-de-pulpo.jpg"]
     },
     {
         "id": 3,
-        "nombre": "Carpaccio de carne",
+        "nombre": "Carpaccio de res",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 13.99,
+        "precio": 18.95,
         "descripcion": "Finas láminas de filete de res de alta calidad, aderezadas con aceite de oliva virgen extra. Acompañado de rúcula fresca y lascas de queso parmesano, ofreciendo una combinación sublime de sabores y texturas.",
         "images": ["./fotos-menu/carpaccio-de-carne.jpg"]
     },
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "nombre": "Brochetas de camaron",
+        "nombre": "Brochetas de camarón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 12.99,
@@ -64,10 +64,10 @@
     },
     {
         "id": 8,
-        "nombre": "Brochetas de salmon",
+        "nombre": "Brochetas de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 13.99,
+        "precio": 16.99,
         "descripcion": "Trozos frescos de salmón marinados en hierbas y especias, cuidadosamente ensartados en brochetas y asados a la parrilla. Una opción sabrosa y saludable, ideal para los amantes del pescado.",
         "images": ["./fotos-menu/Brocheta-de-salmon.jpg", "./fotos-menu/Brocheta-de-salmon2.jpg"]
     },
@@ -100,7 +100,7 @@
     },
     {
         "id": 12,
-        "nombre": "Croquetas de salmon",
+        "nombre": "Croquetas de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 11.50,
@@ -127,7 +127,7 @@
     },
     {
         "id": 15,
-        "nombre": "Gyozas de camaron",
+        "nombre": "Gyozas de camarón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
@@ -154,8 +154,8 @@
     },
     {
         "id": 18,
-        "nombre": "Sprim roll",
-        "categoria": "Chino",
+        "nombre": "Sprim roll mini",
+        "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "4 Rollitos de vegetales frescos con salsa. Un bocado ligero, crujiente y sabroso.",
@@ -163,29 +163,29 @@
     },
     {
         "id": 19,
-        "nombre": "Sprim roll de puerco",
+        "nombre": "Lumpia o Sprim roll de puerco",
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "4 Rollitos frescos rellenos de cerdo sazonado y verduras, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
+        "descripcion": "2 Rollos frescos rellenos de cerdo sazonado y verduras, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
         "images": ""
     },
     {
         "id": 20,
-        "nombre": "Sprim roll de camaron",
+        "nombre": "Lumpia o  Sprim roll de camarón",
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 8.99,
-        "descripcion": "4 Rollitos frescos rellenos de camarones jugosos y verduras crujientes, servidos con salsa agridulce. Un festín de sabores marinos en cada bocado.",
+        "descripcion": "2 Rollos frescos rellenos de camarones jugosos y verduras crujientes, servidos con salsa agridulce. Un festín de sabores marinos en cada bocado.",
         "images": ""
     },
     {
         "id": 21,
-        "nombre": "Sprim roll de vegetales",
+        "nombre": "Lumpia o Sprim roll de vegetales",
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 6.99,
-        "descripcion": "4 Rollitos frescos de vegetales con salsa. Un bocado ligero y delicioso.",
+        "descripcion": "2 Rollitos frescos de vegetales con salsa. Un bocado ligero y delicioso.",
         "images": ""
     },
     {
@@ -193,7 +193,7 @@
         "nombre": "Siu Mai",
         "categoria": "Chino",
         "subcategoria": "Entradas",
-        "precio": 6.99,
+        "precio": 7.99,
         "descripcion": "5 Bocados de cerdo sazonado al vapor. Irresistibles.",
         "images": ""
     },
@@ -211,7 +211,7 @@
         "nombre": "Yee Chi Kao",
         "categoria": "Chino",
         "subcategoria": "Entradas",
-        "precio": 6.99,
+        "precio": 8.99,
         "descripcion": "4 Bollos al vapor rellenos de carne de cerdo y verduras. Deliciosos y reconfortantes.",
         "images": ""
     },
@@ -220,7 +220,7 @@
         "nombre": "Hakao",
         "categoria": "Chino",
         "subcategoria": "Entradas",
-        "precio": 6.99,
+        "precio": 8.99,
         "descripcion": "Delicados bocados de camarón envueltos en masa translúcida al vapor. Un festín de mariscos en cada bocado.",
         "images": ""
     },
@@ -292,7 +292,7 @@
         "nombre": "Causa de camarones",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
-        "precio": 12.50,
+        "precio": 12.90,
         "descripcion": "Delicada capa de puré de papa amarilla sazonada con ají amarillo y limón, rellena de camarones frescos y mayonesa. Acompañada de aguacate y huevo cocido. Un plato típico peruano que combina sabores cremosos y frescos.",
         "images": ["./fotos-menu/causa-de-camaron.jpg", "./fotos-menu/causa-de-camaron-2.jpg"]
     },
@@ -310,25 +310,25 @@
         "nombre": "Causa de pollo",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
-        "precio": 12.90,
-        "descripcion": "Poner",
+        "precio": 12.50,
+        "descripcion": "Delicada capa de puré de papa amarilla sazonada con ají amarillo y un toque de limón, rellena de jugoso pollo desmenuzado mezclado con una suave mayonesa. Acompañada de rodajas de aguacate y huevo cocido y aceitunas kalamata. ",
         "images": ["./fotos-menu/Causa-de-pollo2.jpg", "./fotos-menu/Causa-de-pollo4.jpg"]
     },
     {
         "id": 36,
-        "nombre": "Tiraditos de salmon",
+        "nombre": "Tiraditos de salmón",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
-        "precio": 14.90,
+        "precio": 16.90,
         "descripcion": "Finas láminas de salmón fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.",
         "images": ["./fotos-menu/Tiraditos-de-salmon3.jpg", "./fotos-menu/Tiraditos-de-salmon4.jpg"]
     },
     {
         "id": 37,
-        "nombre": "Tiraditos de atun",
+        "nombre": "Tiraditos de atún",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
-        "precio": 14.90,
+        "precio": 15.90,
         "descripcion": "Finas láminas de atún fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.",
         "images": ""
     },
@@ -346,7 +346,7 @@
         "nombre": "Trilogía de Tiraditos Marinos",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
-        "precio": 14.90,
+        "precio": 16.99,
         "descripcion": "Finas láminas de pescado blanco, atún y salmón frescos, marinados en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, ofreciendo una experiencia única de sabores marinos.",
         "images": ["./fotos-menu/Trilogía-de-Tiraditos-Marinos3.jpg", "./fotos-menu/Trilogía-de-Tiraditos-Marinos5.jpg"]
     },
@@ -355,7 +355,7 @@
         "nombre": "Tiraditos mixto",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
-        "precio": 14.90,
+        "precio": 15.99,
         "descripcion": "láminas de salmón fresco y pescado blanco o atun y salmon. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.",
         "images": ""
     },
@@ -379,7 +379,7 @@
     },
     {
         "id": 91,
-        "nombre": "Chicharron de arañita",
+        "nombre": "Crocante de arañita en tiras",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 13.99,
@@ -400,7 +400,7 @@
         "nombre": "Maguro tataki",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 13.99,
+        "precio": 16.99,
         "descripcion": "Atún sellado, acompañado de una delicada salsa Arague, jengibre fresco y cebollina.",
         "images": ["./fotos-menu/maguro-tataki1.jpg", "./fotos-menu/maguro-tataki3.jpg"]
     },
@@ -469,7 +469,7 @@
     },
     {
         "id": 49,
-        "nombre": "Crema de maiz",
+        "nombre": "Crema de maíz",
         "categoria": "Chino",
         "subcategoria": "Sopas",
         "precio": 7.99,
@@ -523,7 +523,7 @@
     },
     {
         "id": 108,
-        "nombre": "Ramen de camaron",
+        "nombre": "Ramen de camarón",
         "categoria": "Japones",
         "subcategoria": "Sopas",
         "precio": 15.99,

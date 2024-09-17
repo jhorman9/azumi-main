@@ -10,7 +10,7 @@ const statusSubCategory = {
     'Platos fuertes': 'dishes',
     'Entradas': 'entrees',
     'Sopas': 'soups',
-    'Vegetales': 'vegetables'
+    'Vegetales': 'vegetables',
 };
 
 export {
