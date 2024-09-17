@@ -37,6 +37,42 @@ const MainPage = () => {
           </div>
         </div>
       </div>
+
+      <div className='main_entrees'>
+        <h2 className='title_main'>POSTRES</h2>
+        <div className='content__card'> 
+
+          <div className='section__card' onClick={()=> changeRoute('entrees/japanese')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>Japonesa</h3>
+            </div>
+          </div>
+
+          <div className='section__card' onClick={()=> changeRoute('entrees/chinese')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>China</h3>
+            </div>
+          </div>
+
+          <div className='section__card' onClick={()=> changeRoute('entrees/thai')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>Tailandesa</h3>
+            </div>
+          </div>
+
+          <div className='section__card' onClick={()=> changeRoute('entrees/home')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>Especialidad de la casa</h3>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
       <div className='main_entrees'>
         <h2 className='title_main'>ENTRADAS</h2>
         <div className='content__card'>
