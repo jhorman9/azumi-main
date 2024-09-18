@@ -418,7 +418,7 @@
         "nombre": "Sopa de wanton",
         "categoria": "Chino",
         "subcategoria": "Sopas",
-        "precio": 10.99,
+        "precio": 6.99,
         "descripcion": "Sopa caliente y reconfortante con wantones rellenos de cerdo o camarón, servidos en un caldo sabroso y aromático. Un clásico de la cocina asiática.",
         "images": ""
     },
@@ -427,7 +427,7 @@
         "nombre": "Sopa de wanton mein",
         "categoria": "Chino",
         "subcategoria": "Sopas",
-        "precio": 10.99,
+        "precio": 11.75,
         "descripcion": "Caldo de puerco clarificado con tallarines, relleno de camarones, lonjas de puerco y tiras de pollo. Un clásico asiático con una deliciosa combinación de sabores y texturas.",
         "images": ""
     },
@@ -454,7 +454,7 @@
         "nombre": "Sopa de vegetales buda",
         "categoria": "Chino",
         "subcategoria": "Sopas",
-        "precio": 10.99,
+        "precio": 7.99,
         "descripcion": "Caldo de pollo con una variedad de vegetales frescos. Un plato ligero y nutritivo.",
         "images": ""
     },
@@ -463,7 +463,7 @@
         "nombre": "Edamame",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 7.99,
+        "precio": 8.50,
         "descripcion": "Vainas de soja al vapor, sazonadas con sal. Un aperitivo saludable y delicioso.",
         "images": ""
     },
@@ -535,7 +535,7 @@
         "nombre": "Sopa de coco thay",
         "categoria": "Thailandes",
         "subcategoria": "Sopas",
-        "precio": 13.99,
+        "precio": 10.99,
         "descripcion": "Sopa aromática de leche de coco con sabores tailandeses auténticos, como limoncillo y jengibre, acompañada de camarones frescos, setas y verduras. Una experiencia culinaria exótica y deliciosa.",
         "images": ["./fotos-menu/Sopa-de-coco-thay4.jpg", "./fotos-menu/Sopa-de-coco-thay6.jpg"]
     },
@@ -544,7 +544,7 @@
         "nombre": "Chupe de pollo",
         "categoria": "Peruano",
         "subcategoria": "Sopas",
-        "precio": 12.99,
+        "precio": 9.00,
         "descripcion": "Sopa cremosa de pollo con maíz, papas, huevos y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar en cualquier ocasión.",
         "images": ["./fotos-menu/Chupe-de-pollo2.jpg", "./fotos-menu/Chupe-de-pollo6.jpg"]
     },
@@ -553,7 +553,7 @@
         "nombre": "Chupe de camarones",
         "categoria": "Peruano",
         "subcategoria": "Sopas",
-        "precio": 13.99,
+        "precio": 10.90,
         "descripcion": "Sopa cremosa de camarones con maíz, papas y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.",
         "images": ["./fotos-menu/chupe-de-camaron.jpg", "./fotos-menu/chupe-de-camaron5.jpg"]
     },
@@ -562,7 +562,7 @@
         "nombre": "Chupe de mariscos",
         "categoria": "Peruano",
         "subcategoria": "Sopas",
-        "precio": 14.5,
+        "precio": 11.50,
         "descripcion": "Sopa cremosa de mariscos con camarones, calamares, mejillones y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar de una experiencia culinaria marina.",
         "images": ["./fotos-menu/Chupe-de-mariscos.jpg", "./fotos-menu/Chupe-de-mariscos5.jpg"]
     },
@@ -571,7 +571,7 @@
         "nombre": "Pollo al grill",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
-        "precio": 14.90,
+        "precio": 10.99,
         "descripcion": "Jugoso pollo asado a la parrilla, acompañado de una colorida variedad de vegetales frescos. Un plato saludable y lleno de sabor, perfecto para una experiencia culinaria equilibrada.",
         "images": ["./fotos-menu/pollo-al-grill.jpg","./fotos-menu/pollo-al-grill4.jpg"]
     },
@@ -580,7 +580,7 @@
         "nombre": "Tentáculos de Pulpo a la parrilla",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
-        "precio": 16.99,
+        "precio": 20.90,
         "descripcion": "Tentáculos de pulpo a la brasa, servidos con la guarnición de tu elección. Un plato sabroso con un toque ahumado.",
         "images": ["./fotos-menu/Tentáculos-de-Pulpo-a-la-parrilla2.jpg", "./fotos-menu/Tentáculos-de-Pulpo-a-la-parrilla4.jpg"]
     },
@@ -607,7 +607,7 @@
         "nombre": "Sudado de pescado y mariscos",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 18.50,
         "descripcion": "Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime.",
         "images": ["./fotos-menu/Sudado-de-pescado-ymariscos3.jpg", "./fotos-menu/Sudado-de-pescado-y-mariscos4.jpg"]
     },
@@ -616,7 +616,7 @@
         "nombre": "Ají de gallina",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 9.99,
+        "precio": 13.50,
         "descripcion": "Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.",
         "images": ["./fotos-menu/Ají-de-gallina0.jpg", "./fotos-menu/Ají-de-gallina1.jpg"]
     },
@@ -625,8 +625,8 @@
         "nombre": "Lomo saltados",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 14.99,
-        "descripcion": "Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco.",
+        "precio": 18.40,
+        "descripcion": "Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco. Opción pollo saltado: $17.20",
         "images": ["./fotos-menu/lomo-saltado.jpg", "./fotos-menu/lomo-saltado2.jpg"]
     },
     {
@@ -634,7 +634,7 @@
         "nombre": "Pollo al curry",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
-        "precio": 12.90,
+        "precio": 12.99,
         "descripcion": "Dados de pollo tiernos cocinados en una rica y aromática salsa de curry, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y especias.",
         "images": ["./fotos-menu/Pollo-al-curry8.jpg", "./fotos-menu/Pollo-al-curry15.jpg"]
     },
@@ -643,7 +643,7 @@
         "nombre": "Cerdo al curry",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
-        "precio": 14.90,
+        "precio": 13.50,
         "descripcion": "Dados de cerdo tiernos cocinados en una rica salsa de curry con crema de leche y coco, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y cremosidad, perfecto para disfrutar en cualquier ocasión.",
         "images": ["./fotos-menu/Cerdo-al-curry2.jpg", "./fotos-menu/Cerdo-al-curry4.jpg"]
     },
@@ -661,8 +661,8 @@
         "nombre": "Corvina a lo macho",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Delicada corvina servida con una robusta salsa a base de tomate, ají picante y una selección de mariscos, acompañado con .",
+        "precio": 19.50,
+        "descripcion": "Filete de corvina servida con una robusta salsa a base de tomate, ají picante y una selección de mariscos, acompañado con una guarnición de su selección ",
         "images": ["./fotos-menu/Corvina-a-lo-macho3.jpg", "./fotos-menu/Corvina-a -lo-macho4.jpg"]
     },
     {
@@ -670,7 +670,7 @@
         "nombre": "Corvina a lo hembra",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 19.50,
         "descripcion": "Corvina acompañada de una suave salsa blanca y camarones o mariscos. Un plato elegante y sabroso, ideal para disfrutar de una experiencia culinaria delicada.",
         "images": ["./fotos-menu/Corvina-a-lo-hembra4.jpg", "./fotos-menu/Corvina-a-lo-hembra7.jpg"]
     },
@@ -679,7 +679,7 @@
         "nombre": "Corvina sudada con mariscos",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 19.50,
         "descripcion": "Corvina fresca cocinada al vapor con una mezcla de mariscos frescos, como camarones, calamares y almejas, en un caldo sabroso y aromático. Un plato marino exquisito que combina la frescura del pescado con la riqueza de los mariscos.",
         "images": ["./fotos-menu/Corvina-sudada-con-mariscos3.jpg", "./fotos-menu/Corvina-sudada-con-mariscos4.jpg"]
     },
@@ -847,7 +847,7 @@
     },
     {
         "id": 86,
-        "nombre": "Kinoha de salmon",
+        "nombre": "Kinoha de salmón",
         "categoria": "Japones",
         "subcategoria": "Vegetales",
         "precio": 16.99,
