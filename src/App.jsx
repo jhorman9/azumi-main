@@ -15,7 +15,6 @@ import FooterComponent from './components/FooterComponents/FooterComponent';
 import { CategoryById } from './pages/CategoryById';
 import { useEffect } from 'react';
 import ScrollToTop from './components/ScrollToTop';
-import 'animate.css';
 
 function App() {
 

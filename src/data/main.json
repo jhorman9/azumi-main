@@ -103,8 +103,8 @@
         "nombre": "Croquetas de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 11.50,
-        "descripcion": "4 Suaves croquetas de salmón, crujientes por fuera y cremosas por dentro. Un bocado irresistible de sabor marino.",
+        "precio": 7.99,
+        "descripcion": "Deliciosa mezcla de salmón tempurizada y apanada, acompañada de salsa anguila",
         "images": ["./fotos-menu/Croqueta-de-salmon.jpg", "./fotos-menu/Croqueta-de-salmon2.jpg"]
     },
     {
@@ -112,7 +112,7 @@
         "nombre": "Croquetas de cangrejo",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 10.50,
+        "precio": 7.99,
         "descripcion": "4 Bocados crujientes de cangrejo, suaves por dentro y llenos de sabor.",
         "images": ["./fotos-menu/Croqueta-de-cangrejo.jpg", "./fotos-menu/Croqueta-de-cangrejo2.jpg"]
     },
@@ -121,7 +121,7 @@
         "nombre": "Croquetas de queso de cabra",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 10.50,
+        "precio": 8.99,
         "descripcion": "4 Deliciosas croquetas con un corazón de queso de cabra cremoso y un exterior crujiente. Un placer indulgente para los amantes del queso.",
         "images": ["./fotos-menu/croqueta-de-queso.jpg"]
     },
@@ -373,7 +373,7 @@
         "nombre": "Tartar de atún",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 14.90,
+        "precio": 13.50,
         "descripcion": "Preparación de atún fresco cortado en cubos finos y sazonado con ingredientes como aguacate, cebolla roja, cilantro y salsa de soya. Se sirve con hilo de arroz frito crujiente encima para añadir textura y sabor adicional.",
         "images": ["./fotos-menu/Tartar-de-atun.jpg", "./fotos-menu/tartar-de-atun4.jpg"]
     },
@@ -922,7 +922,7 @@
         "nombre": "Tallarines en salsa huancaina con mariscos",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 18.99,
         "descripcion": "Tallarines al dente servidos con una cremosa salsa huancaína, acompañados de una variedad de mariscos frescos. Un plato que fusiona la rica tradición peruana con los sabores del mar, ofreciendo una experiencia única y deliciosa.",
         "images": ["./fotos-menu/Tallarines-en-salsa-huancaina-con-mariscos.jpg", "./fotos-menu/Tallarines-en-salsa-huancaina-con-mariscos3.jpg"]
     },
@@ -931,7 +931,7 @@
         "nombre": "Tallarines en salsa huancaina con lomo saltado",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 14.90,
         "descripcion": "Tallarines al dente cubiertos con una cremosa salsa huancaína, acompañados de jugosos trozos de lomo saltado al estilo peruano. Un plato que fusiona dos clásicos de la gastronomía peruana en una combinación irresistible de sabores y texturas.",
         "images": ["./fotos-menu/Tallarines-en-salsa-huancaina-con-lomo-saltado.jpg", "./fotos-menu/Tallarines-en-salsa-huancaina-con-lomo-saltado2.jpg"]
     },
@@ -940,25 +940,16 @@
         "nombre": "Parrilla mar y tierra",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 24.99,
         "descripcion": "Una exquisita combinación de cortes selectos de carne a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
         "images": ["./fotos-menu/Parrilla-mar-y-tierra3.jpg", "./fotos-menu/Parrilla-mar-y-tierra4.jpg"]
-    },
-    {
-        "id": 108,
-        "nombre": "Rollitos primera",
-        "categoria": "Chino",
-        "subcategoria": "Entradas",
-        "precio": 19.99,
-        "descripcion": "vegetales salteados con cerdo, envueltos en láminas de masa fina de haría de trigo.",
-        "images": ""
     },
     {
         "id": 109,
         "nombre": "Dinamita sala",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 9.90,
         "descripcion": "Hilos de cangrejo (kani) aderezado con salsa Dragon (picante), acompañado de aguacate",
         "images": ""
     },
@@ -967,7 +958,7 @@
         "nombre": "Wakame",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 8.50,
         "descripcion": "Deliciosas algas marinas, acompañadas de salsa anguilas.",
         "images": ""
     },
@@ -976,7 +967,7 @@
         "nombre": "Wakani sala",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 9.90,
         "descripcion": "Algas marinas con kani y salsa de la casa, acompañada de aguacate ",
         "images": ""
     }
@@ -986,34 +977,34 @@
         "nombre": "Ensalada asiatica",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Dados de salmón, atún, pescado blanco, kani, wakame y aguacate. Acompañado de salsa asiática",
         "images": ""
     },
     {
         "id": 113,
-        "nombre": "Tartar de salmon",
+        "nombre": "Tartar de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 14.25,
         "descripcion": "Pequeños trozos de salmón, marinados en aceite de sésamo o trufa, sal y pimienta. acompañado de aguacate y salsa anguila.",
         "images": ""
     },
     {
         "id": 114,
-        "nombre": "Deditos de platano",
+        "nombre": "Deditos de plátano",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 9.99,
         "descripcion": "Finas láminas de plátano, rellenas de queso crema, aguacate y salmón tempurizados. Acompañado de salsa dinamita.",
         "images": ""
     },
     {
         "id": 115,
-        "nombre": "Deditos de salmon",
+        "nombre": "Deditos de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 9.99,
         "descripcion": "Finas láminas de salmón, rellenas de queso crema y aguacate. Acompañado de salsa dinamita.",
         "images": ""
     },
@@ -1022,7 +1013,7 @@
         "nombre": "Pacific roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Relleno de queso crema, aguacate y deliciosa mezcla de cangrejo, topping de atún rojo. Acompañado de exquisita salsa de la casa.",
         "images": "",
         "isRoll": true
@@ -1032,7 +1023,7 @@
         "nombre": "Panama roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Relleno de vegetales crocantes, queso crema, aguacate y kani apanado. Con topping de hilos de cangrejo crocantes y deliciosa salsa funji.",
         "images": "",
         "isRoll": true
@@ -1042,7 +1033,7 @@
         "nombre": "Ninja roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Cangrejo, atún fresco, queso crema y aguacate. Cubierto de finas láminas de aguacate y dados de salmón fresco de topping, bañados en salsa picante y cebollin.",
         "images": "",
         "isRoll": true
@@ -1052,8 +1043,8 @@
         "nombre": "Miyagi roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Atún rojo con deliciosa mezcla de cangrej, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
+        "precio": 11.99,
+        "descripcion": "Atún rojo con deliciosa mezcla de cangrejo0, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
         "images": ["./fotos-menu/miyagi-roll.jpg", "./fotos-menu/miyagi-roll2.jpg"],
         "isRoll": true
     },
@@ -1062,7 +1053,7 @@
         "nombre": "Tropical roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.50,
         "descripcion": "Finas láminas de salmón relleno de queso crema, aguacate, plátano y kani tempurizado. Acompañado de salsa fuji y anguila.",
         "images": "",
         "isRoll": true
@@ -1072,7 +1063,7 @@
         "nombre": "Fusion roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll cubierto de plátano y aguacate, relleno de queso crema, aguacate, salmón, atún y langostinos. Acompañado de salsa funji y anguila",
         "images": ["./fotos-menu/fusion-roll.jpg", "./fotos-menu/fusion-roll3.jpg"], 
         "isRoll": true
@@ -1082,7 +1073,7 @@
         "nombre": "California roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 9.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate, kani y pepino.",
         "images": ["./fotos-menu/california-roll8.jpg", "./fotos-menu/california-roll11.jpg"],
         "isRoll": true
@@ -1092,7 +1083,7 @@
         "nombre": "Dinamita roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 9.99,
         "descripcion": "Arroz japonés, sésamo y masago, relleno de ques crem, aguacate y deliciosa pasta dinamita.",
         "images": ["./fotos-menu/dinamita-roll.jpg", "./fotos-menu/dinamita-roll6.jpg"],
         "isRoll": true
@@ -1102,7 +1093,7 @@
         "nombre": "Tuna roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 10.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y atún fresco.",
         "images": ["./fotos-menu/tuna-roll.jpg", "./fotos-menu/tuna-roll2.jpg"],
         "isRoll": true
@@ -1112,7 +1103,7 @@
         "nombre": "Tigger roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 10.99,
         "descripcion": "Relleno de queso crema, aguacate y salmón. Acompañado de salsa anguila y soya.",
         "images": "",
         "isRoll": true
@@ -1122,7 +1113,7 @@
         "nombre": "Chicken roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 10.99,
         "descripcion": "Roll cubierto de semillas de sésamo, relleno de queso crema, aguacate y pollo apanado con topping trocitos de pollo apanado bañado en salsa anguila.",
         "images": ["./fotos-menu/chicken-roll-tradicional3.jpg", "./fotos-menu/chicken-roll-tradicional4.jpg"],
         "isRoll": true
@@ -1132,7 +1123,7 @@
         "nombre": "Banana roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Cubierto de plátano, relleno de queso crema, aguacate y salmón tempurizado. Acompañado de salsa anguila y fuji.",
         "images": ["./fotos-menu/banana-roll7.jpg", "./fotos-menu/banana-roll10.jpg"],
         "isRoll": true
@@ -1142,7 +1133,7 @@
         "nombre": "Eby roll tempura",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": " Roll relleno de queso crema, aguacate y langostinos tempurizados. Acompañado de salsa anguila y fuji.",
         "images": "",
         "isRoll": true
@@ -1152,7 +1143,7 @@
         "nombre": "Avocado roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 10.99,
         "descripcion": "Cubierto de aguacate, relleno de queso crema, aguacate y kani tempurizados. Acompañado de salsa anguila y fuji.",
         "images": ["./fotos-menu/avocado-roll2.jpg", "./fotos-menu/avocado-roll7.jpg"],
         "isRoll": true
@@ -1162,7 +1153,7 @@
         "nombre": "Alaska roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y salmón.",
         "images": ["./fotos-menu/alaska-roll.jpg", "./fotos-menu/alaska-roll-2.jpg"],
         "isRoll": true
@@ -1172,7 +1163,7 @@
         "nombre": "Azumi roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Relleno de queso crema, aguacate, salmón y kani. Acompañado de salsa fuji, anguila y soya. ",
         "images": ["./fotos-menu/azumi-roll.jpg", "./fotos-menu/azumi-roll-2.jpg"],
         "isRoll": true
@@ -1182,37 +1173,37 @@
         "nombre": "Akame roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll relleno de salmón fresco, cangrejo, aguacate y queso crema. Con topping shuka ika, calamar, wakame y aguacate.",
         "images": ["./fotos-menu/akame-roll.jpg", "./fotos-menu/akame-roll-3.jpg"],
         "isRoll": true
     },
     {
         "id": 133,
-        "nombre": "Nagasaki roll ",
+        "nombre": "Nagasaki roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll relleno de aguacate, cebollina finas láminas de lomo salteado al wok en salsa teriyaki con hongos.",
         "images": "",
         "isRoll": true
     },
     {
         "id": 134,
-        "nombre": "Sensacion roll",
+        "nombre": "Sensación roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll tempurizado, relleno de pescado blanco apanado, queso crema y aguacate. Topping de dados de salmón ahumado crunch y salsa especial de la casa.",
         "images": ["./fotos-menu/sensacion-roll.jpg", "./fotos-menu/sensacion-roll4.jpg"],
         "isRoll": true
     },
     {
         "id": 135,
-        "nombre": "Dragon roll",
+        "nombre": "Dragón roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll tempurizado, relleno de salmón fresco, kani, camarón tempurizado, masago, aguacate y queso crema. Con topping de wakani.",
         "images": ["./fotos-menu/dragon-roll3.jpg", "./fotos-menu/dragon-roll4.jpg"],
         "isRoll": true
@@ -1222,8 +1213,8 @@
         "nombre": "Todays roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Roll relleno de cangrejo,camarón tempurizados y queso crema, cubierto de finas láminas de aguacate. Acompañado de tres topping, wakani en salsa fuji, atún en aceite trufa y picante en salsa hot picante.",
+        "precio": 14.99,
+        "descripcion": "Roll relleno de cangrejo, camarón tempurizados y queso crema, cubierto de finas láminas de aguacate. Acompañado de tres topping, wakani en salsa fuji, atún en aceite trufa y picante en salsa hot picante.",
         "images": ["./fotos-menu/todays-roll.jpg"],
         "isRoll": true
     },
@@ -1232,7 +1223,7 @@
         "nombre": "Chicken crunch",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Roll tempurizado, relleno de aguacate, queso crema y pollo crocante. Topping de dados de pollo crocantes bañados en salsa anguila",
         "images": "",
         "isRoll": true
@@ -1242,7 +1233,7 @@
         "nombre": "Tigger roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón tempurizado,kani, anguila. topping de salsa dinamita.",
         "images": "",
         "isRoll": true
@@ -1252,7 +1243,7 @@
         "nombre": "Ceviche roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Relleno de delicioso ceviche marinado con leche de tigre, limón, cebolla morada, cilantro y salsa de ají con un toque de aceite de sésamo.",
         "images": ["./fotos-menu/ceviche-roll2.jpg", "./fotos-menu/ceviche-roll3.jpg"],
         "isRoll": true
@@ -1262,7 +1253,7 @@
         "nombre": "Eby roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Relleno con queso crema, aguacate y langostinoa tempurizados, con topping de langostinos apanados.",
         "images": "",
         "isRoll": true
@@ -1272,7 +1263,7 @@
         "nombre": "Spicy roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Roll relleno de queso crema y deliciosa mezcla de atún, salmón, pescado blanco. Acompañado de salsa spicy coronado de dados de atún, salmón, pescado blanco y cebollina",
         "images": "",
         "isRoll": true
@@ -1282,17 +1273,17 @@
         "nombre": "Kiuri roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Roll envuelto en pepino, relleno de salmón, atún, kani y aguacate. Aderezado con salsa de la casa.",
         "images": "",
         "isRoll": true
     },
     {
         "id": 143,
-        "nombre": "Fusion roll especial",
+        "nombre": "Fusión roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón, atún tempurizado con topping de ensalada wakani. Acompañado de salsa anguila y soya.",
         "images": "",
         "isRoll": true
@@ -1302,7 +1293,7 @@
         "nombre": "Keto roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.99,
         "descripcion": "Roll relleno de salmón, atún, kani, pescado blanco, aguacate y wakame con un toque de aceite de trufas y almendras rebanadas.",
         "images": "",
         "isRoll": true
@@ -1312,7 +1303,7 @@
         "nombre": "Tokyo roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll apanado relleno de queso crema, aguacate, cebollina, cangrejo y pescado blanc. con topping de salsa dinamita.",
         "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll3.jpg"],
         "isRoll": true
@@ -1322,7 +1313,7 @@
         "nombre": "Dinamita crunch",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll tempurizado relleno de cangrejo, aguacate y queso crema con topping de salsa dinamita.",
         "images": "",
         "isRoll": true
@@ -1332,7 +1323,7 @@
         "nombre": "Prestigio roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Roll relleno de queso crema, cebollina, pescado blanco y cangrejo apanado. Cubierto de plátano y queso gouda flambeado bañado en salsa funji.",
         "images": ["./fotos-menu/prestigio-roll.jpg", "./fotos-menu/prestigio-roll2.jpg"],
         "isRoll": true
@@ -1342,7 +1333,7 @@
         "nombre": "Azumi roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón y atún tempurizados con topping de wakame y kani, bañados en salsa anguila.",
         "images": "",
         "isRoll": true
@@ -1352,7 +1343,7 @@
         "nombre": "Tuna hot",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Roll relleno de atú, queso crema y aguacate con topping de aguacate. Acompañado de algas, wakame y salsa dragón.",
         "images": "",
         "isRoll": true
@@ -1362,7 +1353,7 @@
         "nombre": "Panama roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Roll relleno de vegetales crujientes, kani apanado, queso crema y aguacate. Cubierto de aguacate y topping de hilos de cangrejo crocantes y salsa fuji.",
         "images": "",
         "isRoll": true
@@ -1372,7 +1363,7 @@
         "nombre": "Yeyo roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Roll relleno de queso crema, salmón y atún fresco, con topping de pescado blanco y cebolla morada.",
         "images": ["./fotos-menu/yeyo-roll2.jpg", "./fotos-menu/yeyo-roll3.jpg"],
         "isRoll": true
@@ -1382,18 +1373,8 @@
         "nombre": "Asian roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Roll tempurizado, relleno de queso crema, aguacate, plátano, cangrejo y camaron tempurizado. Con topping de wakame y salsa fuji.",
-        "images": "",
-        "isRoll": true
-    },
-    {
-        "id": 153,
-        "nombre": "Kyoto roll especial",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Roll relleno de queso crema, aguacate y atún fresco. Cubierto de mango, coronado con ensalada wakani y dados de mango bañados en salsa anguila.",
         "images": "",
         "isRoll": true
     },
@@ -1402,7 +1383,7 @@
         "nombre": "Pacific roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 11.99,
         "descripcion": "Roll relleno de queso crema, aguacate y delicioso mezcla de cangrejo. Topping de atún fresco acompañado de salsa de la casa.",
         "images": "",
         "isRoll": true
@@ -1412,7 +1393,7 @@
         "nombre": "Alaska roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.99,
         "descripcion": "Roll relleno de queso crema, aguacate y salmón con topping de finas láminas de salmón, aguacate, wakame y masago con salsa de la casa.",
         "images": ["./fotos-menu/alaska-roll-especial.jpg", "./fotos-menu/alaska-roll-especial2.jpg"],
         "isRoll": true
@@ -1422,7 +1403,7 @@
         "nombre": "Azumi poque",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Base de arroz japonés, proteínas salmón y atún, fruta de la temporad, aguacate, wakame y sésamo.",
         "images": ""    
     },
@@ -1431,7 +1412,7 @@
         "nombre": "Poke tradicional",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": " Base de arroz japonés, proteína de dados de salmón apañados y langostinos apanados, aguacate,wakame, kani y sésamo.",
         "images": ""
     },
@@ -1440,7 +1421,7 @@
         "nombre": "Poke especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.99,
         "descripcion": "Base de arroz japonés, proteína dados de salmón marinado en salsa asiática, encuertido de cebolla morada, edamames, fruta de la temporada, wakame, pepino, aguacate y sésamo acompañado de salsa spicy.",
         "images": ""
     },
@@ -1449,7 +1430,7 @@
         "nombre": "Yakimeshi de pollo",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Arroz salteado con vegetales y pollo",
         "images": ""
     },
@@ -1458,7 +1439,7 @@
         "nombre": "Yakimeshi de carne",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "Arroz salteado con vegetales y carne.",
         "images": ""
     },
@@ -1467,7 +1448,7 @@
         "nombre": "Yakimeshi mixto",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.99,
         "descripcion": "Arroz salteado con vegetale, carne, pollo y langostinos.",
         "images": ""
     },
@@ -1476,7 +1457,7 @@
         "nombre": "Sashimi de atun",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "7 Delicados cortes de atún, acompañado de soya.",
         "images": ""
     },
@@ -1485,7 +1466,7 @@
         "nombre": "Sashimi de salmon",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 14.99,
         "descripcion": "7 Delicados cortes de salmón, acompañado de soya.",
         "images": ""
     },
@@ -1494,7 +1475,7 @@
         "nombre": "Sashimi mixto",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.99,
         "descripcion": "3 Delicados cortes de salmó, 2 cortes de atún, 2 cortes de pescado blanco, acompañados de soya.",
         "images": ""
     },
@@ -1503,8 +1484,8 @@
         "nombre": "Temaki de cangrejo",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 7.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1512,8 +1493,8 @@
         "nombre": "Temaki de salmon",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 9.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ["./fotos-menu/temaki-de-salmon.jpg"]
     },
     {
@@ -1521,8 +1502,8 @@
         "nombre": "Temaki de atun",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 8.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ["./fotos-menu/temaki-de-atun.jpg"]
     },
     {
@@ -1530,8 +1511,8 @@
         "nombre": "Temaki mixto",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 12.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ["./fotos-menu/temaki-mixto.jpg"]
     },
     {
@@ -1539,8 +1520,8 @@
         "nombre": "Nigiri de pescado blanco",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 2.50,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1548,8 +1529,8 @@
         "nombre": "Nigiri de salmon",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 3.50,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1557,8 +1538,8 @@
         "nombre": "Nigiri de atun",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 2.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1566,8 +1547,8 @@
         "nombre": "Nigiri de kani",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 1.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1576,7 +1557,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1584,8 +1565,8 @@
         "nombre": "Nigiri de anguila",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 3.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1593,8 +1574,8 @@
         "nombre": "Osomaki de kani",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 4.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1602,8 +1583,8 @@
         "nombre": "Osomaki de pepino",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 3.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1611,8 +1592,8 @@
         "nombre": "Osomaki de atun",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 4.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1620,8 +1601,8 @@
         "nombre": "Osomaki de pescado blanco",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 4.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1629,8 +1610,8 @@
         "nombre": "Osomaki de salmon",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "Ut ullamco incididunt tempor mollit laborum dolore ad quis minim aute.",
+        "precio": 4.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
     },
     {
@@ -1659,16 +1640,6 @@
         "precio": 19.99,
         "descripcion": "",
         "images": ["./fotos-menu/Arroz-frito-con-puerco-y-camarones.3.jpg", "./fotos-menu/Arroz-frito-con-puerco-y-camarones.jpg"]
-    },
-    {
-        "id": 183,
-        "nombre": "Atun ho",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
-        "images": ["./fotos-menu/atun-ho.jpg"],
-        "isRoll": true
     },
     {
         "id": 184,
@@ -1810,7 +1781,7 @@
         "nombre": "Hosomaki de atun",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 4.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-atun.jpg"],
         "isRoll": true
@@ -1820,7 +1791,7 @@
         "nombre": "Hosomaki de kani",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 4.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-kani.jpg"],
         "isRoll": true
@@ -1830,7 +1801,7 @@
         "nombre": "Hosomaki de salmon",
         "categoria": "Japones",
         "subcategoria": "Entradas",
-        "precio": 19.99,
+        "precio": 4.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-salmon.jpg"],
         "isRoll": true
@@ -1840,8 +1811,8 @@
         "nombre": "Kyoto roll",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 12.99,
+        "descripcion": "Roll relleno de queso crema, aguacate y atún fresco. Cubierto de mango, coronado con ensalada wakani y dados de mango bañados en salsa anguila.",
         "images": ["./fotos-menu/kyoto-roll.jpg"],
         "isRoll": true
     },
@@ -2166,7 +2137,7 @@
         "nombre": "Dinamita roll especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.99,
         "descripcion": "",
         "images": ["./fotos-menu/dinamita-roll-especial.jpg", "./fotos-menu/dinamita-roll-especial2.jpg"],
         "isRoll": true
@@ -2176,7 +2147,7 @@
         "nombre": "Eby roll tempura especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 13.99,
         "descripcion": "",
         "images": ["./fotos-menu/eby-roll-tempura-especial.jpg", "./fotos-menu/eby-roll-tempura-especial2.jpg"],
         "isRoll": true
