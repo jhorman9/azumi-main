@@ -1772,8 +1772,8 @@
         "nombre": "Hoja de mostaza",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 13.99,
+        "descripcion": "Hojas de mostaza salteadas con ajo y un toque de salsa de ostión, creando un acompañamiento lleno de sabor que complementa cualquier plato.",
         "images": ["./fotos-menu/hoja-de-mostaza.jpg", "./fotos-menu/hoja-de-mostaza-3.jpg"]
     },
     {
