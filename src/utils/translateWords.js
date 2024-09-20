@@ -3,14 +3,14 @@ const statusCategory = {
     'Chino': 'chinese',
     'Peruano': 'peruvian',
     'Thailandes': 'thai',
-    'Especialidades de la casa': 'home'
+    'Especialidades de la casa': 'home',
 };
 
 const statusSubCategory = {
     'Platos fuertes': 'dishes',
     'Entradas': 'entrees',
     'Sopas': 'soups',
-    'Vegetales': 'vegetables',
+    'Vegetales': 'vegetales',
     'postre': 'postre'
 };
 

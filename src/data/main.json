@@ -167,7 +167,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "2 Rollos frescos rellenos de cerdo sazonado y verduras, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
+        "descripcion": "2 Rollos frescos rellenos de Puerco sazonado y verduras, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
         "images": ""
     },
     {
@@ -194,7 +194,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "5 Bocados de cerdo sazonado al vapor. Irresistibles.",
+        "descripcion": "5 Bocados de Puerco sazonado al vapor. Irresistibles.",
         "images": ""
     },
     {
@@ -203,7 +203,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 6.99,
-        "descripcion": "2 Bollos al vapor rellenos de cerdo sazonado. Un manjar asiático.",
+        "descripcion": "2 Bollos al vapor rellenos de Puerco sazonado. Un manjar asiático.",
         "images": ""
     },
     {
@@ -212,7 +212,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 8.99,
-        "descripcion": "4 Bollos al vapor rellenos de carne de cerdo y verduras. Deliciosos y reconfortantes.",
+        "descripcion": "4 Bollos al vapor rellenos de carne de Puerco y verduras. Deliciosos y reconfortantes.",
         "images": ""
     },
     {
@@ -306,7 +306,7 @@
         "images": ["./fotos-menu/causa-de-pulpo.jpg", "./fotos-menu/causa-de-pulpo-2.jpg"]
     },
     {
-        "id": 35,
+        "id": 252,
         "nombre": "Causa de pollo",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
@@ -419,7 +419,7 @@
         "categoria": "Chino",
         "subcategoria": "Sopas",
         "precio": 6.99,
-        "descripcion": "Sopa caliente y reconfortante con wantones rellenos de cerdo o camarón, servidos en un caldo sabroso y aromático. Un clásico de la cocina asiática.",
+        "descripcion": "Sopa caliente y reconfortante con wantones rellenos de Puerco o camarón, servidos en un caldo sabroso y aromático. Un clásico de la cocina asiática.",
         "images": ""
     },
     {
@@ -437,7 +437,7 @@
         "categoria": "Chino",
         "subcategoria": "Sopas",
         "precio": 11.99,
-        "descripcion": "Caldo de cerdo con trozos de puerco y una variedad de vegetales. Un plato reconfortante y lleno de sabor.",
+        "descripcion": "Caldo de Puerco con trozos de puerco y una variedad de vegetales. Un plato reconfortante y lleno de sabor.",
         "images": ["./fotos-menu/sopa-pacheng.jpg", "./fotos-menu/sopa-pacheng5.jpg"]
     },
     {
@@ -640,11 +640,11 @@
     },
     {
         "id": 60,
-        "nombre": "Cerdo al curry",
+        "nombre": "Puerco al curry",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 13.50,
-        "descripcion": "Dados de cerdo tiernos cocinados en una rica salsa de curry con crema de leche y coco, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y cremosidad, perfecto para disfrutar en cualquier ocasión.",
+        "descripcion": "Dados de Puerco tiernos cocinados en una rica salsa de curry con crema de leche y coco, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y cremosidad, perfecto para disfrutar en cualquier ocasión.",
         "images": ["./fotos-menu/Cerdo-al-curry2.jpg", "./fotos-menu/Cerdo-al-curry4.jpg"]
     },
     {
@@ -715,7 +715,7 @@
         "nombre": "Teppan de pollo",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 15.99,
+        "precio": 12.99,
         "descripcion": "Pollo a la plancha en salsa teriyaki, acompañado de arroz yakimeshi. Un plato delicioso y equilibrado, que combina sabores tradicionales japoneses con ingredientes frescos y de alta calidad.",
         "images": ["./fotos-menu/teppan-de-pollo-yakimeshi.jpg", "./fotos-menu/teppan-de-pollo-yakisoba-(3).jpg"]
     },
@@ -724,7 +724,7 @@
         "nombre": "Teppan de res",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 17.50,
+        "precio": 14.50,
         "descripcion": "Carne de res a la plancha, en salsa teriyaki, acompañada con arroz yakimeshi o yakisoba.",
         "images": ["./fotos-menu/Teppan-de-filete-de-res-yakimeshi2.jpg", "./fotos-menu/Teppan-de-filete-de-res-yakisoba3.jpg", "./fotos-menu/Teppan-de-filete-de-res-yasai5.jpg"]
     },
@@ -733,7 +733,7 @@
         "nombre": "Teppan de salmón",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 18.00,
+        "precio": 14.99,
         "descripcion": "Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. Un plato delicado y lleno de sabores marinos, ideal para los amantes del salmón.",
         "images": ["./fotos-menu/Teppan-de-salmon-yakimeshi.jpg", "./fotos-menu/teppan-de-salmon-yakisoba-(8).jpg", "./fotos-menu/Teppan-de-Salmón-yasai2.jpg"]
     },
@@ -861,7 +861,7 @@
         "subcategoria": "Vegetales",
         "precio": 10.99,
         "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso. Una combinación perfecta de sabores y texturas que resulta en un plato fresco y satisfactorio.",
-        "images": ["./fotos-menu/ensalada-cesar-clasica.jpg", "./fotos-menu/ensalada-cesar-clasica2.jpg"]
+        "images": ["./fotos-menu/ensalada-cesar-clasica.jpg", "./fotos-menu/ensalada-cesar-clasica-2.jpg"]
     },
     {
         "id": 88,
@@ -1344,7 +1344,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 11.99,
-        "descripcion": "Roll relleno de atú, queso crema y aguacate con topping de aguacate. Acompañado de algas, wakame y salsa dragón.",
+        "descripcion": "Roll relleno de atún, queso crema y aguacate con topping de aguacate. Acompañado de algas, wakame y salsa dragón.",
         "images": "",
         "isRoll": true
     },
@@ -1619,7 +1619,7 @@
         "nombre": "Teppan mixto",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.50,
         "descripcion": "Pollo, carne y camarón en salsa teriyaki, acompañados de tu elección entre yakimeshi, yakisoba o yasai. Un plato equilibrado que combina sabores intensos y texturas variadas, perfecto para disfrutar lo mejor de la cocina teppanyaki.",
         "images": ["./fotos-menu/Teppan-Mixto-yakisoba.jpg", "./fotos-menu/teppan-mixto-yamikeshi.jpg", "./fotos-menu/teppan-mixto-yasai.jpg"]
     },
@@ -1628,7 +1628,7 @@
         "nombre": "Teppan especial",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 15.99,
         "descripcion": "Salmón, calamar y camarón en salsa teriyaki, acompañados de tu elección entre yakimeshi, yakisoba o yasai. Un plato sofisticado que fusiona los sabores del mar con la intensidad de la cocina teppanyaki.",
         "images": ["./fotos-menu/Teppan-de-Salmón-Especial-yasai.jpg", "./fotos-menu/Teppan-de-Salmón-Especial-yakisoba-(2).jpg", "./fotos-menu/Teppan-de-Salmón-Especial2.jpg"]
     },
@@ -1637,8 +1637,8 @@
         "nombre": "Arroz frito con puerco y camarones",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.75,
+        "descripcion": "Buco Arroz de 650 gramos salteado con jugosos camarones y tiernos trozos de puerco asado, sazonado con cebollín fresco y un toque de salsa de soja.",
         "images": ["./fotos-menu/Arroz-frito-con-puerco-y-camarones.3.jpg", "./fotos-menu/Arroz-frito-con-puerco-y-camarones.jpg"]
     },
     {
@@ -1646,8 +1646,8 @@
         "nombre": "Camarones al ajillo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 23.99,
+        "descripcion": "Frescos camarones salteados en mantequilla, ajo y perejil, ofreciendo un sabor exquisito y un toque mediterráneo.",
         "images": ["./fotos-menu/camarones-al-ajillo.jpg", "./fotos-menu/camarones-al-ajillo2.jpg"]    
     },
     {
@@ -1655,8 +1655,8 @@
         "nombre": "Camarones en salsa blanca",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 23.99,
+        "descripcion": "Camarones frescos cocinados en una cremosa salsa blanca, realzada con especias para un sabor suave y delicioso.",
         "images": ["./fotos-menu/camarones-en-salsa-blanca3.jpg", "./fotos-menu/camarones-en-salsa-blanca2.jpg"]    
     },
     {
@@ -1664,8 +1664,8 @@
         "nombre": "Camarones en rebosados",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 23.99,
+        "descripcion": "Camarones frescos rebozados y fritos hasta obtener un dorado crujiente, perfectos para acompañar con tu salsa favorita.",
         "images": ["./fotos-menu/camarones-rebosados.jpg", "./fotos-menu/camarones-rebosados2.jpg"]    
     },
     {
@@ -1673,89 +1673,89 @@
         "nombre": "Camarones con hoja mostaza",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 29.99,
+        "descripcion": "Camarones frescos salteados con hojas de mostaza y salsa de ostra, ofreciendo un sabor suave y delicioso, ideal para los amantes de la cocina oriental.",
         "images": ["./fotos-menu/carne-con-hoja-mostaza.jpg"]    
     },
     {
         "id": 188,
-        "nombre": "Carne con jojoticos y champiñon",
+        "nombre": "Carne con jojoticos y champiñones",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 20.99,
+        "descripcion": "Tiernos trozos de carne salteados con jojoticos frescos, champiñones, tiras de cebolla y pimentón, todo en una deliciosa salsa de ostra que realza los sabores en cada bocado.",
         "images": ["./fotos-menu/carne-con-jojotico-y-champinon.jpg"]    
     },
     {
         "id": 189,
-        "nombre": "Cerdo a la miel",
+        "nombre": "Puerco a la miel",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco tempurizados y fritos hasta obtener un exterior crujiente, servidos con una deliciosa salsa de miel que realza el sabor en cada bocado.",
         "images": ["./fotos-menu/cerdo-a-la-miel.jpg", "./fotos-menu/cerdo-a-la-miel2.jpg"]    
     },
     {
         "id": 190,
-        "nombre": "Cerdo agridulce",
+        "nombre": "Puerco agridulce",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco tempurizados en salsa agridulce de piña, que combinan sabores dulces y ácidos en cada bocado.",
         "images": ["./fotos-menu/cerdo-agridulce2.jpg", "./fotos-menu/cerdo-agridulce3.jpg"]    
     },
     {
         "id": 191,
-        "nombre": "Cerdo con champiñon",
+        "nombre": "Puerco con champiñon",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 17.99,
+        "descripcion": "Trozos de puerco salteados con tiras de cebolla, pimentón y champiñones al wok, todo en una deliciosa salsa de ostra que realza cada bocado.",
         "images": ["./fotos-menu/cerdo-con-champinon.jpg", "./fotos-menu/cerdo-con-champinon3.jpg"]    
     },
     {
         "id": 192,
-        "nombre": "Cerdo con hoja de mostaza",
+        "nombre": "Puerco con hoja de mostaza",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco salteados en una salsa de ostra y soya ligera, servidos sobre una cama de hoja de mostaza, creando un equilibrio perfecto de sabores.",
         "images": ["./fotos-menu/cerdo-con-hoja-de-mostaza.jpg", "./fotos-menu/cerdo-con-hoja-de-mostaza2.jpg"]
     },
     {
         "id": 193,
-        "nombre": "Cerdo con jojoticos y champiñon",
+        "nombre": "Puerco con jojoticos y champiñon",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco salteados con jojoticos frescos y champiñones, todo en una sabrosa salsa de ostra que potencia los sabores de cada ingrediente.",
         "images": ["./fotos-menu/cerdo-con-jojoticos-y-champinon.jpg", "./fotos-menu/cerdo-con-jojoticos-y-champinon4.jpg"]
     },
     {
         "id": 194,
-        "nombre": "Cerdo en salsa ostion",
+        "nombre": "Puerco en salsa ostión",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco tiernos, salteados con cebolla y pimentón, bañados en una rica salsa de ostión que resalta su jugosidad y aporta un sabor umami en cada bocado.",
         "images": ["./fotos-menu/cerdo-en-salsa-ostion2.jpg", "./fotos-menu/cerdo-en-salsa-ostion3.jpg"]
     },
     {
         "id": 195,
-        "nombre": "Chuleta sal y pimienta",
+        "nombre": "Chuleta de puerco sal y pimienta",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Tiras de chuleta de puerco tempurizadas y salteadas con cebolla, pimentón y un toque de pimienta blanca, creando una combinación deliciosa y crujiente en cada bocado.",
         "images": ["./fotos-menu/chuleta-sal-y-pimienta.jpg"]
     },
     {
         "id": 196,
-        "nombre": "Eby spaicy",
+        "nombre": "Eby spicy",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 19.99,
-        "descripcion": "",
+        "descripcion": "Camarones apanados, bañados con nuestra salsa dragón picante y un toque de miel, que aportan una combinación irresistible de sabores dulces y picantes en cada bocado.",
         "images": ["./fotos-menu/eby-spaicy.jpg","./fotos-menu/eby-spaicy2.jpg"]
     },
     {
@@ -1763,8 +1763,8 @@
         "nombre": "Filete de res al Vino Porto",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 29.95,
+        "descripcion": "Suave filete de res a la parrilla, bañado en una rica salsa de vino Porto, acompañado de puré de papa de la casa, que complementa perfectamente cada bocado.",
         "images": ["./fotos-menu/filete-de-res-en-salsa-de-vino-porto.jpg"]
     },
     {
@@ -1798,7 +1798,7 @@
     },
     {
         "id": 201,
-        "nombre": "Hosomaki de salmon",
+        "nombre": "Hosomaki de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 4.99,
@@ -1963,11 +1963,11 @@
     },
     {
         "id": 222,
-        "nombre": "Arroz frito de combinación",
+        "nombre": "Arroz frito especial con camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
-        "descripcion": "",
+        "descripcion": "Buco arroz salteado de 650 gramos al wok con una combinación de pollo, puerco, jamón y camarones, todo sazonado con cebollín fresco y un toque de salsa de soja.",
         "images": ["./fotos-menu/arroz-frito-de-combinacion.jpg", "./fotos-menu/arroz-frito-de-combinacion3.jpg"]
     },
     {
@@ -1975,8 +1975,8 @@
         "nombre": "Arroz frito de cerdo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 14.99,
+        "descripcion": "Buco arroz frito de 650 gramos, acompañado de jugosos trozos de Puerco y sazonado con cebollín fresco",
         "images": ["./fotos-menu/arroz-frito-con-cerdo.jpg"]
     },
     {
@@ -1984,8 +1984,8 @@
         "nombre": "Arroz frito de pollo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 14.99,
+        "descripcion": "Buco arroz frito de 650 gramos, acompañado de tiernos trozos de pollo y sazonado con cebollín fresco.",
         "images": ["./fotos-menu/arroz-frito-de-pollo.jpg", "./fotos-menu/arroz-frito-de-pollo2.jpg"]
     },
     {
@@ -1993,8 +1993,8 @@
         "nombre": "Arroz frito de camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 17.50,
+        "descripcion": "Buco arroz frito de 650 gramos, acompañado de jugosos camarones y sazonado con cebollín fresco.",
         "images": ["./fotos-menu/arroz-frito-de-camaron.jpg", "./fotos-menu/arroz-frito-de-camaron2.jpg"]
     },
     {
@@ -2159,7 +2159,7 @@
         "subcategoria": "Vegetales",
         "precio": 10.99,
         "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones y aderezo César cremoso. Una combinación perfecta de sabores y texturas que resulta en un plato fresco y satisfactorio.",
-        "images": ["./fotos-menu/ensalada-cesar.jpg", "./fotos-menu/ensalada-cesar2.jpg"]
+        "images": ["./fotos-menu/ensalada-cesar.jpg", "./fotos-menu/ensalada-cesar-2.jpg"]
     },
     {
         "id": 243,
@@ -2180,12 +2180,66 @@
         "images": ["./fotos-menu/ensalada-kani.jpg", "./fotos-menu/ensalada-kani2.jpg"]
     },
     {
-        "id": 244,
+        "id": 245,
         "nombre": "Ensalada de queso cabra",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 10.99,
         "descripcion": "",
         "images": ["./fotos-menu/ensalada-de-queso-cabra.jpg", "./fotos-menu/ensalada-de-queso-cabra2.jpg"]
+    },
+    {
+        "id": 246,
+        "nombre": "Carne en salsa de osteon",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "",
+        "images": ""
+    },
+    {
+        "id": 247,
+        "nombre": "Carne con jengibre y cebollín",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "",
+        "images": ""
+    },
+    {
+        "id": 248,
+        "nombre": "Carne con hoja de mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "",
+        "images": ""
+    },
+    {
+        "id": 249,
+        "nombre": "Carne con vegetales",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "",
+        "images": ""
+    },
+    {
+        "id": 250,
+        "nombre": "Carne con sechuan",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "",
+        "images": ""
+    },
+    {
+        "id": 251,
+        "nombre": "Carne con sechuan",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "",
+        "images": ""
     }
 ]

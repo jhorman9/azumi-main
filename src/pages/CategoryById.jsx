@@ -34,6 +34,8 @@ export const CategoryById = () => {
         setNewDataSushi([]);
     }
 
+    console.log(category, dishes)
+
     const renderCardBody = (data) => (
         <div className="card-body" key={data.id}>
             <div className="card-image">
