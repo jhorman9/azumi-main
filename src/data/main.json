@@ -167,7 +167,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "2 Rollos frescos rellenos de Puerco sazonado y verduras, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
+        "descripcion": "2 Rollos frescos rellenos de Puerco sazonado y vegetales, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
         "images": ""
     },
     {
@@ -176,7 +176,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 8.99,
-        "descripcion": "2 Rollos frescos rellenos de camarones jugosos y verduras crujientes, servidos con salsa agridulce. Un festín de sabores marinos en cada bocado.",
+        "descripcion": "2 Rollos frescos rellenos de camarones jugosos y vegetales crujientes, servidos con salsa agridulce. Un festín de sabores marinos en cada bocado.",
         "images": ""
     },
     {
@@ -212,7 +212,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 8.99,
-        "descripcion": "4 Bollos al vapor rellenos de carne de Puerco y verduras. Deliciosos y reconfortantes.",
+        "descripcion": "4 Bollos al vapor rellenos de carne de Puerco y vegetales. Deliciosos y reconfortantes.",
         "images": ""
     },
     {
@@ -482,7 +482,7 @@
         "categoria": "Japones",
         "subcategoria": "Sopas",
         "precio": 14.99,
-        "descripcion": "Caldo rico y sabroso con fideos ramen, lonjas de cerdo, huevo, y verduras frescas. Un clásico japonés lleno de umami.",
+        "descripcion": "Caldo rico y sabroso con fideos ramen, lonjas de cerdo, huevo, y vegetales frescas. Un clásico japonés lleno de umami.",
         "images": ["./fotos-menu/ramen-de-cerdo2.jpg", "./fotos-menu/ramen-de-cerdo5.jpg"]
     },
     {
@@ -500,7 +500,7 @@
         "categoria": "Japones",
         "subcategoria": "Sopas",
         "precio": 14.99,
-        "descripcion": "Caldo reconfortante con fideos ramen, trozos suculentos de pollo, huevo cocido y verduras frescas. Una opción reconfortante y llena de sabor.",
+        "descripcion": "Caldo reconfortante con fideos ramen, trozos suculentos de pollo, huevo cocido y vegetales frescas. Una opción reconfortante y llena de sabor.",
         "images": ["./fotos-menu/Ramen-de-Pollo11.jpg", "./fotos-menu/Ramen-de-Pollo12.jpg"]
     },
     {
@@ -509,7 +509,7 @@
         "categoria": "Japones",
         "subcategoria": "Sopas",
         "precio": 15.99,
-        "descripcion": "Caldo fragante con fideos ramen, una combinación de carne de cerdo, pollo, camarones, huevo cocido y verduras frescas. Una explosión de sabores en cada cucharada.",
+        "descripcion": "Caldo fragante con fideos ramen, una combinación de carne de cerdo, pollo, camarones, huevo cocido y vegetales frescas. Una explosión de sabores en cada cucharada.",
         "images": ["./fotos-menu/ramen-de-camaron-mixto7.jpg", "./fotos-menu/ramen-de-camaron-mixto9.jpg"]
     },
     {
@@ -518,7 +518,7 @@
         "categoria": "Japones",
         "subcategoria": "Sopas",
         "precio": 14.99,
-        "descripcion": "Exquisito caldo japonés con fideos ramen, suculentos trozos de pescado fresco, huevo cocido, y una selección de verduras frescas. Un plato reconfortante y sabroso, ideal para los amantes del pescado.",
+        "descripcion": "Exquisito caldo japonés con fideos ramen, suculentos trozos de pescado fresco, huevo cocido, y una selección de vegetales frescas. Un plato reconfortante y sabroso, ideal para los amantes del pescado.",
         "images": ["./fotos-menu/ramen-de-pescado.jpg", "./fotos-menu/ramen-de-pescado4.jpg"]
     },
     {
@@ -536,7 +536,7 @@
         "categoria": "Thailandes",
         "subcategoria": "Sopas",
         "precio": 10.99,
-        "descripcion": "Sopa aromática de leche de coco con sabores tailandeses auténticos, como limoncillo y jengibre, acompañada de camarones frescos, setas y verduras. Una experiencia culinaria exótica y deliciosa.",
+        "descripcion": "Sopa aromática de leche de coco con sabores tailandeses auténticos, como limoncillo y jengibre, acompañada de camarones frescos, setas y vegetales. Una experiencia culinaria exótica y deliciosa.",
         "images": ["./fotos-menu/Sopa-de-coco-thay4.jpg", "./fotos-menu/Sopa-de-coco-thay6.jpg"]
     },
     {
@@ -545,7 +545,7 @@
         "categoria": "Peruano",
         "subcategoria": "Sopas",
         "precio": 9.00,
-        "descripcion": "Sopa cremosa de pollo con maíz, papas, huevos y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar en cualquier ocasión.",
+        "descripcion": "Sopa cremosa de pollo con maíz, papas, huevos y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para disfrutar en cualquier ocasión.",
         "images": ["./fotos-menu/Chupe-de-pollo2.jpg", "./fotos-menu/Chupe-de-pollo6.jpg"]
     },
     {
@@ -554,7 +554,7 @@
         "categoria": "Peruano",
         "subcategoria": "Sopas",
         "precio": 10.90,
-        "descripcion": "Sopa cremosa de camarones con maíz, papas y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.",
+        "descripcion": "Sopa cremosa de camarones con maíz, papas y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.",
         "images": ["./fotos-menu/chupe-de-camaron.jpg", "./fotos-menu/chupe-de-camaron5.jpg"]
     },
     {
@@ -563,7 +563,7 @@
         "categoria": "Peruano",
         "subcategoria": "Sopas",
         "precio": 11.50,
-        "descripcion": "Sopa cremosa de mariscos con camarones, calamares, mejillones y una variedad de verduras. Un plato reconfortante y lleno de sabor, perfecto para disfrutar de una experiencia culinaria marina.",
+        "descripcion": "Sopa cremosa de mariscos con camarones, calamares, mejillones y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para disfrutar de una experiencia culinaria marina.",
         "images": ["./fotos-menu/Chupe-de-mariscos.jpg", "./fotos-menu/Chupe-de-mariscos5.jpg"]
     },
     {
@@ -814,7 +814,7 @@
         "nombre": "Pad thai de camarón",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
-        "precio": 15.99,
+        "precio": 16.99,
         "descripcion": "Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, tofu, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco para un toque cítrico y herbal.",
         "images": ["./fotos-menu/pad-thai-camaron5.jpg", "./fotos-menu/pad-thai-camaron7.jpg"]
     },
@@ -1818,20 +1818,20 @@
     },
     {
         "id": 204,
-        "nombre": "Mac and cheese",
+        "nombre": "Mac n' cheese",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 9.90,
         "descripcion": "",
         "images": ["./fotos-menu/mac-and-cheese.jpg", "./fotos-menu/mac-and-cheese-3.jpg"]
     },
     {
         "id": 205,
-        "nombre": "Pasta de mariscos",
+        "nombre": "Pasta a la marinera",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 24.95,
+        "descripcion": "Pasta al dente en una sabrosa salsa roja, acompañada de una mezcla de marisco, calamares, camarón, pulpo y mejillón, salteados a la perfección para resaltar su frescura.",
         "images": ["./fotos-menu/pasta-de-mariscos.jpg", "./fotos-menu/pasta-de-mariscos-2.jpg"]
     },
     {
@@ -1839,8 +1839,8 @@
         "nombre": "Pad thai de carne",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.90,
+        "descripcion": "Clásico plato tailandés preparado con fideos de arroz salteados al wok, tiras de carne jugosa, huevo, brotes de soya y maní triturado. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.",
         "images": ["./fotos-menu/pad-thai-carne2.jpg", "./fotos-menu/pad-thai-carne3.jpg"]
     },
     {
@@ -1848,8 +1848,8 @@
         "nombre": "Pad thai de vegetales",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 13.99,
+        "descripcion": "Clásico plato tailandés preparado con fideos de arroz salteados al wok, tofu crujiente, una mezcla de vegetales frescos, huevo, brotes de soya y maní triturado. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.",
         "images": ["./fotos-menu/pad-thai-vegetales.jpg"]
     },
     {
@@ -1857,8 +1857,8 @@
         "nombre": "Pollo agridulce",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo tempurizados en salsa agridulce de piña, que combinan sabores dulces y ácidos en cada bocado.",
         "images": ["./fotos-menu/pollo-agridulce.jpg"]
     },
     {
@@ -1866,8 +1866,8 @@
         "nombre": "Pollo con hoja de mostaza",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo salteados con hoja de mostaza en una delicada salsa de ostra y soya ligera, que resaltan el sabor fresco y ligeramente amargo de la mostaza en cada bocado.",
         "images": ["./fotos-menu/pollo-con-hoja-de-mostaza.jpg"]
     },
     {
@@ -1875,8 +1875,8 @@
         "nombre": "Pollo con jojoticos y champiñón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo salteados con tiernos jojoticos y champiñones, en una sabrosa salsa de ostra, realzando los sabores frescos y umami en cada bocado.",
         "images": ["./fotos-menu/pollo-con-jojoticos-y-champinon.jpg"]
     },
     {
@@ -1884,8 +1884,8 @@
         "nombre": "Pollo en salsa de ostión",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo tiernos salteados en una rica salsa de ostión, acompañados de cebolla y pimentón, creando una combinación deliciosa y llena de sabor.",
         "images": ["./fotos-menu/pollo-en-salsa-de-ostion.jpg"]
     },
     {
@@ -1893,8 +1893,8 @@
         "nombre": "Pollo a la miel",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo tempurizados y glaseados en una dulce salsa de miel, espolvoreados con semillas de sésamo blanca, que aportan una textura crujiente y un sabor exquisito en cada bocado.",
         "images": ["./fotos-menu/pollo-miel.jpg", "./fotos-menu/pollo-miel2.jpg"]
     },
     {
@@ -1902,8 +1902,8 @@
         "nombre": "Ración de costilla",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 22.44,
+        "descripcion": "Deliciosa ración de costillas asadas, con 5 unidades jugosas y tiernas, marinadas con especias asiáticas que realzan su sabor ahumado y caramelizado en cada bocado.",
         "images": ["./fotos-menu/racion-de-costilla.jpg", "./fotos-menu/racion-de-costilla2.jpg"]
     },
     {
@@ -1911,8 +1911,8 @@
         "nombre": "Salmón con risitto de lenteja",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 28.95,
+        "descripcion": "Filete de salmón a la parrilla, servido sobre un cremoso risotto de lentejas, que combina texturas y sabores, creando un plato nutritivo y reconfortante.",
         "images": ["./fotos-menu/salmon-con-risotto-de-lenteja.jpg","./fotos-menu/salmon-con-risotto-de-lenteja3.jpg"]
     },
     {
@@ -1920,8 +1920,8 @@
         "nombre": "Salmón en salsa de maracuya",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 28.95,
+        "descripcion": "Delicioso filete de salmón, bañado en una vibrante salsa de maracuyá, acompañado de una colorida mezcla de vegetales frescos salteados, que realzan el sabor exótico y refrescante del plato.",
         "images": ["./fotos-menu/salmon-en-salsa-de-maracuya.jpg", "./fotos-menu/salmon-en-salsa-de-maracuya2.jpg"]
     },
     {
@@ -1929,8 +1929,8 @@
         "nombre": "Sopa de carne",
         "categoria": "Chino",
         "subcategoria": "Sopas",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 11.21,
+        "descripcion": "Reconfortante sopa de carne china, cocida a fuego lento con trozos tiernos de carne, fideos, vegetales frescas y especias aromáticas, que ofrecen un sabor profundo y auténtico en cada cucharada.",
         "images": ["./fotos-menu/sopa-de-carne.jpg", "./fotos-menu/sopa-de-carne3.jpg"]
     },
     {
@@ -1938,8 +1938,8 @@
         "nombre": "Tallarines al oleo con mariscos",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 24.95,
+        "descripcion": "Plato peruano de tallarines al óleo, salteados con una mezcla fresca de mariscos, pimentón amarillo y cebolla, creando una deliciosa combinación de sabores marinos en cada bocado.",
         "images": ["./fotos-menu/tallarines-al-oleo-con-mariscos2.jpg", "./fotos-menu/tallarines-al-oleo-con-mariscos4.jpg"]
     },
     {
@@ -1947,8 +1947,8 @@
         "nombre": "Vegetales buda",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 14.58,
+        "descripcion": "Colorida mezcla de vegetales frescos al estilo buda chino, salteados a la perfección y acompañados de salsa de soya, ofreciendo un plato lleno de sabor y nutrición",
         "images": ["./fotos-menu/vegetales-buda.jpg", "./fotos-menu/vegetales-buda2.jpg"]
     },
     {
@@ -1966,7 +1966,7 @@
         "nombre": "Arroz frito especial con camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
+        "precio": 16.87,
         "descripcion": "Buco arroz salteado de 650 gramos al wok con una combinación de pollo, puerco, jamón y camarones, todo sazonado con cebollín fresco y un toque de salsa de soja.",
         "images": ["./fotos-menu/arroz-frito-de-combinacion.jpg", "./fotos-menu/arroz-frito-de-combinacion3.jpg"]
     },
@@ -2002,8 +2002,8 @@
         "nombre": "Carne mongolia",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 21.47,
+        "descripcion": "Exquisita Carne Mongolia, con trozos de carne marinada y apanada o tempurizada, salteados en una salsa dulce y picante, acompañada de cebollas y pimientos frescos.",
         "images": ["./fotos-menu/carne-mongolia.jpg", "./fotos-menu/carne-mongolia-6.jpg"]
     },
     {
@@ -2011,8 +2011,8 @@
         "nombre": "Chop sueys de camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 17.99,
+        "descripcion": "Un clásico asiático, salteado con vegetales frescas y fideos, en una suave salsa de soya y salsa de ostión que realza su sabor.",
         "images": ["./fotos-menu/chop-sueys-camaron.jpg", "./fotos-menu/chop-sueys-camaron2.jpg"]
     },
     {
@@ -2020,8 +2020,8 @@
         "nombre": "Chop sueys de carne",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.70,
+        "descripcion": "Un clásico asiático, salteado con vegetales frescas y fideos, en una suave salsa de soya y salsa de ostión que realza su sabor.",
         "images": ["./fotos-menu/chop-sueys-carne.jpg", "./fotos-menu/chop-sueys-carne2.jpg"]
     },
     {
@@ -2029,26 +2029,26 @@
         "nombre": "Chop sueys de cerdo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.70,
+        "descripcion": "Un clásico asiático, salteado con vegetales frescas y fideos, en una suave salsa de soya y salsa de ostión que realza su sabor.",
         "images": ["./fotos-menu/chop-sueys-cerdo.jpg", "./fotos-menu/chop-sueys-cerdo2.jpg"]
     },
     {
         "id": 229,
-        "nombre": "Chop sueys de combinación con camarón",
+        "nombre": "Chop sueys especial con camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 16.83,
+        "descripcion": "Una deliciosa mezcla de pollo, puerco, jamón y camarón, salteada con vegetales frescas en una suave salsa de soya y salsa de ostión que realza su sabor y frescura.",
         "images": ["./fotos-menu/chop-sueys-combinacion-con-camaron.jpg", "./fotos-menu/chop-sueys-combinacion-con-camaron2.jpg"]
     },
     {
         "id": 230,
-        "nombre": "Chop sueys de combinación sin camarón",
+        "nombre": "Chop sueys especial sin camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.70,
+        "descripcion": "Una deliciosa mezcla de pollo, puerco y jamón, salteada con vegetales frescas en una suave salsa de soya y salsa de ostión que resalta su sabor y frescura.",
         "images": ["./fotos-menu/chop-sueys-combinacion-sin-camaron.jpg", "./fotos-menu/chop-sueys-combinacion-sin-camaron2.jpg"]
     },
     {
@@ -2056,8 +2056,8 @@
         "nombre": "Chop sueys de pollo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.70,
+        "descripcion": "Una sabrosa mezcla de pollo salteado con vegetales frescas, acompañado de jamón y en una suave salsa de soya y salsa de ostión que realza su sabor y frescura.",
         "images": ["./fotos-menu/chop-sueys-pollo.jpg", "./fotos-menu/chop-sueys-pollo2.jpg"]
     },
     {
@@ -2065,8 +2065,8 @@
         "nombre": "Chop sueys de vegetales",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 14.58,
+        "descripcion": "Una colorida mezcla de vegetales frescas salteadas en una suave salsa de soya y salsa de ostión, ofreciendo un plato lleno de sabor y frescura.",
         "images": ["./fotos-menu/chop-sueys-vegetales.jpg", "./fotos-menu/chop-sueys-vegetales-2.jpg"]
     },
     {
@@ -2074,8 +2074,8 @@
         "nombre": "Chow mein de camarón",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 18.07,
+        "descripcion": "Fideos salteados al wok con jugosos camarones, vegetales frescos y una mezcla de salsas que aportan un delicioso sabor asiático en cada bocado.",
         "images": ["./fotos-menu/Chow-mein-camaron.jpg", "./fotos-menu/Chow-mein-camaron2.jpg"]
     },
     {
@@ -2083,8 +2083,8 @@
         "nombre": "Chow mein de carne",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con tiernas tiras de carne, vegetales frescos y un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y textura en cada bocado.",
         "images": ["./fotos-menu/Chow-mein-carne.jpg", "./fotos-menu/Chow-mein-carne2.jpg"]
     },
     {
@@ -2092,17 +2092,17 @@
         "nombre": "Chow mein de cerdo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con tiernas tiras de cerdo, vegetales frescos y un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y textura en cada bocado",
         "images": ["./fotos-menu/Chow-mein-cerdo.jpg", "./fotos-menu/Chow-mein-cerdo2.jpg"]
     },
     {
         "id": 236,
-        "nombre": "Chow mein de combinación",
+        "nombre": "Chow mein especial",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 16.83,
+        "descripcion": "Una suculenta mezcla de pollo, puerco, jamón y camarón, salteados con fideos y vegetales frescos, todo aderezado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad en cada bocado",
         "images": ["./fotos-menu/Chow-mein-combinacion.jpg", "./fotos-menu/Chow-mein-combinacion2.jpg"]
     },
     {
@@ -2110,8 +2110,8 @@
         "nombre": "Chow mein de pollo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con tiernas tiras de pollo, vegetales frescos y un toque de salsa de soya y salsa de ostión, ofreciendo un plato lleno de sabor y textura en cada bocado.",
         "images": ["./fotos-menu/Chow-mein-pollo.jpg", "./fotos-menu/Chow-mein-pollo2.jpg"]
     },
     {
@@ -2119,18 +2119,54 @@
         "nombre": "Chow mein de vegetales",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
+        "precio": 14.58,
+        "descripcion": "Fideos salteados al wok con una colorida mezcla de vegetales frescos, aderezados con un toque de salsa de soya y salsa de ostión, creando un plato lleno de frescura y sabor.",
         "images": ["./fotos-menu/Chow-mein-vegetales.jpg", "./fotos-menu/Chow-mein-vegetales2.jpg"]
     },
     {
-        "id": 239,
-        "nombre": "Chorizo",
+        "id": 253,
+        "nombre": "Chow mein con carne en salsa de ostión",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 19.99,
-        "descripcion": "",
-        "images": ["./fotos-menu/chorizos.jpg"]
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con tiernas tiras de carne, vegetales frescos y un rico toque de salsa de ostión, que realza el sabor del plato en cada bocado.",
+        "images": ""
+    },
+    {
+        "id": 253,
+        "nombre": "Chow mein con carne mixta",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Una deliciosa combinación de pollo, carne y puerco, salteados con fideos y vegetales frescos, todo realzado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad.",
+        "images": ""
+    },
+    {
+        "id": 253,
+        "nombre": "Chow mein especial sin camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Una suculenta mezcla de pollo, puerco, jamón salteados con fideos y vegetales frescos, todo aderezado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad en cada bocado",
+        "images": ""
+    },
+    {
+        "id": 253,
+        "nombre": "Fideo singapur",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.83,
+        "descripcion": "Una deliciosa mezcla de pollo, puerco y camarón, salteados con fideos de arroz en una sabrosa salsa de curry y salsa de ostión, ofreciendo un plato lleno de sabores vibrantes y exóticos.",
+        "images": ""
+    },
+    {
+        "id": 239,
+        "nombre": "Chorizo a la parrilla",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "4 unidades de Chorizo parrillero al carbón, con un sabor ahumado y jugoso, ideal para disfrutar a la parrilla y acompañar con tus salsas favoritas.",
+        "images": ["./fotos-menu/chorizo.jpg"]
     },
     {
         "id": 240,
@@ -2241,5 +2277,23 @@
         "precio": 20.99,
         "descripcion": "",
         "images": ""
+    },
+    {
+        "id": 252,
+        "nombre": "Brocoli y hongo shitake con salsa de ostión",
+        "categoria": "Chino",
+        "subcategoria": "Vegetales",
+        "precio": 20.99,
+        "descripcion": "",
+        "images": ""
+    },
+    {
+        "id": 253,
+        "nombre": "Chow mein con carne en salsa de ostión",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con una colorida mezcla de vegetales frescos, aderezados con un toque de salsa de soya y salsa de ostión, creando un plato lleno de frescura y sabor.",
+        "images": ["./fotos-menu/Chow-mein-vegetales.jpg", "./fotos-menu/Chow-mein-vegetales2.jpg"]
     }
 ]
