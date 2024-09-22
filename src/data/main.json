@@ -2272,11 +2272,11 @@
     {
         "id": 252,
         "nombre": "Brocoli y hongo shitake con salsa de ostión",
-        "categoria": "Chino",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 20.99,
-        "descripcion": "",
-        "images": ""
+        "descripcion": "Trozos de brócoli y hongos shitake salteados, bañados en una rica salsa de ostión para un toque de sabor umami.",
+        "images": ["./fotos-menu/hongo-shitake.jpg"]
     },
     {
         "id": 253,
