@@ -830,7 +830,7 @@
     {
         "id": 84,
         "nombre": "Kinoha de vegetales",
-        "categoria": "Japones",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 10.99,
         "descripcion": "Plato japonés que consiste en una mezcla de quinoa y vegetales salteados, como zanahorias, pimientos, cebolla y espinacas, sazonados con salsa de soya y jengibre. Una opción saludable y sabrosa, perfecta para los amantes de la cocina oriental y los ingredientes frescos.",
@@ -839,7 +839,7 @@
     {
         "id": 85,
         "nombre": "Kinoha de pollo",
-        "categoria": "Japones",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 13.99,
         "descripcion": "Plato japonés que combina quinoa con trozos tiernos de pollo salteados junto a vegetales como zanahorias, pimientos, cebolla y espinacas. Sazonado con salsa de soya y jengibre para un toque oriental y sabroso.",
@@ -848,7 +848,7 @@
     {
         "id": 86,
         "nombre": "Kinoha de salmón",
-        "categoria": "Japones",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 16.99,
         "descripcion": "Plato japonés que presenta una mezcla de quinoa acompañada de filete de salmón a la parrilla, junto con vegetales salteados como zanahorias, pimientos, cebolla y espinacas. Todo ello sazonado con salsa de soya y jengibre, ofreciendo un equilibrio perfecto de sabores y una opción saludable y deliciosa.",
