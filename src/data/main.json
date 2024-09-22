@@ -879,7 +879,7 @@
         "subcategoria": "Vegetales",
         "precio": 14.99,
         "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso, acompañada de camarones salteados. Una combinación deliciosa que combina sabores frescos con el sabor marino de los camarones.",
-        "images": ""
+        "images": ["./fotos-menu/ensalada-cesar-camarones.jpg"]
     },
     {
         "id": 90,
@@ -1095,7 +1095,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 10.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y atún fresco.",
-        "images": ["./fotos-menu/tuna-roll.jpg", "./fotos-menu/tuna-roll2.jpg"],
+        "images": ["./fotos-menu/tuna-roll.jpg", "./fotos-menu/tuna-roll3.jpg"],
         "isRoll": true
     },
     {
@@ -2202,8 +2202,8 @@
         "nombre": "Ensalada de filete thai",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
-        "precio": 10.99,
-        "descripcion": "",
+        "precio": 12.99,
+        "descripcion": "Fresca mezcla de lechugas con tomate cherry, cebolla roja, pepino y cilantro, acompañada de jugosa carne salteada con champiñones frescos y jojoticos.",
         "images": ["./fotos-menu/ensalada-de-filete-thai.jpg", "./fotos-menu/ensalada-de-filete-thai2.jpg"]
     },
     {
@@ -2211,8 +2211,8 @@
         "nombre": "Ensalada kani",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
-        "precio": 10.99,
-        "descripcion": "",
+        "precio": 13.50,
+        "descripcion": "Fresca mezcla de lechugas con kani y aguacate, servida en una cesta de arroz crocante y decorada con semillas de sésamo, acompañada de un aderezo especial de la casa.",
         "images": ["./fotos-menu/ensalada-kani.jpg", "./fotos-menu/ensalada-kani2.jpg"]
     },
     {
@@ -2220,13 +2220,13 @@
         "nombre": "Ensalada de queso cabra",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
-        "precio": 10.99,
-        "descripcion": "",
+        "precio": 13.75,
+        "descripcion": "Fresca mezcla de lechugas con queso de cabra, manzana verde y roja, nueces caramelizadas y cebolla roja caramelizada, acompañada de un aderezo especial de la casa.",
         "images": ["./fotos-menu/ensalada-de-queso-cabra.jpg", "./fotos-menu/ensalada-de-queso-cabra2.jpg"]
     },
     {
         "id": 246,
-        "nombre": "Carne en salsa de osteon",
+        "nombre": "Carne en salsa de ostión",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
@@ -2262,15 +2262,6 @@
     },
     {
         "id": 250,
-        "nombre": "Carne con sechuan",
-        "categoria": "Chino",
-        "subcategoria": "Platos fuertes",
-        "precio": 20.99,
-        "descripcion": "",
-        "images": ""
-    },
-    {
-        "id": 251,
         "nombre": "Carne con sechuan",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
