@@ -356,7 +356,7 @@
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 15.99,
-        "descripcion": "láminas de salmón fresco y pescado blanco o atun y salmon. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.",
+        "descripcion": "láminas de salmón fresco y pescado blanco o atun y salmón. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.",
         "images": ""
     },
     {
@@ -798,7 +798,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.90,
         "descripcion": "Arroz salteado al estilo tailandés con una variedad de vegetales frescos, como pimientos, zanahorias, cebolla y brotes de soya. Sazonado con salsa de soya y jengibre, ofreciendo un plato vegetariano exótico y lleno de sabor.",
-        "images": ""
+        "images": ["./fotos-menu/arroz-thai-vegetales.jpg"]
     },
     {
         "id": 81,
@@ -1034,7 +1034,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
-        "descripcion": "Cangrejo, atún fresco, queso crema y aguacate. Cubierto de finas láminas de aguacate y dados de salmón fresco de topping, bañados en salsa picante y cebollin.",
+        "descripcion": "Cangrejo, atún fresco, queso crema y aguacate. Cubierto de finas láminas de aguacate y dados de salmón fresco de topping, bañados en salsa picante y cebollín.",
         "images": "",
         "isRoll": true
     },
@@ -1463,7 +1463,7 @@
     },
     {
         "id": 163,
-        "nombre": "Sashimi de salmon",
+        "nombre": "Sashimi de salmón",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
@@ -1490,7 +1490,7 @@
     },
     {
         "id": 166,
-        "nombre": "Temaki de salmon",
+        "nombre": "Temaki de salmón",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 9.99,
@@ -1526,7 +1526,7 @@
     },
     {
         "id": 170,
-        "nombre": "Nigiri de salmon",
+        "nombre": "Nigiri de salmón",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 3.50,
@@ -1607,7 +1607,7 @@
     },
     {
         "id": 179,
-        "nombre": "Osomaki de salmon",
+        "nombre": "Osomaki de salmón",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 4.99,
