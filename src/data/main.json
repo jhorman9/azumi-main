@@ -159,7 +159,7 @@
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "4 Rollitos de vegetales frescos con salsa. Un bocado ligero, crujiente y sabroso.",
-        "images": ""
+        "images": ["./fotos-menu/mini-rollitos-de-primavera.jpg", "./fotos-menu/mini-rollitos-de-primavera(2).jpg"]
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "subcategoria": "Entradas",
         "precio": 7.99,
         "descripcion": "2 Rollos frescos rellenos de Puerco sazonado y vegetales, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
-        "images": ""
+        "images": ["./fotos-menu/sprim-roll-lumpia.jpg"]
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "subcategoria": "Entradas",
         "precio": 8.99,
         "descripcion": "2 Rollos frescos rellenos de camarones jugosos y vegetales crujientes, servidos con salsa agridulce. Un festín de sabores marinos en cada bocado.",
-        "images": ""
+        "images": ["./fotos-menu/sprim-roll-lumpia.jpg"]
     },
     {
         "id": 21,
@@ -186,7 +186,7 @@
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "2 Rollitos frescos de vegetales con salsa. Un bocado ligero y delicioso.",
-        "images": ""
+        "images": ["./fotos-menu/sprim-roll-lumpia.jpg"]
     },
     {
         "id": 22,
@@ -1305,7 +1305,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": "Roll apanado relleno de queso crema, aguacate, cebollina, cangrejo y pescado blanc. con topping de salsa dinamita.",
-        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll3.jpg"],
+        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1519,34 +1519,34 @@
         "id": 169,
         "nombre": "Nigiri de pescado blanco",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 2.50,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
+        "images": ["./fotos-menu/nigiri-de-pescado-blanco.jpg", "./fotos-menu/nigiri-de-pescado-blanco3.jpg"]
     },
     {
         "id": 170,
         "nombre": "Nigiri de salmón",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 3.50,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
+        "images": ["./fotos-menu/nigiri-de-salmon.jpg", "./fotos-menu/nigiri-de-salmon2.jpg"]
     },
     {
         "id": 171,
         "nombre": "Nigiri de atun",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 2.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
+        "images": ["./fotos-menu/nigiri-de-atun.jpg", "./fotos-menu/nigiri-de-atun4.jpg"]
     },
     {
         "id": 172,
         "nombre": "Nigiri de kani",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 1.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ""
@@ -1555,19 +1555,19 @@
         "id": 173,
         "nombre": "Nigiri mixto",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 19.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
+        "images": ["./fotos-menu/nigiri-mixto.jpg"]
     },
     {
         "id": 174,
         "nombre": "Nigiri de anguila",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "Entradas",
         "precio": 3.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
+        "images": ["./fotos-menu/nigiri-de-anguila.jpg", "./fotos-menu/nigiri-de-anguila2.jpg"]
     },
     {
         "id": 175,
@@ -2249,7 +2249,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
         "descripcion": "",
-        "images": ""
+        "images": ["./fotos-menu/carne-con-hoja-mostaza.jpg"]
     },
     {
         "id": 249,
@@ -2286,5 +2286,14 @@
         "precio": 15.70,
         "descripcion": "Fideos salteados al wok con una colorida mezcla de vegetales frescos, aderezados con un toque de salsa de soya y salsa de ostión, creando un plato lleno de frescura y sabor.",
         "images": ["./fotos-menu/Chow-mein-vegetales.jpg", "./fotos-menu/Chow-mein-vegetales2.jpg"]
+    },
+    {
+        "id": 254,
+        "nombre": "Puerco con jengibre y cebollina",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Jugosos cortes de cerdo salteados a la perfección, infusionados con el aroma fresco del jengibre y la delicadeza de la cebollina, en una suave salsa de soya que realza su sabor.",
+        "images": ["./fotos-menu/cerdo-con-gengibre-y-cebollina.jpg", "./fotos-menu/cerdo-con-gengibre-y-cebollina3.jpg"]
     }
 ]
