@@ -2125,15 +2125,6 @@
     },
     {
         "id": 253,
-        "nombre": "Chow mein con carne en salsa de ostión",
-        "categoria": "Chino",
-        "subcategoria": "Platos fuertes",
-        "precio": 15.70,
-        "descripcion": "Fideos salteados al wok con tiernas tiras de carne, vegetales frescos y un rico toque de salsa de ostión, que realza el sabor del plato en cada bocado.",
-        "images": ""
-    },
-    {
-        "id": 253,
         "nombre": "Chow mein con carne mixta",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
