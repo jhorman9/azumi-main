@@ -456,7 +456,7 @@
         "subcategoria": "Sopas",
         "precio": 7.99,
         "descripcion": "Caldo de pollo con una variedad de vegetales frescos. Un plato ligero y nutritivo.",
-        "images": ""
+        "images": ["./fotos-menu/sopa-con-vegetales-buda.jpg"]
     },
     {
         "id": 48,
@@ -1886,7 +1886,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 18.99,
         "descripcion": "Trozos de pollo tiernos salteados en una rica salsa de ostión, acompañados de cebolla y pimentón, creando una combinación deliciosa y llena de sabor.",
-        "images": ["./fotos-menu/pollo-en-salsa-de-ostion.jpg"]
+        "images": ["./fotos-menu/pollo-en-salsa-de-ostion4.jpg", "./fotos-menu/pollo-en-salsa-de-ostion5.jpg"]
     },
     {
         "id": 212,
@@ -2222,7 +2222,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
         "descripcion": "",
-        "images": ""
+        "images": ["./fotos-menu/carne-en-salsa-de-ostion2.jpg", "./fotos-menu/carne-en-salsa-de-ostion3.jpg"]
     },
     {
         "id": 247,
@@ -2231,7 +2231,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
         "descripcion": "",
-        "images": ""
+        "images": ["./fotos-menu/carne-con-jengibre-y-cebollin.jpg", "./fotos-menu/carne-con-jengibre-y-cebollin2.jpg"]
     },
     {
         "id": 248,
@@ -2257,8 +2257,8 @@
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
-        "descripcion": "",
-        "images": ""
+        "descripcion": "Jugosos cortes de res salteados en salsa BBQ china, con un toque picante y ligeramente dulce, realzados con sabores auténticos de la cocina Sechuan.",
+        "images": ["./fotos-menu/carne-sechuan.jpg"]
     },
     {
         "id": 252,
@@ -2280,11 +2280,47 @@
     },
     {
         "id": 254,
-        "nombre": "Puerco con jengibre y cebollina",
+        "nombre": "Cerdo con jengibre y cebollina",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
-        "precio": 15.70,
+        "precio": 20.99,
         "descripcion": "Jugosos cortes de cerdo salteados a la perfección, infusionados con el aroma fresco del jengibre y la delicadeza de la cebollina, en una suave salsa de soya que realza su sabor.",
         "images": ["./fotos-menu/cerdo-con-gengibre-y-cebollina.jpg", "./fotos-menu/cerdo-con-gengibre-y-cebollina3.jpg"]
+    },
+    {
+        "id": 255,
+        "nombre": "Pollo con sechuan",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Deliciosos trozos de pollo salteados en una salsa de BBQ china, con un toque picante y dulce que resalta los auténticos sabores de la cocina Sechuan.",
+        "images": ["./fotos-menu/pollo-con-sechuan2.jpg", "./fotos-menu/pollo-con-sechuan3.jpg"]
+    },
+    {
+        "id": 256,
+        "nombre": "Cerdo con sechuan",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Sabrosas tiras de cerdo salteadas en una salsa BBQ china con un toque picante y especiado, combinando los sabores característicos de la cocina Sechuan.",
+        "images": ["./fotos-menu/cerdo-con-sechuan.jpg", "./fotos-menu/cerdo-con-sechuan2.jpg"]
+    },
+    {
+        "id": 257,
+        "nombre": "Pollo con jengibre y cebollina",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Jugosos trozos de pollo salteados a la perfección, infusionados con el aroma fresco del jengibre y la delicadeza de la cebollina, en una suave salsa de soya que realza su sabor.",
+        "images": ["./fotos-menu/pollo-jengibre-cebollin4.jpg", "./fotos-menu/pollo-jengibre-cebollin5.jpg"]
+    },
+    {
+        "id": 225,
+        "nombre": "Pollo mongolia",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 21.47,
+        "descripcion": "Exquisito Pollo Mongolia, con trozos de pollo marinados y apanados o tempurizados, salteados en una salsa dulce y picante, acompañados de cebollas y pimientos frescos.",
+        "images": ["./fotos-menu/pollo-mongolia.jpg", "./fotos-menu/pollo-mongolia2.jpg"]
     }
 ]
