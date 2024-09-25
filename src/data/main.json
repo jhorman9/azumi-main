@@ -2249,7 +2249,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
         "descripcion": "",
-        "images": ""
+        "images": ["./fotos-menu/carne-vegetales.jpg"]
     },
     {
         "id": 250,
