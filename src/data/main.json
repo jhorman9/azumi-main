@@ -2221,7 +2221,7 @@
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
-        "descripcion": "",
+        "descripcion": "Trozos de carne tierna salteados en una exquisita salsa de ostión con cebolla y pimentón, creando una combinación deliciosa y llena de sabor.",
         "images": ["./fotos-menu/carne-en-salsa-de-ostion2.jpg", "./fotos-menu/carne-en-salsa-de-ostion3.jpg"]
     },
     {
@@ -2230,7 +2230,7 @@
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
-        "descripcion": "",
+        "descripcion": "Jugosos trozos de carne salteados a la perfección, infusionados con el aroma fresco del jengibre y la delicadeza de la cebollina, en una suave salsa de soya que realza su sabor.",
         "images": ["./fotos-menu/carne-con-jengibre-y-cebollin.jpg", "./fotos-menu/carne-con-jengibre-y-cebollin2.jpg"]
     },
     {
@@ -2239,7 +2239,7 @@
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
-        "descripcion": "",
+        "descripcion": "Trozos de carne salteados con hoja de mostaza en una delicada salsa de ostra y soya ligera, que resaltan el sabor fresco y ligeramente amargo de la mostaza en cada bocado.",
         "images": ["./fotos-menu/carne-con-hoja-mostaza.jpg"]
     },
     {
