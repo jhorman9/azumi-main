@@ -693,22 +693,13 @@
         "images": ["./fotos-menu/Filete-de-corvina-al-pacific5.jpg", "./fotos-menu/Filete-de-corvina-al-pacific6.jpg"]
     },
     {
-        "id": 68,
-        "nombre": "Salmón en Salsa de Maracuyá",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Platos fuertes",
-        "precio": 20.99,
-        "descripcion": "Filete de salmón bañado en una suculenta salsa de maracuyá, que combina dulzura y un toque cítrico. Un plato exquisito que resalta la frescura del salmón con el contraste de sabores tropicales.",
-        "images": ""
-    },
-    {
         "id": 69,
         "nombre": "Salmón en salsa Saimoy",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 22.99,
         "descripcion": "Filete de salmón fresco cubierto con una rica salsa saimoy, que equilibra perfectamente notas dulces y saladas. Un plato elegante y sabroso que deleita los sentidos.",
-        "images": ""
+        "images": ["./fotos-menu/Filete-de-Salmon-Thai-2.jpg", "./fotos-menu/Filete-de-Salmon-Thai8.jpg"]
     },
     {
         "id": 70,
@@ -1426,33 +1417,6 @@
         "images": ""
     },
     {
-        "id": 159,
-        "nombre": "Yakimeshi de pollo",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 13.99,
-        "descripcion": "Arroz salteado con vegetales y pollo",
-        "images": ""
-    },
-    {
-        "id": 160,
-        "nombre": "Yakimeshi de carne",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 13.99,
-        "descripcion": "Arroz salteado con vegetales y carne.",
-        "images": ""
-    },
-    {
-        "id": 161,
-        "nombre": "Yakimeshi mixto",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 15.99,
-        "descripcion": "Arroz salteado con vegetale, carne, pollo y langostinos.",
-        "images": ""
-    },
-    {
         "id": 162,
         "nombre": "Sashimi de atun",
         "categoria": "Japones",
@@ -2148,7 +2112,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 16.83,
         "descripcion": "Una deliciosa mezcla de pollo, puerco y camarón, salteados con fideos de arroz en una sabrosa salsa de curry y salsa de ostión, ofreciendo un plato lleno de sabores vibrantes y exóticos.",
-        "images": ""
+        "images": ["./fotos-menu/fideos-singapur.jpg", "./fotos-menu/fideos-singapur4.jpg"]
     },
     {
         "id": 239,
