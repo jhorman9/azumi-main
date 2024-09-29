@@ -578,7 +578,7 @@
     {
         "id": 96,
         "nombre": "Tentáculos de Pulpo a la parrilla",
-        "categoria": "Especialidades de la casa",
+        "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 20.90,
         "descripcion": "Tentáculos de pulpo a la brasa, servidos con la guarnición de tu elección. Un plato sabroso con un toque ahumado.",
@@ -757,7 +757,7 @@
     },
     {
         "id": 76,
-        "nombre": "Arroz thai pollo",
+        "nombre": "Arroz thai de pollo",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
@@ -812,7 +812,7 @@
     {
         "id": 83,
         "nombre": "Medallones de Lomito en Salsa Miso",
-        "categoria": "Especialidades de la casa",
+        "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
         "descripcion": "Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. Un plato que combina sabores intensos y texturas delicadas.",
@@ -1873,7 +1873,7 @@
     {
         "id": 214,
         "nombre": "Salmón con risitto de lenteja",
-        "categoria": "Japones",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
         "precio": 28.95,
         "descripcion": "Filete de salmón a la parrilla, servido sobre un cremoso risotto de lentejas, que combina texturas y sabores, creando un plato nutritivo y reconfortante.",
@@ -1882,7 +1882,7 @@
     {
         "id": 215,
         "nombre": "Salmón en salsa de maracuya",
-        "categoria": "Japones",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
         "precio": 28.95,
         "descripcion": "Delicioso filete de salmón, bañado en una vibrante salsa de maracuyá, acompañado de una colorida mezcla de vegetales frescos salteados, que realzan el sabor exótico y refrescante del plato.",
