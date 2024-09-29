@@ -235,12 +235,12 @@
     },
     {
         "id": 27,
-        "nombre": "Ceviche camarones",
+        "nombre": "Ceviche de camarones",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 14.90,
         "descripcion": "Camarones frescos marinados en jugo de limón con cebolla roja, cilantro, ají limo y un toque de ajo. Un plato refrescante y lleno de sabor, ideal para los amantes de los mariscos.",
-        "images": ""
+        "images": ["./fotos-menu/ceviche-camaron.jpg", "./fotos-menu/ceviche-camaron3.jpg"]
     },
     {
         "id": 28,
@@ -330,7 +330,7 @@
         "subcategoria": "Entradas",
         "precio": 15.90,
         "descripcion": "Finas láminas de atún fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.",
-        "images": ""
+        "images": ["./fotos-menu/tiraditos-atun.jpg", "./fotos-menu/tiraditos-atun2.jpg"]
     },
     {
         "id": 38,
@@ -348,7 +348,7 @@
         "subcategoria": "Entradas",
         "precio": 16.99,
         "descripcion": "Finas láminas de pescado blanco, atún y salmón frescos, marinados en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, ofreciendo una experiencia única de sabores marinos.",
-        "images": ["./fotos-menu/Trilogía-de-Tiraditos-Marinos3.jpg", "./fotos-menu/Trilogía-de-Tiraditos-Marinos5.jpg"]
+        "images": ["./fotos-menu/tiraditos-mixto.jpg", "./fotos-menu/tiraditos-mixto-1.jpg"]
     },
     {
         "id": 40,
@@ -357,7 +357,7 @@
         "subcategoria": "Entradas",
         "precio": 15.99,
         "descripcion": "láminas de salmón fresco y pescado blanco o atun y salmón. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.",
-        "images": ""
+        "images": ["./fotos-menu/tiradito-mixto1.jpg", "./fotos-menu/tiradito-mixto2.jpg"]
     },
     {
         "id": 41,
@@ -420,7 +420,7 @@
         "subcategoria": "Sopas",
         "precio": 6.99,
         "descripcion": "Sopa caliente y reconfortante con wantones rellenos de Puerco o camarón, servidos en un caldo sabroso y aromático. Un clásico de la cocina asiática.",
-        "images": ""
+        "images": ["./fotos-menu/wanton.jpg", "./fotos-menu/wanton2.jpg"]
     },
     {
         "id": 44,
@@ -429,7 +429,7 @@
         "subcategoria": "Sopas",
         "precio": 11.75,
         "descripcion": "Caldo de puerco clarificado con tallarines, relleno de camarones, lonjas de puerco y tiras de pollo. Un clásico asiático con una deliciosa combinación de sabores y texturas.",
-        "images": ""
+        "images": ["./fotos-menu/wanton-mein.jpg", "./fotos-menu/wanton-mein2.jpg"]
     },
     {
         "id": 45,
