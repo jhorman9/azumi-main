@@ -195,7 +195,7 @@
         "subcategoria": "Entradas",
         "precio": 7.99,
         "descripcion": "5 Bocados de Puerco sazonado al vapor. Irresistibles.",
-        "images": ""
+        "images": ["./fotos-menu/siu-mai.jpg"]
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "2 Bollos al vapor rellenos de Puerco sazonado. Un manjar asiático.",
-        "images": ""
+        "images": ["./fotos-menu/ham-pao.jpg"]
     },
     {
         "id": 24,
@@ -213,7 +213,7 @@
         "subcategoria": "Entradas",
         "precio": 8.99,
         "descripcion": "4 Bollos al vapor rellenos de carne de Puerco y vegetales. Deliciosos y reconfortantes.",
-        "images": ""
+        "images": ["./fotos-menu/yee-chi-kao2.jpg"]
     },
     {
         "id": 25,
@@ -222,7 +222,7 @@
         "subcategoria": "Entradas",
         "precio": 8.99,
         "descripcion": "Delicados bocados de camarón envueltos en masa translúcida al vapor. Un festín de mariscos en cada bocado.",
-        "images": ""
+        "images": ["./fotos-menu/hakao.jpg"]
     },
     {
         "id": 26,
@@ -892,7 +892,7 @@
     },
     {
         "id": 103,
-        "nombre": "Ensalada Wakame Especial",
+        "nombre": "Ensalada asiatica",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 11.99,
@@ -942,7 +942,7 @@
         "subcategoria": "Entradas",
         "precio": 9.90,
         "descripcion": "Hilos de cangrejo (kani) aderezado con salsa Dragon (picante), acompañado de aguacate",
-        "images": ""
+        "images": ["./fotos-menu/dinamita-sala.jpg"]
     },
     {
         "id": 110,
@@ -952,25 +952,6 @@
         "precio": 8.50,
         "descripcion": "Deliciosas algas marinas, acompañadas de salsa anguilas.",
         "images": ["./fotos-menu/wakame.jpg", "./fotos-menu/wakame2.jpg"]
-    },
-    {
-        "id": 111,
-        "nombre": "Wakani sala",
-        "categoria": "Japones",
-        "subcategoria": "Entradas",
-        "precio": 9.90,
-        "descripcion": "Algas marinas con kani y salsa de la casa, acompañada de aguacate ",
-        "images": ""
-    }
-    ,
-    {
-        "id": 112,
-        "nombre": "Ensalada asiatica",
-        "categoria": "Japones",
-        "subcategoria": "Entradas",
-        "precio": 12.99,
-        "descripcion": "Dados de salmón, atún, pescado blanco, kani, wakame y aguacate. Acompañado de salsa asiática",
-        "images": ""
     },
     {
         "id": 113,
@@ -1370,15 +1351,6 @@
         "isRoll": true
     },
     {
-        "id": 156,
-        "nombre": "Azumi poque",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 13.99,
-        "descripcion": "Base de arroz japonés, proteínas salmón y atún, fruta de la temporad, aguacate, wakame y sésamo.",
-        "images": ""    
-    },
-    {
         "id": 157,
         "nombre": "Poke tradicional",
         "categoria": "Japones",
@@ -1402,7 +1374,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
-        "descripcion": "",
+        "descripcion": "Base de arroz japonés, proteínas salmón y atún, fruta de la temporad, aguacate, wakame y sésamo.",
         "images": ["./fotos-menu/poque-azumi.jpg", "./fotos-menu/poque-azumi2.jpg"]
     },
     {
@@ -2083,7 +2055,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.70,
         "descripcion": "Una deliciosa combinación de pollo, carne y puerco, salteados con fideos y vegetales frescos, todo realzado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad.",
-        "images": ""
+        "images": ["./fotos-menu/Chow-mein-mixto.jpg"]
     },
     {
         "id": 253,
@@ -2092,7 +2064,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.70,
         "descripcion": "Una suculenta mezcla de pollo, puerco, jamón salteados con fideos y vegetales frescos, todo aderezado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad en cada bocado",
-        "images": ""
+        "images": ["./fotos-menu/chow-mein-especial-sin-camaron.jpg"]
     },
     {
         "id": 253,
