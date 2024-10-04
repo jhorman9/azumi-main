@@ -465,7 +465,7 @@
         "subcategoria": "Entradas",
         "precio": 8.50,
         "descripcion": "Vainas de soja al vapor, sazonadas con sal. Un aperitivo saludable y delicioso.",
-        "images": ""
+        "images": ["./fotos-menu/edamame.jpg", "./fotos-menu/edamame2.jpg"]
     },
     {
         "id": 49,
@@ -903,7 +903,7 @@
         "id": 104,
         "nombre": "Corvina con Chimichurri y Camarones",
         "categoria": "Especialidades de la casa",
-        "subcategoria": "Entradas",
+        "subcategoria": "Platos fuertes",
         "precio": 19.99,
         "descripcion": "Filete de corvina a la parrilla, cubierto con chimichurri y camarones salteados, servido sobre una cama de vegetales frescos y acompañado de arroz.",
         "images": ["./fotos-menu/Corvina-con-Chimichurri-y-Camarones4.jpg", "./fotos-menu/Corvina-con-Chimichurri-y-Camarones7.jpg"]
@@ -951,7 +951,7 @@
         "subcategoria": "Entradas",
         "precio": 8.50,
         "descripcion": "Deliciosas algas marinas, acompañadas de salsa anguilas.",
-        "images": ""
+        "images": ["./fotos-menu/wakame.jpg", "./fotos-menu/wakame2.jpg"]
     },
     {
         "id": 111,
@@ -988,7 +988,7 @@
         "subcategoria": "Entradas",
         "precio": 9.99,
         "descripcion": "Finas láminas de plátano, rellenas de queso crema, aguacate y salmón tempurizados. Acompañado de salsa dinamita.",
-        "images": ""
+        "images": ["./fotos-menu/deditos-de-platano.jpg"]
     },
     {
         "id": 115,
@@ -997,7 +997,7 @@
         "subcategoria": "Entradas",
         "precio": 9.99,
         "descripcion": "Finas láminas de salmón, rellenas de queso crema y aguacate. Acompañado de salsa dinamita.",
-        "images": ""
+        "images": ["./fotos-menu/deditos-de-salmon.jpg"]
     },
     {
         "id": 116,
@@ -1006,7 +1006,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 11.99,
         "descripcion": "Relleno de queso crema, aguacate y deliciosa mezcla de cangrejo, topping de atún rojo. Acompañado de exquisita salsa de la casa.",
-        "images": "",
+        "images": ["./fotos-menu/pacific-roll.jpg"],
         "isRoll": true
     },
     {
@@ -1016,7 +1016,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 11.99,
         "descripcion": "Relleno de vegetales crocantes, queso crema, aguacate y kani apanado. Con topping de hilos de cangrejo crocantes y deliciosa salsa funji.",
-        "images": "",
+        "images": ["./fotos-menu/panama-roll.jpg", "./fotos-menu/panama-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1156,7 +1156,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 11.99,
         "descripcion": "Relleno de queso crema, aguacate, salmón y kani. Acompañado de salsa fuji, anguila y soya. ",
-        "images": ["./fotos-menu/azumi-roll.jpg", "./fotos-menu/azumi-roll-2.jpg"],
+        "images": ["./fotos-menu/azumi-roll11.jpg"],
         "isRoll": true
     },
     {
@@ -1216,7 +1216,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 11.99,
         "descripcion": "Roll tempurizado, relleno de aguacate, queso crema y pollo crocante. Topping de dados de pollo crocantes bañados en salsa anguila",
-        "images": "",
+        "images": ["./fotos-menu/eby-roll-tempura-especial.jpg", "./fotos-menu/eby-roll-tempura-especial2.jpg"],
         "isRoll": true
     },
     {
@@ -1326,7 +1326,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón y atún tempurizados con topping de wakame y kani, bañados en salsa anguila.",
-        "images": "",
+        "images": ["./fotos-menu/azumi-roll.jpg", "./fotos-menu/azumi-roll-2.jpg"],
         "isRoll": true
     },
     {
@@ -1336,16 +1336,6 @@
         "subcategoria": "Platos fuertes",
         "precio": 11.99,
         "descripcion": "Roll relleno de atún, queso crema y aguacate con topping de aguacate. Acompañado de algas, wakame y salsa dragón.",
-        "images": "",
-        "isRoll": true
-    },
-    {
-        "id": 150,
-        "nombre": "Panama roll especial",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 11.99,
-        "descripcion": "Roll relleno de vegetales crujientes, kani apanado, queso crema y aguacate. Cubierto de aguacate y topping de hilos de cangrejo crocantes y salsa fuji.",
         "images": "",
         "isRoll": true
     },
@@ -1366,17 +1356,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": "Roll tempurizado, relleno de queso crema, aguacate, plátano, cangrejo y camaron tempurizado. Con topping de wakame y salsa fuji.",
-        "images": "",
-        "isRoll": true
-    },
-    {
-        "id": 154,
-        "nombre": "Pacific roll especial",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 11.99,
-        "descripcion": "Roll relleno de queso crema, aguacate y delicioso mezcla de cangrejo. Topping de atún fresco acompañado de salsa de la casa.",
-        "images": "",
+        "images": ["./fotos-menu/asian-roll.jpg", "./fotos-menu/asian-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1405,7 +1385,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": " Base de arroz japonés, proteína de dados de salmón apañados y langostinos apanados, aguacate,wakame, kani y sésamo.",
-        "images": ""
+        "images": ["./fotos-menu/poque-tradicional.jpg", "./fotos-menu/poque-tradicional2.jpg"]
     },
     {
         "id": 158,
@@ -1414,7 +1394,16 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Base de arroz japonés, proteína dados de salmón marinado en salsa asiática, encuertido de cebolla morada, edamames, fruta de la temporada, wakame, pepino, aguacate y sésamo acompañado de salsa spicy.",
-        "images": ""
+        "images": ["./fotos-menu/poque-especial.jpg", "./fotos-menu/poque-especial2.jpg"]
+    },
+    {
+        "id": 159,
+        "nombre": "Poke azumi",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/poque-azumi.jpg", "./fotos-menu/poque-azumi2.jpg"]
     },
     {
         "id": 162,
@@ -2140,7 +2129,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
         "descripcion": "",
-        "images": ["./fotos-menu/eby-roll-tempura-especial.jpg", "./fotos-menu/eby-roll-tempura-especial2.jpg"],
+        "images": ["./fotos-menu/eby-tempura-especial.jpg"],
         "isRoll": true
     },
     {
@@ -2286,5 +2275,14 @@
         "precio": 21.47,
         "descripcion": "Exquisito Pollo Mongolia, con trozos de pollo marinados y apanados o tempurizados, salteados en una salsa dulce y picante, acompañados de cebollas y pimientos frescos.",
         "images": ["./fotos-menu/pollo-mongolia.jpg", "./fotos-menu/pollo-mongolia2.jpg"]
-    }
+    },
+    {
+        "id": 225,
+        "nombre": "Sushi pizza",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 21.47,
+        "descripcion": "",
+        "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"]
+    }       
 ]
