@@ -1077,7 +1077,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 10.99,
         "descripcion": "Relleno de queso crema, aguacate y salmón. Acompañado de salsa anguila y soya.",
-        "images": "",
+        "images": ["./fotos-menu/tigger-roll.jpg", "./fotos-menu/tigger-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1107,7 +1107,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": " Roll relleno de queso crema, aguacate y langostinos tempurizados. Acompañado de salsa anguila y fuji.",
-        "images": "",
+        "images": "Un rollo delicadamente relleno de queso crema, aguacate fresco y crujientes langostinos tempurizados en su interior. Acompañado de una exquisita combinación de salsa de anguila y salsa Fuji, que realza los sabores con un equilibrio perfecto de dulzura y umami en cada bocado.",
         "isRoll": true
     },
     {
@@ -1267,7 +1267,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
         "descripcion": "Roll relleno de salmón, atún, kani, pescado blanco, aguacate y wakame con un toque de aceite de trufas y almendras rebanadas.",
-        "images": "",
+        "images": ["./fotos-menu/keto-roll.jpg", "./fotos-menu/keto-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1882,7 +1882,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
-        "descripcion": "",
+        "descripcion": "Relleno de camarones apanados, queso crema y aguacate fresco, este rollo combina una textura crujiente y suave en cada bocado. La superficie crunch aporta un toque adicional de sabor y textura, haciendo de esta una opción deliciosa y satisfactoria",
         "images": ["./fotos-menu/eby-roll-tradicional.jpg"],
         "isRoll": true
     },
@@ -2090,7 +2090,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
-        "descripcion": "",
+        "descripcion": "Roll relleno de delicado kani, bañado en una mezcla de semillas de sésamo y masago que aportan una textura crujiente. Coronado con un topping de fresca ensalada asiática que equilibra cada bocado con sabores vibrantes y frescos",
         "images": ["./fotos-menu/dinamita-roll-especial.jpg", "./fotos-menu/dinamita-roll-especial2.jpg"],
         "isRoll": true
     },
@@ -2100,7 +2100,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
-        "descripcion": "",
+        "descripcion": "Roll relleno de queso crema, aguacate fresco y langostinos tempurizados para una combinación suave y crujiente. Acompañado de una deliciosa mezcla de salsa de anguila y salsa Fuji que le añaden un toque dulce y sabroso a cada bocado.",
         "images": ["./fotos-menu/eby-tempura-especial.jpg"],
         "isRoll": true
     },
@@ -2249,12 +2249,23 @@
         "images": ["./fotos-menu/pollo-mongolia.jpg", "./fotos-menu/pollo-mongolia2.jpg"]
     },
     {
-        "id": 225,
-        "nombre": "Sushi pizza",
+        "id": 226,
+        "nombre": "Sushi pizza individual",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
-        "precio": 21.47,
-        "descripcion": "",
-        "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"]
-    }       
+        "precio": 11.99,
+        "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
+        "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"],
+        "isRoll":true
+    },
+    {
+        "id": 227,
+        "nombre": "Sushi pizza para compartir",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
+        "images": ["./fotos-menu/sushipizza.jpg", "./fotos-menu/sushipizza2.jpg"],
+        "isRoll":true
+    }
 ]
