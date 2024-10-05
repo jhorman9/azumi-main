@@ -1107,7 +1107,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": " Roll relleno de queso crema, aguacate y langostinos tempurizados. Acompañado de salsa anguila y fuji.",
-        "images": "Un rollo delicadamente relleno de queso crema, aguacate fresco y crujientes langostinos tempurizados en su interior. Acompañado de una exquisita combinación de salsa de anguila y salsa Fuji, que realza los sabores con un equilibrio perfecto de dulzura y umami en cada bocado.",
+        "images": "",
         "isRoll": true
     },
     {
@@ -1157,7 +1157,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": "Roll relleno de aguacate, cebollina finas láminas de lomo salteado al wok en salsa teriyaki con hongos.",
-        "images": "",
+        "images": ["./fotos-menu/nagasaki-roll.jpg", "./fotos-menu/nagasaki-roll2.jpg"],
         "isRoll": true
     },
     {
@@ -1227,7 +1227,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
         "descripcion": "Relleno con queso crema, aguacate y langostinoa tempurizados, con topping de langostinos apanados.",
-        "images": "",
+        "images": ["./fotos-menu/eby-roll-especial.jpg"],
         "isRoll": true
     },
     {
@@ -1247,7 +1247,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
         "descripcion": "Roll envuelto en pepino, relleno de salmón, atún, kani y aguacate. Aderezado con salsa de la casa.",
-        "images": "",
+        "images": ["./fotos-menu/kiuri-roll.jpg", "./fotos-menu/kiuri-roll-2.jpg"],
         "isRoll": true
     },
     {
