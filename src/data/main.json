@@ -356,7 +356,7 @@
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 15.99,
-        "descripcion": "láminas de salmón fresco y pescado blanco o atun y salmón. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.",
+        "descripcion": "láminas de salmón fresco y pescado blanco o atún y salmón. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.",
         "images": ["./fotos-menu/tiradito-mixto1.jpg", "./fotos-menu/tiradito-mixto2.jpg"]
     },
     {
@@ -1027,7 +1027,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 13.50,
         "descripcion": "Finas láminas de salmón relleno de queso crema, aguacate, plátano y kani tempurizado. Acompañado de salsa fuji y anguila.",
-        "images": "",
+        "images": ["./fotos-menu/tropical-roll.jpg", "./fotos-menu/tropical-roll2.jpg", "./fotos-menu/tropical-roll3.jpg"],
         "isRoll": true
     },
     {
@@ -1207,7 +1207,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón tempurizado,kani, anguila. topping de salsa dinamita.",
-        "images": "",
+        "images": ["./fotos-menu/tigger-roll-especial.jpg", "./fotos-menu/tigger-roll-especial-2.jpg"],
         "isRoll": true
     },
     {
@@ -1287,7 +1287,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 12.99,
         "descripcion": "Roll tempurizado relleno de cangrejo, aguacate y queso crema con topping de salsa dinamita.",
-        "images": "",
+        "images": ["./fotos-menu/dinamita-crunch.jpg", "./fotos-menu/dinamita-crunch2.jpg", "./fotos-menu/dinamita-crunch3.jpg"],
         "isRoll": true
     },
     {
@@ -1379,12 +1379,12 @@
     },
     {
         "id": 162,
-        "nombre": "Sashimi de atun",
+        "nombre": "Sashimi de atún",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
         "descripcion": "7 Delicados cortes de atún, acompañado de soya.",
-        "images": ""
+        "images": ["./fotos-menu/sashimi-atun.jpg", "./fotos-menu/sashimi-atun2.jpg"]
     },
     {
         "id": 163,
@@ -1393,7 +1393,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
         "descripcion": "7 Delicados cortes de salmón, acompañado de soya.",
-        "images": ""
+        "images": ["./fotos-menu/sashimi-salmon.jpg", "./fotos-menu/sashimi-salmon2.jpg"]
     },
     {
         "id": 164,
@@ -1401,8 +1401,8 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
-        "descripcion": "3 Delicados cortes de salmó, 2 cortes de atún, 2 cortes de pescado blanco, acompañados de soya.",
-        "images": ""
+        "descripcion": "3 Delicados cortes de salmón, 2 cortes de atún, 2 cortes de pescado blanco, acompañados de soya.",
+        "images": ["./fotos-menu/sashimi-mixto.jpg", "./fotos-menu/sashimi-mixto2.jpg"]
     },
     {
         "id": 165,
@@ -1424,7 +1424,7 @@
     },
     {
         "id": 167,
-        "nombre": "Temaki de atun",
+        "nombre": "Temaki de atún",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 8.99,
@@ -1460,7 +1460,7 @@
     },
     {
         "id": 171,
-        "nombre": "Nigiri de atun",
+        "nombre": "Nigiri de atún",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 2.99,
@@ -1474,7 +1474,7 @@
         "subcategoria": "Entradas",
         "precio": 1.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
+        "images": ["./fotos-menu/nigiri-kani.jpg", "./fotos-menu/nigiri-kani-1.jpg"]
     },
     {
         "id": 173,
@@ -1514,7 +1514,7 @@
     },
     {
         "id": 177,
-        "nombre": "Osomaki de atun",
+        "nombre": "Osomaki de atún",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 4.99,
@@ -1703,7 +1703,7 @@
     },
     {
         "id": 199,
-        "nombre": "Hosomaki de atun",
+        "nombre": "Hosomaki de atún",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 4.99,
