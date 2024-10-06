@@ -1495,15 +1495,6 @@
         "images": ["./fotos-menu/nigiri-de-anguila.jpg", "./fotos-menu/nigiri-de-anguila2.jpg"]
     },
     {
-        "id": 175,
-        "nombre": "Osomaki de kani",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 4.99,
-        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
-    },
-    {
         "id": 176,
         "nombre": "Osomaki de pepino",
         "categoria": "Japones",
@@ -1513,26 +1504,8 @@
         "images": ""
     },
     {
-        "id": 177,
-        "nombre": "Osomaki de atún",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 4.99,
-        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
-    },
-    {
         "id": 178,
         "nombre": "Osomaki de pescado blanco",
-        "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
-        "precio": 4.99,
-        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ""
-    },
-    {
-        "id": 179,
-        "nombre": "Osomaki de salmón",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 4.99,
@@ -1703,7 +1676,7 @@
     },
     {
         "id": 199,
-        "nombre": "Hosomaki de atún",
+        "nombre": "Osomaki de atún",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 4.99,
@@ -1713,7 +1686,7 @@
     },
     {
         "id": 200,
-        "nombre": "Hosomaki de kani",
+        "nombre": "Osomaki de kani",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 4.99,
@@ -1723,7 +1696,7 @@
     },
     {
         "id": 201,
-        "nombre": "Hosomaki de salmón",
+        "nombre": "Osomaki de salmón",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 4.99,
