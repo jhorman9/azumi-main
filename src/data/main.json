@@ -1482,7 +1482,8 @@
         "subcategoria": "Platos fuertes",
         "precio": 3.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ["./fotos-menu/osomaki-pepino.jpg", "./fotos-menu/osomaki-pepino2.jpg"]
+        "images": ["./fotos-menu/osomaki-pepino.jpg", "./fotos-menu/osomaki-pepino2.jpg"],
+        "isRoll": true
     },
     {
         "id": 178,
@@ -1491,7 +1492,8 @@
         "subcategoria": "Platos fuertes",
         "precio": 4.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ["./fotos-menu/osomaki-pescado-blanco.jpg", "./fotos-menu/osomaki-pescado-blanco2.jpg"]
+        "images": ["./fotos-menu/osomaki-pescado-blanco.jpg", "./fotos-menu/osomaki-pescado-blanco2.jpg"],
+        "isRoll": true
     },
     {
         "id": 180,
@@ -1659,7 +1661,7 @@
         "id": 199,
         "nombre": "Hosomaki de atún",
         "categoria": "Japones",
-        "subcategoria": "Entradas",
+        "subcategoria": "Platos fuertes",
         "precio": 4.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-atun.jpg"],
@@ -1669,7 +1671,7 @@
         "id": 200,
         "nombre": "Hosomaki de kani",
         "categoria": "Japones",
-        "subcategoria": "Entradas",
+        "subcategoria": "Platos fuertes",
         "precio": 4.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-cangrejo.jpg", "./fotos-menu/hosomaki-cangrejo2.jpg"],
@@ -1679,7 +1681,7 @@
         "id": 201,
         "nombre": "Hosomaki de salmón",
         "categoria": "Japones",
-        "subcategoria": "Entradas",
+        "subcategoria": "Platos fuertes",
         "precio": 4.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-de-salmon.jpg"],
@@ -1701,7 +1703,7 @@
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 9.90,
-        "descripcion": "",
+        "descripcion": "Clásicos macarrones en una cremosa salsa de quesos, coronados con un crujiente toque de beicon dorado. Un plato reconfortante con el equilibrio perfecto entre lo cremoso y lo crocante.",
         "images": ["./fotos-menu/mac-and-cheese.jpg", "./fotos-menu/mac-and-cheese-3.jpg"]
     },
     {
@@ -2311,5 +2313,86 @@
         "precio": 43.95,
         "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
         "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
+    },
+    {
+        "id":240,
+        "nombre": "Apple Crisp",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Deliciosas manzanas confitadas al horno, combinadas con nueces crujientes y un toque de canela, acompañadas de una suave bola de helado de vainilla. Un postre cálido y reconfortante que combina lo dulce y lo cremoso en cada bocado.",
+        "images": ["./fotos-menu/apple-crisp.jpg", "./fotos-menu/apple-crisp-1.jpg"]
+    },
+    {
+        "id":241,
+        "nombre": "Banana tempura",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Deliciosas rodajas de plátano rellenas de suave Nutella, rebozadas en una ligera masa tempura y fritas hasta quedar crujientes. Servido con una bola de helado de vainilla y un toque de sirope de chocolate, este postre es un verdadero deleite para los amantes del dulce.",
+        "images": ["./fotos-menu/banana-tempura-1.jpg", "./fotos-menu/banana-tempura-3.jpg"]
+    },
+    {
+        "id":242,
+        "nombre": "Brownie",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso brownie de chocolate, suave y húmedo, acompañado de una ligera crema chantilly y una bola de helado de vainilla. Decorado con fresas frescas, este postre es una explosión de sabor y textura en cada bocado.",
+        "images": ["./fotos-menu/browny.jpg", "./fotos-menu/browny-2.jpg"]
+    },
+    {
+        "id":243,
+        "nombre": "Fondant de chocolate",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Exquisito pastel de chocolate fundido, servido con un suave sirope de chocolate y un delicioso culis de dulce de leche. Acompañado de una bola de helado de vainilla y espolvoreado con azúcar impalpable sobre el fondant, este postre es un verdadero deleite para los amantes del chocolate.",
+        "images": ["./fotos-menu/fondant-de-chocolate.jpg", "./fotos-menu/fondant-de-chocolate-2.jpg"]
+    },
+    {
+        "id":244,
+        "nombre": "Helado frito",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso helado de vainilla relleno de chocolate Ferrero, apanado con crujientes cereales y frito hasta obtener una textura dorada y crujiente. Servido con culis de vainilla, este postre es una combinación irresistible de sabores y texturas.",
+        "images": ["./fotos-menu/helado-frito-1.jpg", "./fotos-menu/helado-frito-3.jpg"]
+    },
+    {
+        "id":245,
+        "nombre": "Cheesecake",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Suave y cremoso cheesecake de fresa, con una base crujiente de galleta y cubierto con un delicioso culis de fresas. Este postre es un equilibrio perfecto entre la dulzura y la frescura, ideal para los amantes de las fresas.",
+        "images": ["./fotos-menu/cheesecake.jpg", "./fotos-menu/cheesecake2.jpg"]
+    },
+    {
+        "id":246,
+        "nombre": "Choco roll",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso rollo de chocolate, relleno de suave praliné de almendra y cubierto con un topping de crujientes nueces y dulce de leche. Este postre es un deleite para los amantes del chocolate, combinando texturas y sabores irresistibles en cada bocado.",
+        "images": ["./fotos-menu/choco-roll.jpg", "./fotos-menu/choco-roll2.jpg"]
+    },
+    {
+        "id":247,
+        "nombre": "Pie de limón",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso pie de limón con una base crujiente de galleta, relleno de una suave y refrescante crema de limón. Decorado con un toque de merengue dorado, este postre es una combinación perfecta de dulzura y acidez, ideal para los amantes de los sabores cítricos.",
+        "images": ["./fotos-menu/pie-limon.jpg", "./fotos-menu/pie-limon-1.jpg"]
+    },
+    {
+        "id":248,
+        "nombre": "Pie de maracuyá",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Irresistible pie de maracuyá con una base crujiente de galleta, relleno de una suave y refrescante crema de maracuyá. Decorado con un toque de merengue dorado, este postre ofrece un equilibrio perfecto entre dulzura y acidez, ideal para los amantes de los sabores tropicales.",
+        "images": ["./fotos-menu/pie-maracuya.jpg"]
     }
 ]
