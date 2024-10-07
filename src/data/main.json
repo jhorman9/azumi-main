@@ -675,15 +675,6 @@
         "images": ["./fotos-menu/Corvina-a-lo-hembra4.jpg", "./fotos-menu/Corvina-a-lo-hembra7.jpg"]
     },
     {
-        "id": 64,
-        "nombre": "Corvina sudada con mariscos",
-        "categoria": "Peruano",
-        "subcategoria": "Platos fuertes",
-        "precio": 19.50,
-        "descripcion": "Corvina fresca cocinada al vapor con una mezcla de mariscos frescos, como camarones, calamares y almejas, en un caldo sabroso y aromático. Un plato marino exquisito que combina la frescura del pescado con la riqueza de los mariscos.",
-        "images": ["./fotos-menu/Corvina-sudada-con-mariscos3.jpg", "./fotos-menu/Corvina-sudada-con-mariscos4.jpg"]
-    },
-    {
         "id": 67,
         "nombre": "Filete de corvina",
         "categoria": "Peruano",
@@ -1649,7 +1640,7 @@
     {
         "id": 197,
         "nombre": "Filete de res al Vino Porto",
-        "categoria": "Japones",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
         "precio": 29.95,
         "descripcion": "Suave filete de res a la parrilla, bañado en una rica salsa de vino Porto, acompañado de puré de papa de la casa, que complementa perfectamente cada bocado.",
@@ -2041,7 +2032,7 @@
     {
         "id": 239,
         "nombre": "Chorizo a la parrilla",
-        "categoria": "Chino",
+        "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
         "precio": 18.99,
         "descripcion": "4 unidades de Chorizo parrillero al carbón, con un sabor ahumado y jugoso, ideal para disfrutar a la parrilla y acompañar con tus salsas favoritas.",
@@ -2230,5 +2221,95 @@
         "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
         "images": ["./fotos-menu/sushipizza.jpg", "./fotos-menu/sushipizza2.jpg"],
         "isRoll":true
+    },
+    {
+        "id": 228,
+        "nombre": "New york steak 12 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 35.95,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 231,
+        "nombre": "New york steak 16 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 38.95,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "New york steak 20 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 44.95,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 233,
+        "nombre": "Super New York 2 Libras",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 70.99,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 234,
+        "nombre": "Entraña 12 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 34.95,
+        "descripcion": "Corte tierno y sabroso, cocinado a la parrilla para realzar su jugosidad natural. Servida con tus salsas favoritas, esta entraña es perfecta para quienes disfrutan de un sabor intenso y auténtico.",
+        "images": ["./fotos-menu/entrana.jpg"]
+    },
+    {
+        "id": 235,
+        "nombre": "Entraña 16 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 37.95,
+        "descripcion": "Corte tierno y sabroso, cocinado a la parrilla para realzar su jugosidad natural. Servida con tus salsas favoritas, esta entraña es perfecta para quienes disfrutan de un sabor intenso y auténtico.",
+        "images": ["./fotos-menu/entrana.jpg"]
+    },
+    {
+        "id": 236,
+        "nombre": "Entraña 20 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 43.95,
+        "descripcion": "Corte tierno y sabroso, cocinado a la parrilla para realzar su jugosidad natural. Servida con tus salsas favoritas, esta entraña es perfecta para quienes disfrutan de un sabor intenso y auténtico.",
+        "images": ["./fotos-menu/entrana.jpg"]
+    },
+    {
+        "id": 237,
+        "nombre": "Picaña 12 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 34.95,
+        "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
+        "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
+    },
+    {
+        "id": 238,
+        "nombre": "Picaña 16 onzzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 37.955,
+        "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
+        "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
+    },
+    {
+        "id": 239,
+        "nombre": "Picaña 20 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 43.95,
+        "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
+        "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
     }
 ]
