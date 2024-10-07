@@ -123,9 +123,8 @@ const MainPage = () => {
       </div>
 
       <div className='main_entrees'>
-        <h2 className='title_main'>PLATOS FUERTES</h2>
-        <div className='content__card'>
-
+      <NavLink to={'dishes'} className='title_main name-category'>PLATOS FUERTES</NavLink>
+      <div className='content__card'>
           <div className='section__card' onClick={()=> changeRoute('dishes/peruvian')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
             <div className='card__text'>
