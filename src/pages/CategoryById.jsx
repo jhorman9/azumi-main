@@ -15,11 +15,18 @@ export const CategoryById = () => {
         navigate('/main');
     }
 
-    const filterData = menuJson.filter(
+    let filterData = menuJson.filter(
         main => 
         translateWords.statusCategory[main.categoria] === dishes && 
         translateWords.statusSubCategory[main.subcategoria] === category
     );
+
+    if(dishes == undefined){
+        filterData = menuJson.filter(
+            main =>  
+            translateWords.statusSubCategory[main.subcategoria] === category
+        );
+    }
     
     const orderedData = filterData.sort((a, b) => a.nombre.localeCompare(b.nombre));
     const sortedMain = menuJson.sort((a,b) => a.nombre.localeCompare(b.nombre));

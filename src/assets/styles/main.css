@@ -136,6 +136,7 @@ section .main_entrees .content__card{
     gap: 14px;
     justify-content: center;
     align-items: center;
+    margin-top: 20px !important;
 }
 
 section .main_entrees.soups .content__card{

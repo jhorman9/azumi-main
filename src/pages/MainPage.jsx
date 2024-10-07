@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet-async';
 import '../assets/styles/main.css';
 import categoryPNG from '../assets/images/image-category.png';
-import { useNavigate } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 
 const MainPage = () => {
 
@@ -39,7 +39,7 @@ const MainPage = () => {
       </div>
 
       <div className='main_entrees'>
-        <h2 className='title_main'>ENTRADAS</h2>
+        <NavLink to={'entrees'} className='title_main name-category'>ENTRADAS</NavLink>
         <div className='content__card'>
 
           <div className='section__card' onClick={()=> changeRoute('entrees/peruvian')}>
@@ -81,8 +81,8 @@ const MainPage = () => {
       </div>
 
       <div className='main_entrees soups'>
-        <h2 className='title_main'>SOPAS</h2>
-        <div className='content__card'>
+      <NavLink to={'soups'} className='title_main name-category'>SOPAS</NavLink>
+      <div className='content__card'>
 
           <div className='section__card' onClick={()=> changeRoute('soups/peruvian')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria japonesa" title='Men&#250; de la categoria japonesa' className='card__image'/>
