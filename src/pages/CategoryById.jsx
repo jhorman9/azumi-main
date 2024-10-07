@@ -12,7 +12,7 @@ export const CategoryById = () => {
     const { category, dishes } = useParams(); 
 
     const toBack = () => {
-        navigate('/main');
+        navigate('/');
     }
 
     let filterData = menuJson.filter(

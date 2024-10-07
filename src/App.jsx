@@ -36,15 +36,15 @@ function App() {
       <ScrollToTop />
         <main>
           <Routes element={<ProtectedRoutes />}>
-              <Route path='/' element={<HomePage />}/>
+              {/* <Route path='/' element={<HomePage />}/>
               <Route path='/about' element={<AboutPage />}/>
               <Route path='/products' element={<Products />}/>
-              <Route path='/reserva' element={<Reserva />}/>
-              <Route path='/main' element={<MainPage />}/>
-              <Route path='/main/:category' element={<CategoryById />} />
-              <Route path='/main/:category/:dishes' element={<CategoryById />} />
-              <Route path='/cart' element={<CartMain />}/>
-              <Route path='/contacts' element={<Contacts />}/>
+              <Route path='/reserva' element={<Reserva />}/> */}
+              <Route path='/' element={<MainPage />}/>
+              <Route path='/:category' element={<CategoryById />} />
+              <Route path='/:category/:dishes' element={<CategoryById />} />
+              {/* <Route path='/cart' element={<CartMain />}/>
+              <Route path='/contacts' element={<Contacts />}/> */}
           </Routes>
         </main>
       <FooterComponent />

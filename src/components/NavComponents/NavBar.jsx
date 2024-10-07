@@ -6,7 +6,7 @@ const NavBar = () => {
   return (
     <>
       <HeaderComponent />
-      <NavComponent />
+      {/* <NavComponent /> */}
     </>
   )
 }

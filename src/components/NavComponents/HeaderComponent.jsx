@@ -11,7 +11,9 @@ const HeaderComponent = () => {
         </div>
         <div className='header-info'>
         <PhoneSVG />
-        <a href="tel:3904072">+507 390-4072</a>
+        <a href="tel:3904072">390-4072</a>
+        <PhoneSVG />
+        <a href="https://wa.link/egw0dg">+507 6045-4821</a>
         </div>
     </header>
   )
