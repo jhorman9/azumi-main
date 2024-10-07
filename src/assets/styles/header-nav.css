@@ -15,6 +15,7 @@ header a:hover{
 @media (max-width: 575px) {
     header{
         justify-content: space-between;
+        flex-wrap: wrap;
         gap: 7px;
     }
 }

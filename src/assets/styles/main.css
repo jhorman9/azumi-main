@@ -19,7 +19,7 @@
 
 @media (max-width: 768px) {
     .main-category .main-back_page-container{
-        top: 96px;
+        top: 0px;
     }
 }
 
