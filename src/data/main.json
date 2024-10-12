@@ -975,361 +975,325 @@
         "id": 116,
         "nombre": "Pacific roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Relleno de queso crema, aguacate y deliciosa mezcla de cangrejo, topping de atún rojo. Acompañado de exquisita salsa de la casa.",
-        "images": ["./fotos-menu/pacific-roll.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/pacific-roll.jpg"]
     },
     {
         "id": 117,
         "nombre": "Panama roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Relleno de vegetales crocantes, queso crema, aguacate y kani apanado. Con topping de hilos de cangrejo crocantes y deliciosa salsa funji.",
-        "images": ["./fotos-menu/panama-roll.jpg", "./fotos-menu/panama-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/panama-roll.jpg", "./fotos-menu/panama-roll2.jpg"]
     },
     {
         "id": 118,
         "nombre": "Ninja roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Cangrejo, atún fresco, queso crema y aguacate. Cubierto de finas láminas de aguacate y dados de salmón fresco de topping, bañados en salsa picante y cebollín.",
-        "images": ["./fotos-menu/ninja.jpg", "./fotos-menu/ninja2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/ninja.jpg", "./fotos-menu/ninja2.jpg"]
     },
     {
         "id": 119,
         "nombre": "Miyagi roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Atún rojo con deliciosa mezcla de cangrejo0, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
-        "images": ["./fotos-menu/miyagi-roll.jpg", "./fotos-menu/miyagi-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/miyagi-roll.jpg", "./fotos-menu/miyagi-roll2.jpg"]
     },
     {
         "id": 120,
         "nombre": "Tropical roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 13.50,
         "descripcion": "Finas láminas de salmón relleno de queso crema, aguacate, plátano y kani tempurizado. Acompañado de salsa fuji y anguila.",
-        "images": ["./fotos-menu/tropical-roll.jpg", "./fotos-menu/tropical-roll2.jpg", "./fotos-menu/tropical-roll3.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/tropical-roll.jpg", "./fotos-menu/tropical-roll2.jpg", "./fotos-menu/tropical-roll3.jpg"]
     },
     {
         "id": 121,
         "nombre": "Fusion roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll cubierto de plátano y aguacate, relleno de queso crema, aguacate, salmón, atún y langostinos. Acompañado de salsa funji y anguila",
-        "images": ["./fotos-menu/fusion-roll.jpg", "./fotos-menu/fusion-roll3.jpg"], 
-        "isRoll": true
+        "images": ["./fotos-menu/fusion-roll.jpg", "./fotos-menu/fusion-roll3.jpg"]
     },
     {
         "id": 122,
         "nombre": "California roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 9.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate, kani y pepino.",
-        "images": ["./fotos-menu/california-roll8.jpg", "./fotos-menu/california-roll11.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/california-roll8.jpg", "./fotos-menu/california-roll11.jpg"]
     },
     {
         "id": 123,
         "nombre": "Dinamita roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 9.99,
         "descripcion": "Arroz japonés, sésamo y masago, relleno de ques crem, aguacate y deliciosa pasta dinamita.",
-        "images": ["./fotos-menu/dinamita-roll.jpg", "./fotos-menu/dinamita-roll6.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/dinamita-roll.jpg", "./fotos-menu/dinamita-roll6.jpg"]
     },
     {
         "id": 124,
         "nombre": "Tuna roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 10.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y atún fresco.",
-        "images": ["./fotos-menu/tuna-roll.jpg", "./fotos-menu/tuna-roll3.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/tuna-roll.jpg", "./fotos-menu/tuna-roll3.jpg"]
     },
     {
         "id": 125,
         "nombre": "Tigger roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 10.99,
         "descripcion": "Relleno de queso crema, aguacate y salmón. Acompañado de salsa anguila y soya.",
-        "images": ["./fotos-menu/tigger-roll.jpg", "./fotos-menu/tigger-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/tigger-roll.jpg", "./fotos-menu/tigger-roll2.jpg"]
     },
     {
         "id": 126,
         "nombre": "Chicken roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 10.99,
         "descripcion": "Roll cubierto de semillas de sésamo, relleno de queso crema, aguacate y pollo apanado con topping trocitos de pollo apanado bañado en salsa anguila.",
-        "images": ["./fotos-menu/chicken-roll-tradicional3.jpg", "./fotos-menu/chicken-roll-tradicional4.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/chicken-roll-tradicional3.jpg", "./fotos-menu/chicken-roll-tradicional4.jpg"]
     },
     {
         "id": 127,
         "nombre": "Banana roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Cubierto de plátano, relleno de queso crema, aguacate y salmón tempurizado. Acompañado de salsa anguila y fuji.",
-        "images": ["./fotos-menu/banana-roll7.jpg", "./fotos-menu/banana-roll10.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/banana-roll7.jpg", "./fotos-menu/banana-roll10.jpg"]
     },
     {
         "id": 128,
         "nombre": "Eby roll tempura",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": " Roll relleno de queso crema, aguacate y langostinos tempurizados. Acompañado de salsa anguila y fuji.",
-        "images": ["./fotos-menu/eby-tempura.jpg", "./fotos-menu/eby-tempura2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/eby-tempura.jpg", "./fotos-menu/eby-tempura2.jpg"]
     },
     {
         "id": 129,
         "nombre": "Avocado roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 10.99,
         "descripcion": "Cubierto de aguacate, relleno de queso crema, aguacate y kani tempurizados. Acompañado de salsa anguila y fuji.",
-        "images": ["./fotos-menu/avocado-roll2.jpg", "./fotos-menu/avocado-roll7.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/avocado-roll2.jpg", "./fotos-menu/avocado-roll7.jpg"]
     },
     {
         "id": 130,
         "nombre": "Alaska roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y salmón.",
-        "images": ["./fotos-menu/alaska-roll.jpg", "./fotos-menu/alaska-roll-2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/alaska-roll.jpg", "./fotos-menu/alaska-roll-2.jpg"]
     },
     {
         "id": 131,
         "nombre": "Azumi roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Relleno de queso crema, aguacate, salmón y kani. Acompañado de salsa fuji, anguila y soya. ",
-        "images": ["./fotos-menu/azumi-roll11.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/azumi-roll11.jpg"]
     },
     {
         "id": 132,
         "nombre": "Akame roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll relleno de salmón fresco, cangrejo, aguacate y queso crema. Con topping shuka ika, calamar, wakame y aguacate.",
-        "images": ["./fotos-menu/akame-roll.jpg", "./fotos-menu/akame-roll-3.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/akame-roll.jpg", "./fotos-menu/akame-roll-3.jpg"]
     },
     {
         "id": 133,
         "nombre": "Nagasaki roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll relleno de aguacate, cebollina finas láminas de lomo salteado al wok en salsa teriyaki con hongos.",
-        "images": ["./fotos-menu/nagasaki-roll.jpg", "./fotos-menu/nagasaki-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/nagasaki-roll.jpg", "./fotos-menu/nagasaki-roll2.jpg"]
     },
     {
         "id": 134,
         "nombre": "Sensación roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll tempurizado, relleno de pescado blanco apanado, queso crema y aguacate. Topping de dados de salmón ahumado crunch y salsa especial de la casa.",
-        "images": ["./fotos-menu/sensacion-roll.jpg", "./fotos-menu/sensacion-roll4.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/sensacion-roll.jpg", "./fotos-menu/sensacion-roll4.jpg"]
     },
     {
         "id": 135,
         "nombre": "Dragón roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll tempurizado, relleno de salmón fresco, kani, camarón tempurizado, masago, aguacate y queso crema. Con topping de wakani.",
-        "images": ["./fotos-menu/dragon-roll3.jpg", "./fotos-menu/dragon-roll4.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/dragon-roll3.jpg", "./fotos-menu/dragon-roll4.jpg"]
     },
     {
         "id": 136,
         "nombre": "Todays roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 14.99,
         "descripcion": "Roll relleno de cangrejo, camarón tempurizados y queso crema, cubierto de finas láminas de aguacate. Acompañado de tres topping, wakani en salsa fuji, atún en aceite trufa y picante en salsa hot picante.",
-        "images": ["./fotos-menu/todays-roll.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/todays-roll.jpg"]
     },
     {
         "id": 137,
         "nombre": "Chicken crunch",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Roll tempurizado, relleno de aguacate, queso crema y pollo crocante. Topping de dados de pollo crocantes bañados en salsa anguila",
-        "images": ["./fotos-menu/eby-roll-tempura-especial.jpg", "./fotos-menu/eby-roll-tempura-especial2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/eby-roll-tempura-especial.jpg", "./fotos-menu/eby-roll-tempura-especial2.jpg"]
     },
     {
         "id": 138,
         "nombre": "Tigger roll especial",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón tempurizado,kani, anguila. topping de salsa dinamita.",
-        "images": ["./fotos-menu/tigger-roll-especial.jpg", "./fotos-menu/tigger-roll-especial-2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/tigger-roll-especial.jpg", "./fotos-menu/tigger-roll-especial-2.jpg"]
     },
     {
         "id": 139,
         "nombre": "Ceviche roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 13.99,
         "descripcion": "Relleno de delicioso ceviche marinado con leche de tigre, limón, cebolla morada, cilantro y salsa de ají con un toque de aceite de sésamo.",
-        "images": ["./fotos-menu/ceviche-roll2.jpg", "./fotos-menu/ceviche-roll3.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/ceviche-roll2.jpg", "./fotos-menu/ceviche-roll3.jpg"]
     },
     {
         "id": 140,
         "nombre": "Eby roll especial",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 13.99,
         "descripcion": "Relleno con queso crema, aguacate y langostinoa tempurizados, con topping de langostinos apanados.",
-        "images": ["./fotos-menu/eby-roll-especial.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/eby-roll-especial.jpg"]
     },
     {
         "id": 141,
         "nombre": "Spicy roll especial",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 13.99,
         "descripcion": "Roll relleno de queso crema y deliciosa mezcla de atún, salmón, pescado blanco. Acompañado de salsa spicy coronado de dados de atún, salmón, pescado blanco y cebollina",
-        "images": ["./fotos-menu/spaicy.jpg", "./fotos-menu/spaicy3.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/spaicy.jpg", "./fotos-menu/spaicy3.jpg"]
     },
     {
         "id": 142,
         "nombre": "Kiuri roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 13.99,
         "descripcion": "Roll envuelto en pepino, relleno de salmón, atún, kani y aguacate. Aderezado con salsa de la casa.",
-        "images": ["./fotos-menu/kiuri-roll.jpg", "./fotos-menu/kiuri-roll-2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/kiuri-roll.jpg", "./fotos-menu/kiuri-roll-2.jpg"]
     },
     {
         "id": 144,
         "nombre": "Keto roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 15.99,
         "descripcion": "Roll relleno de salmón, atún, kani, pescado blanco, aguacate y wakame con un toque de aceite de trufas y almendras rebanadas.",
-        "images": ["./fotos-menu/keto-roll.jpg", "./fotos-menu/keto-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/keto-roll.jpg", "./fotos-menu/keto-roll2.jpg"]
     },
     {
         "id": 145,
         "nombre": "Tokyo roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll apanado relleno de queso crema, aguacate, cebollina, cangrejo y pescado blanc. con topping de salsa dinamita.",
-        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll2.jpg"]
     },
     {
         "id": 146,
         "nombre": "Dinamita crunch",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll tempurizado relleno de cangrejo, aguacate y queso crema con topping de salsa dinamita.",
-        "images": ["./fotos-menu/dinamita-crunch.jpg", "./fotos-menu/dinamita-crunch2.jpg", "./fotos-menu/dinamita-crunch3.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/dinamita-crunch.jpg", "./fotos-menu/dinamita-crunch2.jpg", "./fotos-menu/dinamita-crunch3.jpg"]
     },
     {
         "id": 147,
         "nombre": "Prestigio roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Roll relleno de queso crema, cebollina, pescado blanco y cangrejo apanado. Cubierto de plátano y queso gouda flambeado bañado en salsa funji.",
-        "images": ["./fotos-menu/prestigio-roll.jpg", "./fotos-menu/prestigio-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/prestigio-roll.jpg", "./fotos-menu/prestigio-roll2.jpg"]
     },
     {
         "id": 148,
         "nombre": "Azumi roll especial",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón y atún tempurizados con topping de wakame y kani, bañados en salsa anguila.",
-        "images": ["./fotos-menu/azumi-roll.jpg", "./fotos-menu/azumi-roll-2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/azumi-roll.jpg", "./fotos-menu/azumi-roll-2.jpg"]
     },
     {
         "id": 149,
         "nombre": "Tuna hot",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Roll relleno de atún, queso crema y aguacate con topping de aguacate. Acompañado de algas, wakame y salsa dragón.",
-        "images": ["./fotos-menu/tuna-hot3.jpg", "./fotos-menu/tuna-hot.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/tuna-hot3.jpg", "./fotos-menu/tuna-hot.jpg"]
     },
     {
         "id": 151,
         "nombre": "Yeyo roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 13.99,
         "descripcion": "Roll relleno de queso crema, salmón y atún fresco, con topping de pescado blanco y cebolla morada.",
-        "images": ["./fotos-menu/yeyo-roll2.jpg", "./fotos-menu/yeyo-roll3.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/yeyo-roll2.jpg", "./fotos-menu/yeyo-roll3.jpg"]
     },
     {
         "id": 152,
         "nombre": "Asian roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll tempurizado, relleno de queso crema, aguacate, plátano, cangrejo y camaron tempurizado. Con topping de wakame y salsa fuji.",
-        "images": ["./fotos-menu/asian-roll.jpg", "./fotos-menu/asian-roll2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/asian-roll.jpg", "./fotos-menu/asian-roll2.jpg"]
     },
     {
         "id": 155,
         "nombre": "Alaska roll especial",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 15.99,
         "descripcion": "Roll relleno de queso crema, aguacate y salmón con topping de finas láminas de salmón, aguacate, wakame y masago con salsa de la casa.",
-        "images": ["./fotos-menu/alaska-roll-especial.jpg", "./fotos-menu/alaska-roll-especial2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/alaska-roll-especial.jpg", "./fotos-menu/alaska-roll-especial2.jpg"]
     },
     {
         "id": 157,
@@ -1479,21 +1443,19 @@
         "id": 176,
         "nombre": "Hosomaki de pepino",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 3.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ["./fotos-menu/osomaki-pepino.jpg", "./fotos-menu/osomaki-pepino2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/osomaki-pepino.jpg", "./fotos-menu/osomaki-pepino2.jpg"]
     },
     {
         "id": 178,
         "nombre": "Hosomaki de pescado blanco",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 4.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
-        "images": ["./fotos-menu/osomaki-pescado-blanco.jpg", "./fotos-menu/osomaki-pescado-blanco2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/osomaki-pescado-blanco.jpg", "./fotos-menu/osomaki-pescado-blanco2.jpg"]
     },
     {
         "id": 180,
@@ -1661,41 +1623,37 @@
         "id": 199,
         "nombre": "Hosomaki de atún",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 4.99,
         "descripcion": "",
-        "images": ["./fotos-menu/hosomaki-de-atun.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/hosomaki-de-atun.jpg"]
     },
     {
         "id": 200,
         "nombre": "Hosomaki de kani",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 4.99,
         "descripcion": "",
-        "images": ["./fotos-menu/hosomaki-cangrejo.jpg", "./fotos-menu/hosomaki-cangrejo2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/hosomaki-cangrejo.jpg", "./fotos-menu/hosomaki-cangrejo2.jpg"]
     },
     {
         "id": 201,
         "nombre": "Hosomaki de salmón",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 4.99,
         "descripcion": "",
-        "images": ["./fotos-menu/hosomaki-de-salmon.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/hosomaki-de-salmon.jpg"]
     },
     {
         "id": 203,
         "nombre": "Kyoto roll",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate y atún fresco. Cubierto de mango, coronado con ensalada wakani y dados de mango bañados en salsa anguila.",
-        "images": ["./fotos-menu/kyoto-roll.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/kyoto-roll.jpg"]
     },
     {
         "id": 204,
@@ -1836,11 +1794,10 @@
         "id": 221,
         "nombre": "Eby roll tradicional",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 19.99,
         "descripcion": "Relleno de camarones apanados, queso crema y aguacate fresco, este rollo combina una textura crujiente y suave en cada bocado. La superficie crunch aporta un toque adicional de sabor y textura, haciendo de esta una opción deliciosa y satisfactoria",
-        "images": ["./fotos-menu/eby-roll-tradicional.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/eby-roll-tradicional.jpg"]
     },
     {
         "id": 222,
@@ -2044,21 +2001,19 @@
         "id": 240,
         "nombre": "Dinamita roll especial",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 15.99,
         "descripcion": "Roll relleno de delicado kani, bañado en una mezcla de semillas de sésamo y masago que aportan una textura crujiente. Coronado con un topping de fresca ensalada asiática que equilibra cada bocado con sabores vibrantes y frescos",
-        "images": ["./fotos-menu/dinamita-roll-especial.jpg", "./fotos-menu/dinamita-roll-especial2.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/dinamita-roll-especial.jpg", "./fotos-menu/dinamita-roll-especial2.jpg"]
     },
     {
         "id": 241,
         "nombre": "Eby roll tempura especial",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 13.99,
         "descripcion": "Roll relleno de queso crema, aguacate fresco y langostinos tempurizados para una combinación suave y crujiente. Acompañado de una deliciosa mezcla de salsa de anguila y salsa Fuji que le añaden un toque dulce y sabroso a cada bocado.",
-        "images": ["./fotos-menu/eby-tempura-especial.jpg"],
-        "isRoll": true
+        "images": ["./fotos-menu/eby-tempura-especial.jpg"]
     },
     {
         "id": 242,
@@ -2211,18 +2166,16 @@
         "subcategoria": "Platos fuertes",
         "precio": 11.99,
         "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
-        "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"],
-        "isRoll":true
+        "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"]
     },
     {
         "id": 227,
         "nombre": "Sushi pizza para compartir",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 15.99,
         "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
-        "images": ["./fotos-menu/sushipizza.jpg", "./fotos-menu/sushipizza2.jpg"],
-        "isRoll":true
+        "images": ["./fotos-menu/sushipizza.jpg", "./fotos-menu/sushipizza2.jpg"]
     },
     {
         "id": 228,

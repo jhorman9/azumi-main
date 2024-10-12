@@ -11,7 +11,8 @@ const statusSubCategory = {
     'Entradas': 'entrees',
     'Sopas': 'soups',
     'Vegetales': 'vegetales',
-    'Postres': 'postres'
+    'Postres': 'postres',
+    'sushi': 'sushi'
 };
 
 export {
