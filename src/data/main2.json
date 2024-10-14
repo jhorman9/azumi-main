@@ -1,0 +1,2351 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carpaccio de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 18.95,
+        "descripcion": "Delicadas láminas de salmón fresco marinadas en aceite de oliva virgen extra y jugo de limón, acompañadas de alcaparras, eneldo fresco y finas rodajas de cebolla roja. Un plato exquisito que combina elegancia y sabor en cada bocado.",
+        "images": ["./fotos-menu/carpaccio-de-salmon.jpg"]
+    },
+    {
+        "id": 2,
+        "nombre": "Carpaccio de pulpo",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 19.00,
+        "descripcion": "Finísimas rodajas de pulpo cocido, marinadas con aceite de oliva virgen extra y un toque de limón. Servido con alcaparras, pimentón ahumado y hierbas frescas, creando una experiencia de sabor única y sofisticada.",
+        "images": ["./fotos-menu/carpaccio-de-pulpo.jpg"]
+    },
+    {
+        "id": 3,
+        "nombre": "Carpaccio de res",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 18.95,
+        "descripcion": "Finas láminas de filete de res de alta calidad, aderezadas con aceite de oliva virgen extra. Acompañado de rúcula fresca y lascas de queso parmesano, ofreciendo una combinación sublime de sabores y texturas.",
+        "images": ["./fotos-menu/carpaccio-de-carne.jpg"]
+    },
+    {
+        "id": 4,
+        "nombre": "Tempura azumi",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 14.99,
+        "descripcion": "Langostinos frescos y jugosos, acompañados de una selección de vegetales y cangrejo, todos cubiertos con una ligera y crujiente masa de tempura, fritos a la perfección. Servidos con una salsa de soya y jengibre para una experiencia de sabor auténticamente japonesa.",
+        "images": ["./fotos-menu/Tempura-azumi.jpg", "./fotos-menu/Tempura-azumi2.jpg"]
+    },
+    {
+        "id": 5,
+        "nombre": "Brochetas de pollo",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 12.99,
+        "descripcion": "Jugosos trozos de pollo marinados y asados a la parrilla, ensartados con pimientos y cebolla. Un clásico delicioso y lleno de sabor.",
+        "images": ["./fotos-menu/Brocheta-de-pollo.jpg", "./fotos-menu/Brocheta-de-pollo2.jpg"]
+    },
+    {
+        "id": 6,
+        "nombre": "Brochetas mixtas",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 13.99,
+        "descripcion": "Una combinación exquisita de jugosos trozos de pollo y carne de res, marinados y asados a la parrilla, ensartados con pimientos y cebolla. Una opción variada y llena de sabor para los amantes de la parrilla.",
+        "images": ["./fotos-menu/Brocheta-mixta.jpg", "./fotos-menu/Brocheta-mixta1.jpg"]
+    },
+    {
+        "id": 7,
+        "nombre": "Brochetas de camarón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 12.99,
+        "descripcion": "Camarones frescos y tiernos, sazonados con especias selectas y asados a la parrilla, ensartados en brochetas. Una deliciosa opción marina, perfecta para los amantes de los mariscos.",
+        "images": ["./fotos-menu/Brocheta-de-camarones.jpg", "./fotos-menu/Brocheta-de-camarones1.jpg"]
+    },
+    {
+        "id": 8,
+        "nombre": "Brochetas de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 16.99,
+        "descripcion": "Trozos frescos de salmón marinados en hierbas y especias, cuidadosamente ensartados en brochetas y asados a la parrilla. Una opción sabrosa y saludable, ideal para los amantes del pescado.",
+        "images": ["./fotos-menu/Brocheta-de-salmon.jpg", "./fotos-menu/Brocheta-de-salmon2.jpg"]
+    },
+    {
+        "id": 9,
+        "nombre": "Brochetas de queso",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 8.99,
+        "descripcion": "Cubos de queso fresco asados a la parrilla en brochetas. Un bocado cremoso y sabroso para disfrutar en cada mordisco.",
+        "images": ["./fotos-menu/Brocheta-de-queso.jpg"]
+    },
+    {
+        "id": 10,
+        "nombre": "Fish nuggets",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 11.50,
+        "descripcion": "6 Deditos de pescado blanco, empanizados con una cobertura crujiente y dorada. Acompañados de una salsa tártara casera para sumergir, son una opción deliciosa y satisfactoria para satisfacer los antojos de mariscos.",
+        "images": ["./fotos-menu/fish-nuggets-3.jpg","./fotos-menu/fish-nuggets-2.jpg"]
+    },
+    {
+        "id": 11,
+        "nombre": "Tori tatsuta",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 10.50,
+        "descripcion": "Tiras de pollo marinadas en una mezcla de salsa de soya, jengibre y ajo, recubiertas con almidón de maíz y fritas hasta alcanzar una textura crujiente. Servidas con una salsa de sésamo para sumergir, estas tiras de pollo son una delicia sabrosa y adictiva de la cocina japonesa.",
+        "images": ["./fotos-menu/tori-tatsuta.jpg", "./fotos-menu/tori-tatsuta4.jpg"]
+    },
+    {
+        "id": 12,
+        "nombre": "Croquetas de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 7.99,
+        "descripcion": "Deliciosa mezcla de salmón tempurizada y apanada, acompañada de salsa anguila",
+        "images": ["./fotos-menu/Croqueta-de-salmon.jpg", "./fotos-menu/Croqueta-de-salmon2.jpg"]
+    },
+    {
+        "id": 13,
+        "nombre": "Croquetas de cangrejo",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 7.99,
+        "descripcion": "4 Bocados crujientes de cangrejo, suaves por dentro y llenos de sabor.",
+        "images": ["./fotos-menu/Croqueta-de-cangrejo.jpg", "./fotos-menu/Croqueta-de-cangrejo2.jpg"]
+    },
+    {
+        "id": 14,
+        "nombre": "Croquetas de queso de cabra",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 8.99,
+        "descripcion": "4 Deliciosas croquetas con un corazón de queso de cabra cremoso y un exterior crujiente. Un placer indulgente para los amantes del queso.",
+        "images": ["./fotos-menu/croqueta-de-queso.jpg"]
+    },
+    {
+        "id": 15,
+        "nombre": "Gyozas de camarón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 7.99,
+        "descripcion": "5 Delicadas empanadillas rellenas de camarones frescos y sazonados, doradas a la plancha para obtener una textura crujiente por fuera y jugosa por dentro. Un manjar marino irresistible.",
+        "images": ["./fotos-menu/Gyozas-de-camaron.jpg"]
+    },
+    {
+        "id": 16,
+        "nombre": "Gyozas de puerco",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 7.99,
+        "descripcion": "5 Deliciosas empanadillas rellenas de cerdo, doradas a la perfección. Un sabor asiático auténtico en cada bocado.",
+        "images": ["./fotos-menu/Gyozas-de-puerco.jpg"]
+    },
+    {
+        "id": 17,
+        "nombre": "Gyozas de pollo",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 7.99,
+        "descripcion": "5 Deliciosas empanadillas rellenas de pollo, perfectamente doradas. Un placer asiático en cada bocado.",
+        "images": ["./fotos-menu/Gyozas-de-pollo.jpg"]
+    },
+    {
+        "id": 18,
+        "nombre": "Sprim roll mini",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 6.99,
+        "descripcion": "4 Rollitos de vegetales frescos con salsa. Un bocado ligero, crujiente y sabroso.",
+        "images": ["./fotos-menu/mini-rollitos-de-primavera.jpg", "./fotos-menu/mini-rollitos-de-primavera(2).jpg"]
+    },
+    {
+        "id": 19,
+        "nombre": "Lumpia o Sprim roll de puerco",
+        "categoria": "Chino",
+        "subcategoria": "Entradas",
+        "precio": 7.99,
+        "descripcion": "2 Rollos frescos rellenos de Puerco sazonado y vegetales, servidos con salsa agridulce. Un delicioso bocado con sabores asiáticos.",
+        "images": ["./fotos-menu/sprim-roll-lumpia.jpg"]
+    },
+    {
+        "id": 20,
+        "nombre": "Lumpia o  Sprim roll de camarón",
+        "categoria": "Chino",
+        "subcategoria": "Entradas",
+        "precio": 8.99,
+        "descripcion": "2 Rollos frescos rellenos de camarones jugosos y vegetales crujientes, servidos con salsa agridulce. Un festín de sabores marinos en cada bocado.",
+        "images": ["./fotos-menu/sprim-roll-lumpia.jpg"]
+    },
+    {
+        "id": 21,
+        "nombre": "Lumpia o Sprim roll de vegetales",
+        "categoria": "Chino",
+        "subcategoria": "Entradas",
+        "precio": 6.99,
+        "descripcion": "2 Rollitos frescos de vegetales con salsa. Un bocado ligero y delicioso.",
+        "images": ["./fotos-menu/sprim-roll-lumpia.jpg"]
+    },
+    {
+        "id": 22,
+        "nombre": "Siu Mai",
+        "categoria": "Chino",
+        "subcategoria": "Entradas",
+        "precio": 7.99,
+        "descripcion": "5 Bocados de Puerco sazonado al vapor. Irresistibles.",
+        "images": ["./fotos-menu/siu-mai.jpg"]
+    },
+    {
+        "id": 23,
+        "nombre": "Ham Pao de Puerco",
+        "categoria": "Chino",
+        "subcategoria": "Entradas",
+        "precio": 6.99,
+        "descripcion": "2 Bollos al vapor rellenos de Puerco sazonado. Un manjar asiático.",
+        "images": ["./fotos-menu/ham-pao.jpg"]
+    },
+    {
+        "id": 24,
+        "nombre": "Yee Chi Kao",
+        "categoria": "Chino",
+        "subcategoria": "Entradas",
+        "precio": 8.99,
+        "descripcion": "4 Bollos al vapor rellenos de carne de Puerco y vegetales. Deliciosos y reconfortantes.",
+        "images": ["./fotos-menu/yee-chi-kao2.jpg"]
+    },
+    {
+        "id": 25,
+        "nombre": "Hakao",
+        "categoria": "Chino",
+        "subcategoria": "Entradas",
+        "precio": 8.99,
+        "descripcion": "Delicados bocados de camarón envueltos en masa translúcida al vapor. Un festín de mariscos en cada bocado.",
+        "images": ["./fotos-menu/hakao.jpg"]
+    },
+    {
+        "id": 26,
+        "nombre": "Ceviche Limeño",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 14.90,
+        "descripcion": "Ceviche tradicional peruano preparado con pescado fresco marinado en jugo de limón, acompañado de cebolla roja, ají limo y cilantro. Un plato refrescante y lleno de sabores cítricos, típico de la gastronomía peruana.",
+        "images": ["./fotos-menu/Ceviche-limeno2.jpg", "./fotos-menu/Ceviche-limeno4.jpg"]
+    },
+    {
+        "id": 27,
+        "nombre": "Ceviche de camarones",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 14.90,
+        "descripcion": "Camarones frescos marinados en jugo de limón con cebolla roja, cilantro, ají limo y un toque de ajo. Un plato refrescante y lleno de sabor, ideal para los amantes de los mariscos.",
+        "images": ["./fotos-menu/ceviche-camaron.jpg", "./fotos-menu/ceviche-camaron3.jpg"]
+    },
+    {
+        "id": 28,
+        "nombre": "Ceviche de pulpo",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 14.90,
+        "descripcion": "Delicados trozos de pulpo marinado en jugo de limón, combinados con cebolla morada finamente picada, cilantro fresco, tomate en cubos y un toque de ají, creando una armonía perfecta de sabores y texturas.",
+        "images": ["./fotos-menu/Ceviche-de-pulpo3.jpg", "./fotos-menu/Ceviche-de-pulpo5.jpg"]
+    },
+    {
+        "id": 29,
+        "nombre": "Ceviche Aji amarillo",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 14.90,
+        "descripcion": "Ceviche preparado con pescado o mariscos marinados en jugo de limón y ají amarillo peruano, acompañado de cebolla roja, cilantro y maíz cancha. Un plato vibrante y lleno de sabores picantes y cítricos, típico de la gastronomía peruana.",
+        "images": ["./fotos-menu/Ceviche-Aji-amarillo2.jpg", "./fotos-menu/Ceviche-Aji-amarillo5.jpg"]
+    },
+    {
+        "id": 30,
+        "nombre": "Ceviche de mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 15.90,
+        "descripcion": "Clásico ceviche mixto de pulpo, camarones y calamares con leche de tigre cremosa y ajies, cilantro y jugo de limon acompanado de maiz peruano y chips de tuberculos.",
+        "images": ["./fotos-menu/Ceviche-de-mariscos2.jpg", "./fotos-menu/Ceviche-de-mariscos3.jpg"]
+    },
+    {
+        "id": 31,
+        "nombre": "Ceviche tropical",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 14.90,
+        "descripcion": "Preparado con pescado fresco marinado en jugo de limón y mezclado con frutas tropicales como mango, piña o maracuyá. Acompañado de cebolla roja, cilantro y un toque de ají limo.",
+        "images": ["./fotos-menu/Ceviche-tropical2.jpg", "./fotos-menu/Ceviche-tropical4.jpg"]
+    },
+    {
+        "id": 33,
+        "nombre": "Ceviche frito",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 14.70,
+        "descripcion": "Mariscos o pescado marinados en limón y especias, rebozados y fritos para obtener una textura crujiente por fuera y suave por dentro, con cilantro añadido para un toque fresco. Acompañados típicamente de salsa criolla y camote frito.",
+        "images": ["./fotos-menu/Ceviche-frito.jpg", "./fotos-menu/ceviche-frito2.jpg"]
+    },
+    {
+        "id": 34,
+        "nombre": "Causa de camarones",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 12.90,
+        "descripcion": "Delicada capa de puré de papa amarilla sazonada con ají amarillo y limón, rellena de camarones frescos y mayonesa. Acompañada de aguacate y huevo cocido. Un plato típico peruano que combina sabores cremosos y frescos.",
+        "images": ["./fotos-menu/causa-de-camaron.jpg", "./fotos-menu/causa-de-camaron-2.jpg"]
+    },
+    {
+        "id": 35,
+        "nombre": "Causa de pulpo",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 12.90,
+        "descripcion": "Puré de papa amarilla sazonado con ají amarillo y limón, relleno de pulpo tierno y mayonesa. Acompañado de aguacate y huevo cocido. Un plato tradicional peruano que destaca por su combinación de sabores suaves y frescos.",
+        "images": ["./fotos-menu/causa-de-pulpo.jpg", "./fotos-menu/causa-de-pulpo-2.jpg"]
+    },
+    {
+        "id": 252,
+        "nombre": "Causa de pollo",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 12.50,
+        "descripcion": "Delicada capa de puré de papa amarilla sazonada con ají amarillo y un toque de limón, rellena de jugoso pollo desmenuzado mezclado con una suave mayonesa. Acompañada de rodajas de aguacate y huevo cocido y aceitunas kalamata. ",
+        "images": ["./fotos-menu/Causa-de-pollo2.jpg", "./fotos-menu/Causa-de-pollo4.jpg"]
+    },
+    {
+        "id": 36,
+        "nombre": "Tiraditos de salmón",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 16.90,
+        "descripcion": "Finas láminas de salmón fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.",
+        "images": ["./fotos-menu/Tiraditos-de-salmon3.jpg", "./fotos-menu/Tiraditos-de-salmon4.jpg"]
+    },
+    {
+        "id": 37,
+        "nombre": "Tiraditos de atún",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 15.90,
+        "descripcion": "Finas láminas de atún fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, adornadas con rodajas de aguacate.",
+        "images": ["./fotos-menu/tiraditos-atun.jpg", "./fotos-menu/tiraditos-atun2.jpg"]
+    },
+    {
+        "id": 38,
+        "nombre": "Tiraditos de pescado blanco",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 14.90,
+        "descripcion": "Láminas finas de pescado blanco fresco marinadas en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, resaltando la frescura y el sabor del mar.",
+        "images": ["./fotos-menu/Tiraditos-de-pescado-blanco-(2).jpg", "./fotos-menu/Tiraditos-de-pescado-blanco2-(2).jpg"]
+    },
+    {
+        "id": 39,
+        "nombre": "Trilogía de Tiraditos Marinos",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 16.99,
+        "descripcion": "Finas láminas de pescado blanco, atún y salmón frescos, marinados en jugo de limón y aceite de oliva, con un toque de ají rojo, cebolla morada y cilantro, ofreciendo una experiencia única de sabores marinos.",
+        "images": ["./fotos-menu/tiraditos-mixto.jpg", "./fotos-menu/tiraditos-mixto-1.jpg"]
+    },
+    {
+        "id": 40,
+        "nombre": "Tiraditos mixto",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 15.99,
+        "descripcion": "láminas de salmón fresco y pescado blanco o atún y salmón. Marinadas en jugo de limón y aceite de oliva, con ají rojo, cebolla morada y cilantro, destacando la fusión de sabores marinos.",
+        "images": ["./fotos-menu/tiradito-mixto1.jpg", "./fotos-menu/tiradito-mixto2.jpg"]
+    },
+    {
+        "id": 41,
+        "nombre": "Ebi Thai",
+        "categoria": "Thailandes",
+        "subcategoria": "Entradas",
+        "precio": 14.90,
+        "descripcion": "Camarones o langostinos apanados con coco rallado y panko, fritos hasta quedar crujientes. Sazonados con especias tailandesas como cilantro, lima y ajo, servidos con salsa dulce.",
+        "images": ["./fotos-menu/ebi-thai.jpg", "./fotos-menu/ebi-thai2.jpg"]
+    },
+    {
+        "id": 42,
+        "nombre": "Tartar de atún",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 13.50,
+        "descripcion": "Preparación de atún fresco cortado en cubos finos y sazonado con ingredientes como aguacate, cebolla roja, cilantro y salsa de soya. Se sirve con hilo de arroz frito crujiente encima para añadir textura y sabor adicional.",
+        "images": ["./fotos-menu/tartar-atun.jpg", "./fotos-menu/tartar-atun2.jpg"]
+    },
+    {
+        "id": 91,
+        "nombre": "Crocante de arañita en tiras",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 13.99,
+        "descripcion": "Tentáculos de calamar frito hasta obtener una textura crujiente y dorada, acompañados de una salsa casera especial. Un platillo que combina la suavidad del calamar con una explosión de sabores en cada bocado.",
+        "images": ["./fotos-menu/chicharron-aranita.jpg", "./fotos-menu/chicharron-aranita3.jpg"]
+    },
+    {
+        "id": 92,
+        "nombre": "Atún abrazado",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 13.99,
+        "descripcion": "Filete de atún sellado en una mezcla de pimienta y semillas de ajonjolí, acompañado de chutney de piña y mayocurry.",
+        "images": ["./fotos-menu/atun-abrazado2.jpg", "./fotos-menu/atun-abrazado3-(2).jpg"]
+    },
+    {
+        "id": 93,
+        "nombre": "Maguro tataki",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 16.99,
+        "descripcion": "Atún sellado, acompañado de una delicada salsa Arague, jengibre fresco y cebollina.",
+        "images": ["./fotos-menu/maguro-tataki1.jpg", "./fotos-menu/maguro-tataki3.jpg"]
+    },
+    {
+        "id": 94,
+        "nombre": "Papa a la Huancaína",
+        "categoria": "Peruano",
+        "subcategoria": "Entradas",
+        "precio": 9.99,
+        "descripcion": "Papas cocidas y cortadas en cuadros, cubiertas con una cremosa salsa huancaína y decoradas con brotes frescos de cilantro.",
+        "images": ["./fotos-menu/papa-a-la-huancaina2.jpg", "./fotos-menu/papa-a-la-huancaina24.jpg"]
+    },
+    {
+        "id": 43,
+        "nombre": "Sopa de wanton",
+        "categoria": "Chino",
+        "subcategoria": "Sopas",
+        "precio": 6.99,
+        "descripcion": "Sopa caliente y reconfortante con wantones rellenos de Puerco o camarón, servidos en un caldo sabroso y aromático. Un clásico de la cocina asiática.",
+        "images": ["./fotos-menu/wanton.jpg", "./fotos-menu/wanton2.jpg"]
+    },
+    {
+        "id": 44,
+        "nombre": "Sopa de wanton mein",
+        "categoria": "Chino",
+        "subcategoria": "Sopas",
+        "precio": 11.75,
+        "descripcion": "Caldo de puerco clarificado con tallarines, relleno de camarones, lonjas de puerco y tiras de pollo. Un clásico asiático con una deliciosa combinación de sabores y texturas.",
+        "images": ["./fotos-menu/wanton-mein.jpg", "./fotos-menu/wanton-mein2.jpg"]
+    },
+    {
+        "id": 45,
+        "nombre": "Sopa pacheng",
+        "categoria": "Chino",
+        "subcategoria": "Sopas",
+        "precio": 11.99,
+        "descripcion": "Caldo de Puerco con trozos de puerco y una variedad de vegetales. Un plato reconfortante y lleno de sabor.",
+        "images": ["./fotos-menu/sopa-pacheng.jpg", "./fotos-menu/sopa-pacheng5.jpg"]
+    },
+    {
+        "id": 46,
+        "nombre": "Sopa de mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Sopas",
+        "precio": 14.99,
+        "descripcion": "Caldo de mariscos con camarones frescos, almejas en su concha, calamares, cebolla, pimienta y sal a gusto. Un festín marino lleno de sabor.",
+        "images": ["./fotos-menu/sopa-de-mariscos2.jpg", "./fotos-menu/sopa-de-mariscos.jpg"]
+    },
+    {
+        "id": 47,
+        "nombre": "Sopa de vegetales buda",
+        "categoria": "Chino",
+        "subcategoria": "Sopas",
+        "precio": 7.99,
+        "descripcion": "Caldo de pollo con una variedad de vegetales frescos. Un plato ligero y nutritivo.",
+        "images": ["./fotos-menu/sopa-con-vegetales-buda.jpg"]
+    },
+    {
+        "id": 48,
+        "nombre": "Edamame",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 8.50,
+        "descripcion": "Vainas de soja al vapor, sazonadas con sal. Un aperitivo saludable y delicioso.",
+        "images": ["./fotos-menu/edamame.jpg", "./fotos-menu/edamame2.jpg"]
+    },
+    {
+        "id": 49,
+        "nombre": "Crema de maíz",
+        "categoria": "Chino",
+        "subcategoria": "Sopas",
+        "precio": 7.99,
+        "descripcion": "Suave y cremosa sopa de maíz, rica en sabor y perfecta para cualquier ocasión.",
+        "images": ["./fotos-menu/crema-de-maiz2.jpg","./fotos-menu/crema-de-maiz3.jpg"]
+    },
+    {
+        "id": 50,
+        "nombre": "Ramen de puerco",
+        "categoria": "Japones",
+        "subcategoria": "Sopas",
+        "precio": 14.99,
+        "descripcion": "Caldo rico y sabroso con fideos ramen, lonjas de cerdo, huevo, y vegetales frescas. Un clásico japonés lleno de umami.",
+        "images": ["./fotos-menu/ramen-de-cerdo2.jpg", "./fotos-menu/ramen-de-cerdo5.jpg"]
+    },
+    {
+        "id": 51,
+        "nombre": "Ramen de carne",
+        "categoria": "Japones",
+        "subcategoria": "Sopas",
+        "precio": 15.99,
+        "descripcion": "Caldo aromático con fideos ramen, trozos tiernos de carne, huevo cocido, y vegetales frescos. Una experiencia reconfortante llena de sabores profundos.",
+        "images": ["./fotos-menu/Ramen-de-carne.jpg", "./fotos-menu/ramen-de-carne3.jpg"]
+    },
+    {
+        "id": 52,
+        "nombre": "Ramen de pollo",
+        "categoria": "Japones",
+        "subcategoria": "Sopas",
+        "precio": 14.99,
+        "descripcion": "Caldo reconfortante con fideos ramen, trozos suculentos de pollo, huevo cocido y vegetales frescas. Una opción reconfortante y llena de sabor.",
+        "images": ["./fotos-menu/Ramen-de-Pollo11.jpg", "./fotos-menu/Ramen-de-Pollo12.jpg"]
+    },
+    {
+        "id": 53,
+        "nombre": "Ramen mixto",
+        "categoria": "Japones",
+        "subcategoria": "Sopas",
+        "precio": 15.99,
+        "descripcion": "Caldo fragante con fideos ramen, una combinación de carne de cerdo, pollo, camarones, huevo cocido y vegetales frescas. Una explosión de sabores en cada cucharada.",
+        "images": ["./fotos-menu/ramen-de-camaron-mixto7.jpg", "./fotos-menu/ramen-de-camaron-mixto9.jpg"]
+    },
+    {
+        "id": 95,
+        "nombre": "Ramen de Pescado",
+        "categoria": "Japones",
+        "subcategoria": "Sopas",
+        "precio": 14.99,
+        "descripcion": "Exquisito caldo japonés con fideos ramen, suculentos trozos de pescado fresco, huevo cocido, y una selección de vegetales frescas. Un plato reconfortante y sabroso, ideal para los amantes del pescado.",
+        "images": ["./fotos-menu/ramen-de-pescado.jpg", "./fotos-menu/ramen-de-pescado4.jpg"]
+    },
+    {
+        "id": 108,
+        "nombre": "Ramen de camarón",
+        "categoria": "Japones",
+        "subcategoria": "Sopas",
+        "precio": 15.99,
+        "descripcion": "Exquisito caldo japonés con fideos ramen, camarones jugosos, huevo cocido y una selección de vegetales frescos. Un plato reconfortante y lleno de sabor, perfecto para los amantes del marisco.",
+        "images": ["./fotos-menu/ramen-de-camaron4.jpg", "./fotos-menu/ramen-de-camaron5.jpg"]
+    },
+    {
+        "id": 54,
+        "nombre": "Sopa de coco thay",
+        "categoria": "Thailandes",
+        "subcategoria": "Sopas",
+        "precio": 10.99,
+        "descripcion": "Sopa aromática de leche de coco con sabores tailandeses auténticos, como limoncillo y jengibre, acompañada de camarones frescos, setas y vegetales. Una experiencia culinaria exótica y deliciosa.",
+        "images": ["./fotos-menu/Sopa-de-coco-thay4.jpg", "./fotos-menu/Sopa-de-coco-thay6.jpg"]
+    },
+    {
+        "id": 55,
+        "nombre": "Chupe de pollo",
+        "categoria": "Peruano",
+        "subcategoria": "Sopas",
+        "precio": 9.00,
+        "descripcion": "Sopa cremosa de pollo con maíz, papas, huevos y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para disfrutar en cualquier ocasión.",
+        "images": ["./fotos-menu/Chupe-de-pollo2.jpg", "./fotos-menu/Chupe-de-pollo6.jpg"]
+    },
+    {
+        "id": 56,
+        "nombre": "Chupe de langostino",
+        "categoria": "Peruano",
+        "subcategoria": "Sopas",
+        "precio": 10.90,
+        "descripcion": "Sopa cremosa de langostino con maíz, papas y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.",
+        "images": ["./fotos-menu/chupe-de-camaron.jpg", "./fotos-menu/chupe-de-camaron5.jpg"]
+    },
+    {
+        "id": 57,
+        "nombre": "Chupe de mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Sopas",
+        "precio": 11.50,
+        "descripcion": "Sopa cremosa de mariscos con camarones, calamares, mejillones y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para disfrutar de una experiencia culinaria marina.",
+        "images": ["./fotos-menu/Chupe-de-mariscos.jpg", "./fotos-menu/Chupe-de-mariscos5.jpg"]
+    },
+    {
+        "id": 58,
+        "nombre": "Pollo al grill",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 10.99,
+        "descripcion": "Jugoso pollo asado a la parrilla, acompañado de una colorida variedad de vegetales frescos. Un plato saludable y lleno de sabor, perfecto para una experiencia culinaria equilibrada.",
+        "images": ["./fotos-menu/pollo-al-grill.jpg","./fotos-menu/pollo-al-grill4.jpg"]
+    },
+    {
+        "id": 96,
+        "nombre": "Tentáculos de Pulpo a la parrilla",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.90,
+        "descripcion": "Tentáculos de pulpo a la brasa, servidos con la guarnición de tu elección. Un plato sabroso con un toque ahumado.",
+        "images": ["./fotos-menu/Tentáculos-de-Pulpo-a-la-parrilla2.jpg", "./fotos-menu/Tentáculos-de-Pulpo-a-la-parrilla4.jpg"]
+    },
+    {
+        "id": 97,
+        "nombre": "Pescado a la Mostaza",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de maíz y acompañados de yuca frita. Incluye pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.",
+        "images": ["./fotos-menu/Pescado-a-la-Mostaza.jpg", "./fotos-menu/Pescado-a-la-Mostaza5.jpg"]
+    },
+    {
+        "id": 98,
+        "nombre": "Pescado en Salsa Sogayaky",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Filete de pescado fresco en salsa japonesa Sogayaky con un toque de sake y mirin, realzando el sabor natural del pescado. Con un equilibrio dulce y salado. Acompañado de vegetales al vapor y arroz blanco.",
+        "images": ["./fotos-menu/Pescado-en-Salsa-Sogayaky3.jpg", "./fotos-menu/Pescado-en-Salsa-Sogayaky6.jpg"]
+    },
+    {
+        "id": 99,
+        "nombre": "Sudado de pescado y mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.50,
+        "descripcion": "Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime.",
+        "images": ["./fotos-menu/Sudado-de-pescado-ymariscos3.jpg", "./fotos-menu/Sudado-de-pescado-y-mariscos4.jpg"]
+    },
+    {
+        "id": 100,
+        "nombre": "Ají de gallina",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 13.50,
+        "descripcion": "Exquisito plato peruano de pollo desmenuzado en una cremosa salsa de ají amarillo, acompañado de ají rojo, aceitunas negras y cilantro fresco. Servido con arroz blanco, papas sancochadas y huevo duro.",
+        "images": ["./fotos-menu/Ají-de-gallina0.jpg", "./fotos-menu/Ají-de-gallina1.jpg"]
+    },
+    {
+        "id": 101,
+        "nombre": "Lomo saltados",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.40,
+        "descripcion": "Tiernos trozos de lomo de res saltados con tomate y cilantro, sazonados con salsa de soya y especias, servidos sobre una cama de papas fritas y acompañado de arroz blanco. Opción pollo saltado: $17.20",
+        "images": ["./fotos-menu/lomo-saltado.jpg", "./fotos-menu/lomo-saltado2.jpg"]
+    },
+    {
+        "id": 59,
+        "nombre": "Pollo al curry",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.99,
+        "descripcion": "Dados de pollo tiernos cocinados en una rica y aromática salsa de curry, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y especias.",
+        "images": ["./fotos-menu/Pollo-al-curry8.jpg", "./fotos-menu/Pollo-al-curry15.jpg"]
+    },
+    {
+        "id": 60,
+        "nombre": "Puerco al curry",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 13.50,
+        "descripcion": "Dados de Puerco tiernos cocinados en una rica salsa de curry con crema de leche y coco, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y cremosidad, perfecto para disfrutar en cualquier ocasión.",
+        "images": ["./fotos-menu/Cerdo-al-curry2.jpg", "./fotos-menu/Cerdo-al-curry4.jpg"]
+    },
+    {
+        "id": 61,
+        "nombre": "Camarones al curry",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "Jugosos camarones cocinados en una rica salsa de curry con crema de leche y coco, acompañados de una variedad de vegetales frescos. Un plato lleno de sabor y cremosidad.",
+        "images": ["./fotos-menu/Camarones-al-curry4.jpg", "./fotos-menu/Camarones-al-curry5.jpg"]
+    },
+    {
+        "id": 62,
+        "nombre": "Corvina a lo macho",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.50,
+        "descripcion": "Filete de corvina servida con una robusta salsa a base de tomate, ají picante y una selección de mariscos, acompañado con una guarnición de su selección ",
+        "images": ["./fotos-menu/Corvina-a-lo-macho3.jpg", "./fotos-menu/Corvina-a -lo-macho4.jpg"]
+    },
+    {
+        "id": 63,
+        "nombre": "Corvina a lo hembra",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.50,
+        "descripcion": "Corvina acompañada de una suave salsa blanca y camarones o mariscos. Un plato elegante y sabroso, ideal para disfrutar de una experiencia culinaria delicada.",
+        "images": ["./fotos-menu/Corvina-a-lo-hembra4.jpg", "./fotos-menu/Corvina-a-lo-hembra7.jpg"]
+    },
+    {
+        "id": 67,
+        "nombre": "Filete de corvina",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Filete de corvina sazonado con jengibre fresco y cebollín, servido sobre una cama de vegetales salteados y arroz jazmin.",
+        "images": ["./fotos-menu/Filete-de-corvina-al-pacific5.jpg", "./fotos-menu/Filete-de-corvina-al-pacific6.jpg"]
+    },
+    {
+        "id": 69,
+        "nombre": "Salmón en salsa Saimoy",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 22.99,
+        "descripcion": "Filete de salmón fresco cubierto con una rica salsa saimoy, que equilibra perfectamente notas dulces y saladas. Un plato elegante y sabroso que deleita los sentidos.",
+        "images": ["./fotos-menu/Filete-de-Salmon-Thai-2.jpg", "./fotos-menu/Filete-de-Salmon-Thai8.jpg"]
+    },
+    {
+        "id": 70,
+        "nombre": "Teppan de pollo",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.99,
+        "descripcion": "Pollo a la plancha en salsa teriyaki, acompañado de arroz yakimeshi. Un plato delicioso y equilibrado, que combina sabores tradicionales japoneses con ingredientes frescos y de alta calidad.",
+        "images": ["./fotos-menu/teppan-de-pollo-yakimeshi.jpg", "./fotos-menu/teppan-de-pollo-yakisoba-(3).jpg"]
+    },
+    {
+        "id": 71,
+        "nombre": "Teppan de res",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.50,
+        "descripcion": "Carne de res a la plancha, en salsa teriyaki, acompañada con arroz yakimeshi o yakisoba.",
+        "images": ["./fotos-menu/Teppan-de-filete-de-res-yakimeshi2.jpg", "./fotos-menu/Teppan-de-filete-de-res-yakisoba3.jpg", "./fotos-menu/Teppan-de-filete-de-res-yasai5.jpg"]
+    },
+    {
+        "id": 72,
+        "nombre": "Teppan de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Filete de salmón cocinado al estilo teppanyaki, con una cocción perfecta que realza su sabor natural. Acompañado de arroz yakimeshi. Un plato delicado y lleno de sabores marinos, ideal para los amantes del salmón.",
+        "images": ["./fotos-menu/Teppan-de-salmon-yakimeshi.jpg", "./fotos-menu/teppan-de-salmon-yakisoba-(8).jpg", "./fotos-menu/Teppan-de-Salmón-yasai2.jpg"]
+    },
+    {
+        "id": 73,
+        "nombre": "Arroz Chaufa de Pollo",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.90,
+        "descripcion": "Clásico arroz chaufa peruano, salteado con trozos de pollo, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, creando una deliciosa fusión de sabores peruanos y chinos.",
+        "images": ["./fotos-menu/Arroz-thai-pollo0.jpg", "./fotos-menu/Arroz-thai-pollo1.jpg"]
+    },
+    {
+        "id": 74,
+        "nombre": "Arroz Chaufa de Mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.90,
+        "descripcion": "Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, ofreciendo una deliciosa fusión de sabores peruanos y chinos.",
+        "images": ["./fotos-menu/Arroz-Chaufa-de-Mariscos0.jpg", "./fotos-menu/Arroz-Chaufa-de-Mariscos1.jpg"]
+    },
+    {
+        "id": 75,
+        "nombre": "Jalea de mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.90,
+        "descripcion": "Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acompañados de salsa tártara y servidos con palitos de yuca. Una opción deliciosa y sabrosa para los amantes de los mariscos.",
+        "images": ["./fotos-menu/jalea-de-mariscos2-(2).jpg", "./fotos-menu/jalea-de-mariscos-(2).jpg"]
+    },
+    {
+        "id": 76,
+        "nombre": "Arroz thai de pollo",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 13.99,
+        "descripcion": "Arroz salteado al estilo tailandés con trozos de pollo, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
+        "images": ["./fotos-menu/Arroz-thai-pollo0.jpg", "./fotos-menu/Arroz-thai-pollo1.jpg"]
+    },
+    {
+        "id": 77,
+        "nombre": "Arroz thai de res",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Arroz salteado al estilo tailandés con trozos de res, vegetales frescos, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
+        "images": ["./fotos-menu/Arroz-thai-de-res0.jpg", "./fotos-menu/Arroz-thai-de-res1.jpg"]
+    },
+    {
+        "id": 79,
+        "nombre": "Arroz thai de camarón",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "Arroz salteado al estilo tailandés con camarones frescos, vegetales, huevo y especias aromáticas. Sazonado con salsa de soya y jengibre, creando un plato exótico y lleno de sabor.",
+        "images": ["./fotos-menu/Arroz-thai-de-camarón0.jpg", "./fotos-menu/Arroz-thai-de-camarón1.jpg"]
+    },
+    {
+        "id": 80,
+        "nombre": "Arroz thai de vegetales",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.90,
+        "descripcion": "Arroz salteado al estilo tailandés con una variedad de vegetales frescos, como pimientos, zanahorias, cebolla y brotes de soya. Sazonado con salsa de soya y jengibre, ofreciendo un plato vegetariano exótico y lleno de sabor.",
+        "images": ["./fotos-menu/arroz-thai-vegetales.jpg"]
+    },
+    {
+        "id": 81,
+        "nombre": "Pad Thai de Pollo",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Clásico plato tailandés preparado con fideos de arroz salteados al wok, pollo tierno, tofu, huevo y brotes de soya. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.",
+        "images": ["./fotos-menu/pad-thai-pollo.jpg", "./fotos-menu/pad-thai-pollo2.jpg"]
+    },
+    {
+        "id": 82,
+        "nombre": "Pad thai de camarón",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.99,
+        "descripcion": "Plato tailandés clásico elaborado con fideos de arroz salteados al wok, camarones frescos, tofu, huevo, brotes de soya y una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco para un toque cítrico y herbal.",
+        "images": ["./fotos-menu/pad-thai-camaron5.jpg", "./fotos-menu/pad-thai-camaron7.jpg"]
+    },
+    {
+        "id": 83,
+        "nombre": "Medallones de Lomito en Salsa Miso",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Tiernos medallones de lomo cocinados a la perfección y cubiertos con una deliciosa salsa miso. Acompañados de arroz jazmín y una fresca ensalada. Un plato que combina sabores intensos y texturas delicadas.",
+        "images": ["./fotos-menu/Medallones-de-Lomito-en-Salsa-Miso5.jpg", "./fotos-menu/Medallones-de-Lomito-en-Salsa-Miso8.jpg"]
+    },
+    {
+        "id": 84,
+        "nombre": "Kinoha de vegetales",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 10.99,
+        "descripcion": "Plato japonés que consiste en una mezcla de quinoa y vegetales salteados, como zanahorias, pimientos, cebolla y espinacas, sazonados con salsa de soya y jengibre. Una opción saludable y sabrosa, perfecta para los amantes de la cocina oriental y los ingredientes frescos.",
+        "images": ["./fotos-menu/kinoha-de-vegetales.jpg", "./fotos-menu/kinoha-de-vegetales4.jpg"]
+    },
+    {
+        "id": 85,
+        "nombre": "Kinoha de pollo",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 13.99,
+        "descripcion": "Plato japonés que combina quinoa con trozos tiernos de pollo salteados junto a vegetales como zanahorias, pimientos, cebolla y espinacas. Sazonado con salsa de soya y jengibre para un toque oriental y sabroso.",
+        "images": ["./fotos-menu/kinoha-de-pollo.jpg", "./fotos-menu/kinoha-de-pollo3.jpg"]
+    },
+    {
+        "id": 86,
+        "nombre": "Kinoha de salmón",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 16.99,
+        "descripcion": "Plato japonés que presenta una mezcla de quinoa acompañada de filete de salmón a la parrilla, junto con vegetales salteados como zanahorias, pimientos, cebolla y espinacas. Todo ello sazonado con salsa de soya y jengibre, ofreciendo un equilibrio perfecto de sabores y una opción saludable y deliciosa.",
+        "images": ["./fotos-menu/kinoha-de-salmon2.jpg", "./fotos-menu/kinoha-de-salmon3.jpg"]
+    },
+    {
+        "id": 87,
+        "nombre": "Ensalada César Clásica",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 10.99,
+        "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso. Una combinación perfecta de sabores y texturas que resulta en un plato fresco y satisfactorio.",
+        "images": ["./fotos-menu/ensalada-cesar-clasica.jpg", "./fotos-menu/ensalada-cesar-clasica-2.jpg"]
+    },
+    {
+        "id": 88,
+        "nombre": "Ensalada César de Pollo",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 12.99,
+        "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso, acompañada de tiras de pollo a la parrilla. Una combinación deliciosa y satisfactoria que combina sabores frescos con proteínas.",
+        "images": ["./fotos-menu/ensalada-cesar-de-pollo2.jpg", "./fotos-menu/ensalada-cesar-de-pollo3.jpg"]
+    },
+    {
+        "id": 89,
+        "nombre": "Ensalada César de Camarones",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 14.99,
+        "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones, queso parmesano rallado y aderezo César cremoso, acompañada de camarones salteados. Una combinación deliciosa que combina sabores frescos con el sabor marino de los camarones.",
+        "images": ["./fotos-menu/ensalada-cesar-camarones.jpg"]
+    },
+    {
+        "id": 90,
+        "nombre": "Ensalada cleopatra",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 12.99,
+        "descripcion": "La ensalada Cleopatra es una mezcla fresca de lechuga, tomates cherry, pepino, aceitunas negras y queso feta, aliñada con aceite de oliva, limón y hierbas mediterráneas. Es una opción ligera y sabrosa.",
+        "images": ["./fotos-menu/ensalada-cleopatra.jpg", "./fotos-menu/ensalada-cleopatra2.jpg"]
+    },
+    {
+        "id": 102,
+        "nombre": "Mix de tempura",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 14.99,
+        "descripcion": "Delicada selección de vegetales frescos, incluyendo zanahoria, cebolla, pimentón rojo, zukini y berenjena, fritos en tempura crujiente y acompañados de una exquisita salsa arage.",
+        "images": ["./fotos-menu/Mix-de-tempura2.jpg", "./fotos-menu/Mix-de-tempura3.jpg"]
+    },
+    {
+        "id": 103,
+        "nombre": "Ensalada asiatica",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 11.99,
+        "descripcion": "Ensalada fresca de algas marinas wakame, combinada con salmón, kani y aderezada con mayonesa japonesa. Una mezcla deliciosa de sabores del mar con un toque cremoso que deleitará tu paladar.",
+        "images": ["./fotos-menu/Ensalada-Wakame Especial.jpg", "./fotos-menu/Ensalada-Wakame-Especial6.jpg"]
+    },
+    {
+        "id": 104,
+        "nombre": "Corvina con Chimichurri y Camarones",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 19.99,
+        "descripcion": "Filete de corvina a la parrilla, cubierto con chimichurri y camarones salteados, servido sobre una cama de vegetales frescos y acompañado de arroz.",
+        "images": ["./fotos-menu/Corvina-con-Chimichurri-y-Camarones4.jpg", "./fotos-menu/Corvina-con-Chimichurri-y-Camarones7.jpg"]
+    },
+    {
+        "id": 105,
+        "nombre": "Tallarines en salsa huancaina con mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Tallarines al dente servidos con una cremosa salsa huancaína, acompañados de una variedad de mariscos frescos. Un plato que fusiona la rica tradición peruana con los sabores del mar, ofreciendo una experiencia única y deliciosa.",
+        "images": ["./fotos-menu/Tallarines-en-salsa-huancaina-con-mariscos.jpg", "./fotos-menu/Tallarines-en-salsa-huancaina-con-mariscos3.jpg"]
+    },
+    {
+        "id": 106,
+        "nombre": "Tallarines en salsa huancaina con lomo saltado",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.90,
+        "descripcion": "Tallarines al dente cubiertos con una cremosa salsa huancaína, acompañados de jugosos trozos de lomo saltado al estilo peruano. Un plato que fusiona dos clásicos de la gastronomía peruana en una combinación irresistible de sabores y texturas.",
+        "images": ["./fotos-menu/Tallarines-en-salsa-huancaina-con-lomo-saltado.jpg", "./fotos-menu/Tallarines-en-salsa-huancaina-con-lomo-saltado2.jpg"]
+    },
+    {
+        "id": 107,
+        "nombre": "Parrilla mar y tierra",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 24.99,
+        "descripcion": "Una exquisita combinación de cortes selectos de carne a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
+        "images": ["./fotos-menu/Parrilla-mar-y-tierra3.jpg", "./fotos-menu/Parrilla-mar-y-tierra4.jpg"]
+    },
+    {
+        "id": 109,
+        "nombre": "Dinamita sala",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 9.90,
+        "descripcion": "Hilos de cangrejo (kani) aderezado con salsa Dragon (picante), acompañado de aguacate",
+        "images": ["./fotos-menu/dinamita-sala.jpg"]
+    },
+    {
+        "id": 110,
+        "nombre": "Wakame",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 8.50,
+        "descripcion": "Deliciosas algas marinas, acompañadas de salsa anguilas.",
+        "images": ["./fotos-menu/wakame.jpg", "./fotos-menu/wakame2.jpg"]
+    },
+    {
+        "id": 113,
+        "nombre": "Tartar de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 14.25,
+        "descripcion": "Pequeños trozos de salmón, marinados en aceite de sésamo o trufa, sal y pimienta. acompañado de aguacate y salsa anguila.",
+        "images": ["./fotos-menu/tartar-salmon.jpg", "./fotos-menu/tartar-salmon2.jpg"]
+    },
+    {
+        "id": 114,
+        "nombre": "Deditos de plátano",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 9.99,
+        "descripcion": "Finas láminas de plátano, rellenas de queso crema, aguacate y salmón tempurizados. Acompañado de salsa dinamita.",
+        "images": ["./fotos-menu/deditos-de-platano.jpg"]
+    },
+    {
+        "id": 115,
+        "nombre": "Deditos de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 9.99,
+        "descripcion": "Finas láminas de salmón, rellenas de queso crema y aguacate. Acompañado de salsa dinamita.",
+        "images": ["./fotos-menu/deditos-de-salmon.jpg"]
+    },
+    {
+        "id": 116,
+        "nombre": "Pacific roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Relleno de queso crema, aguacate y deliciosa mezcla de cangrejo, topping de atún rojo. Acompañado de exquisita salsa de la casa.",
+        "images": ["./fotos-menu/pacific-roll.jpg"]
+    },
+    {
+        "id": 117,
+        "nombre": "Panama roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Relleno de vegetales crocantes, queso crema, aguacate y kani apanado. Con topping de hilos de cangrejo crocantes y deliciosa salsa funji.",
+        "images": ["./fotos-menu/panama-roll.jpg", "./fotos-menu/panama-roll2.jpg"]
+    },
+    {
+        "id": 118,
+        "nombre": "Ninja roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Cangrejo, atún fresco, queso crema y aguacate. Cubierto de finas láminas de aguacate y dados de salmón fresco de topping, bañados en salsa picante y cebollín.",
+        "images": ["./fotos-menu/ninja.jpg", "./fotos-menu/ninja2.jpg"]
+    },
+    {
+        "id": 119,
+        "nombre": "Miyagi roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Atún rojo con deliciosa mezcla de cangrejo0, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
+        "images": ["./fotos-menu/miyagi-roll.jpg", "./fotos-menu/miyagi-roll2.jpg"]
+    },
+    {
+        "id": 120,
+        "nombre": "Tropical roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 13.50,
+        "descripcion": "Finas láminas de salmón relleno de queso crema, aguacate, plátano y kani tempurizado. Acompañado de salsa fuji y anguila.",
+        "images": ["./fotos-menu/tropical-roll.jpg", "./fotos-menu/tropical-roll2.jpg", "./fotos-menu/tropical-roll3.jpg"]
+    },
+    {
+        "id": 121,
+        "nombre": "Fusion roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll cubierto de plátano y aguacate, relleno de queso crema, aguacate, salmón, atún y langostinos. Acompañado de salsa funji y anguila",
+        "images": ["./fotos-menu/fusion-roll.jpg", "./fotos-menu/fusion-roll3.jpg"]
+    },
+    {
+        "id": 122,
+        "nombre": "California roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 9.99,
+        "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate, kani y pepino.",
+        "images": ["./fotos-menu/california-roll8.jpg", "./fotos-menu/california-roll11.jpg"]
+    },
+    {
+        "id": 123,
+        "nombre": "Dinamita roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 9.99,
+        "descripcion": "Arroz japonés, sésamo y masago, relleno de ques crem, aguacate y deliciosa pasta dinamita.",
+        "images": ["./fotos-menu/dinamita-roll.jpg", "./fotos-menu/dinamita-roll6.jpg"]
+    },
+    {
+        "id": 124,
+        "nombre": "Tuna roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 10.99,
+        "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y atún fresco.",
+        "images": ["./fotos-menu/tuna-roll.jpg", "./fotos-menu/tuna-roll3.jpg"]
+    },
+    {
+        "id": 125,
+        "nombre": "Tigger roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 10.99,
+        "descripcion": "Relleno de queso crema, aguacate y salmón. Acompañado de salsa anguila y soya.",
+        "images": ["./fotos-menu/tigger-roll.jpg", "./fotos-menu/tigger-roll2.jpg"]
+    },
+    {
+        "id": 126,
+        "nombre": "Chicken roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 10.99,
+        "descripcion": "Roll cubierto de semillas de sésamo, relleno de queso crema, aguacate y pollo apanado con topping trocitos de pollo apanado bañado en salsa anguila.",
+        "images": ["./fotos-menu/chicken-roll-tradicional3.jpg", "./fotos-menu/chicken-roll-tradicional4.jpg"]
+    },
+    {
+        "id": 127,
+        "nombre": "Banana roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Cubierto de plátano, relleno de queso crema, aguacate y salmón tempurizado. Acompañado de salsa anguila y fuji.",
+        "images": ["./fotos-menu/banana-roll7.jpg", "./fotos-menu/banana-roll10.jpg"]
+    },
+    {
+        "id": 128,
+        "nombre": "Eby roll tempura",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": " Roll relleno de queso crema, aguacate y langostinos tempurizados. Acompañado de salsa anguila y fuji.",
+        "images": ["./fotos-menu/eby-tempura.jpg", "./fotos-menu/eby-tempura2.jpg"]
+    },
+    {
+        "id": 129,
+        "nombre": "Avocado roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 10.99,
+        "descripcion": "Cubierto de aguacate, relleno de queso crema, aguacate y kani tempurizados. Acompañado de salsa anguila y fuji.",
+        "images": ["./fotos-menu/avocado-roll2.jpg", "./fotos-menu/avocado-roll7.jpg"]
+    },
+    {
+        "id": 130,
+        "nombre": "Alaska roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Arroz japonés, sésamo, relleno de queso crema, aguacate y salmón.",
+        "images": ["./fotos-menu/alaska-roll.jpg", "./fotos-menu/alaska-roll-2.jpg"]
+    },
+    {
+        "id": 131,
+        "nombre": "Azumi roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Relleno de queso crema, aguacate, salmón y kani. Acompañado de salsa fuji, anguila y soya. ",
+        "images": ["./fotos-menu/azumi-roll11.jpg"]
+    },
+    {
+        "id": 132,
+        "nombre": "Akame roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll relleno de salmón fresco, cangrejo, aguacate y queso crema. Con topping shuka ika, calamar, wakame y aguacate.",
+        "images": ["./fotos-menu/akame-roll.jpg", "./fotos-menu/akame-roll-3.jpg"]
+    },
+    {
+        "id": 133,
+        "nombre": "Nagasaki roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll relleno de aguacate, cebollina finas láminas de lomo salteado al wok en salsa teriyaki con hongos.",
+        "images": ["./fotos-menu/nagasaki-roll.jpg", "./fotos-menu/nagasaki-roll2.jpg"]
+    },
+    {
+        "id": 134,
+        "nombre": "Sensación roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll tempurizado, relleno de pescado blanco apanado, queso crema y aguacate. Topping de dados de salmón ahumado crunch y salsa especial de la casa.",
+        "images": ["./fotos-menu/sensacion-roll.jpg", "./fotos-menu/sensacion-roll4.jpg"]
+    },
+    {
+        "id": 135,
+        "nombre": "Dragón roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll tempurizado, relleno de salmón fresco, kani, camarón tempurizado, masago, aguacate y queso crema. Con topping de wakani.",
+        "images": ["./fotos-menu/dragon-roll3.jpg", "./fotos-menu/dragon-roll4.jpg"]
+    },
+    {
+        "id": 136,
+        "nombre": "Todays roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 14.99,
+        "descripcion": "Roll relleno de cangrejo, camarón tempurizados y queso crema, cubierto de finas láminas de aguacate. Acompañado de tres topping, wakani en salsa fuji, atún en aceite trufa y picante en salsa hot picante.",
+        "images": ["./fotos-menu/todays-roll.jpg"]
+    },
+    {
+        "id": 137,
+        "nombre": "Chicken crunch",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Roll tempurizado, relleno de aguacate, queso crema y pollo crocante. Topping de dados de pollo crocantes bañados en salsa anguila",
+        "images": ["./fotos-menu/eby-roll-tempura-especial.jpg", "./fotos-menu/eby-roll-tempura-especial2.jpg"]
+    },
+    {
+        "id": 138,
+        "nombre": "Tigger roll especial",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll relleno de queso crema, aguacate, salmón tempurizado,kani, anguila. topping de salsa dinamita.",
+        "images": ["./fotos-menu/tigger-roll-especial.jpg", "./fotos-menu/tigger-roll-especial-2.jpg"]
+    },
+    {
+        "id": 139,
+        "nombre": "Ceviche roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 13.99,
+        "descripcion": "Relleno de delicioso ceviche marinado con leche de tigre, limón, cebolla morada, cilantro y salsa de ají con un toque de aceite de sésamo.",
+        "images": ["./fotos-menu/ceviche-roll2.jpg", "./fotos-menu/ceviche-roll3.jpg"]
+    },
+    {
+        "id": 140,
+        "nombre": "Eby roll especial",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 13.99,
+        "descripcion": "Relleno con queso crema, aguacate y langostinoa tempurizados, con topping de langostinos apanados.",
+        "images": ["./fotos-menu/eby-roll-especial.jpg"]
+    },
+    {
+        "id": 141,
+        "nombre": "Spicy roll especial",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 13.99,
+        "descripcion": "Roll relleno de queso crema y deliciosa mezcla de atún, salmón, pescado blanco. Acompañado de salsa spicy coronado de dados de atún, salmón, pescado blanco y cebollina",
+        "images": ["./fotos-menu/spaicy.jpg", "./fotos-menu/spaicy3.jpg"]
+    },
+    {
+        "id": 142,
+        "nombre": "Kiuri roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 13.99,
+        "descripcion": "Roll envuelto en pepino, relleno de salmón, atún, kani y aguacate. Aderezado con salsa de la casa.",
+        "images": ["./fotos-menu/kiuri-roll.jpg", "./fotos-menu/kiuri-roll-2.jpg"]
+    },
+    {
+        "id": 144,
+        "nombre": "Keto roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 15.99,
+        "descripcion": "Roll relleno de salmón, atún, kani, pescado blanco, aguacate y wakame con un toque de aceite de trufas y almendras rebanadas.",
+        "images": ["./fotos-menu/keto-roll.jpg", "./fotos-menu/keto-roll2.jpg"]
+    },
+    {
+        "id": 145,
+        "nombre": "Tokyo roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll apanado relleno de queso crema, aguacate, cebollina, cangrejo y pescado blanc. con topping de salsa dinamita.",
+        "images": ["./fotos-menu/tokyo-roll.jpg", "./fotos-menu/tokyo-roll2.jpg"]
+    },
+    {
+        "id": 146,
+        "nombre": "Dinamita crunch",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll tempurizado relleno de cangrejo, aguacate y queso crema con topping de salsa dinamita.",
+        "images": ["./fotos-menu/dinamita-crunch.jpg", "./fotos-menu/dinamita-crunch2.jpg", "./fotos-menu/dinamita-crunch3.jpg"]
+    },
+    {
+        "id": 147,
+        "nombre": "Prestigio roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Roll relleno de queso crema, cebollina, pescado blanco y cangrejo apanado. Cubierto de plátano y queso gouda flambeado bañado en salsa funji.",
+        "images": ["./fotos-menu/prestigio-roll.jpg", "./fotos-menu/prestigio-roll2.jpg"]
+    },
+    {
+        "id": 148,
+        "nombre": "Azumi roll especial",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll relleno de queso crema, aguacate, salmón y atún tempurizados con topping de wakame y kani, bañados en salsa anguila.",
+        "images": ["./fotos-menu/azumi-roll.jpg", "./fotos-menu/azumi-roll-2.jpg"]
+    },
+    {
+        "id": 149,
+        "nombre": "Tuna hot",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Roll relleno de atún, queso crema y aguacate con topping de aguacate. Acompañado de algas, wakame y salsa dragón.",
+        "images": ["./fotos-menu/tuna-hot3.jpg", "./fotos-menu/tuna-hot.jpg"]
+    },
+    {
+        "id": 151,
+        "nombre": "Yeyo roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 13.99,
+        "descripcion": "Roll relleno de queso crema, salmón y atún fresco, con topping de pescado blanco y cebolla morada.",
+        "images": ["./fotos-menu/yeyo-roll2.jpg", "./fotos-menu/yeyo-roll3.jpg"]
+    },
+    {
+        "id": 152,
+        "nombre": "Asian roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll tempurizado, relleno de queso crema, aguacate, plátano, cangrejo y camaron tempurizado. Con topping de wakame y salsa fuji.",
+        "images": ["./fotos-menu/asian-roll.jpg", "./fotos-menu/asian-roll2.jpg"]
+    },
+    {
+        "id": 155,
+        "nombre": "Alaska roll especial",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 15.99,
+        "descripcion": "Roll relleno de queso crema, aguacate y salmón con topping de finas láminas de salmón, aguacate, wakame y masago con salsa de la casa.",
+        "images": ["./fotos-menu/alaska-roll-especial.jpg", "./fotos-menu/alaska-roll-especial2.jpg"]
+    },
+    {
+        "id": 157,
+        "nombre": "Poke tradicional",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.99,
+        "descripcion": " Base de arroz japonés, proteína de dados de salmón apañados y langostinos apanados, aguacate,wakame, kani y sésamo.",
+        "images": ["./fotos-menu/poque-tradicional.jpg", "./fotos-menu/poque-tradicional2.jpg"]
+    },
+    {
+        "id": 158,
+        "nombre": "Poke especial",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "Base de arroz japonés, proteína dados de salmón marinado en salsa asiática, encuertido de cebolla morada, edamames, fruta de la temporada, wakame, pepino, aguacate y sésamo acompañado de salsa spicy.",
+        "images": ["./fotos-menu/poque-especial.jpg", "./fotos-menu/poque-especial2.jpg"]
+    },
+    {
+        "id": 159,
+        "nombre": "Poke azumi",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "Base de arroz japonés, proteínas salmón y atún, fruta de la temporad, aguacate, wakame y sésamo.",
+        "images": ["./fotos-menu/poque-azumi.jpg", "./fotos-menu/poque-azumi2.jpg"]
+    },
+    {
+        "id": 162,
+        "nombre": "Sashimi de atún",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 13.99,
+        "descripcion": "7 Delicados cortes de atún, acompañado de soya.",
+        "images": ["./fotos-menu/sashimi-atun.jpg", "./fotos-menu/sashimi-atun2.jpg"]
+    },
+    {
+        "id": 163,
+        "nombre": "Sashimi de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "7 Delicados cortes de salmón, acompañado de soya.",
+        "images": ["./fotos-menu/sashimi-salmon.jpg", "./fotos-menu/sashimi-salmon2.jpg"]
+    },
+    {
+        "id": 164,
+        "nombre": "Sashimi mixto",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "3 Delicados cortes de salmón, 2 cortes de atún, 2 cortes de pescado blanco, acompañados de soya.",
+        "images": ["./fotos-menu/sashimi-mixto.jpg", "./fotos-menu/sashimi-mixto2.jpg"]
+    },
+    {
+        "id": 165,
+        "nombre": "Temaki de cangrejo",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 7.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/temaki-cangrejo.jpg", "./fotos-menu/temaki-cangrejo2.jpg"]
+    },
+    {
+        "id": 166,
+        "nombre": "Temaki de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 9.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/temaki-de-salmon.jpg"]
+    },
+    {
+        "id": 167,
+        "nombre": "Temaki de atún",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 8.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/temaki-de-atun.jpg"]
+    },
+    {
+        "id": 168,
+        "nombre": "Temaki mixto",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/temaki-mixto.jpg"]
+    },
+    {
+        "id": 169,
+        "nombre": "Nigiri de pescado blanco",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 2.50,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/nigiri-de-pescado-blanco.jpg", "./fotos-menu/nigiri-de-pescado-blanco3.jpg"]
+    },
+    {
+        "id": 170,
+        "nombre": "Nigiri de salmón",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 3.50,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/nigiri-de-salmon.jpg", "./fotos-menu/nigiri-de-salmon2.jpg"]
+    },
+    {
+        "id": 171,
+        "nombre": "Nigiri de atún",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 2.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/nigiri-de-atun.jpg", "./fotos-menu/nigiri-de-atun4.jpg"]
+    },
+    {
+        "id": 172,
+        "nombre": "Nigiri de kani",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 1.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/nigiri-kani.jpg", "./fotos-menu/nigiri-kani-1.jpg"]
+    },
+    {
+        "id": 173,
+        "nombre": "Nigiri mixto",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 19.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/nigiri-mixto.jpg"]
+    },
+    {
+        "id": 174,
+        "nombre": "Nigiri de anguila",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 3.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/nigiri-de-anguila.jpg", "./fotos-menu/nigiri-de-anguila2.jpg"]
+    },
+    {
+        "id": 176,
+        "nombre": "Hosomaki de pepino",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 3.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/osomaki-pepino.jpg", "./fotos-menu/osomaki-pepino2.jpg"]
+    },
+    {
+        "id": 178,
+        "nombre": "Hosomaki de pescado blanco",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 4.99,
+        "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
+        "images": ["./fotos-menu/osomaki-pescado-blanco.jpg", "./fotos-menu/osomaki-pescado-blanco2.jpg"]
+    },
+    {
+        "id": 180,
+        "nombre": "Teppan mixto",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.50,
+        "descripcion": "Pollo, carne y camarón en salsa teriyaki, acompañados de tu elección entre yakimeshi, yakisoba o yasai. Un plato equilibrado que combina sabores intensos y texturas variadas, perfecto para disfrutar lo mejor de la cocina teppanyaki.",
+        "images": ["./fotos-menu/Teppan-Mixto-yakisoba.jpg", "./fotos-menu/teppan-mixto-yamikeshi.jpg", "./fotos-menu/teppan-mixto-yasai.jpg"]
+    },
+    {
+        "id": 181,
+        "nombre": "Teppan especial",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "Salmón, calamar y camarón en salsa teriyaki, acompañados de tu elección entre yakimeshi, yakisoba o yasai. Un plato sofisticado que fusiona los sabores del mar con la intensidad de la cocina teppanyaki.",
+        "images": ["./fotos-menu/Teppan-de-Salmón-Especial-yasai.jpg", "./fotos-menu/Teppan-de-Salmón-Especial-yakisoba-(2).jpg", "./fotos-menu/Teppan-de-Salmón-Especial2.jpg"]
+    },
+    {
+        "id": 182,
+        "nombre": "Arroz frito con puerco y camarones",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.75,
+        "descripcion": "Buco Arroz de 650 gramos salteado con jugosos camarones y tiernos trozos de puerco asado, sazonado con cebollín fresco y un toque de salsa de soja.",
+        "images": ["./fotos-menu/Arroz-frito-con-puerco-y-camarones.3.jpg", "./fotos-menu/Arroz-frito-con-puerco-y-camarones.jpg"]
+    },
+    {
+        "id": 184,
+        "nombre": "Camarones al ajillo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 23.99,
+        "descripcion": "Frescos camarones salteados en mantequilla, ajo y perejil, ofreciendo un sabor exquisito y un toque mediterráneo.",
+        "images": ["./fotos-menu/camarones-al-ajillo.jpg", "./fotos-menu/camarones-al-ajillo2.jpg"]    
+    },
+    {
+        "id": 185,
+        "nombre": "Camarones en salsa blanca",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 23.99,
+        "descripcion": "Camarones frescos cocinados en una cremosa salsa blanca, realzada con especias para un sabor suave y delicioso.",
+        "images": ["./fotos-menu/camarones-en-salsa-blanca3.jpg", "./fotos-menu/camarones-en-salsa-blanca2.jpg"]    
+    },
+    {
+        "id": 186,
+        "nombre": "Camarones en rebosados",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 23.99,
+        "descripcion": "Camarones frescos rebozados y fritos hasta obtener un dorado crujiente, perfectos para acompañar con tu salsa favorita.",
+        "images": ["./fotos-menu/camarones-rebosados.jpg", "./fotos-menu/camarones-rebosados2.jpg"]    
+    },
+    {
+        "id": 187,
+        "nombre": "Camarones con hoja mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 29.99,
+        "descripcion": "Camarones frescos salteados con hojas de mostaza y salsa de ostra, ofreciendo un sabor suave y delicioso, ideal para los amantes de la cocina oriental.",
+        "images": ["./fotos-menu/carne-con-hoja-mostaza.jpg"]    
+    },
+    {
+        "id": 188,
+        "nombre": "Carne con jojoticos y champiñones",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Tiernos trozos de carne salteados con jojoticos frescos, champiñones, tiras de cebolla y pimentón, todo en una deliciosa salsa de ostra que realza los sabores en cada bocado.",
+        "images": ["./fotos-menu/carne-con-jojotico-y-champinon.jpg"]    
+    },
+    {
+        "id": 189,
+        "nombre": "Puerco a la miel",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco tempurizados y fritos hasta obtener un exterior crujiente, servidos con una deliciosa salsa de miel que realza el sabor en cada bocado.",
+        "images": ["./fotos-menu/cerdo-a-la-miel.jpg", "./fotos-menu/cerdo-a-la-miel2.jpg"]    
+    },
+    {
+        "id": 190,
+        "nombre": "Puerco agridulce",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco tempurizados en salsa agridulce de piña, que combinan sabores dulces y ácidos en cada bocado.",
+        "images": ["./fotos-menu/cerdo-agridulce2.jpg", "./fotos-menu/cerdo-agridulce3.jpg"]    
+    },
+    {
+        "id": 191,
+        "nombre": "Puerco con champiñon",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 17.99,
+        "descripcion": "Trozos de puerco salteados con tiras de cebolla, pimentón y champiñones al wok, todo en una deliciosa salsa de ostra que realza cada bocado.",
+        "images": ["./fotos-menu/cerdo-con-champinon.jpg", "./fotos-menu/cerdo-con-champinon3.jpg"]    
+    },
+    {
+        "id": 192,
+        "nombre": "Puerco con hoja de mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco salteados en una salsa de ostra y soya ligera, servidos sobre una cama de hoja de mostaza, creando un equilibrio perfecto de sabores.",
+        "images": ["./fotos-menu/cerdo-con-hoja-de-mostaza.jpg", "./fotos-menu/cerdo-con-hoja-de-mostaza2.jpg"]
+    },
+    {
+        "id": 193,
+        "nombre": "Puerco con jojoticos y champiñon",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco salteados con jojoticos frescos y champiñones, todo en una sabrosa salsa de ostra que potencia los sabores de cada ingrediente.",
+        "images": ["./fotos-menu/cerdo-con-jojoticos-y-champinon.jpg", "./fotos-menu/cerdo-con-jojoticos-y-champinon4.jpg"]
+    },
+    {
+        "id": 194,
+        "nombre": "Puerco en salsa ostión",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de puerco tiernos, salteados con cebolla y pimentón, bañados en una rica salsa de ostión que resalta su jugosidad y aporta un sabor umami en cada bocado.",
+        "images": ["./fotos-menu/cerdo-en-salsa-ostion2.jpg", "./fotos-menu/cerdo-en-salsa-ostion3.jpg"]
+    },
+    {
+        "id": 195,
+        "nombre": "Chuleta de puerco sal y pimienta",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Tiras de chuleta de puerco tempurizadas y salteadas con cebolla, pimentón y un toque de pimienta blanca, creando una combinación deliciosa y crujiente en cada bocado.",
+        "images": ["./fotos-menu/chuleta-sal-y-pimienta.jpg"]
+    },
+    {
+        "id": 196,
+        "nombre": "Eby spicy",
+        "categoria": "Japones",
+        "subcategoria": "Entradas",
+        "precio": 19.99,
+        "descripcion": "Camarones apanados, bañados con nuestra salsa dragón picante y un toque de miel, que aportan una combinación irresistible de sabores dulces y picantes en cada bocado.",
+        "images": ["./fotos-menu/eby-spaicy.jpg","./fotos-menu/eby-spaicy2.jpg"]
+    },
+    {
+        "id": 197,
+        "nombre": "Filete de res al Vino Porto",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 29.95,
+        "descripcion": "Suave filete de res a la parrilla, bañado en una rica salsa de vino Porto, acompañado de puré de papa de la casa, que complementa perfectamente cada bocado.",
+        "images": ["./fotos-menu/filete-de-res-en-salsa-de-vino-porto.jpg"]
+    },
+    {
+        "id": 198,
+        "nombre": "Hoja de mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 13.99,
+        "descripcion": "Hojas de mostaza salteadas con ajo y un toque de salsa de ostión, creando un acompañamiento lleno de sabor que complementa cualquier plato.",
+        "images": ["./fotos-menu/hoja-de-mostaza.jpg", "./fotos-menu/hoja-de-mostaza-3.jpg"]
+    },
+    {
+        "id": 199,
+        "nombre": "Hosomaki de atún",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 4.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/hosomaki-de-atun.jpg"]
+    },
+    {
+        "id": 200,
+        "nombre": "Hosomaki de kani",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 4.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/hosomaki-cangrejo.jpg", "./fotos-menu/hosomaki-cangrejo2.jpg"]
+    },
+    {
+        "id": 201,
+        "nombre": "Hosomaki de salmón",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 4.99,
+        "descripcion": "",
+        "images": ["./fotos-menu/hosomaki-de-salmon.jpg"]
+    },
+    {
+        "id": 203,
+        "nombre": "Kyoto roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Roll relleno de queso crema, aguacate y atún fresco. Cubierto de mango, coronado con ensalada wakani y dados de mango bañados en salsa anguila.",
+        "images": ["./fotos-menu/kyoto-roll.jpg"]
+    },
+    {
+        "id": 204,
+        "nombre": "Mac n' cheese",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 9.90,
+        "descripcion": "Clásicos macarrones en una cremosa salsa de quesos, coronados con un crujiente toque de beicon dorado. Un plato reconfortante con el equilibrio perfecto entre lo cremoso y lo crocante.",
+        "images": ["./fotos-menu/mac-and-cheese.jpg", "./fotos-menu/mac-and-cheese-3.jpg"]
+    },
+    {
+        "id": 205,
+        "nombre": "Pasta a la marinera",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 24.95,
+        "descripcion": "Pasta al dente en una sabrosa salsa roja, acompañada de una mezcla de marisco, calamares, camarón, pulpo y mejillón, salteados a la perfección para resaltar su frescura.",
+        "images": ["./fotos-menu/pasta-de-mariscos.jpg", "./fotos-menu/pasta-de-mariscos-2.jpg"]
+    },
+    {
+        "id": 206,
+        "nombre": "Pad thai de carne",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.90,
+        "descripcion": "Clásico plato tailandés preparado con fideos de arroz salteados al wok, tiras de carne jugosa, huevo, brotes de soya y maní triturado. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.",
+        "images": ["./fotos-menu/pad-thai-carne2.jpg", "./fotos-menu/pad-thai-carne3.jpg"]
+    },
+    {
+        "id": 207,
+        "nombre": "Pad thai de vegetales",
+        "categoria": "Thailandes",
+        "subcategoria": "Platos fuertes",
+        "precio": 13.99,
+        "descripcion": "Clásico plato tailandés preparado con fideos de arroz salteados al wok, tofu crujiente, una mezcla de vegetales frescos, huevo, brotes de soya y maní triturado. Sazonado con una mezcla de salsa de tamarindo, salsa de pescado, azúcar de palma y chiles secos. Servido con lima y cilantro fresco.",
+        "images": ["./fotos-menu/pad-thai-vegetales.jpg"]
+    },
+    {
+        "id": 208,
+        "nombre": "Pollo agridulce",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo tempurizados en salsa agridulce de piña, que combinan sabores dulces y ácidos en cada bocado.",
+        "images": ["./fotos-menu/pollo-agridulce.jpg"]
+    },
+    {
+        "id": 209,
+        "nombre": "Pollo con hoja de mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo salteados con hoja de mostaza en una delicada salsa de ostra y soya ligera, que resaltan el sabor fresco y ligeramente amargo de la mostaza en cada bocado.",
+        "images": ["./fotos-menu/pollo-con-hoja-de-mostaza.jpg"]
+    },
+    {
+        "id": 210,
+        "nombre": "Pollo con jojoticos y champiñón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo salteados con tiernos jojoticos y champiñones, en una sabrosa salsa de ostra, realzando los sabores frescos y umami en cada bocado.",
+        "images": ["./fotos-menu/pollo-con-jojoticos-y-champinon.jpg"]
+    },
+    {
+        "id": 211,
+        "nombre": "Pollo en salsa de ostión",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo tiernos salteados en una rica salsa de ostión, acompañados de cebolla y pimentón, creando una combinación deliciosa y llena de sabor.",
+        "images": ["./fotos-menu/pollo-en-salsa-de-ostion4.jpg", "./fotos-menu/pollo-en-salsa-de-ostion5.jpg"]
+    },
+    {
+        "id": 212,
+        "nombre": "Pollo a la miel",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Trozos de pollo tempurizados y glaseados en una dulce salsa de miel, espolvoreados con semillas de sésamo blanca, que aportan una textura crujiente y un sabor exquisito en cada bocado.",
+        "images": ["./fotos-menu/pollo-miel.jpg", "./fotos-menu/pollo-miel2.jpg"]
+    },
+    {
+        "id": 213,
+        "nombre": "Ración de costilla",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 22.44,
+        "descripcion": "Deliciosa ración de costillas asadas, con 5 unidades jugosas y tiernas, marinadas con especias asiáticas que realzan su sabor ahumado y caramelizado en cada bocado.",
+        "images": ["./fotos-menu/racion-de-costilla.jpg", "./fotos-menu/racion-de-costilla2.jpg"]
+    },
+    {
+        "id": 214,
+        "nombre": "Salmón con risitto de lenteja",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 28.95,
+        "descripcion": "Filete de salmón a la parrilla, servido sobre un cremoso risotto de lentejas, que combina texturas y sabores, creando un plato nutritivo y reconfortante.",
+        "images": ["./fotos-menu/salmon-con-risotto-de-lenteja.jpg","./fotos-menu/salmon-con-risotto-de-lenteja3.jpg"]
+    },
+    {
+        "id": 215,
+        "nombre": "Salmón en salsa de maracuya",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 28.95,
+        "descripcion": "Delicioso filete de salmón, bañado en una vibrante salsa de maracuyá, acompañado de una colorida mezcla de vegetales frescos salteados, que realzan el sabor exótico y refrescante del plato.",
+        "images": ["./fotos-menu/salmon-en-salsa-de-maracuya.jpg", "./fotos-menu/salmon-en-salsa-de-maracuya2.jpg"]
+    },
+    {
+        "id": 217,
+        "nombre": "Sopa de carne",
+        "categoria": "Chino",
+        "subcategoria": "Sopas",
+        "precio": 11.21,
+        "descripcion": "Reconfortante sopa de carne china, cocida a fuego lento con trozos tiernos de carne, fideos, vegetales frescas y especias aromáticas, que ofrecen un sabor profundo y auténtico en cada cucharada.",
+        "images": ["./fotos-menu/sopa-de-carne.jpg", "./fotos-menu/sopa-de-carne3.jpg"]
+    },
+    {
+        "id": 219,
+        "nombre": "Tallarines al oleo con mariscos",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 24.95,
+        "descripcion": "Plato peruano de tallarines al óleo, salteados con una mezcla fresca de mariscos, pimentón amarillo y cebolla, creando una deliciosa combinación de sabores marinos en cada bocado.",
+        "images": ["./fotos-menu/tallarines-al-oleo-con-mariscos2.jpg", "./fotos-menu/tallarines-al-oleo-con-mariscos4.jpg"]
+    },
+    {
+        "id": 220,
+        "nombre": "Vegetales buda",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.58,
+        "descripcion": "Colorida mezcla de vegetales frescos al estilo buda chino, salteados a la perfección y acompañados de salsa de soya, ofreciendo un plato lleno de sabor y nutrición",
+        "images": ["./fotos-menu/vegetales-buda.jpg", "./fotos-menu/vegetales-buda2.jpg"]
+    },
+    {
+        "id": 221,
+        "nombre": "Eby roll tradicional",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 19.99,
+        "descripcion": "Relleno de camarones apanados, queso crema y aguacate fresco, este rollo combina una textura crujiente y suave en cada bocado. La superficie crunch aporta un toque adicional de sabor y textura, haciendo de esta una opción deliciosa y satisfactoria",
+        "images": ["./fotos-menu/eby-roll-tradicional.jpg"]
+    },
+    {
+        "id": 222,
+        "nombre": "Arroz frito especial con camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.87,
+        "descripcion": "Buco arroz salteado de 650 gramos al wok con una combinación de pollo, puerco, jamón y camarones, todo sazonado con cebollín fresco y un toque de salsa de soja.",
+        "images": ["./fotos-menu/arroz-frito-de-combinacion.jpg", "./fotos-menu/arroz-frito-de-combinacion3.jpg"]
+    },
+    {
+        "id": 223,
+        "nombre": "Arroz frito de cerdo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Buco arroz frito de 650 gramos, acompañado de jugosos trozos de Puerco y sazonado con cebollín fresco",
+        "images": ["./fotos-menu/arroz-frito-con-cerdo.jpg"]
+    },
+    {
+        "id": 222,
+        "nombre": "Arroz frito de pollo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Buco arroz frito de 650 gramos, acompañado de tiernos trozos de pollo y sazonado con cebollín fresco.",
+        "images": ["./fotos-menu/arroz-frito-de-pollo.jpg", "./fotos-menu/arroz-frito-de-pollo2.jpg"]
+    },
+    {
+        "id": 224,
+        "nombre": "Arroz frito de camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 17.50,
+        "descripcion": "Buco arroz frito de 650 gramos, acompañado de jugosos camarones y sazonado con cebollín fresco.",
+        "images": ["./fotos-menu/arroz-frito-de-camaron.jpg", "./fotos-menu/arroz-frito-de-camaron2.jpg"]
+    },
+    {
+        "id": 225,
+        "nombre": "Carne mongolia",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 21.47,
+        "descripcion": "Exquisita Carne Mongolia, con trozos de carne marinada y apanada o tempurizada, salteados en una salsa dulce y picante, acompañada de cebollas y pimientos frescos.",
+        "images": ["./fotos-menu/carne-mongolia.jpg", "./fotos-menu/carne-mongolia-6.jpg"]
+    },
+    {
+        "id": 226,
+        "nombre": "Chop sueys de camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 17.99,
+        "descripcion": "Un clásico asiático, salteado con vegetales frescas y fideos, en una suave salsa de soya y salsa de ostión que realza su sabor.",
+        "images": ["./fotos-menu/chop-sueys-camaron.jpg", "./fotos-menu/chop-sueys-camaron2.jpg"]
+    },
+    {
+        "id": 227,
+        "nombre": "Chop sueys de carne",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Un clásico asiático, salteado con vegetales frescas y fideos, en una suave salsa de soya y salsa de ostión que realza su sabor.",
+        "images": ["./fotos-menu/chop-sueys-carne.jpg", "./fotos-menu/chop-sueys-carne2.jpg"]
+    },
+    {
+        "id": 228,
+        "nombre": "Chop sueys de cerdo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Un clásico asiático, salteado con vegetales frescas y fideos, en una suave salsa de soya y salsa de ostión que realza su sabor.",
+        "images": ["./fotos-menu/chop-sueys-cerdo.jpg", "./fotos-menu/chop-sueys-cerdo2.jpg"]
+    },
+    {
+        "id": 229,
+        "nombre": "Chop sueys especial con camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.83,
+        "descripcion": "Una deliciosa mezcla de pollo, puerco, jamón y camarón, salteada con vegetales frescas en una suave salsa de soya y salsa de ostión que realza su sabor y frescura.",
+        "images": ["./fotos-menu/chop-sueys-combinacion-con-camaron.jpg", "./fotos-menu/chop-sueys-combinacion-con-camaron2.jpg"]
+    },
+    {
+        "id": 230,
+        "nombre": "Chop sueys especial sin camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Una deliciosa mezcla de pollo, puerco y jamón, salteada con vegetales frescas en una suave salsa de soya y salsa de ostión que resalta su sabor y frescura.",
+        "images": ["./fotos-menu/chop-sueys-combinacion-sin-camaron.jpg", "./fotos-menu/chop-sueys-combinacion-sin-camaron2.jpg"]
+    },
+    {
+        "id": 231,
+        "nombre": "Chop sueys de pollo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Una sabrosa mezcla de pollo salteado con vegetales frescas, acompañado de jamón y en una suave salsa de soya y salsa de ostión que realza su sabor y frescura.",
+        "images": ["./fotos-menu/chop-sueys-pollo.jpg", "./fotos-menu/chop-sueys-pollo2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "Chop sueys de vegetales",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.58,
+        "descripcion": "Una colorida mezcla de vegetales frescas salteadas en una suave salsa de soya y salsa de ostión, ofreciendo un plato lleno de sabor y frescura.",
+        "images": ["./fotos-menu/chop-sueys-vegetales.jpg", "./fotos-menu/chop-sueys-vegetales-2.jpg"]
+    },
+    {
+        "id": 233,
+        "nombre": "Chow mein de camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.07,
+        "descripcion": "Fideos salteados al wok con jugosos camarones, vegetales frescos y una mezcla de salsas que aportan un delicioso sabor asiático en cada bocado.",
+        "images": ["./fotos-menu/Chow-mein-camaron.jpg", "./fotos-menu/Chow-mein-camaron2.jpg"]
+    },
+    {
+        "id": 234,
+        "nombre": "Chow mein de carne",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con tiernas tiras de carne, vegetales frescos y un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y textura en cada bocado.",
+        "images": ["./fotos-menu/Chow-mein-carne.jpg", "./fotos-menu/Chow-mein-carne2.jpg"]
+    },
+    {
+        "id": 235,
+        "nombre": "Chow mein de cerdo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con tiernas tiras de cerdo, vegetales frescos y un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y textura en cada bocado",
+        "images": ["./fotos-menu/Chow-mein-cerdo.jpg", "./fotos-menu/Chow-mein-cerdo2.jpg"]
+    },
+    {
+        "id": 236,
+        "nombre": "Chow mein especial",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.83,
+        "descripcion": "Una suculenta mezcla de pollo, puerco, jamón y camarón, salteados con fideos y vegetales frescos, todo aderezado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad en cada bocado",
+        "images": ["./fotos-menu/Chow-mein-combinacion.jpg", "./fotos-menu/Chow-mein-combinacion2.jpg"]
+    },
+    {
+        "id": 237,
+        "nombre": "Chow mein de pollo",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con tiernas tiras de pollo, vegetales frescos y un toque de salsa de soya y salsa de ostión, ofreciendo un plato lleno de sabor y textura en cada bocado.",
+        "images": ["./fotos-menu/Chow-mein-pollo.jpg", "./fotos-menu/Chow-mein-pollo2.jpg"]
+    },
+    {
+        "id": 238,
+        "nombre": "Chow mein de vegetales",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.58,
+        "descripcion": "Fideos salteados al wok con una colorida mezcla de vegetales frescos, aderezados con un toque de salsa de soya y salsa de ostión, creando un plato lleno de frescura y sabor.",
+        "images": ["./fotos-menu/Chow-mein-vegetales.jpg", "./fotos-menu/Chow-mein-vegetales2.jpg"]
+    },
+    {
+        "id": 253,
+        "nombre": "Chow mein con carne mixta",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Una deliciosa combinación de pollo, carne y puerco, salteados con fideos y vegetales frescos, todo realzado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad.",
+        "images": ["./fotos-menu/Chow-mein-mixto.jpg"]
+    },
+    {
+        "id": 253,
+        "nombre": "Chow mein especial sin camarón",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Una suculenta mezcla de pollo, puerco, jamón salteados con fideos y vegetales frescos, todo aderezado con un toque de salsa de soya y salsa de ostión, creando un plato lleno de sabor y variedad en cada bocado",
+        "images": ["./fotos-menu/chow-mein-especial-sin-camaron.jpg"]
+    },
+    {
+        "id": 253,
+        "nombre": "Fideo singapur",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.83,
+        "descripcion": "Una deliciosa mezcla de pollo, puerco y camarón, salteados con fideos de arroz en una sabrosa salsa de curry y salsa de ostión, ofreciendo un plato lleno de sabores vibrantes y exóticos.",
+        "images": ["./fotos-menu/fideos-singapur.jpg", "./fotos-menu/fideos-singapur4.jpg"]
+    },
+    {
+        "id": 239,
+        "nombre": "Chorizo a la parrilla",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "4 unidades de Chorizo parrillero al carbón, con un sabor ahumado y jugoso, ideal para disfrutar a la parrilla y acompañar con tus salsas favoritas.",
+        "images": ["./fotos-menu/chorizo.jpg"]
+    },
+    {
+        "id": 240,
+        "nombre": "Dinamita roll especial",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 15.99,
+        "descripcion": "Roll relleno de delicado kani, bañado en una mezcla de semillas de sésamo y masago que aportan una textura crujiente. Coronado con un topping de fresca ensalada asiática que equilibra cada bocado con sabores vibrantes y frescos",
+        "images": ["./fotos-menu/dinamita-roll-especial.jpg", "./fotos-menu/dinamita-roll-especial2.jpg"]
+    },
+    {
+        "id": 241,
+        "nombre": "Eby roll tempura especial",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 13.99,
+        "descripcion": "Roll relleno de queso crema, aguacate fresco y langostinos tempurizados para una combinación suave y crujiente. Acompañado de una deliciosa mezcla de salsa de anguila y salsa Fuji que le añaden un toque dulce y sabroso a cada bocado.",
+        "images": ["./fotos-menu/eby-tempura-especial.jpg"]
+    },
+    {
+        "id": 242,
+        "nombre": "Ensalada César",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 10.99,
+        "descripcion": "Ensalada clásica preparada con lechuga romana fresca, crutones y aderezo César cremoso. Una combinación perfecta de sabores y texturas que resulta en un plato fresco y satisfactorio.",
+        "images": ["./fotos-menu/ensalada-cesar.jpg", "./fotos-menu/ensalada-cesar-2.jpg"]
+    },
+    {
+        "id": 243,
+        "nombre": "Ensalada de filete thai",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 12.99,
+        "descripcion": "Fresca mezcla de lechugas con tomate cherry, cebolla roja, pepino y cilantro, acompañada de jugosa carne salteada con champiñones frescos y jojoticos.",
+        "images": ["./fotos-menu/ensalada-de-filete-thai.jpg", "./fotos-menu/ensalada-de-filete-thai2.jpg"]
+    },
+    {
+        "id": 244,
+        "nombre": "Ensalada kani",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 13.50,
+        "descripcion": "Fresca mezcla de lechugas con kani y aguacate, servida en una cesta de arroz crocante y decorada con semillas de sésamo, acompañada de un aderezo especial de la casa.",
+        "images": ["./fotos-menu/ensalada-kani.jpg", "./fotos-menu/ensalada-kani2.jpg"]
+    },
+    {
+        "id": 245,
+        "nombre": "Ensalada de queso cabra",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 13.75,
+        "descripcion": "Fresca mezcla de lechugas con queso de cabra, manzana verde y roja, nueces caramelizadas y cebolla roja caramelizada, acompañada de un aderezo especial de la casa.",
+        "images": ["./fotos-menu/ensalada-de-queso-cabra.jpg", "./fotos-menu/ensalada-de-queso-cabra2.jpg"]
+    },
+    {
+        "id": 246,
+        "nombre": "Carne en salsa de ostión",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Trozos de carne tierna salteados en una exquisita salsa de ostión con cebolla y pimentón, creando una combinación deliciosa y llena de sabor.",
+        "images": ["./fotos-menu/carne-en-salsa-de-ostion2.jpg", "./fotos-menu/carne-en-salsa-de-ostion3.jpg"]
+    },
+    {
+        "id": 247,
+        "nombre": "Carne con jengibre y cebollín",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Jugosos trozos de carne salteados a la perfección, infusionados con el aroma fresco del jengibre y la delicadeza de la cebollina, en una suave salsa de soya que realza su sabor.",
+        "images": ["./fotos-menu/carne-con-jengibre-y-cebollin.jpg", "./fotos-menu/carne-con-jengibre-y-cebollin2.jpg"]
+    },
+    {
+        "id": 248,
+        "nombre": "Carne con hoja de mostaza",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Trozos de carne salteados con hoja de mostaza en una delicada salsa de ostra y soya ligera, que resaltan el sabor fresco y ligeramente amargo de la mostaza en cada bocado.",
+        "images": ["./fotos-menu/carne-con-hoja-mostaza.jpg"]
+    },
+    {
+        "id": 249,
+        "nombre": "Carne con vegetales",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Trozos de carne tierna salteados en una rica salsa de ostión, acompañados de cebolla, zanahoria, pimentón, brócoli y champiñones, creando una combinación deliciosa y llena de sabor.",
+        "images": ["./fotos-menu/carne-vegetales.jpg"]
+    },
+    {
+        "id": 250,
+        "nombre": "Carne con sechuan",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Jugosos cortes de res salteados en salsa BBQ china, con un toque picante y ligeramente dulce, realzados con sabores auténticos de la cocina Sechuan.",
+        "images": ["./fotos-menu/carne-sechuan.jpg"]
+    },
+    {
+        "id": 252,
+        "nombre": "Brocoli y hongo shitake con salsa de ostión",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Vegetales",
+        "precio": 20.99,
+        "descripcion": "Trozos de brócoli y hongos shitake salteados, bañados en una rica salsa de ostión para un toque de sabor umami.",
+        "images": ["./fotos-menu/hongo-shitake.jpg"]
+    },
+    {
+        "id": 253,
+        "nombre": "Chow mein con carne en salsa de ostión",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.70,
+        "descripcion": "Fideos salteados al wok con una colorida mezcla de vegetales frescos, aderezados con un toque de salsa de soya y salsa de ostión, creando un plato lleno de frescura y sabor.",
+        "images": ["./fotos-menu/Chow-mein-vegetales.jpg", "./fotos-menu/Chow-mein-vegetales2.jpg"]
+    },
+    {
+        "id": 254,
+        "nombre": "Cerdo con jengibre y cebollina",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Jugosos cortes de cerdo salteados a la perfección, infusionados con el aroma fresco del jengibre y la delicadeza de la cebollina, en una suave salsa de soya que realza su sabor.",
+        "images": ["./fotos-menu/cerdo-con-gengibre-y-cebollina.jpg", "./fotos-menu/cerdo-con-gengibre-y-cebollina3.jpg"]
+    },
+    {
+        "id": 255,
+        "nombre": "Pollo con sechuan",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Deliciosos trozos de pollo salteados en una salsa de BBQ china, con un toque picante y dulce que resalta los auténticos sabores de la cocina Sechuan.",
+        "images": ["./fotos-menu/pollo-con-sechuan2.jpg", "./fotos-menu/pollo-con-sechuan3.jpg"]
+    },
+    {
+        "id": 256,
+        "nombre": "Cerdo con sechuan",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Sabrosas tiras de cerdo salteadas en una salsa BBQ china con un toque picante y especiado, combinando los sabores característicos de la cocina Sechuan.",
+        "images": ["./fotos-menu/cerdo-con-sechuan.jpg", "./fotos-menu/cerdo-con-sechuan2.jpg"]
+    },
+    {
+        "id": 257,
+        "nombre": "Pollo con jengibre y cebollina",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Jugosos trozos de pollo salteados a la perfección, infusionados con el aroma fresco del jengibre y la delicadeza de la cebollina, en una suave salsa de soya que realza su sabor.",
+        "images": ["./fotos-menu/pollo-jengibre-cebollin4.jpg", "./fotos-menu/pollo-jengibre-cebollin5.jpg"]
+    },
+    {
+        "id": 225,
+        "nombre": "Pollo mongolia",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 21.47,
+        "descripcion": "Exquisito Pollo Mongolia, con trozos de pollo marinados y apanados o tempurizados, salteados en una salsa dulce y picante, acompañados de cebollas y pimientos frescos.",
+        "images": ["./fotos-menu/pollo-mongolia.jpg", "./fotos-menu/pollo-mongolia2.jpg"]
+    },
+    {
+        "id": 226,
+        "nombre": "Sushi pizza individual",
+        "categoria": "Japones",
+        "subcategoria": "Platos fuertes",
+        "precio": 11.99,
+        "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
+        "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"]
+    },
+    {
+        "id": 227,
+        "nombre": "Sushi pizza para compartir",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 15.99,
+        "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
+        "images": ["./fotos-menu/sushipizza.jpg", "./fotos-menu/sushipizza2.jpg"]
+    },
+    {
+        "id": 228,
+        "nombre": "New york steak 12 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 35.95,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 231,
+        "nombre": "New york steak 16 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 38.95,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 232,
+        "nombre": "New york steak 20 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 44.95,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 233,
+        "nombre": "Super New York 2 Libras",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 70.99,
+        "descripcion": "Jugoso corte de carne a la parrilla, cocinado al punto perfecto en grill. Acompañado de tus salsas favoritas para resaltar su sabor, este plato es una experiencia para los amantes de la buena carne.",
+        "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
+    },
+    {
+        "id": 234,
+        "nombre": "Entraña 12 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 34.95,
+        "descripcion": "Corte tierno y sabroso, cocinado a la parrilla para realzar su jugosidad natural. Servida con tus salsas favoritas, esta entraña es perfecta para quienes disfrutan de un sabor intenso y auténtico.",
+        "images": ["./fotos-menu/entrana.jpg"]
+    },
+    {
+        "id": 235,
+        "nombre": "Entraña 16 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 37.95,
+        "descripcion": "Corte tierno y sabroso, cocinado a la parrilla para realzar su jugosidad natural. Servida con tus salsas favoritas, esta entraña es perfecta para quienes disfrutan de un sabor intenso y auténtico.",
+        "images": ["./fotos-menu/entrana.jpg"]
+    },
+    {
+        "id": 236,
+        "nombre": "Entraña 20 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 43.95,
+        "descripcion": "Corte tierno y sabroso, cocinado a la parrilla para realzar su jugosidad natural. Servida con tus salsas favoritas, esta entraña es perfecta para quienes disfrutan de un sabor intenso y auténtico.",
+        "images": ["./fotos-menu/entrana.jpg"]
+    },
+    {
+        "id": 237,
+        "nombre": "Picaña 12 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 34.95,
+        "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
+        "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
+    },
+    {
+        "id": 238,
+        "nombre": "Picaña 16 onzzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 37.955,
+        "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
+        "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
+    },
+    {
+        "id": 239,
+        "nombre": "Picaña 20 onzas",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 43.95,
+        "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
+        "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
+    },
+    {
+        "id":240,
+        "nombre": "Apple Crisp",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Deliciosas manzanas confitadas al horno, combinadas con nueces crujientes y un toque de canela, acompañadas de una suave bola de helado de vainilla. Un postre cálido y reconfortante que combina lo dulce y lo cremoso en cada bocado.",
+        "images": ["./fotos-menu/apple-crisp.jpg", "./fotos-menu/apple-crisp-1.jpg"]
+    },
+    {
+        "id":241,
+        "nombre": "Banana tempura",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Deliciosas rodajas de plátano rellenas de suave Nutella, rebozadas en una ligera masa tempura y fritas hasta quedar crujientes. Servido con una bola de helado de vainilla y un toque de sirope de chocolate, este postre es un verdadero deleite para los amantes del dulce.",
+        "images": ["./fotos-menu/banana-tempura-1.jpg", "./fotos-menu/banana-tempura-3.jpg"]
+    },
+    {
+        "id":242,
+        "nombre": "Brownie",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso brownie de chocolate, suave y húmedo, acompañado de una ligera crema chantilly y una bola de helado de vainilla. Decorado con fresas frescas, este postre es una explosión de sabor y textura en cada bocado.",
+        "images": ["./fotos-menu/browny.jpg", "./fotos-menu/browny-2.jpg"]
+    },
+    {
+        "id":243,
+        "nombre": "Fondant de chocolate",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Exquisito pastel de chocolate fundido, servido con un suave sirope de chocolate y un delicioso culis de dulce de leche. Acompañado de una bola de helado de vainilla y espolvoreado con azúcar impalpable sobre el fondant, este postre es un verdadero deleite para los amantes del chocolate.",
+        "images": ["./fotos-menu/fondant-de-chocolate.jpg", "./fotos-menu/fondant-de-chocolate-2.jpg"]
+    },
+    {
+        "id":244,
+        "nombre": "Helado frito",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso helado de vainilla relleno de chocolate Ferrero, apanado con crujientes cereales y frito hasta obtener una textura dorada y crujiente. Servido con culis de vainilla, este postre es una combinación irresistible de sabores y texturas.",
+        "images": ["./fotos-menu/helado-frito-1.jpg", "./fotos-menu/helado-frito-3.jpg"]
+    },
+    {
+        "id":245,
+        "nombre": "Cheesecake",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Suave y cremoso cheesecake de fresa, con una base crujiente de galleta y cubierto con un delicioso culis de fresas. Este postre es un equilibrio perfecto entre la dulzura y la frescura, ideal para los amantes de las fresas.",
+        "images": ["./fotos-menu/cheesecake.jpg", "./fotos-menu/cheesecake2.jpg"]
+    },
+    {
+        "id":246,
+        "nombre": "Choco roll",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso rollo de chocolate, relleno de suave praliné de almendra y cubierto con un topping de crujientes nueces y dulce de leche. Este postre es un deleite para los amantes del chocolate, combinando texturas y sabores irresistibles en cada bocado.",
+        "images": ["./fotos-menu/choco-roll.jpg", "./fotos-menu/choco-roll2.jpg"]
+    },
+    {
+        "id":247,
+        "nombre": "Pie de limón",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso pie de limón con una base crujiente de galleta, relleno de una suave y refrescante crema de limón. Decorado con un toque de merengue dorado, este postre es una combinación perfecta de dulzura y acidez, ideal para los amantes de los sabores cítricos.",
+        "images": ["./fotos-menu/pie-limon.jpg", "./fotos-menu/pie-limon-1.jpg"]
+    },
+    {
+        "id":248,
+        "nombre": "Pie de maracuyá",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Irresistible pie de maracuyá con una base crujiente de galleta, relleno de una suave y refrescante crema de maracuyá. Decorado con un toque de merengue dorado, este postre ofrece un equilibrio perfecto entre dulzura y acidez, ideal para los amantes de los sabores tropicales.",
+        "images": ["./fotos-menu/pie-maracuya.jpg"]
+    }
+]

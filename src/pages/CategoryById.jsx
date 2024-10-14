@@ -1,5 +1,5 @@
 import { useNavigate, useParams } from "react-router-dom";
-import menuJson from '../data/main.json';
+import menuJson from '../data/main2.json';
 import examplePhoto from '../assets/images/image-category.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
