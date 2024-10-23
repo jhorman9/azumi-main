@@ -550,11 +550,11 @@
     },
     {
         "id": 56,
-        "nombre": "Chupe de langostino",
+        "nombre": "Chupe de camarones",
         "categoria": "Peruano",
         "subcategoria": "Sopas",
         "precio": 10.90,
-        "descripcion": "Sopa cremosa de langostino con maíz, papas y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.",
+        "descripcion": "Sopa cremosa de camarones con maíz, papas y una variedad de vegetales. Un plato reconfortante y lleno de sabor, perfecto para los amantes de los mariscos.",
         "images": ["./fotos-menu/chupe-de-camaron.jpg", "./fotos-menu/chupe-de-camaron5.jpg"]
     },
     {
@@ -919,12 +919,21 @@
     },
     {
         "id": 107,
-        "nombre": "Parrilla mar y tierra",
+        "nombre": "Parrilla mar y tierra para dos",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
-        "precio": 24.99,
-        "descripcion": "Una exquisita combinación de cortes selectos de carne a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
-        "images": ["./fotos-menu/Parrilla-mar-y-tierra3.jpg", "./fotos-menu/Parrilla-mar-y-tierra4.jpg"]
+        "precio": 33.99,
+        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
+        "images": ["./fotos-menu/Parrilla-mar-y-tierra4.jpg"]
+    },
+    {
+        "id": 250,
+        "nombre": "Parrilla mar y tierra individual",
+        "categoria": "Peruano",
+        "subcategoria": "Platos fuertes",
+        "precio": 21.99,
+        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
+        "images": ["./fotos-menu/Parrilla-mar-y-tierra3.jpg"]
     },
     {
         "id": 109,

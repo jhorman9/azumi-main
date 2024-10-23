@@ -1,5 +1,5 @@
 import { useNavigate, useParams } from "react-router-dom";
-import menuJson from '../data/main2.json';
+import menuJson from '../data/main.json';
 import examplePhoto from '../assets/images/image-category.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
@@ -68,7 +68,7 @@ export const CategoryById = () => {
             <div className="card-body_container">
                 <div className="card-header"> 
                     <h2>{data.nombre}</h2>
-                    <span className="big-price"> ${data.precio.toFixed(2)}</span>
+                    <span className="big-price">${data.precio.toFixed(2)}</span>
                 </div>
                 <p className="card-description">{data.descripcion}</p>
             </div>
