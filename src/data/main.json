@@ -257,8 +257,8 @@
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 14.90,
-        "descripcion": "Ceviche preparado con pescado o mariscos marinados en jugo de limón y ají amarillo peruano, acompañado de cebolla roja, cilantro y maíz cancha. Un plato vibrante y lleno de sabores picantes y cítricos, típico de la gastronomía peruana.",
-        "images": ["./fotos-menu/Ceviche-Aji-amarillo2.jpg", "./fotos-menu/Ceviche-Aji-amarillo5.jpg"]
+        "descripcion": "Fresco pescado blanco marinado en jugo de limón, acompañado de una suave crema de ají amarillo y ají dulce. Terminado con un toque de cilantro fresco para realzar sus vibrantes sabores.",
+        "images": ["./fotos-menu/ceviche-aji-amarillo.jpg", "./fotos-menu/ceviche-aji-amarillo2.jpg"]
     },
     {
         "id": 30,
