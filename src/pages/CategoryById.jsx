@@ -63,12 +63,15 @@ export const CategoryById = () => {
                             <img src={examplePhoto} alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
+                    <div className="discount-azumi">
+                        <span style={{background: 'red'}} width='100'> 2x1</span>
+                    </div>
                 </Swiper>
             </div>
             <div className="card-body_container">
                 <div className="card-header"> 
                     <h2>{data.nombre}</h2>
-                    <span className="big-price">${data.precio.toFixed(2)}</span>
+                    <span className="big-price">${(data.precio * 1.6).toFixed(2)}</span>
                 </div>
                 <p className="card-description">{data.descripcion}</p>
             </div>

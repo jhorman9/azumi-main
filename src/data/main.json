@@ -1827,7 +1827,7 @@
         "images": ["./fotos-menu/arroz-frito-con-cerdo.jpg"]
     },
     {
-        "id": 222,
+        "id": 252,
         "nombre": "Arroz frito de pollo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -2356,5 +2356,14 @@
         "precio": 7.99,
         "descripcion": "Irresistible pie de maracuyá con una base crujiente de galleta, relleno de una suave y refrescante crema de maracuyá. Decorado con un toque de merengue dorado, este postre ofrece un equilibrio perfecto entre dulzura y acidez, ideal para los amantes de los sabores tropicales.",
         "images": ["./fotos-menu/pie-maracuya.jpg"]
+    },
+    {
+        "id":251,
+        "nombre": "Arroz frito de carne",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Arroz frito de 650 gramos, acompañado de tiernos trozos de carne y sazonado con cebollín fresco.",
+        "images": ["./fotos-menu/arroz-frito-con-carne.jpg", "./fotos-menu/arroz-frito-con-carne2.jpg"]
     }
 ]

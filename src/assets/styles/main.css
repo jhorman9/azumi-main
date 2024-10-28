@@ -286,3 +286,21 @@ section .section__card:hover .card__text{
 .card .swiper{
     width: 100%;
 }
+
+.discount-azumi {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: var(--red);
+    z-index: 1;
+    padding: 5px;
+    border-radius: 0 0 7px 0;
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .discount-azumi {
+        padding: 12px;
+        font-size: 24px;
+    }
+}
