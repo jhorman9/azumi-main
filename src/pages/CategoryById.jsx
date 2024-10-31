@@ -15,13 +15,43 @@ export const CategoryById = () => {
         navigate('/');
     }
 
+    const roundPrice = (price) => {
+        // Extraemos el precio base multiplicado
+        let basePrice = (price * 1.60)
+        basePrice = basePrice * 0.60;
+        const cents = basePrice % 1;
+
+        if (cents <= 0.50) {
+            return basePrice = (Math.floor(basePrice) + 0.50); // Redondea a .50
+        } else {
+            return basePrice = Math.floor(basePrice) + 0.99; // Redondea a .99
+        }
+            
+    };
+
+    const roundPrice2 = (price) => {
+        // Extraemos el precio base multiplicado
+        const basePrice = price * 1.60;
+        const cents = basePrice % 1;
+
+        // const basePrice = price;
+        // const cents = basePrice;
+    
+        // Redondear según el rango de centavos
+        if (cents <= 0.50) {
+            return Math.floor(basePrice) + 0.50; // Redondea a .50
+        } else {
+            return Math.floor(basePrice) + 0.99; // Redondea a .99
+        }
+    };
+
     let filterData = menuJson.filter(
         main => 
         translateWords.statusCategory[main.categoria] === dishes && 
         translateWords.statusSubCategory[main.subcategoria] === category
     );
 
-    if(dishes == undefined){
+    if(dishes === undefined){
         filterData = menuJson.filter(
             main =>  
             translateWords.statusSubCategory[main.subcategoria] === category
@@ -35,11 +65,11 @@ export const CategoryById = () => {
 
     const convertSushi = () => {
         setNewDataSushi(orderedData.filter(data => data.isRoll));
-    }
+    };
 
     const convertAll = () => {
         setNewDataSushi([]);
-    }
+    };
 
     const renderCardBody = (data) => (
         <div className="card-body" key={data.id}>
@@ -51,7 +81,7 @@ export const CategoryById = () => {
                     }}
                     modules={[Pagination, Autoplay]}
                     className="mySwiper"
-                    >
+                >
                     {data.images.length > 0 ? (
                         data.images.map((pic) => (
                             <SwiperSlide key={pic}>
@@ -64,15 +94,18 @@ export const CategoryById = () => {
                         </SwiperSlide>
                     )}
                     <div className="discount-azumi">
-                        <span style={{background: 'red'}} width='100'> 2x1</span>
+                        <span style={{background: 'red'}} width='100'> -40%</span>
                     </div>
                 </Swiper>
             </div>
             <div className="card-body_container">
                 <div className="card-header"> 
                     <h2>{data.nombre}</h2>
-                    <span className="big-price">${(data.precio * 1.6).toFixed(2)}</span>
-                </div>
+                        <div>
+                            <span className="big-price">${roundPrice(data.precio).toFixed(2)}</span><br />
+                            <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span>
+                        </div>
+                    </div>
                 <p className="card-description">{data.descripcion}</p>
             </div>
         </div>
@@ -100,5 +133,5 @@ export const CategoryById = () => {
                 )}
             </div>
         </section>
-    )
-}
+    );
+};

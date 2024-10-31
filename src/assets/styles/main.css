@@ -304,3 +304,16 @@ section .section__card:hover .card__text{
         font-size: 24px;
     }
 }
+
+.price-before {
+    text-decoration: line-through;
+    text-align: right;
+    display: flex;
+    justify-content: end;
+    color: #929292;
+}
+
+picture img{
+    width: 100%;
+    height: auto;
+}
