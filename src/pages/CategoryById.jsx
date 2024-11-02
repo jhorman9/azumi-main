@@ -18,7 +18,7 @@ export const CategoryById = () => {
     const roundPrice = (price) => {
         // Extraemos el precio base multiplicado
         let basePrice = (price * 1.60)
-        basePrice = basePrice * 0.60;
+        basePrice = basePrice * 0.70;
         const cents = basePrice % 1;
 
         if (cents <= 0.50) {
@@ -94,7 +94,7 @@ export const CategoryById = () => {
                         </SwiperSlide>
                     )}
                     <div className="discount-azumi">
-                        <span style={{background: 'red'}} width='100'> -40%</span>
+                        <span style={{background: 'red'}} width='100'> -30%</span>
                     </div>
                 </Swiper>
             </div>
