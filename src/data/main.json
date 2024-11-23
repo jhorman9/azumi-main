@@ -1527,7 +1527,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 29.99,
         "descripcion": "Camarones frescos salteados con hojas de mostaza y salsa de ostra, ofreciendo un sabor suave y delicioso, ideal para los amantes de la cocina oriental.",
-        "images": ["./fotos-menu/carne-con-hoja-mostaza.jpg"]    
+        "images": ["./fotos-menu/Camarones-hoja-de-mostaza.jpg", "./fotos-menu/Camarones-hoja-de-mostaza2.jpg"]    
     },
     {
         "id": 188,
@@ -1804,7 +1804,7 @@
         "nombre": "Eby roll tradicional",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 19.99,
+        "precio": 12.99,
         "descripcion": "Relleno de camarones apanados, queso crema y aguacate fresco, este rollo combina una textura crujiente y suave en cada bocado. La superficie crunch aporta un toque adicional de sabor y textura, haciendo de esta una opción deliciosa y satisfactoria",
         "images": ["./fotos-menu/eby-roll-tradicional.jpg"]
     },
@@ -1827,7 +1827,7 @@
         "images": ["./fotos-menu/arroz-frito-con-cerdo.jpg"]
     },
     {
-        "id": 252,
+        "id": 2252,
         "nombre": "Arroz frito de pollo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1845,7 +1845,7 @@
         "images": ["./fotos-menu/arroz-frito-de-camaron.jpg", "./fotos-menu/arroz-frito-de-camaron2.jpg"]
     },
     {
-        "id": 225,
+        "id": 2225,
         "nombre": "Carne mongolia",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1863,7 +1863,7 @@
         "images": ["./fotos-menu/chop-sueys-camaron.jpg", "./fotos-menu/chop-sueys-camaron2.jpg"]
     },
     {
-        "id": 227,
+        "id": 2227,
         "nombre": "Chop sueys de carne",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1872,7 +1872,7 @@
         "images": ["./fotos-menu/chop-sueys-carne.jpg", "./fotos-menu/chop-sueys-carne2.jpg"]
     },
     {
-        "id": 228,
+        "id": 2228,
         "nombre": "Chop sueys de cerdo",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1908,7 +1908,7 @@
         "images": ["./fotos-menu/chop-sueys-pollo.jpg", "./fotos-menu/chop-sueys-pollo2.jpg"]
     },
     {
-        "id": 232,
+        "id": 2232,
         "nombre": "Chop sueys de vegetales",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1926,7 +1926,7 @@
         "images": ["./fotos-menu/Chow-mein-camaron.jpg", "./fotos-menu/Chow-mein-camaron2.jpg"]
     },
     {
-        "id": 234,
+        "id": 2234,
         "nombre": "Chow mein de carne",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1944,7 +1944,7 @@
         "images": ["./fotos-menu/Chow-mein-cerdo.jpg", "./fotos-menu/Chow-mein-cerdo2.jpg"]
     },
     {
-        "id": 236,
+        "id": 2236,
         "nombre": "Chow mein especial",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1962,7 +1962,7 @@
         "images": ["./fotos-menu/Chow-mein-pollo.jpg", "./fotos-menu/Chow-mein-pollo2.jpg"]
     },
     {
-        "id": 238,
+        "id": 2238,
         "nombre": "Chow mein de vegetales",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1971,7 +1971,7 @@
         "images": ["./fotos-menu/Chow-mein-vegetales.jpg", "./fotos-menu/Chow-mein-vegetales2.jpg"]
     },
     {
-        "id": 253,
+        "id": 2253,
         "nombre": "Chow mein con carne mixta",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1989,7 +1989,7 @@
         "images": ["./fotos-menu/chow-mein-especial-sin-camaron.jpg"]
     },
     {
-        "id": 253,
+        "id": 22553,
         "nombre": "Fideo singapur",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -1998,7 +1998,7 @@
         "images": ["./fotos-menu/fideos-singapur.jpg", "./fotos-menu/fideos-singapur4.jpg"]
     },
     {
-        "id": 239,
+        "id": 2239,
         "nombre": "Chorizo a la parrilla",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
@@ -2025,7 +2025,7 @@
         "images": ["./fotos-menu/eby-tempura-especial.jpg"]
     },
     {
-        "id": 242,
+        "id": 2242,
         "nombre": "Ensalada César",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
@@ -2034,7 +2034,7 @@
         "images": ["./fotos-menu/ensalada-cesar.jpg", "./fotos-menu/ensalada-cesar-2.jpg"]
     },
     {
-        "id": 243,
+        "id": 2243,
         "nombre": "Ensalada de filete thai",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
@@ -2052,7 +2052,7 @@
         "images": ["./fotos-menu/ensalada-kani.jpg", "./fotos-menu/ensalada-kani2.jpg"]
     },
     {
-        "id": 245,
+        "id": 2245,
         "nombre": "Ensalada de queso cabra",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
@@ -2061,7 +2061,7 @@
         "images": ["./fotos-menu/ensalada-de-queso-cabra.jpg", "./fotos-menu/ensalada-de-queso-cabra2.jpg"]
     },
     {
-        "id": 246,
+        "id": 2246,
         "nombre": "Carne en salsa de ostión",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -2079,7 +2079,7 @@
         "images": ["./fotos-menu/carne-con-jengibre-y-cebollin.jpg", "./fotos-menu/carne-con-jengibre-y-cebollin2.jpg"]
     },
     {
-        "id": 248,
+        "id": 2248,
         "nombre": "Carne con hoja de mostaza",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -2097,7 +2097,7 @@
         "images": ["./fotos-menu/carne-vegetales.jpg"]
     },
     {
-        "id": 250,
+        "id": 2250,
         "nombre": "Carne con sechuan",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -2106,7 +2106,7 @@
         "images": ["./fotos-menu/carne-sechuan.jpg"]
     },
     {
-        "id": 252,
+        "id": 2552,
         "nombre": "Brocoli y hongo shitake con salsa de ostión",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
@@ -2115,7 +2115,7 @@
         "images": ["./fotos-menu/hongo-shitake.jpg"]
     },
     {
-        "id": 253,
+        "id": 2553,
         "nombre": "Chow mein con carne en salsa de ostión",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
@@ -2169,7 +2169,7 @@
         "images": ["./fotos-menu/pollo-mongolia.jpg", "./fotos-menu/pollo-mongolia2.jpg"]
     },
     {
-        "id": 226,
+        "id": 2226,
         "nombre": "Sushi pizza individual",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
@@ -2196,7 +2196,7 @@
         "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
     },
     {
-        "id": 231,
+        "id": 919,
         "nombre": "New york steak 16 onzas",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
@@ -2214,7 +2214,7 @@
         "images": ["./fotos-menu/new-york-steak.jpg", "./fotos-menu/new-york-steak2.jpg"]
     },
     {
-        "id": 233,
+        "id": 2233,
         "nombre": "Super New York 2 Libras",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
@@ -2232,7 +2232,7 @@
         "images": ["./fotos-menu/entrana.jpg"]
     },
     {
-        "id": 235,
+        "id": 2335,
         "nombre": "Entraña 16 onzas",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
@@ -2250,7 +2250,7 @@
         "images": ["./fotos-menu/entrana.jpg"]
     },
     {
-        "id": 237,
+        "id": 2237,
         "nombre": "Picaña 12 onzas",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
@@ -2277,22 +2277,13 @@
         "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
     },
     {
-        "id":240,
+        "id":2240,
         "nombre": "Apple Crisp",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Postres",
         "precio": 7.99,
         "descripcion": "Deliciosas manzanas confitadas al horno, combinadas con nueces crujientes y un toque de canela, acompañadas de una suave bola de helado de vainilla. Un postre cálido y reconfortante que combina lo dulce y lo cremoso en cada bocado.",
         "images": ["./fotos-menu/apple-crisp.jpg", "./fotos-menu/apple-crisp-1.jpg"]
-    },
-    {
-        "id":241,
-        "nombre": "Banana tempura",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Deliciosas rodajas de plátano rellenas de suave Nutella, rebozadas en una ligera masa tempura y fritas hasta quedar crujientes. Servido con una bola de helado de vainilla y un toque de sirope de chocolate, este postre es un verdadero deleite para los amantes del dulce.",
-        "images": ["./fotos-menu/banana-tempura-1.jpg", "./fotos-menu/banana-tempura-3.jpg"]
     },
     {
         "id":242,
@@ -2313,7 +2304,7 @@
         "images": ["./fotos-menu/fondant-de-chocolate.jpg", "./fotos-menu/fondant-de-chocolate-2.jpg"]
     },
     {
-        "id":244,
+        "id":2244,
         "nombre": "Helado frito",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Postres",
@@ -2323,12 +2314,21 @@
     },
     {
         "id":245,
-        "nombre": "Cheesecake",
+        "nombre": "Cheesecake de fresa",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Postres",
         "precio": 7.99,
         "descripcion": "Suave y cremoso cheesecake de fresa, con una base crujiente de galleta y cubierto con un delicioso culis de fresas. Este postre es un equilibrio perfecto entre la dulzura y la frescura, ideal para los amantes de las fresas.",
-        "images": ["./fotos-menu/cheesecake.jpg", "./fotos-menu/cheesecake2.jpg"]
+        "images": ["./fotos-menu/cheesecake-fresa.jpg", "./fotos-menu/cheesecake-fresa2.jpg"]
+    },
+    {
+        "id":260,
+        "nombre": "Cheesecake de limón",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicado y cremoso cheesecake de limón, con una base crujiente de galleta que resalta el sabor cítrico del limón. Este postre ofrece un equilibrio perfecto entre dulzura y frescura, ideal para quienes disfrutan de un toque ácido en sus postres.",
+        "images": ["./fotos-menu/cheesecake-limon.jpg", "./fotos-menu/cheesecake-limon2.jpg", "./fotos-menu/cheesecake-limon3.jpg"]
     },
     {
         "id":246,
@@ -2340,13 +2340,13 @@
         "images": ["./fotos-menu/choco-roll.jpg", "./fotos-menu/choco-roll2.jpg"]
     },
     {
-        "id":247,
+        "id":2247,
         "nombre": "Pie de limón",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Postres",
         "precio": 7.99,
         "descripcion": "Delicioso pie de limón con una base crujiente de galleta, relleno de una suave y refrescante crema de limón. Decorado con un toque de merengue dorado, este postre es una combinación perfecta de dulzura y acidez, ideal para los amantes de los sabores cítricos.",
-        "images": ["./fotos-menu/pie-limon.jpg", "./fotos-menu/pie-limon-1.jpg"]
+        "images": ["./fotos-menu/pie-limon.jpg", "./fotos-menu/pie-limon2.jpg"]
     },
     {
         "id":248,
@@ -2365,5 +2365,14 @@
         "precio": 14.99,
         "descripcion": "Arroz frito de 650 gramos, acompañado de tiernos trozos de carne y sazonado con cebollín fresco.",
         "images": ["./fotos-menu/arroz-frito-con-carne.jpg", "./fotos-menu/arroz-frito-con-carne2.jpg"]
+    },
+    {
+        "id":261,
+        "nombre": "Tartaleta de limón",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Exquisita tartaleta de limón con una base de masa crujiente, rellena de una suave crema de limón que combina dulzura y un toque cítrico. Decorada con delicados merengues flameado, hojas de menta fresca y una rodaja de limón, esta tartaleta es un deleite visual y un placer para el paladar.",
+        "images": ["./fotos-menu/Tartaleta-de-limon.jpg", "./fotos-menu/Tartaleta-de-limon2.jpg"]
     }
 ]

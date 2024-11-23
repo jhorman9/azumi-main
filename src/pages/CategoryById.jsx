@@ -9,6 +9,7 @@ import translateWords from "../utils/translateWords";
 export const CategoryById = () => {
     const navigate = useNavigate();
     const [newDataSushi, setNewDataSushi] = useState([]);
+    const [ datawrite, setDataWrite ] = useState('');
     const { category, dishes } = useParams(); 
 
     const toBack = () => {
@@ -17,15 +18,15 @@ export const CategoryById = () => {
 
     const roundPrice = (price) => {
         // Extraemos el precio base multiplicado
-        let basePrice = (price * 1.60)
-        basePrice = basePrice * 0.70;
-        const cents = basePrice % 1;
+         let basePrice = (price * 1.60)
+         basePrice = basePrice * 0.70;
+         const cents = basePrice % 1;
 
-        if (cents <= 0.50) {
-            return basePrice = (Math.floor(basePrice) + 0.50); // Redondea a .50
-        } else {
-            return basePrice = Math.floor(basePrice) + 0.99; // Redondea a .99
-        }
+         if (cents <= 0.50) {
+             return basePrice = (Math.floor(basePrice) + 0.50); // Redondea a .50
+         } else {
+             return basePrice = Math.floor(basePrice) + 0.99; // Redondea a .99
+         }
             
     };
 
@@ -45,21 +46,26 @@ export const CategoryById = () => {
         }
     };
 
-    let filterData = menuJson.filter(
-        main => 
-        translateWords.statusCategory[main.categoria] === dishes && 
-        translateWords.statusSubCategory[main.subcategoria] === category
-    );
+    // Filtrar los datos según las condiciones
+    let filterData = menuJson;
 
-    if(dishes === undefined){
-        filterData = menuJson.filter(
-            main =>  
-            translateWords.statusSubCategory[main.subcategoria] === category
+    // Filtrar por `dishes` y `category`
+    if (dishes !== undefined) {
+        filterData = menuJson.filter(main => 
+            translateWords.statusCategory[main.categoria] === dishes &&
+            translateWords.statusSubCategory[main.subcategoria] === category &&
+            main.nombre.toLowerCase().includes(datawrite.toLowerCase()) // Comparación insensible a mayúsculas
+        );
+    } else {
+        // Si `dishes` es undefined, solo filtra por subcategoría y búsqueda
+        filterData = menuJson.filter(main =>
+            translateWords.statusSubCategory[main.subcategoria] === category &&
+            main.nombre.toLowerCase().includes(datawrite.toLowerCase())
         );
     }
-    
-    const orderedData = filterData.sort((a, b) => a.nombre.localeCompare(b.nombre));
-    const sortedMain = menuJson.sort((a,b) => a.nombre.localeCompare(b.nombre));
+
+    // Ordenar los datos filtrados
+    const orderedData = [...filterData].sort((a, b) => a.nombre.localeCompare(b.nombre));
 
     const baseDelay = 3000;
 
@@ -70,6 +76,8 @@ export const CategoryById = () => {
     const convertAll = () => {
         setNewDataSushi([]);
     };
+
+    console.log(datawrite.length)
 
     const renderCardBody = (data) => (
         <div className="card-body" key={data.id}>
@@ -93,17 +101,17 @@ export const CategoryById = () => {
                             <img src={examplePhoto} alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
-                    <div className="discount-azumi">
+                    {/* <div className="discount-azumi">
                         <span style={{background: 'red'}} width='100'> -30%</span>
-                    </div>
+                    </div> */}
                 </Swiper>
             </div>
             <div className="card-body_container">
                 <div className="card-header"> 
                     <h2>{data.nombre}</h2>
                         <div>
-                            <span className="big-price">${roundPrice(data.precio).toFixed(2)}</span><br />
-                            <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span>
+                            <span className="big-price">${roundPrice2(data.precio).toFixed(2)}</span><br />
+                            {/* <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span> */}
                         </div>
                     </div>
                 <p className="card-description">{data.descripcion}</p>
@@ -117,6 +125,20 @@ export const CategoryById = () => {
                 <div className="main-back_page" onClick={toBack}>
                     <i className="fa-solid fa-arrow-left"></i> <span>Regresar</span>
                 </div>
+                <div className="search-product2">
+                    {
+                        datawrite.length >= 1 ? (
+                            <>
+                                <i class="fa-solid fa-x" onClick={() => setDataWrite('')}></i>
+                            </>
+                        ) : (
+                            <>
+                                <i class="fa-solid fa-magnifying-glass" for="search-product" onClick={() => document.getElementById("search-product").focus()}></i>
+                            </>
+                        )
+                    }
+                    <input type="text" className="search-product" placeholder="Buscar..." name="search-product" id="search-product" value={datawrite} onChange={(e) => setDataWrite(e.target.value)}/>
+                </div>
                 {window.location.hash === '#/main/dishes/japanese' && (
                     <div className="sushi-category">
                         <span onClick={newDataSushi.length > 0 ? convertAll : convertSushi}>
@@ -127,7 +149,12 @@ export const CategoryById = () => {
             </div>
             <div className="card">
                 {category === 'all' ? (
-                    sortedMain.map((data) => renderCardBody(data))
+                    menuJson
+                        .filter((data) =>
+                            data.nombre.toLowerCase().includes(datawrite.toLowerCase()) // Filtra por el texto de búsqueda
+                        )
+                        .sort((a, b) => a.nombre.localeCompare(b.nombre)) // Ordena alfabéticamente
+                        .map((data) => renderCardBody(data)) // Renderiza las tarjetas
                 ) : (
                     (newDataSushi.length > 0 ? newDataSushi : orderedData).map((data) => renderCardBody(data))
                 )}
