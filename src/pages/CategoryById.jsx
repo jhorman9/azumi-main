@@ -101,17 +101,18 @@ export const CategoryById = () => {
                             <img src={examplePhoto} alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
-                    {/* <div className="discount-azumi">
+                    <div className="discount-azumi">
                         <span style={{background: 'red'}} width='100'> -30%</span>
-                    </div> */}
+                    </div>
                 </Swiper>
             </div>
             <div className="card-body_container">
                 <div className="card-header"> 
                     <h2>{data.nombre}</h2>
                         <div>
-                            <span className="big-price">${roundPrice2(data.precio).toFixed(2)}</span><br />
-                            {/* <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span> */}
+                        {/* <span className="big-price">${(data.precio).toFixed(2)}</span><br /> */}
+                            <span className="big-price">${roundPrice(data.precio).toFixed(2)}</span><br />
+                            <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span>
                         </div>
                     </div>
                 <p className="card-description">{data.descripcion}</p>

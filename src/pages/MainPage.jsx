@@ -29,12 +29,12 @@ const MainPage = () => {
         <link rel='canonical' href={routeActually} />
         <title>Azumi - Men&#250; digital</title>
       </Helmet>
-      {/* <div className='image-promo'>
+      <div className='image-promo'>
           <picture>
             <source srcSet={promoJPG2} media="(max-width: 768px)" />
             <img src={promoJPG} alt="Promoción" width={1920} height={500} />
           </picture>      
-      </div> */}
+      </div>
       <div className='main_see-all'>
         <div className='main_see-all-banner'>
           <div className='section__card' onClick={()=> changeRoute('all')}>

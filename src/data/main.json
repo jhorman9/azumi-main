@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "nombre": "Carpaccio de salmón",
+        "nombre": "Carpaccio de salmon",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 18.95,
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "nombre": "Brochetas de camarón",
+        "nombre": "Brochetas de camaron",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 12.99,
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "nombre": "Brochetas de salmón",
+        "nombre": "Brochetas de salmon",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 16.99,
@@ -100,7 +100,7 @@
     },
     {
         "id": 12,
-        "nombre": "Croquetas de salmón",
+        "nombre": "Croquetas de salmon",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
@@ -127,7 +127,7 @@
     },
     {
         "id": 15,
-        "nombre": "Gyozas de camarón",
+        "nombre": "Gyozas de camaron",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
@@ -155,7 +155,7 @@
     {
         "id": 18,
         "nombre": "Sprim roll mini",
-        "categoria": "Japones",
+        "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 6.99,
         "descripcion": "4 Rollitos de vegetales frescos con salsa. Un bocado ligero, crujiente y sabroso.",
@@ -172,7 +172,7 @@
     },
     {
         "id": 20,
-        "nombre": "Lumpia o  Sprim roll de camarón",
+        "nombre": "Lumpia o Sprim roll de camaron",
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 8.99,
@@ -316,7 +316,7 @@
     },
     {
         "id": 36,
-        "nombre": "Tiraditos de salmón",
+        "nombre": "Tiraditos de salmon",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 16.90,
@@ -325,7 +325,7 @@
     },
     {
         "id": 37,
-        "nombre": "Tiraditos de atún",
+        "nombre": "Tiraditos de atun",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 15.90,
@@ -343,7 +343,7 @@
     },
     {
         "id": 39,
-        "nombre": "Trilogía de Tiraditos Marinos",
+        "nombre": "Trilogia de Tiraditos Marinos",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 16.99,
@@ -370,7 +370,7 @@
     },
     {
         "id": 42,
-        "nombre": "Tartar de atún",
+        "nombre": "Tartar de atun",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 13.50,
@@ -388,7 +388,7 @@
     },
     {
         "id": 92,
-        "nombre": "Atún abrazado",
+        "nombre": "Atun abrazado",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 13.99,
@@ -406,7 +406,7 @@
     },
     {
         "id": 94,
-        "nombre": "Papa a la Huancaína",
+        "nombre": "Papa a la Huancaina",
         "categoria": "Peruano",
         "subcategoria": "Entradas",
         "precio": 9.99,
@@ -469,7 +469,7 @@
     },
     {
         "id": 49,
-        "nombre": "Crema de maíz",
+        "nombre": "Crema de maiz",
         "categoria": "Chino",
         "subcategoria": "Sopas",
         "precio": 7.99,
@@ -523,7 +523,7 @@
     },
     {
         "id": 108,
-        "nombre": "Ramen de camarón",
+        "nombre": "Ramen de camaron",
         "categoria": "Japones",
         "subcategoria": "Sopas",
         "precio": 15.99,
@@ -577,7 +577,7 @@
     },
     {
         "id": 96,
-        "nombre": "Tentáculos de Pulpo a la parrilla",
+        "nombre": "Tentaculos de Pulpo a la parrilla",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 20.90,
@@ -613,7 +613,7 @@
     },
     {
         "id": 100,
-        "nombre": "Ají de gallina",
+        "nombre": "Aji de gallina",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 13.50,
@@ -685,7 +685,7 @@
     },
     {
         "id": 69,
-        "nombre": "Salmón en salsa Saimoy",
+        "nombre": "Salmon en salsa Saimoy",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 22.99,
@@ -712,7 +712,7 @@
     },
     {
         "id": 72,
-        "nombre": "Teppan de salmón",
+        "nombre": "Teppan de salmon",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
@@ -766,7 +766,7 @@
     },
     {
         "id": 79,
-        "nombre": "Arroz thai de camarón",
+        "nombre": "Arroz thai de camaron",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 15.99,
@@ -793,7 +793,7 @@
     },
     {
         "id": 82,
-        "nombre": "Pad thai de camarón",
+        "nombre": "Pad thai de camaron",
         "categoria": "Thailandes",
         "subcategoria": "Platos fuertes",
         "precio": 16.99,
@@ -829,7 +829,7 @@
     },
     {
         "id": 86,
-        "nombre": "Kinoha de salmón",
+        "nombre": "Kinoha de salmon",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 16.99,
@@ -838,7 +838,7 @@
     },
     {
         "id": 87,
-        "nombre": "Ensalada César Clásica",
+        "nombre": "Ensalada Cesar Clasica",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 10.99,
@@ -847,7 +847,7 @@
     },
     {
         "id": 88,
-        "nombre": "Ensalada César de Pollo",
+        "nombre": "Ensalada Cesar de Pollo",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 12.99,
@@ -856,7 +856,7 @@
     },
     {
         "id": 89,
-        "nombre": "Ensalada César de Camarones",
+        "nombre": "Ensalada Cesar de Camarones",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 14.99,
@@ -955,7 +955,7 @@
     },
     {
         "id": 113,
-        "nombre": "Tartar de salmón",
+        "nombre": "Tartar de salmon",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 14.25,
@@ -964,7 +964,7 @@
     },
     {
         "id": 114,
-        "nombre": "Deditos de plátano",
+        "nombre": "Deditos de platano",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 9.99,
@@ -973,7 +973,7 @@
     },
     {
         "id": 115,
-        "nombre": "Deditos de salmón",
+        "nombre": "Deditos de salmon",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 9.99,
@@ -1144,7 +1144,7 @@
     },
     {
         "id": 134,
-        "nombre": "Sensación roll",
+        "nombre": "Sensacion roll",
         "categoria": "Japones",
         "subcategoria": "sushi",
         "precio": 12.99,
@@ -1153,7 +1153,7 @@
     },
     {
         "id": 135,
-        "nombre": "Dragón roll",
+        "nombre": "Dragon roll",
         "categoria": "Japones",
         "subcategoria": "sushi",
         "precio": 12.99,
@@ -1333,7 +1333,7 @@
     },
     {
         "id": 162,
-        "nombre": "Sashimi de atún",
+        "nombre": "Sashimi de atun",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 13.99,
@@ -1342,7 +1342,7 @@
     },
     {
         "id": 163,
-        "nombre": "Sashimi de salmón",
+        "nombre": "Sashimi de salmon",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
@@ -1369,7 +1369,7 @@
     },
     {
         "id": 166,
-        "nombre": "Temaki de salmón",
+        "nombre": "Temaki de salmon",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 9.99,
@@ -1378,7 +1378,7 @@
     },
     {
         "id": 167,
-        "nombre": "Temaki de atún",
+        "nombre": "Temaki de atun",
         "categoria": "Japones",
         "subcategoria": "Platos fuertes",
         "precio": 8.99,
@@ -1405,7 +1405,7 @@
     },
     {
         "id": 170,
-        "nombre": "Nigiri de salmón",
+        "nombre": "Nigiri de salmon",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 3.50,
@@ -1414,7 +1414,7 @@
     },
     {
         "id": 171,
-        "nombre": "Nigiri de atún",
+        "nombre": "Nigiri de atun",
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 2.99,
@@ -1585,7 +1585,7 @@
     },
     {
         "id": 194,
-        "nombre": "Puerco en salsa ostión",
+        "nombre": "Puerco en salsa ostion",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 18.99,
@@ -1630,7 +1630,7 @@
     },
     {
         "id": 199,
-        "nombre": "Hosomaki de atún",
+        "nombre": "Hosomaki de atun",
         "categoria": "Japones",
         "subcategoria": "sushi",
         "precio": 4.99,
@@ -1648,7 +1648,7 @@
     },
     {
         "id": 201,
-        "nombre": "Hosomaki de salmón",
+        "nombre": "Hosomaki de salmon",
         "categoria": "Japones",
         "subcategoria": "sushi",
         "precio": 4.99,
@@ -1720,7 +1720,7 @@
     },
     {
         "id": 210,
-        "nombre": "Pollo con jojoticos y champiñón",
+        "nombre": "Pollo con jojoticos y champiñon",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 18.99,
@@ -1729,7 +1729,7 @@
     },
     {
         "id": 211,
-        "nombre": "Pollo en salsa de ostión",
+        "nombre": "Pollo en salsa de ostion",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 18.99,
@@ -1747,7 +1747,7 @@
     },
     {
         "id": 213,
-        "nombre": "Ración de costilla",
+        "nombre": "Racion de costilla",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 22.44,
@@ -1756,7 +1756,7 @@
     },
     {
         "id": 214,
-        "nombre": "Salmón con risitto de lenteja",
+        "nombre": "Salmon con risitto de lenteja",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
         "precio": 28.95,
@@ -1765,7 +1765,7 @@
     },
     {
         "id": 215,
-        "nombre": "Salmón en salsa de maracuya",
+        "nombre": "Salmon en salsa de maracuya",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Platos fuertes",
         "precio": 28.95,
@@ -1810,7 +1810,7 @@
     },
     {
         "id": 222,
-        "nombre": "Arroz frito especial con camarón",
+        "nombre": "Arroz frito especial con camaron",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 16.87,
@@ -1837,7 +1837,7 @@
     },
     {
         "id": 224,
-        "nombre": "Arroz frito de camarón",
+        "nombre": "Arroz frito de camaron",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 17.50,
@@ -1855,7 +1855,7 @@
     },
     {
         "id": 226,
-        "nombre": "Chop sueys de camarón",
+        "nombre": "Chop sueys de camaron",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 17.99,
@@ -1882,7 +1882,7 @@
     },
     {
         "id": 229,
-        "nombre": "Chop sueys especial con camarón",
+        "nombre": "Chop sueys especial con camaron",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 16.83,
@@ -1891,7 +1891,7 @@
     },
     {
         "id": 230,
-        "nombre": "Chop sueys especial sin camarón",
+        "nombre": "Chop sueys especial sin camaron",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 15.70,
@@ -1918,7 +1918,7 @@
     },
     {
         "id": 233,
-        "nombre": "Chow mein de camarón",
+        "nombre": "Chow mein de camaron",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 18.07,
@@ -1981,7 +1981,7 @@
     },
     {
         "id": 253,
-        "nombre": "Chow mein especial sin camarón",
+        "nombre": "Chow mein especial sin camaron",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 15.70,
@@ -1996,15 +1996,6 @@
         "precio": 16.83,
         "descripcion": "Una deliciosa mezcla de pollo, puerco y camarón, salteados con fideos de arroz en una sabrosa salsa de curry y salsa de ostión, ofreciendo un plato lleno de sabores vibrantes y exóticos.",
         "images": ["./fotos-menu/fideos-singapur.jpg", "./fotos-menu/fideos-singapur4.jpg"]
-    },
-    {
-        "id": 2239,
-        "nombre": "Chorizo a la parrilla",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Platos fuertes",
-        "precio": 18.99,
-        "descripcion": "4 unidades de Chorizo parrillero al carbón, con un sabor ahumado y jugoso, ideal para disfrutar a la parrilla y acompañar con tus salsas favoritas.",
-        "images": ["./fotos-menu/chorizo.jpg"]
     },
     {
         "id": 240,
@@ -2026,7 +2017,7 @@
     },
     {
         "id": 2242,
-        "nombre": "Ensalada César",
+        "nombre": "Ensalada Cesar",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 10.99,
@@ -2062,7 +2053,7 @@
     },
     {
         "id": 2246,
-        "nombre": "Carne en salsa de ostión",
+        "nombre": "Carne en salsa de ostion",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
@@ -2071,7 +2062,7 @@
     },
     {
         "id": 247,
-        "nombre": "Carne con jengibre y cebollín",
+        "nombre": "Carne con jengibre y cebollin",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 20.99,
@@ -2107,7 +2098,7 @@
     },
     {
         "id": 2552,
-        "nombre": "Brocoli y hongo shitake con salsa de ostión",
+        "nombre": "Brocoli y hongo shitake con salsa de ostion",
         "categoria": "Especialidades de la casa",
         "subcategoria": "Vegetales",
         "precio": 20.99,
@@ -2116,7 +2107,7 @@
     },
     {
         "id": 2553,
-        "nombre": "Chow mein con carne en salsa de ostión",
+        "nombre": "Chow mein con carne en salsa de ostion",
         "categoria": "Chino",
         "subcategoria": "Platos fuertes",
         "precio": 15.70,
@@ -2185,6 +2176,114 @@
         "precio": 15.99,
         "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
         "images": ["./fotos-menu/sushipizza.jpg", "./fotos-menu/sushipizza2.jpg"]
+    },
+    {
+        "id":2240,
+        "nombre": "Apple Crisp",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Deliciosas manzanas confitadas al horno, combinadas con nueces crujientes y un toque de canela, acompañadas de una suave bola de helado de vainilla. Un postre cálido y reconfortante que combina lo dulce y lo cremoso en cada bocado.",
+        "images": ["./fotos-menu/apple-crisp.jpg", "./fotos-menu/apple-crisp-1.jpg"]
+    },
+    {
+        "id":242,
+        "nombre": "Brownie",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso brownie de chocolate, suave y húmedo, acompañado de una ligera crema chantilly y una bola de helado de vainilla. Decorado con fresas frescas, este postre es una explosión de sabor y textura en cada bocado.",
+        "images": ["./fotos-menu/browny.jpg", "./fotos-menu/browny-2.jpg"]
+    },
+    {
+        "id":243,
+        "nombre": "Fondant de chocolate",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Exquisito pastel de chocolate fundido, servido con un suave sirope de chocolate y un delicioso culis de dulce de leche. Acompañado de una bola de helado de vainilla y espolvoreado con azúcar impalpable sobre el fondant, este postre es un verdadero deleite para los amantes del chocolate.",
+        "images": ["./fotos-menu/fondant-de-chocolate.jpg", "./fotos-menu/fondant-de-chocolate-2.jpg"]
+    },
+    {
+        "id":2244,
+        "nombre": "Helado frito",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso helado de vainilla relleno de chocolate Ferrero, apanado con crujientes cereales y frito hasta obtener una textura dorada y crujiente. Servido con culis de vainilla, este postre es una combinación irresistible de sabores y texturas.",
+        "images": ["./fotos-menu/helado-frito-1.jpg", "./fotos-menu/helado-frito-3.jpg"]
+    },
+    {
+        "id":245,
+        "nombre": "Cheesecake de fresa",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Suave y cremoso cheesecake de fresa, con una base crujiente de galleta y cubierto con un delicioso culis de fresas. Este postre es un equilibrio perfecto entre la dulzura y la frescura, ideal para los amantes de las fresas.",
+        "images": ["./fotos-menu/cheesecake-fresa.jpg", "./fotos-menu/cheesecake-fresa2.jpg"]
+    },
+    {
+        "id":260,
+        "nombre": "Cheesecake de limon",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicado y cremoso cheesecake de limón, con una base crujiente de galleta que resalta el sabor cítrico del limón. Este postre ofrece un equilibrio perfecto entre dulzura y frescura, ideal para quienes disfrutan de un toque ácido en sus postres.",
+        "images": ["./fotos-menu/cheesecake-limon.jpg", "./fotos-menu/cheesecake-limon2.jpg", "./fotos-menu/cheesecake-limon3.jpg"]
+    },
+    {
+        "id":246,
+        "nombre": "Choco roll",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso rollo de chocolate, relleno de suave praliné de almendra y cubierto con un topping de crujientes nueces y dulce de leche. Este postre es un deleite para los amantes del chocolate, combinando texturas y sabores irresistibles en cada bocado.",
+        "images": ["./fotos-menu/choco-roll.jpg", "./fotos-menu/choco-roll2.jpg"]
+    },
+    {
+        "id":2247,
+        "nombre": "Pie de limon",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Delicioso pie de limón con una base crujiente de galleta, relleno de una suave y refrescante crema de limón. Decorado con un toque de merengue dorado, este postre es una combinación perfecta de dulzura y acidez, ideal para los amantes de los sabores cítricos.",
+        "images": ["./fotos-menu/pie-limon.jpg", "./fotos-menu/pie-limon2.jpg"]
+    },
+    {
+        "id":248,
+        "nombre": "Pie de maracuya",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Irresistible pie de maracuyá con una base crujiente de galleta, relleno de una suave y refrescante crema de maracuyá. Decorado con un toque de merengue dorado, este postre ofrece un equilibrio perfecto entre dulzura y acidez, ideal para los amantes de los sabores tropicales.",
+        "images": ["./fotos-menu/pie-maracuya.jpg"]
+    },
+    {
+        "id":251,
+        "nombre": "Arroz frito de carne",
+        "categoria": "Chino",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.99,
+        "descripcion": "Arroz frito de 650 gramos, acompañado de tiernos trozos de carne y sazonado con cebollín fresco.",
+        "images": ["./fotos-menu/arroz-frito-con-carne.jpg", "./fotos-menu/arroz-frito-con-carne2.jpg"]
+    },
+    {
+        "id":261,
+        "nombre": "Tartaleta de limon",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Postres",
+        "precio": 7.99,
+        "descripcion": "Exquisita tartaleta de limón con una base de masa crujiente, rellena de una suave crema de limón que combina dulzura y un toque cítrico. Decorada con delicados merengues flameado, hojas de menta fresca y una rodaja de limón, esta tartaleta es un deleite visual y un placer para el paladar.",
+        "images": ["./fotos-menu/Tartaleta-de-limon.jpg", "./fotos-menu/Tartaleta-de-limon2.jpg"]
+    },
+    {
+        "id": 2239,
+        "nombre": "Chorizo a la parrilla",
+        "categoria": "Especialidades de la casa",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "4 unidades de Chorizo parrillero al carbón, con un sabor ahumado y jugoso, ideal para disfrutar a la parrilla y acompañar con tus salsas favoritas.",
+        "images": ["./fotos-menu/chorizo.jpg"]
     },
     {
         "id": 228,
@@ -2275,104 +2374,5 @@
         "precio": 43.95,
         "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
         "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
-    },
-    {
-        "id":2240,
-        "nombre": "Apple Crisp",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Deliciosas manzanas confitadas al horno, combinadas con nueces crujientes y un toque de canela, acompañadas de una suave bola de helado de vainilla. Un postre cálido y reconfortante que combina lo dulce y lo cremoso en cada bocado.",
-        "images": ["./fotos-menu/apple-crisp.jpg", "./fotos-menu/apple-crisp-1.jpg"]
-    },
-    {
-        "id":242,
-        "nombre": "Brownie",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Delicioso brownie de chocolate, suave y húmedo, acompañado de una ligera crema chantilly y una bola de helado de vainilla. Decorado con fresas frescas, este postre es una explosión de sabor y textura en cada bocado.",
-        "images": ["./fotos-menu/browny.jpg", "./fotos-menu/browny-2.jpg"]
-    },
-    {
-        "id":243,
-        "nombre": "Fondant de chocolate",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Exquisito pastel de chocolate fundido, servido con un suave sirope de chocolate y un delicioso culis de dulce de leche. Acompañado de una bola de helado de vainilla y espolvoreado con azúcar impalpable sobre el fondant, este postre es un verdadero deleite para los amantes del chocolate.",
-        "images": ["./fotos-menu/fondant-de-chocolate.jpg", "./fotos-menu/fondant-de-chocolate-2.jpg"]
-    },
-    {
-        "id":2244,
-        "nombre": "Helado frito",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Delicioso helado de vainilla relleno de chocolate Ferrero, apanado con crujientes cereales y frito hasta obtener una textura dorada y crujiente. Servido con culis de vainilla, este postre es una combinación irresistible de sabores y texturas.",
-        "images": ["./fotos-menu/helado-frito-1.jpg", "./fotos-menu/helado-frito-3.jpg"]
-    },
-    {
-        "id":245,
-        "nombre": "Cheesecake de fresa",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Suave y cremoso cheesecake de fresa, con una base crujiente de galleta y cubierto con un delicioso culis de fresas. Este postre es un equilibrio perfecto entre la dulzura y la frescura, ideal para los amantes de las fresas.",
-        "images": ["./fotos-menu/cheesecake-fresa.jpg", "./fotos-menu/cheesecake-fresa2.jpg"]
-    },
-    {
-        "id":260,
-        "nombre": "Cheesecake de limón",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Delicado y cremoso cheesecake de limón, con una base crujiente de galleta que resalta el sabor cítrico del limón. Este postre ofrece un equilibrio perfecto entre dulzura y frescura, ideal para quienes disfrutan de un toque ácido en sus postres.",
-        "images": ["./fotos-menu/cheesecake-limon.jpg", "./fotos-menu/cheesecake-limon2.jpg", "./fotos-menu/cheesecake-limon3.jpg"]
-    },
-    {
-        "id":246,
-        "nombre": "Choco roll",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Delicioso rollo de chocolate, relleno de suave praliné de almendra y cubierto con un topping de crujientes nueces y dulce de leche. Este postre es un deleite para los amantes del chocolate, combinando texturas y sabores irresistibles en cada bocado.",
-        "images": ["./fotos-menu/choco-roll.jpg", "./fotos-menu/choco-roll2.jpg"]
-    },
-    {
-        "id":2247,
-        "nombre": "Pie de limón",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Delicioso pie de limón con una base crujiente de galleta, relleno de una suave y refrescante crema de limón. Decorado con un toque de merengue dorado, este postre es una combinación perfecta de dulzura y acidez, ideal para los amantes de los sabores cítricos.",
-        "images": ["./fotos-menu/pie-limon.jpg", "./fotos-menu/pie-limon2.jpg"]
-    },
-    {
-        "id":248,
-        "nombre": "Pie de maracuyá",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Irresistible pie de maracuyá con una base crujiente de galleta, relleno de una suave y refrescante crema de maracuyá. Decorado con un toque de merengue dorado, este postre ofrece un equilibrio perfecto entre dulzura y acidez, ideal para los amantes de los sabores tropicales.",
-        "images": ["./fotos-menu/pie-maracuya.jpg"]
-    },
-    {
-        "id":251,
-        "nombre": "Arroz frito de carne",
-        "categoria": "Chino",
-        "subcategoria": "Platos fuertes",
-        "precio": 14.99,
-        "descripcion": "Arroz frito de 650 gramos, acompañado de tiernos trozos de carne y sazonado con cebollín fresco.",
-        "images": ["./fotos-menu/arroz-frito-con-carne.jpg", "./fotos-menu/arroz-frito-con-carne2.jpg"]
-    },
-    {
-        "id":261,
-        "nombre": "Tartaleta de limón",
-        "categoria": "Especialidades de la casa",
-        "subcategoria": "Postres",
-        "precio": 7.99,
-        "descripcion": "Exquisita tartaleta de limón con una base de masa crujiente, rellena de una suave crema de limón que combina dulzura y un toque cítrico. Decorada con delicados merengues flameado, hojas de menta fresca y una rodaja de limón, esta tartaleta es un deleite visual y un placer para el paladar.",
-        "images": ["./fotos-menu/Tartaleta-de-limon.jpg", "./fotos-menu/Tartaleta-de-limon2.jpg"]
     }
 ]
