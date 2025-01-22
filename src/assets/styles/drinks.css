@@ -1,0 +1,108 @@
+.custom-drinks .custom-drinks_title{
+    text-align: center;
+}
+
+.custom-drinks .custom-drinks_subtitle{
+    text-align: center;
+}
+
+.custom-drinks .main-back_page{
+    cursor: pointer;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+}
+
+.custom-drinks .main-back_page:hover {
+    animation: move-infinite 1s linear infinite;
+}
+
+@keyframes move-infinite {
+    0% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(-10px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.custom-drinks i{
+    width: 35px;
+    height: 35px;
+    background-color: var(--red);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-drinks span.back-text{
+    background-color: var(--red);
+    margin-left: -7px;
+    padding: 2px 7px;
+    border-radius: 0 3px 3px 0;
+    font-size: 14px;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.custom-drinks-body{
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Dos columnas iguales */
+    column-gap: 2%; /* Espaciado entre columnas */
+    row-gap: 20px; /* Espaciado entre filas */
+    grid-auto-rows: min-content; /* Las filas se ajustan al contenido mínimo necesario */
+}
+
+@media(max-width: 768px){
+    .custom-drinks-body{
+        grid-template-columns: 100%;
+        gap: 0;
+    }
+}
+
+.custom-drinks .custom-drinks-section{
+    margin-top: 30px;
+    
+}
+
+.custom-drinks .custom-drinks-items{
+    list-style: none;
+    padding: 0;
+    margin-top: 7px;
+}
+
+.custom-drinks .custom-drinks-item{
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+}
+
+.custom-drinks .custom-drinks-item::after{
+    content: '';
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    border-top: 1px dashed white;
+    top: 50%;
+    z-index: 1;
+}
+
+.custom-drinks .custom-drinks-items-price{
+    position: relative;
+    z-index: 2;
+    background-color: #000;
+    padding-left: 7px;
+}
+
+.custom-drinks .custom-drinks-items-name{
+    padding-right: 7px;
+    background-color: #000;
+    z-index: 2;
+    position: relative;
+}

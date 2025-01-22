@@ -130,11 +130,11 @@ export const CategoryById = () => {
                     {
                         datawrite.length >= 1 ? (
                             <>
-                                <i class="fa-solid fa-x" onClick={() => setDataWrite('')}></i>
+                                <i className="fa-solid fa-x" onClick={() => setDataWrite('')}></i>
                             </>
                         ) : (
                             <>
-                                <i class="fa-solid fa-magnifying-glass" for="search-product" onClick={() => document.getElementById("search-product").focus()}></i>
+                                <i className="fa-solid fa-magnifying-glass" htmlFor="search-product" onClick={() => document.getElementById("search-product").focus()}></i>
                             </>
                         )
                     }

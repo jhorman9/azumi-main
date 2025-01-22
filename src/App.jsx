@@ -15,6 +15,7 @@ import FooterComponent from './components/FooterComponents/FooterComponent';
 import { CategoryById } from './pages/CategoryById';
 import { useEffect } from 'react';
 import ScrollToTop from './components/ScrollToTop';
+import { DrinksPage } from './pages/DrinksPage';
 
 function App() {
 
@@ -43,6 +44,7 @@ function App() {
               <Route path='/' element={<MainPage />}/>
               <Route path='/:category' element={<CategoryById />} />
               <Route path='/:category/:dishes' element={<CategoryById />} />
+              <Route path="/drinks" element={<DrinksPage />} />
               {/* <Route path='/cart' element={<CartMain />}/>
               <Route path='/contacts' element={<Contacts />}/> */}
           </Routes>

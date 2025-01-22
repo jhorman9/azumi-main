@@ -1,5 +1,10 @@
 /*HOMEPAGE STYLE*/
 
-
+.title-color{
+    color: var(--red);
+    font-weight: 700;
+    font-family:  "Julee", cursive;
+    font-size: 20px;
+}
 
 /*------<-HOMEPAGE STYLE->-------*/
