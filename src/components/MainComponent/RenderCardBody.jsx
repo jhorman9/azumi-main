@@ -1,4 +1,3 @@
-import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
 
@@ -25,7 +24,7 @@ const RenderCardBody = (data) => {
                         ))
                     ) : (
                         <SwiperSlide>
-                            <img src={examplePhoto} alt="default" width={30} height={30} />
+                            <img alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
                 </Swiper>

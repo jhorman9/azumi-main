@@ -361,3 +361,24 @@ picture img{
     color: var(--red);
     cursor: pointer;
 }
+
+.promo-number {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background: red;
+    font-size: 28px;
+    padding: 4px 7px;
+}
+
+
+@media (max-width: 575px) {
+    .promo-number{
+        font-size: 18px;
+        font-weight: bold;
+    }
+}

@@ -16,20 +16,6 @@ export const CategoryById = () => {
         navigate('/');
     }
 
-    const roundPrice = (price) => {
-        // Extraemos el precio base multiplicado
-         let basePrice = (price * 1.60)
-         basePrice = basePrice * 0.70;
-         const cents = basePrice % 1;
-
-         if (cents <= 0.50) {
-             return basePrice = (Math.floor(basePrice) + 0.50); // Redondea a .50
-         } else {
-             return basePrice = Math.floor(basePrice) + 0.99; // Redondea a .99
-         }
-            
-    };
-
     const roundPrice2 = (price) => {
         // Extraemos el precio base multiplicado
         const basePrice = price * 1.60;
@@ -77,8 +63,6 @@ export const CategoryById = () => {
         setNewDataSushi([]);
     };
 
-    console.log(datawrite.length)
-
     const renderCardBody = (data) => (
         <div className="card-body" key={data.id}>
             <div className="card-image">
@@ -101,18 +85,20 @@ export const CategoryById = () => {
                             <img src={examplePhoto} alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
-                    <div className="discount-azumi">
-                        <span style={{background: 'red'}} width='100'> -30%</span>
-                    </div>
+                    {
+                        (data.categoria == "Chino" || data.subcategoria == "sushi") && (
+                            <div className="discount-azumi">
+                                <span style={{background: 'red', paddingLeft: '14px', paddingRight: '14px', fontSize: '24px'}} width='100'>2x1</span> 
+                            </div>
+                        )
+                    }
                 </Swiper>
             </div>
             <div className="card-body_container">
                 <div className="card-header"> 
                     <h2>{data.nombre}</h2>
                         <div>
-                        {/* <span className="big-price">${(data.precio).toFixed(2)}</span><br /> */}
-                            <span className="big-price">${roundPrice(data.precio).toFixed(2)}</span><br />
-                            <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span>
+                            <span className="big-price">${roundPrice2(data.precio).toFixed(2)}</span><br />
                         </div>
                     </div>
                 <p className="card-description">{data.descripcion}</p>
