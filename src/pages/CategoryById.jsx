@@ -30,21 +30,21 @@ export const CategoryById = () => {
             
     };
 
-    const roundPrice2 = (price) => {
-        // Extraemos el precio base multiplicado
-        const basePrice = price * 1.60;
-        const cents = basePrice % 1;
+    // const roundPrice2 = (price) => {
+    //     // Extraemos el precio base multiplicado
+    //     const basePrice = price * 1.60;
+    //     const cents = basePrice % 1;
 
-        // const basePrice = price;
-        // const cents = basePrice;
+    //     // const basePrice = price;
+    //     // const cents = basePrice;
     
-        // Redondear según el rango de centavos
-        if (cents <= 0.50) {
-            return Math.floor(basePrice) + 0.50; // Redondea a .50
-        } else {
-            return Math.floor(basePrice) + 0.99; // Redondea a .99
-        }
-    };
+    //     // Redondear según el rango de centavos
+    //     if (cents <= 0.50) {
+    //         return Math.floor(basePrice) + 0.50; // Redondea a .50
+    //     } else {
+    //         return Math.floor(basePrice) + 0.99; // Redondea a .99
+    //     }
+    // };
 
     // Filtrar los datos según las condiciones
     let filterData = menuJson;
@@ -101,9 +101,9 @@ export const CategoryById = () => {
                             <img src={examplePhoto} alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
-                    <div className="discount-azumi">
+                    {/* <div className="discount-azumi">
                         <span style={{background: 'red'}} width='100'> -30%</span>
-                    </div>
+                    </div> */}
                 </Swiper>
             </div>
             <div className="card-body_container">
@@ -112,7 +112,7 @@ export const CategoryById = () => {
                         <div>
                         {/* <span className="big-price">${(data.precio).toFixed(2)}</span><br /> */}
                             <span className="big-price">${roundPrice(data.precio).toFixed(2)}</span><br />
-                            <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span>
+                            {/* <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span> */}
                         </div>
                     </div>
                 <p className="card-description">{data.descripcion}</p>

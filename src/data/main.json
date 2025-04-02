@@ -2374,5 +2374,23 @@
         "precio": 43.95,
         "descripcion": "Corte premium de carne, famoso por su suavidad y su capa de grasa que potencia su sabor. Asada a la perfección en la parrilla, acompañada de tus salsas favoritas para disfrutar de una experiencia irresistible.",
         "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
+    },
+    {
+        "id": 258,
+        "nombre": "Funji roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 12.99,
+        "descripcion": "Relleno de cangrejo tempurizado, queso crema, aguacate y vegetales apanados, coronado con crujientes daditos de camarón apanado y bañado en una deliciosa salsa Funji.",
+        "images": ["./fotos-menu/funji-roll.jpg"]
+    },
+    {
+        "id": 259,
+        "nombre": "Katana roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Relleno de pescado blanco apanado, aguacate y queso crema. Sushi completamente apanado, cubierto con una cremosa salsa de queso crema a base de champiñones y ajo.",
+        "images": ["./fotos-menu/katana-roll.jpg"]
     }
 ]
