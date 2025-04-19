@@ -61,7 +61,7 @@ const MainPage = () => {
             <div className='card__text'>
               <h3 className='sub-title_main'>China</h3>
             </div>
-            <div className="promo-number">2x1</div>
+            {/* <div className="promo-number"></div> */}
           </div>
 
           <div className='section__card' onClick={()=> changeRoute('entrees/thai')}>
@@ -104,7 +104,7 @@ const MainPage = () => {
             <div className='card__text'>
               <h3 className='sub-title_main'>China</h3>
             </div>
-            <div className="promo-number">2x1</div>
+            {/* <div className="promo-number"></div> */}
           </div>
 
           <div className='section__card' onClick={()=> changeRoute('soups/thai')}>
@@ -139,7 +139,7 @@ const MainPage = () => {
             <div className='card__text'>
               <h3 className='sub-title_main'>China</h3>
             </div>
-            <div className="promo-number">2x1</div>
+            {/* <div className="promo-number"></div> */}
           </div>
 
           <div className='section__card' onClick={()=> changeRoute('dishes/thai')}>
@@ -161,7 +161,7 @@ const MainPage = () => {
             <div className='card__text'>
               <h3 className='sub-title_main'>Sushi</h3>
             </div>
-            <div className="promo-number">2x1</div>
+            {/* <div className="promo-number"></div> */}
           </div>
 
         </div>

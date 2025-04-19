@@ -590,7 +590,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
-        "descripcion": "Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de maíz y acompañados de yuca frita. Incluye pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.",
+        "descripcion": "Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de mani y acompañados de yuca frita y pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.",
         "images": ["./fotos-menu/Pescado-a-la-Mostaza.jpg", "./fotos-menu/Pescado-a-la-Mostaza5.jpg"]
     },
     {
@@ -662,7 +662,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 19.50,
-        "descripcion": "Filete de corvina servida con una robusta salsa a base de tomate, ají picante y una selección de mariscos, acompañado con una guarnición de su selección ",
+        "descripcion": "Corvina fresca entera, servida con una sabrosa salsa peruana de ají amarillo, combinada con anillos de calamar, camarones, pulpo y almejas. Esta mezcla aporta un toque picante y lleno de sabor. Acompañada de arroz blanco o arroz con coco, y ensalada fresca mixta ",
         "images": ["./fotos-menu/Corvina-a-lo-macho3.jpg", "./fotos-menu/Corvina-a -lo-macho4.jpg"]
     },
     {

@@ -85,13 +85,13 @@ export const CategoryById = () => {
                             <img src={examplePhoto} alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
-                    {
+                    {/* {
                         (data.categoria == "Chino" || data.subcategoria == "sushi") && (
                             <div className="discount-azumi">
                                 <span style={{background: 'red', paddingLeft: '14px', paddingRight: '14px', fontSize: '24px'}} width='100'>2x1</span> 
                             </div>
                         )
-                    }
+                    } */}
                 </Swiper>
             </div>
             <div className="card-body_container">
