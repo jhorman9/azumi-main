@@ -608,7 +608,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 18.50,
-        "descripcion": "Filete de pescado fresco sudado en una sabrosa salsa de mariscos con ajíes y especias seleccionadas, acompañado de calamar, pulpo, camarón y almeja. Servido sobre una base de yuca al vapor y acompañado de arroz blanco o arroz con coco. Un plato lleno de sabor auténtico y tradición marina.",
+        "descripcion": "Filete de corvina fresca sudado en una sabrosa salsa de mariscos con ajíes y especias seleccionadas, acompañado de calamar, pulpo, camarón y almeja. Servido sobre una base de yuca al vapor y acompañado de arroz blanco o arroz con coco. Un plato lleno de sabor auténtico y tradición marina.",
         "images": ["./fotos-menu/Sudado-de-pescado-ymariscos3.jpg", "./fotos-menu/Sudado-de-pescado-y-mariscos4.jpg"]
     },
     {
@@ -734,7 +734,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 16.90,
-        "descripcion": "Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, ofreciendo una deliciosa fusión de sabores peruanos y chinos.",
+        "descripcion": "Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos: calamar, pulpo, camaron, langostino; Huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, ofreciendo una deliciosa fusión de sabores peruanos y chinos.",
         "images": ["./fotos-menu/Arroz-Chaufa-de-Mariscos0.jpg", "./fotos-menu/Arroz-Chaufa-de-Mariscos1.jpg"]
     },
     {
@@ -743,7 +743,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 15.90,
-        "descripcion": "Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acompañados de salsa tártara y servidos con palitos de yuca. Una opción deliciosa y sabrosa para los amantes de los mariscos.",
+        "descripcion": "Variedad de mariscos frescos como camarón, pulpo, calamar, arañita y dados de corvina marinados al estilo peruano, empanizados y fritos hasta lograr una textura crujiente. Acompañados de salsa criolla y salsa tártara, servidos con bastones de yuca y chips de plátano. Una opción deliciosa y sabrosa para los amantes de los mariscos.",
         "images": ["./fotos-menu/jalea-de-mariscos2-(2).jpg", "./fotos-menu/jalea-de-mariscos-(2).jpg"]
     },
     {
@@ -923,7 +923,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 33.99,
-        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
+        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla, acompañados de mariscos frescos como camarones, calamares, mejillones y pulpo. Servido con yuca frita, patacón, papa frita y salsas tradicionales de la casa, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
         "images": ["./fotos-menu/Parrilla-mar-y-tierra4.jpg"]
     },
     {
@@ -932,7 +932,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 21.99,
-        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
+        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla, acompañados de mariscos frescos como camarones, calamares, mejillones y pulpo. Servido con yuca frita, patacón, papa frita y salsas tradicionales de la casa, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
         "images": ["./fotos-menu/Parrilla-mar-y-tierra3.jpg"]
     },
     {
@@ -1787,7 +1787,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 24.95,
-        "descripcion": "Plato peruano de tallarines al óleo, salteados con una mezcla fresca de mariscos, pimentón amarillo y cebolla, creando una deliciosa combinación de sabores marinos en cada bocado.",
+        "descripcion": "Plato peruano de tallarines al óleo, salteados con una mezcla fresca de mariscos como calamar, pulpo, camarón y almeja, pimentón amarillo y cebolla, creando una deliciosa combinación de sabores marinos en cada bocado.",
         "images": ["./fotos-menu/tallarines-al-oleo-con-mariscos2.jpg", "./fotos-menu/tallarines-al-oleo-con-mariscos4.jpg"]
     },
     {
