@@ -18,19 +18,26 @@ export const CategoryById = () => {
 
     const roundPrice2 = (price) => {
         // Extraemos el precio base multiplicado
-        const basePrice = price * 1.60;
-        const cents = basePrice % 1;
+         let basePrice = price * 1.60
+         basePrice = basePrice * 0.70;
+         const cents = basePrice % 1;
 
-        // const basePrice = price;
-        // const cents = basePrice;
-    
-        // Redondear según el rango de centavos
-        if (cents <= 0.50) {
-            return Math.floor(basePrice) + 0.50; // Redondea a .50
-        } else {
-            return Math.floor(basePrice) + 0.99; // Redondea a .99
-        }
+          if (cents <= 0.50) {
+              return basePrice = (Math.floor(basePrice) + 0.50); // Redondea a .50
+          } else {
+              return basePrice = Math.floor(basePrice) + 0.99; // Redondea a .99
+          }
     };
+
+    // const roundPrice = (price) => {
+    //     const basePrice = price * 1.60;
+    //     const cents = basePrice % 1;
+    //     if (cents <= 0.50) {
+    //         return Math.floor(basePrice) + 0.50; // Redondea a .50
+    //     } else {
+    //         return Math.floor(basePrice) + 0.99; // Redondea a .99
+    //     }
+    // };
 
     // Filtrar los datos según las condiciones
     let filterData = menuJson;
@@ -107,6 +114,7 @@ export const CategoryById = () => {
     );
 
     return (
+        <>
         <section className="main-category">
             <div className="main-back_page-container">
                 <div className="main-back_page" onClick={toBack}>
@@ -147,5 +155,6 @@ export const CategoryById = () => {
                 )}
             </div>
         </section>
+    </>
     );
 };

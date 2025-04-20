@@ -924,7 +924,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 33.99,
         "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla, acompañados de mariscos frescos como camarones, calamares, mejillones y pulpo. Servido con yuca frita, patacón, papa frita y salsas tradicionales de la casa, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
-        "images": ["./fotos-menu/Parrilla-mar-y-tierra4.jpg"]
+        "images": ["./fotos-menu/parrilla-mar-y-tierra.jpg", "./fotos-menu/parrilla-mar-y-tierra2.jpg"]
     },
     {
         "id": 250,
@@ -933,7 +933,7 @@
         "subcategoria": "Platos fuertes",
         "precio": 21.99,
         "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla, acompañados de mariscos frescos como camarones, calamares, mejillones y pulpo. Servido con yuca frita, patacón, papa frita y salsas tradicionales de la casa, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
-        "images": ["./fotos-menu/Parrilla-mar-y-tierra3.jpg"]
+        "images": ["./fotos-menu/parrilla-mar-y-tierra2.jpg", "./fotos-menu/parrilla-mar-y-tierra.jpg"]
     },
     {
         "id": 109,
