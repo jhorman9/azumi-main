@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet-async';
 import '../assets/styles/main.css';
 import categoryPNG from '../assets/images/image-category.png';
-import { NavLink, useNavigate } from 'react-router-dom';
+import { NavLink, useLocation, useNavigate } from 'react-router-dom';
 // import promoJPG from '../assets/images/sale.jpg';
 // import promoJPG2 from '../assets/images/sale2.jpg';
 
@@ -47,9 +47,8 @@ const MainPage = () => {
       </div>
 
       <div className='main_entrees'>
-        <NavLink to={'entrees'} className='title_main name-category'>ENTRADAS</NavLink>
+        <NavLink to={'/entrees'} className='title_main name-category'>ENTRADAS</NavLink>
         <div className='content__card'>
-
           <div className='section__card' onClick={()=> changeRoute('entrees/peruvian')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria peruana" title='Men&#250; de la categoria peruana' className='card__image'/>
             <div className='card__text'>

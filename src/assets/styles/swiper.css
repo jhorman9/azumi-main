@@ -50,3 +50,7 @@
     background: var(--red);
 }
   
+
+.card-image {
+    position: relative;
+}

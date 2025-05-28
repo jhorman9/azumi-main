@@ -131,7 +131,7 @@
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "5 Delicadas empanadillas rellenas de camarones frescos y sazonados, doradas a la plancha para obtener una textura crujiente por fuera y jugosa por dentro. Un manjar marino irresistible.",
+        "descripcion": "6 Delicadas empanadillas rellenas de camarones frescos y sazonados, doradas a la plancha para obtener una textura crujiente por fuera y jugosa por dentro. Un manjar marino irresistible.",
         "images": ["./fotos-menu/Gyozas-de-camaron.jpg"]
     },
     {
@@ -140,7 +140,7 @@
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "5 Deliciosas empanadillas rellenas de cerdo, doradas a la perfección. Un sabor asiático auténtico en cada bocado.",
+        "descripcion": "6 Deliciosas empanadillas rellenas de cerdo, doradas a la perfección. Un sabor asiático auténtico en cada bocado.",
         "images": ["./fotos-menu/Gyozas-de-puerco.jpg"]
     },
     {
@@ -149,7 +149,7 @@
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "5 Deliciosas empanadillas rellenas de pollo, perfectamente doradas. Un placer asiático en cada bocado.",
+        "descripcion": "6 Deliciosas empanadillas rellenas de pollo, perfectamente doradas. Un placer asiático en cada bocado.",
         "images": ["./fotos-menu/Gyozas-de-pollo.jpg"]
     },
     {
@@ -194,7 +194,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "5 Bocados de Puerco sazonado al vapor. Irresistibles.",
+        "descripcion": "6 Bocados de Puerco sazonado al vapor. Irresistibles.",
         "images": ["./fotos-menu/siu-mai.jpg"]
     },
     {
@@ -1012,7 +1012,7 @@
         "nombre": "Miyagi roll",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 11.99,
+        "precio": 12.99,
         "descripcion": "Atún rojo con deliciosa mezcla de cangrejo0, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
         "images": ["./fotos-menu/miyagi-roll.jpg", "./fotos-menu/miyagi-roll2.jpg"]
     },
@@ -1066,7 +1066,7 @@
         "nombre": "Tigger roll",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 10.99,
+        "precio": 11.99,
         "descripcion": "Relleno de queso crema, aguacate y salmón. Acompañado de salsa anguila y soya.",
         "images": ["./fotos-menu/tigger-roll.jpg", "./fotos-menu/tigger-roll2.jpg"]
     },
@@ -1183,7 +1183,7 @@
         "nombre": "Tigger roll especial",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 12.99,
+        "precio": 13.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón tempurizado,kani, anguila. topping de salsa dinamita.",
         "images": ["./fotos-menu/tigger-roll-especial.jpg", "./fotos-menu/tigger-roll-especial-2.jpg"]
     },
@@ -1453,7 +1453,7 @@
         "nombre": "Hosomaki de pepino",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 3.99,
+        "precio": 2.50,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ["./fotos-menu/osomaki-pepino.jpg", "./fotos-menu/osomaki-pepino2.jpg"]
     },
@@ -1462,7 +1462,7 @@
         "nombre": "Hosomaki de pescado blanco",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 4.99,
+        "precio": 3.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ["./fotos-menu/osomaki-pescado-blanco.jpg", "./fotos-menu/osomaki-pescado-blanco2.jpg"]
     },
@@ -1642,7 +1642,7 @@
         "nombre": "Hosomaki de kani",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 4.99,
+        "precio": 2.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-cangrejo.jpg", "./fotos-menu/hosomaki-cangrejo2.jpg"]
     },
@@ -2163,7 +2163,7 @@
         "id": 2226,
         "nombre": "Sushi pizza individual",
         "categoria": "Japones",
-        "subcategoria": "Platos fuertes",
+        "subcategoria": "sushi",
         "precio": 11.99,
         "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
         "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"]

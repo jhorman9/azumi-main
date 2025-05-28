@@ -361,3 +361,7 @@ picture img{
     color: var(--red);
     cursor: pointer;
 }
+
+.card-image {
+    position: relative;
+}

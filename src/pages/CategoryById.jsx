@@ -1,9 +1,9 @@
-import { useNavigate, useParams } from "react-router-dom";
+import { useLocation, useNavigate, useParams } from "react-router-dom";
 import menuJson from '../data/main.json';
 import examplePhoto from '../assets/images/image-category.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import translateWords from "../utils/translateWords";
 
 export const CategoryById = () => {
@@ -11,23 +11,44 @@ export const CategoryById = () => {
     const [newDataSushi, setNewDataSushi] = useState([]);
     const [ datawrite, setDataWrite ] = useState('');
     const { category, dishes } = useParams(); 
+    const location = useLocation();
+    const searchParams = new URLSearchParams(location.search);
+    let searchValue = searchParams.get('discount');
+
+    if(searchValue > 0){
+        sessionStorage.setItem('discount', searchValue);
+    }
 
     const toBack = () => {
         navigate('/');
     }
 
-    const roundPrice = (price) => {
-        // Extraemos el precio base multiplicado
-         let basePrice = (price * 1.60)
-         basePrice = basePrice * 0.70;
-         const cents = basePrice % 1;
+    useEffect(() => {
+        if(sessionStorage.getItem('discount') > 10){
+            sessionStorage.removeItem('discount');
+        }
+    }, [searchValue])
 
-         if (cents <= 0.50) {
-             return basePrice = (Math.floor(basePrice) + 0.50); // Redondea a .50
-         } else {
-             return basePrice = Math.floor(basePrice) + 0.99; // Redondea a .99
-         }
-            
+    useEffect(() => {
+        const handleBeforeUnload = () => {
+            sessionStorage.removeItem('discount');
+        };
+
+        window.addEventListener('beforeunload', handleBeforeUnload);
+
+        return () => {
+            window.removeEventListener('beforeunload', handleBeforeUnload);
+        };
+    }, []);
+
+
+    const roundPrice = (price) => {
+        // Convierte searchValue a número y calcula el descuento
+        const discount = sessionStorage.getItem('discount') ? Number(sessionStorage.getItem('discount')) : 0;
+        const discountedPrice = price * (1 - discount / 100);
+
+        // Opcional: redondear a 2 decimales
+        return discountedPrice;
     };
 
     // const roundPrice2 = (price) => {
@@ -77,8 +98,6 @@ export const CategoryById = () => {
         setNewDataSushi([]);
     };
 
-    console.log(datawrite.length)
-
     const renderCardBody = (data) => (
         <div className="card-body" key={data.id}>
             <div className="card-image">
@@ -92,18 +111,22 @@ export const CategoryById = () => {
                 >
                     {data.images.length > 0 ? (
                         data.images.map((pic) => (
-                            <SwiperSlide key={pic}>
-                                <img src={pic} alt={data.nombre} width={30} height={30} />
-                            </SwiperSlide>
+                        <SwiperSlide key={pic}>
+                            <img src={pic} alt={data.nombre} className="swiper-image" />
+                        </SwiperSlide>
                         ))
                     ) : (
                         <SwiperSlide>
                             <img src={examplePhoto} alt="default" width={30} height={30} />
                         </SwiperSlide>
                     )}
-                    {/* <div className="discount-azumi">
-                        <span style={{background: 'red'}} width='100'> -30%</span>
-                    </div> */}
+                    {
+                        sessionStorage.getItem('discount') && sessionStorage.getItem('discount') > 0 && (
+                            <div className="discount-azumi">
+                                <span style={{background: 'red'}} width='100'> {sessionStorage.getItem('discount')}%</span>
+                            </div> 
+                        ) 
+                    }
                 </Swiper>
             </div>
             <div className="card-body_container">
@@ -112,7 +135,7 @@ export const CategoryById = () => {
                         <div>
                         {/* <span className="big-price">${(data.precio).toFixed(2)}</span><br /> */}
                             <span className="big-price">${roundPrice(data.precio).toFixed(2)}</span><br />
-                            {/* <span className="price-before">${roundPrice2(data.precio).toFixed(2)}</span> */}
+                            <span className="price-before">{roundPrice(data.precio).toFixed(2) != data.precio.toFixed(2) ? `$${data.precio.toFixed(2)}` : ''}</span> 
                         </div>
                     </div>
                 <p className="card-description">{data.descripcion}</p>
