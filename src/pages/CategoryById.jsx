@@ -44,7 +44,10 @@ export const CategoryById = () => {
 
     const roundPrice = (price) => {
         // Convierte searchValue a número y calcula el descuento
-        const discount = sessionStorage.getItem('discount') ? Number(sessionStorage.getItem('discount')) : 0;
+        let discount = sessionStorage.getItem('discount') ? Number(sessionStorage.getItem('discount')) : 0;
+        if(discount > 10) {
+            discount = 0; // Limita el descuento a un máximo de 10%
+        }
         const discountedPrice = price * (1 - discount / 100);
 
         // Opcional: redondear a 2 decimales
@@ -121,9 +124,9 @@ export const CategoryById = () => {
                         </SwiperSlide>
                     )}
                     {
-                        sessionStorage.getItem('discount') && sessionStorage.getItem('discount') > 0 && (
+                        sessionStorage.getItem('discount') && sessionStorage.getItem('discount') <= 10 && (
                             <div className="discount-azumi">
-                                <span style={{background: 'red'}} width='100'> {sessionStorage.getItem('discount')}%</span>
+                                <span style={{background: 'red'}} width='100'> {sessionStorage.getItem('discount') > 10 ? 0 : sessionStorage.getItem('discount')}%</span>
                             </div> 
                         ) 
                     }
@@ -135,7 +138,7 @@ export const CategoryById = () => {
                         <div>
                         {/* <span className="big-price">${(data.precio).toFixed(2)}</span><br /> */}
                             <span className="big-price">${roundPrice(data.precio).toFixed(2)}</span><br />
-                            <span className="price-before">{roundPrice(data.precio).toFixed(2) != data.precio.toFixed(2) ? `$${data.precio.toFixed(2)}` : ''}</span> 
+                            <span className="price-before">{roundPrice(data.precio).toFixed(2) != data.precio.toFixed(2) ? `$   ${data.precio.toFixed(2)}` : ''}</span> 
                         </div>
                     </div>
                 <p className="card-description">{data.descripcion}</p>

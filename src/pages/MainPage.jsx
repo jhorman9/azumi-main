@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet-async';
 import '../assets/styles/main.css';
 import categoryPNG from '../assets/images/image-category.png';
-import { NavLink, useLocation, useNavigate } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 // import promoJPG from '../assets/images/sale.jpg';
 // import promoJPG2 from '../assets/images/sale2.jpg';
 
@@ -15,7 +15,7 @@ const MainPage = () => {
 
   useEffect(() => {
     setrouteActually(location);
-  },[]);
+  },[location]);
 
   const changeRoute = (route) => {
     navigate(route);
