@@ -153,6 +153,13 @@ const MainPage = () => {
             </div>
           </div>
 
+          <div className='section__card' onClick={()=> changeRoute('dishes/italian')}>
+            <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria italiana" title='Men&#250; de la categoria italiana' className='card__image'/>
+            <div className='card__text'>
+              <h3 className='sub-title_main'>Italiana</h3>
+            </div>
+          </div>
+
           <div className='section__card' onClick={()=> changeRoute('dishes/home')}>
             <img width={200} height={'100%'} src={categoryPNG} alt="Imagen representativa de la categoria especialidades de la casa" title='Men&#250; de la categoria de especialidades de la casa' className='card__image'/>
             <div className='card__text'>

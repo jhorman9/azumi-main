@@ -131,7 +131,7 @@
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "6 Delicadas empanadillas rellenas de camarones frescos y sazonados, doradas a la plancha para obtener una textura crujiente por fuera y jugosa por dentro. Un manjar marino irresistible.",
+        "descripcion": "5 Delicadas empanadillas rellenas de camarones frescos y sazonados, doradas a la plancha para obtener una textura crujiente por fuera y jugosa por dentro. Un manjar marino irresistible.",
         "images": ["./fotos-menu/Gyozas-de-camaron.jpg"]
     },
     {
@@ -140,7 +140,7 @@
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "6 Deliciosas empanadillas rellenas de cerdo, doradas a la perfección. Un sabor asiático auténtico en cada bocado.",
+        "descripcion": "5 Deliciosas empanadillas rellenas de cerdo, doradas a la perfección. Un sabor asiático auténtico en cada bocado.",
         "images": ["./fotos-menu/Gyozas-de-puerco.jpg"]
     },
     {
@@ -149,7 +149,7 @@
         "categoria": "Japones",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "6 Deliciosas empanadillas rellenas de pollo, perfectamente doradas. Un placer asiático en cada bocado.",
+        "descripcion": "5 Deliciosas empanadillas rellenas de pollo, perfectamente doradas. Un placer asiático en cada bocado.",
         "images": ["./fotos-menu/Gyozas-de-pollo.jpg"]
     },
     {
@@ -194,7 +194,7 @@
         "categoria": "Chino",
         "subcategoria": "Entradas",
         "precio": 7.99,
-        "descripcion": "6 Bocados de Puerco sazonado al vapor. Irresistibles.",
+        "descripcion": "5 Bocados de Puerco sazonado al vapor. Irresistibles.",
         "images": ["./fotos-menu/siu-mai.jpg"]
     },
     {
@@ -590,7 +590,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 14.99,
-        "descripcion": "Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de maíz y acompañados de yuca frita. Incluye pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.",
+        "descripcion": "Deliciosos filetes de pescado apanados, servidos con una salsa cremosa de mani y acompañados de yuca frita y pico de gallo fresco. Un plato sabroso y lleno de carácter, ideal para los amantes de los sabores intensos.",
         "images": ["./fotos-menu/Pescado-a-la-Mostaza.jpg", "./fotos-menu/Pescado-a-la-Mostaza5.jpg"]
     },
     {
@@ -608,7 +608,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 18.50,
-        "descripcion": "Filete de pescado fresco bañado en un exquisito caldo de mariscos, ajíes y especias seleccionadas, coronado con una selección de mariscos frescos. Acompañado de arroz con coco, esta creación culinaria combina sabores delicados y auténticos, ofreciendo una experiencia gastronómica sublime.",
+        "descripcion": "Filete de corvina fresca sudado en una sabrosa salsa de mariscos con ajíes y especias seleccionadas, acompañado de calamar, pulpo, camarón y almeja. Servido sobre una base de yuca al vapor y acompañado de arroz blanco o arroz con coco. Un plato lleno de sabor auténtico y tradición marina.",
         "images": ["./fotos-menu/Sudado-de-pescado-ymariscos3.jpg", "./fotos-menu/Sudado-de-pescado-y-mariscos4.jpg"]
     },
     {
@@ -662,7 +662,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 19.50,
-        "descripcion": "Filete de corvina servida con una robusta salsa a base de tomate, ají picante y una selección de mariscos, acompañado con una guarnición de su selección ",
+        "descripcion": "Corvina fresca entera, servida con una sabrosa salsa peruana de ají amarillo, combinada con anillos de calamar, camarones, pulpo y almejas. Esta mezcla aporta un toque picante y lleno de sabor. Acompañada de arroz blanco o arroz con coco, y ensalada fresca mixta ",
         "images": ["./fotos-menu/Corvina-a-lo-macho3.jpg", "./fotos-menu/Corvina-a -lo-macho4.jpg"]
     },
     {
@@ -734,7 +734,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 16.90,
-        "descripcion": "Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos, huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, ofreciendo una deliciosa fusión de sabores peruanos y chinos.",
+        "descripcion": "Clásico arroz chaufa peruano, salteado con una variedad de mariscos frescos: calamar, pulpo, camaron, langostino; Huevo, cebolla china y pimientos. Sazonado con salsa de soya y jengibre, ofreciendo una deliciosa fusión de sabores peruanos y chinos.",
         "images": ["./fotos-menu/Arroz-Chaufa-de-Mariscos0.jpg", "./fotos-menu/Arroz-Chaufa-de-Mariscos1.jpg"]
     },
     {
@@ -743,7 +743,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 15.90,
-        "descripcion": "Mariscos frescos empanizados y fritos hasta alcanzar una textura crujiente, acompañados de salsa tártara y servidos con palitos de yuca. Una opción deliciosa y sabrosa para los amantes de los mariscos.",
+        "descripcion": "Variedad de mariscos frescos como camarón, pulpo, calamar, arañita y dados de corvina marinados al estilo peruano, empanizados y fritos hasta lograr una textura crujiente. Acompañados de salsa criolla y salsa tártara, servidos con bastones de yuca y chips de plátano. Una opción deliciosa y sabrosa para los amantes de los mariscos.",
         "images": ["./fotos-menu/jalea-de-mariscos2-(2).jpg", "./fotos-menu/jalea-de-mariscos-(2).jpg"]
     },
     {
@@ -923,8 +923,8 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 33.99,
-        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
-        "images": ["./fotos-menu/Parrilla-mar-y-tierra4.jpg"]
+        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla, acompañados de mariscos frescos como camarones, calamares, mejillones y pulpo. Servido con yuca frita, patacón, papa frita y salsas tradicionales de la casa, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
+        "images": ["./fotos-menu/parrilla-mar-y-tierra.jpg", "./fotos-menu/parrilla-mar-y-tierra2.jpg"]
     },
     {
         "id": 250,
@@ -932,8 +932,8 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 21.99,
-        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla junto a mariscos frescos como camarones y calamares. Servido con yuca frita crujiente y salsas tradicionales, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
-        "images": ["./fotos-menu/Parrilla-mar-y-tierra3.jpg"]
+        "descripcion": "Una exquisita combinación de cortes selectos de carne y pollo a la parrilla, acompañados de mariscos frescos como camarones, calamares, mejillones y pulpo. Servido con yuca frita, patacón, papa frita y salsas tradicionales de la casa, este plato ofrece lo mejor de ambos mundos en un solo banquete.",
+        "images": ["./fotos-menu/parrilla-mar-y-tierra2.jpg", "./fotos-menu/parrilla-mar-y-tierra.jpg"]
     },
     {
         "id": 109,
@@ -1012,7 +1012,7 @@
         "nombre": "Miyagi roll",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 12.99,
+        "precio": 11.99,
         "descripcion": "Atún rojo con deliciosa mezcla de cangrejo0, aguacate y queso crema. Cubierto de aguacate con topping de ensalada wakani.",
         "images": ["./fotos-menu/miyagi-roll.jpg", "./fotos-menu/miyagi-roll2.jpg"]
     },
@@ -1066,7 +1066,7 @@
         "nombre": "Tigger roll",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 11.99,
+        "precio": 10.99,
         "descripcion": "Relleno de queso crema, aguacate y salmón. Acompañado de salsa anguila y soya.",
         "images": ["./fotos-menu/tigger-roll.jpg", "./fotos-menu/tigger-roll2.jpg"]
     },
@@ -1183,7 +1183,7 @@
         "nombre": "Tigger roll especial",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 13.99,
+        "precio": 12.99,
         "descripcion": "Roll relleno de queso crema, aguacate, salmón tempurizado,kani, anguila. topping de salsa dinamita.",
         "images": ["./fotos-menu/tigger-roll-especial.jpg", "./fotos-menu/tigger-roll-especial-2.jpg"]
     },
@@ -1453,7 +1453,7 @@
         "nombre": "Hosomaki de pepino",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 2.50,
+        "precio": 3.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ["./fotos-menu/osomaki-pepino.jpg", "./fotos-menu/osomaki-pepino2.jpg"]
     },
@@ -1462,7 +1462,7 @@
         "nombre": "Hosomaki de pescado blanco",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 3.99,
+        "precio": 4.99,
         "descripcion": "NO TIENEN DESCRIPCION Y NO PONER",
         "images": ["./fotos-menu/osomaki-pescado-blanco.jpg", "./fotos-menu/osomaki-pescado-blanco2.jpg"]
     },
@@ -1642,7 +1642,7 @@
         "nombre": "Hosomaki de kani",
         "categoria": "Japones",
         "subcategoria": "sushi",
-        "precio": 2.99,
+        "precio": 4.99,
         "descripcion": "",
         "images": ["./fotos-menu/hosomaki-cangrejo.jpg", "./fotos-menu/hosomaki-cangrejo2.jpg"]
     },
@@ -1787,7 +1787,7 @@
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 24.95,
-        "descripcion": "Plato peruano de tallarines al óleo, salteados con una mezcla fresca de mariscos, pimentón amarillo y cebolla, creando una deliciosa combinación de sabores marinos en cada bocado.",
+        "descripcion": "Plato peruano de tallarines al óleo, salteados con una mezcla fresca de mariscos como calamar, pulpo, camarón y almeja, pimentón amarillo y cebolla, creando una deliciosa combinación de sabores marinos en cada bocado.",
         "images": ["./fotos-menu/tallarines-al-oleo-con-mariscos2.jpg", "./fotos-menu/tallarines-al-oleo-con-mariscos4.jpg"]
     },
     {
@@ -2163,7 +2163,7 @@
         "id": 2226,
         "nombre": "Sushi pizza individual",
         "categoria": "Japones",
-        "subcategoria": "sushi",
+        "subcategoria": "Platos fuertes",
         "precio": 11.99,
         "descripcion": "Base crujiente de arroz, coronada con frescas lonjas de salmón y atún, acompañada de una ensalada de wakame y un topping de aguacate. Finalizada con wakame fresco, bañada en una deliciosa mezcla de salsa Fuji y salsa de anguila, y espolvoreada con semillas de sésamo para un toque crocante y sabroso.",
         "images": ["./fotos-menu/sushi-pizza.jpg", "./fotos-menu/sushi-pizza3.jpg"]
@@ -2376,21 +2376,93 @@
         "images": ["./fotos-menu/picana.jpg", "./fotos-menu/picana2.jpg"]
     },
     {
-        "id": 258,
-        "nombre": "Funji roll",
-        "categoria": "Japones",
-        "subcategoria": "sushi",
+        "id": 270,
+        "nombre": "Pasta a la Carbonara",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
         "precio": 12.99,
-        "descripcion": "Relleno de cangrejo tempurizado, queso crema, aguacate y vegetales apanados, coronado con crujientes daditos de camarón apanado y bañado en una deliciosa salsa Funji.",
-        "images": ["./fotos-menu/funji-roll.jpg"]
+        "descripcion": "Pasta a la carbonara con tocino ahumado, crema de leche y mantequilla",
+        "images": ["./fotos-menu/Pasta a la carbonara.jpg"]
     },
     {
-        "id": 259,
-        "nombre": "Katana roll",
-        "categoria": "Japones",
-        "subcategoria": "sushi",
-        "precio": 11.99,
-        "descripcion": "Relleno de pescado blanco apanado, aguacate y queso crema. Sushi completamente apanado, cubierto con una cremosa salsa de queso crema a base de champiñones y ajo.",
-        "images": ["./fotos-menu/katana-roll.jpg"]
+        "id": 271,
+        "nombre": "Pasta a la Carbonara Carbonara pollo",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 14.50,
+        "descripcion": "Pasta a la carbonara con tocino ahumado, pollo, crema de leche y mantequilla",
+        "images": ["./fotos-menu/Pasta a la carbonara (2).jpg"]
+    },
+    {
+        "id": 272,
+        "nombre": "Linguini marinera al óleo",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 18.99,
+        "descripcion": "Pasta al dente en una sabrosa salsa roja, acompañada de una mezcla de marisco, calamares, camarón, pulpo y mejillón, salteados a la perfección para resaltar su frescura.",
+        "images": ["./fotos-menu/image-category.png"]
+    },
+    {
+        "id": 273,
+        "nombre": "Trío de pastas",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 16.99,
+        "descripcion": "Una deliciosa combinación de tres tipos de pasta: ravioli relleno de queso, fettuccine con salsa Alfredo y penne con salsa de tomate, todo servido con una guarnición de pan de ajo.",
+        "images": ["./fotos-menu/Trío de pastas.jpg", "./fotos-menu/Trío de pastas (2).jpg"]
+    },
+    {
+        "id": 274,
+        "nombre": "Cartocho de filete de res",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 23.95,
+        "descripcion": "Delicioso cartocho de filete de res, cocido a la perfección con una mezcla de especias y hierbas aromáticas, servido con una guarnición de vegetales frescos.",
+        "images": ["./fotos-menu/cartocho.jpg"]
+    },
+    {
+        "id": 275,
+        "nombre": "Cartocho de pollo",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 20.99,
+        "descripcion": "Delicioso cartocho de pollo, cocido a la perfección con una mezcla de especias y hierbas aromáticas, servido con una guarnición de vegetales frescos.",
+        "images": ["./fotos-menu/cartocho.jpg"]
+    },
+    {
+        "id": 277,
+        "nombre": "Pasticho de carne",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.99,
+        "descripcion": "Láminas de pasta con salsa boloñesa, jamón y queso mozzarella, salsa bechamel y parmesano gratinado acompañado con panes de ajo",
+        "images": ["./fotos-menu/Pasticho de carne.jpg", "./fotos-menu/Pasticho de carne2.jpg"]
+    },
+    {
+        "id": 278,
+        "nombre": "Pasticho de pollo",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.99,
+        "descripcion": "Láminas de pasta con pollo, jamón y queso mozzarella, gratinado en salsa blanca acompañado con panes de ajo. ",
+        "images": ["./fotos-menu/Pasticho de pollo.jpg", "./fotos-menu/Pasticho de pollo (2).jpg"]
+    },
+    {
+        "id": 279,
+        "nombre": "Pastas dos salsa",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 15.99,
+        "descripcion": "Pasta al dente con una deliciosa mezcla de salsa de tomate y crema, acompañada de queso parmesano y albahaca fresca.",
+        "images": ["./fotos-menu/image-category.png"]
+    },
+    {
+        "id": 280,
+        "nombre": "Linguini Bologna",
+        "categoria": "Italiana",
+        "subcategoria": "Platos fuertes",
+        "precio": 12.50,
+        "descripcion": "Pasta al dente con salsa boloñesa, acompañada de queso parmesano y albahaca fresca.",
+        "images": ["./fotos-menu/Pasta a la bolognesa.jpg"]
     }
 ]

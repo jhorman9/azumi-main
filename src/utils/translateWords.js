@@ -4,6 +4,7 @@ const statusCategory = {
     'Peruano': 'peruvian',
     'Thailandes': 'thai',
     'Especialidades de la casa': 'home',
+    'Italiana': 'italian',
 };
 
 const statusSubCategory = {
@@ -12,7 +13,7 @@ const statusSubCategory = {
     'Sopas': 'soups',
     'Vegetales': 'vegetales',
     'Postres': 'postres',
-    'sushi': 'sushi'
+    'sushi': 'sushi',
 };
 
 export {
