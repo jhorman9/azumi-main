@@ -13,3 +13,13 @@ footer a {
   text-decoration: none;
   font-weight: 500;
 }
+
+@media (max-width: 767px) {
+  footer {
+    font-size: 12px;
+  }
+  
+  footer a {
+    font-size: 12px;
+  }
+}
