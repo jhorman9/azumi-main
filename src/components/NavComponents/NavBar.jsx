@@ -1,12 +1,21 @@
 import HeaderComponent from './HeaderComponent';
-import NavComponent from './NavComponent';
+
+import { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
+
 import '../../assets/styles/header-nav.css'
 
 const NavBar = () => {
+
+    const { pathname } = useLocation();
+  
+    useEffect(() => {
+      window.scrollTo(0, 0);
+    }, [pathname]);
+    
   return (
     <>
       <HeaderComponent />
-      {/* <NavComponent /> */}
     </>
   )
 }

@@ -1,11 +1,10 @@
-import React from 'react';
+import '../../assets/styles/footer.css';
 
-const FooterComponent = () => {
+export const FooterComponent = () => {
   return (
-    <div>
-
-    </div>
+    <footer>
+      <span>Creado por</span> 
+      <a href="https://jhorman.com" target="_blank" rel="noopener noreferrer">Jhorman Nieto P</a>
+    </footer>
   )
 }
-
-export default FooterComponent;
