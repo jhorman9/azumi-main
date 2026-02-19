@@ -1,0 +1,15 @@
+footer {
+  width: 100%;
+  padding: 7px;
+  background: var(--red);
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+footer a {
+  color: inherit;
+  padding-left: 5px;
+  text-decoration: none;
+  font-weight: 500;
+}

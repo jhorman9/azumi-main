@@ -1,4 +1,3 @@
-import React from 'react';
 import LocationSVG from '../../assets/images/icons/LocationSVG';
 import PhoneSVG from '../../assets/images/icons/PhoneSVG';
 
