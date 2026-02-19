@@ -456,7 +456,7 @@
         "subcategoria": "Sopas",
         "precio": 7.99,
         "descripcion": "Caldo de pollo con una variedad de vegetales frescos. Un plato ligero y nutritivo.",
-        "images": ["./fotos-menu/sopa-con-vegetales-buda.jpg"]
+        "images": []
     },
     {
         "id": 48,
@@ -2464,5 +2464,23 @@
         "precio": 12.50,
         "descripcion": "Pasta al dente con salsa boloñesa, acompañada de queso parmesano y albahaca fresca.",
         "images": ["./fotos-menu/Pasta a la bolognesa.jpg"]
+    },
+    {
+        "id": 999,
+        "nombre": "Funji Roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Roll relleno de aguacate, kani apanado, pescado blanco apanado y vegetales tempurizados con topping de daditos de camarones apanados.",
+        "images": ["./fotos-menu/funji-roll.jpg"]
+    },
+    {
+        "id": 1000,
+        "nombre": "Katana Roll",
+        "categoria": "Japones",
+        "subcategoria": "sushi",
+        "precio": 11.99,
+        "descripcion": "Roll tempurizado, relleno de pescado blanco apanado, queso crema y aguacate. Topping con salsa de queso crema a base de champiñones.",
+        "images": ["./fotos-menu/katana-roll.jpg"]
     }
 ]
