@@ -1,14 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
-import { CategoryById } from './pages/CategoryById';
-import { DrinksPage } from './pages/DrinksPage';
-import { Shadow } from './components/Shadow';
-import { FooterComponent } from './components/FooterComponents/FooterComponent';
-import { Fragment } from 'react';
-
-import MainPage from './pages/MainPage';
-import NavBar from './components/NavComponents/NavBar';
-
-import "./assets/styles/App.css";
+import { Fragment, Routes, Route, NavBar, MainPage, CategoryById, DrinksPage, FooterComponent, Shadow } from './index';
 
 function App() {
 
