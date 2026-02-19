@@ -43,6 +43,10 @@ section{
 @media (max-width: 768px) {
     .main-category .main-back_page-container{
         top: 0px;
+        background: black;
+        width: calc(100% + 20px);
+        margin-left: -10px;
+        padding: 14px;
     }
 }
 
