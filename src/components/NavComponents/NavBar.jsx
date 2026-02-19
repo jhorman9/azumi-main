@@ -13,11 +13,7 @@ const NavBar = () => {
       window.scrollTo(0, 0);
     }, [pathname]);
     
-  return (
-    <>
-      <HeaderComponent />
-    </>
-  )
+  return <HeaderComponent />
 }
 
 export default NavBar;
