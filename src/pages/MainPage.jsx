@@ -1,10 +1,9 @@
 import { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet-async';
-import '../assets/styles/main.css';
-import categoryPNG from '../assets/images/image-category.png';
 import { NavLink, useNavigate } from 'react-router-dom';
-// import promoJPG from '../assets/images/sale.jpg';
-// import promoJPG2 from '../assets/images/sale2.jpg';
+
+import categoryPNG from '../assets/images/image-category.png';
+import '../assets/styles/main.css';
 
 const MainPage = () => {
 
@@ -29,12 +28,6 @@ const MainPage = () => {
         <link rel='canonical' href={routeActually} />
         <title>Azumi - Men&#250; digital</title>
       </Helmet>
-      {/* <div className='image-promo'>
-          <picture>
-            <source srcSet={promoJPG2} media="(max-width: 768px)" />
-            <img src={promoJPG} alt="Promoción" width={1920} height={500} />
-          </picture>      
-      </div> */}
       <div className='main_see-all'>
         <div className='main_see-all-banner'>
           <div className='section__card' onClick={()=> changeRoute('all')}>

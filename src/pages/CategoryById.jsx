@@ -1,9 +1,10 @@
+import { useEffect, useState } from "react";
 import { useLocation, useNavigate, useParams } from "react-router-dom";
-import menuJson from '../data/main.json';
-import examplePhoto from '../assets/images/image-category.png';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
-import { useEffect, useState } from "react";
+
+import menuJson from '../data/main.json';
+import examplePhoto from '../assets/images/image-category.png';
 import translateWords from "../utils/translateWords";
 
 export const CategoryById = () => {

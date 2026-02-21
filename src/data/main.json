@@ -676,11 +676,11 @@
     },
     {
         "id": 67,
-        "nombre": "Filete de corvina",
+        "nombre": "Filete de corvina mediterranea",
         "categoria": "Peruano",
         "subcategoria": "Platos fuertes",
         "precio": 19.99,
-        "descripcion": "Filete de corvina sazonado con jengibre fresco y cebollín, servido sobre una cama de vegetales salteados y arroz jazmin.",
+        "descripcion": "Filete de corvina en salsa chimichurri, servido sobre una cama de vegetales salteados, coronado con anillos de calamar crocantes, acompañado con arroz jazmin.",
         "images": ["./fotos-menu/Filete-de-corvina-al-pacific5.jpg", "./fotos-menu/Filete-de-corvina-al-pacific6.jpg"]
     },
     {
